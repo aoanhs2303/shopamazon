@@ -37,6 +37,31 @@ class Api extends CI_Controller {
 		echo json_encode($data, JSON_UNESCAPED_UNICODE);
 	}
 
+	public function getBestSellerProduct()
+	{
+		$this->db->select('*');
+		if (isset($_GET['offset'])){
+			$this->db->limit(3, $_GET['offset']);
+		} else {
+			$this->db->limit(6);
+		}
+		$this->db->order_by("sold", "desc");
+		$this->db->order_by("sold", "desc");
+		$data = $this->db->get('amazon_product');
+		$data = $data->result_array();
+		echo json_encode($data, JSON_UNESCAPED_UNICODE);
+	}
+
+	public function getProductById()
+	{
+		$product_id = $_GET['product_id'];
+		$this->db->select('*');
+		$this->db->where('id', $product_id);
+		$data = $this->db->get('amazon_product');
+		$data = $data->result_array();
+		echo json_encode($data[0], JSON_UNESCAPED_UNICODE);
+	}
+
 }
 
 /* End of file Login.php */

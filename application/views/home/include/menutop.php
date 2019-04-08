@@ -14,58 +14,7 @@
                 <li class="yamm mega-menu"> <a href="<?php echo base_url() ?>gioi-thieu.html">Giới thiệu</a>
                 </li>
                 <li class="dropdown mega-menu"> 
-                <a href="category.html"  data-hover="dropdown" class="dropdown-toggle" data-toggle="dropdown">Sản phẩm <span class="menu-label hot-menu hidden-xs">hot</span> </a>
-                  <ul class="dropdown-menu container">
-                    <li>
-                      <div class="yamm-content">
-                        <div class="row">
-                          <div class="col-xs-12 col-sm-12 col-md-3 col-menu">
-                            <h2 class="title">Ván ép</h2>
-                            <ul class="links">
-                            <?php foreach ($category_van as $key => $van) { ?>
-                            <li>
-                              <a href="<?php echo base_url() ?>Home/danhmuc/<?php echo $van['id'] ?>" >
-                                <?php echo $van['name'] ?> 
-                              </a>
-                            </li>
-                            <?php } ?>
-                            </ul>
-                          </div>
-                          <!-- /.col -->
-                          
-                          <div class="col-xs-12 col-sm-12 col-md-3 col-menu">
-                            <h2 class="title">Tấm lót sàn</h2>
-                            <ul class="links">
-                              <?php foreach ($category_lot as $key => $lot) { ?>
-                              <li>
-                                <a href="<?php echo base_url() ?>Home/danhmuc/<?php echo $lot['id'] ?>" >
-                                  <?php echo $lot['name'] ?> 
-                                </a>
-                              </li>
-                              <?php } ?>
-                            </ul>
-                          </div>
-                          <!-- /.col -->
-
-                          <div class="col-xs-12 col-sm-12 col-md-3 col-menu">
-                            <h2 class="title">Sản phẩm khác</h2>
-                            <ul class="links">
-                              <?php foreach ($category_khac as $key => $khac) { ?>
-                              <li>
-                                <a href="<?php echo base_url() ?>Home/danhmuc/<?php echo $khac['id'] ?>" >
-                                  <?php echo $khac['name'] ?> 
-                                </a>
-                              </li>
-                              <?php } ?>
-                            </ul>
-                          </div>
-                          <!-- /.col -->
-
-                        </div>
-                        <!-- /.row --> 
-                      </div>
-                      <!-- /.yamm-content --> </li>
-                  </ul>
+                  <a>Sản phẩm <span class="menu-label hot-menu hidden-xs">hot</span> </a>  
                 </li>
                 <li class="dropdown hidden-sm"> <a href="<?php echo base_url() ?>dich-vu.html">Dịch vụ<span class="menu-label new-menu hidden-xs">new</span> </a> </li>
                 <!-- <li class="dropdown hidden-sm"> <a href="category.html">Tin tức</a> </li> -->

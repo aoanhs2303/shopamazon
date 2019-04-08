@@ -19,7 +19,9 @@
                   <b>{{category}}</b>
                   <ul >
                     {{subcategory.category_id}}
-                    <li ng-repeat="subcategory in category_value"><a href="<?php echo base_url() ?>/home/danhmuc/{{subcategory.category_id}}">{{subcategory.product_subcategory}}</a></li>
+                    <li ng-repeat="subcategory in category_value">
+                      <a href="<?php echo base_url() ?>{{to_slug(subcategory.product_subcategory)}}-{{subcategory.category_id}}.html">{{subcategory.product_subcategory}}</a>
+                    </li>
                   </ul>
                 </div>
               </div>
@@ -56,38 +58,29 @@
       <div class="owl-carousel sidebar-carousel special-offer custom-carousel owl-theme outer-top-xs">
         <div class="item">
           <div class="products special-product">
-            <?php foreach ($side_hot as $sh) { ?>
-            <div class="product">
+            <div class="product" ng-repeat="product in bestSellerProduct">
               <div class="product-micro">
                 <div class="row product-micro-row">
                   <div class="col col-xs-5">
                     <div class="product-image">
-                      <?php $img = json_decode($sh['image'])[0] ?>
-                      <div class="image"> <a href="<?php echo base_url() . vn_to_str($sh['name']) .'-'. $sh['id']?>.chn"> <img src="<?php echo $img ?>" alt="<?php echo $img ?>"> </a> </div>
-                      <!-- /.image --> 
-                      
+                      <div class="image"> <a href="<?php echo base_url() ?>{{to_slug(product.name)}}-{{product.id}}.chn"> <img src="https://via.placeholder.com/500" alt="{{product.name}}"> </a> </div>
                     </div>
                     <!-- /.product-image --> 
                   </div>
                   <!-- /.col -->
                   <div class="col col-xs-7">
                     <div class="product-info">
-                      <h3 class="name"><a href="<?php echo base_url() . vn_to_str($sh['name']) .'-'. $sh['id']?>.chn"><?php echo $sh['name'] ?></a></h3>
+                      <h3 class="name"><a href="<?php echo base_url() ?>{{to_slug(product.name)}}-{{product.id}}.chn">{{product.name}}</a></h3>
                       <div class="rating rateit-small"></div>
-                      <!-- <div class="product-price"> <span class="price"> <?php echo number_format($sh['price']) ?> ₫  </span> </div> -->
-                      <div class="product-price text-danger"><b>Giá Liên hệ</b></div>
-                      <!-- /.product-price --> 
-                      
+                      <div class="product-price"> <span class="price"> ${{product.price}}  </span> </div>
                     </div>
                   </div>
                   <!-- /.col --> 
                 </div>
                 <!-- /.product-micro-row --> 
               </div>
-              <!-- /.product-micro --> 
-              
+              <!-- /.product-micro -->  
             </div>
-            <?php } ?>
 
           </div>
         </div>
@@ -150,14 +143,39 @@ app.controller('SidebarCtrl',  function($scope, $http, $rootScope){
   $scope.appDomain = "http://localhost/luanvan/";
   $http.get($scope.appDomain + 'api/getCategory')
 	.then(function(res){
-    // product_department
     var department = groupBy(res.data, "product_department");
     for(var propt in department){
       department[propt] = groupBy(department[propt], "product_category");
     }
-    console.log("sidebar")
     $scope.categories = department;
-	}, function(res){})
+  }, function(res){})
+
+  $http({
+    url: $scope.appDomain + 'api/getBestSellerProduct', 
+    method: "GET",
+    params: {offset: 10}
+  }).then(function(res){
+    $scope.bestSellerProduct = res.data
+  }, function(res){});
+  
+    $scope.to_slug = function(str) {
+      // Chuyển hết sang chữ thường
+      str = str.toLowerCase();     
+      // xóa dấu
+      str = str.replace(/(à|á|ạ|ả|ã|â|ầ|ấ|ậ|ẩ|ẫ|ă|ằ|ắ|ặ|ẳ|ẵ)/g, 'a');
+      str = str.replace(/(è|é|ẹ|ẻ|ẽ|ê|ề|ế|ệ|ể|ễ)/g, 'e');
+      str = str.replace(/(ì|í|ị|ỉ|ĩ)/g, 'i');
+      str = str.replace(/(ò|ó|ọ|ỏ|õ|ô|ồ|ố|ộ|ổ|ỗ|ơ|ờ|ớ|ợ|ở|ỡ)/g, 'o');
+      str = str.replace(/(ù|ú|ụ|ủ|ũ|ư|ừ|ứ|ự|ử|ữ)/g, 'u');
+      str = str.replace(/(ỳ|ý|ỵ|ỷ|ỹ)/g, 'y');
+      str = str.replace(/(đ)/g, 'd');
+      str = str.replace(/([^0-9a-z-\s])/g, '');
+      str = str.replace(/(\s+)/g, '-');
+      str = str.replace(/^-+/g, '');
+      str = str.replace(/-+$/g, '');
+      return str;
+    }
+  
 })
 
 </script>

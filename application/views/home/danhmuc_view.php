@@ -77,14 +77,14 @@
                     <div class="products">
                       <div class="product">
                         <div class="product-image">
-                          <div class="image"> <a href="#"><img src="https://via.placeholder.com/500" alt="{{product.name}}"></a> </div>
+                          <div class="image"> <a href="<?php echo base_url() ?>{{to_slug(product.name)}}-{{product.id}}.chn"><img src="https://via.placeholder.com/500" alt="{{product.name}}"></a> </div>
                           <!-- /.image -->
                           <div class="tag sale"><span>Hot</span></div>
                         </div>
                         <!-- /.product-image -->
                         
                         <div class="product-info text-left">
-                          <h3 class="name"><a href="#">{{product.name}}</a></h3>
+                          <h3 class="name"><a href="<?php echo base_url() ?>{{to_slug(product.name)}}-{{product.id}}.chn">{{product.name}}</a></h3>
                           <div class="rating rateit-small"></div>
                           <div class="description"></div>
                           <div class="product-price text-danger"><b>${{product.price}}</b></div>
@@ -95,7 +95,6 @@
                         <!-- /.product-info -->
                         <div class="cart clearfix animate-effect">
                           <div class="btn-group">
-                            clicdlsadkla
                             <button ng-click="addToCart(product)"
                               class="add_cart btn btn-warning" 
                               style="background-color: #fdd922; color: #444;"
@@ -108,7 +107,7 @@
                               >
                               Thêm <i class="fa fa-shopping-cart"></i>
                             </button>
-                            <a href="#" data-toggle="tooltip" title="Xem chi tiết" class="btn btn-info"><i class="fa fa-search"></i></a>
+                            <a href="<?php echo base_url() ?>{{to_slug(product.name)}}-{{product.id}}.chn" data-toggle="tooltip" title="Xem chi tiết" class="btn btn-info"><i class="fa fa-search"></i></a>
                           </div>
                           <!-- /.action --> 
                         </div>
@@ -143,33 +142,6 @@
 
 <script>
   $(document).ready(function() {
-    // $('.add_cart').click(function(){
-    //   console.log('xx')
-    //   product_id       = $(this).data('productid');
-    //   product_name     = $(this).data('productname');
-    //   product_price    = $(this).data('price');
-    //   product_quantity = $(this).data('quantity');
-    //   product_img      = $(this).data('productimg');
-    //   product_size     = $(this).data('size');
-
-    //   $.ajax({
-    //     url: "<?php echo base_url() ?>cart/add",
-    //     type: 'POST',
-    //     data: {
-    //       product_id: product_id,
-    //       product_name: product_name,
-    //       product_price: product_price,
-    //       product_quantity: product_quantity,
-    //       product_img: product_img,
-    //       product_size: product_size
-    //     },
-    //     success:function(data)
-    //     {
-    //       console.log(data)
-    //       $('#show_cart').html(data);
-    //     }
-    //   })      
-    // });
 
     $('#show_cart').load("<?php echo base_url(); ?>cart/load");
 
@@ -191,17 +163,15 @@
   app.controller('CategoryCtrl',  function($scope, $http, $rootScope){
     $scope.appDomain = "http://localhost/luanvan/";
     var loc_array = window.location.pathname.split("/");
-    var category_id = loc_array[loc_array.length-1];
-
+    var uri = loc_array[loc_array.length - 1].split("-");
+    var category_id = uri[uri.length - 1].split(".")[0]
     $http({
       url: $scope.appDomain + 'api/getSliceProductByCategory', 
       method: "GET",
       params: {category_id: category_id}
     }).then(function(res){
       $scope.listProduct = res.data
-      console.log($scope.listProduct)
     }, function(res){});
-      console.log("xxxx")
     $scope.addToCart = function(product) {
       var data = $.param({
         product_id: product.id,
@@ -212,13 +182,29 @@
         product_size: "1m"
       })
       var config = {headers: {'content-type': 'application/x-www-form-urlencoded;charset=UTF-8'}}
-      console.log(data);
       $http.post($scope.appDomain + 'cart/add',data,config)
       .then(function(res) {
         $('#show_cart').html(res.data);
       }, function(err){})
-
-    }    
+    }   
+    
+    $scope.to_slug = function(str) {
+        // Chuyển hết sang chữ thường
+        str = str.toLowerCase();     
+        // xóa dấu
+        str = str.replace(/(à|á|ạ|ả|ã|â|ầ|ấ|ậ|ẩ|ẫ|ă|ằ|ắ|ặ|ẳ|ẵ)/g, 'a');
+        str = str.replace(/(è|é|ẹ|ẻ|ẽ|ê|ề|ế|ệ|ể|ễ)/g, 'e');
+        str = str.replace(/(ì|í|ị|ỉ|ĩ)/g, 'i');
+        str = str.replace(/(ò|ó|ọ|ỏ|õ|ô|ồ|ố|ộ|ổ|ỗ|ơ|ờ|ớ|ợ|ở|ỡ)/g, 'o');
+        str = str.replace(/(ù|ú|ụ|ủ|ũ|ư|ừ|ứ|ự|ử|ữ)/g, 'u');
+        str = str.replace(/(ỳ|ý|ỵ|ỷ|ỹ)/g, 'y');
+        str = str.replace(/(đ)/g, 'd');
+        str = str.replace(/([^0-9a-z-\s])/g, '');
+        str = str.replace(/(\s+)/g, '-');
+        str = str.replace(/^-+/g, '');
+        str = str.replace(/-+$/g, '');
+        return str;
+    }
 
   })
 

@@ -13,24 +13,18 @@
               <li class="media">
                 <div class="pull-left"> <span class="icon fa-stack fa-lg"> <i class="fa fa-map-marker fa-stack-1x fa-inverse"></i> </span> </div>
                 <div class="media-body">
-                  <p><?php echo $address[0]['value'] ?></p>
+                  <p>268 Lý Thường Kiệt, F14, Q10</p>
                 </div>
               </li>
               <li class="media">
                 <div class="pull-left"> <span class="icon fa-stack fa-lg"> <i class="fa fa-mobile fa-stack-1x fa-inverse"></i> </span> </div>
                 <div class="media-body">
-                  <!-- <p>0938 690 689 - 0914 412 807<br>
-                    01218 687 569
-                  </p> -->
-                  <p><?php foreach ($sdt as $key => $sdt_item) {
-                    echo $sdt_item['value'] . '&nbsp;&nbsp;';
-                  } ?></p>
-
+                  <p>0773543841 - 0354345612</p>
                 </div>
               </li>
               <li class="media">
                 <div class="pull-left"> <span class="icon fa-stack fa-lg"> <i class="fa fa-envelope fa-stack-1x fa-inverse"></i> </span> </div>
-                <div class="media-body"> <span><a href="#"><?php echo $email[0]['value'] ?></a></span> </div>
+                <div class="media-body"> <span><a href="#">1511918@hcmut.edu.vn</a></span> </div>
               </li>
             </ul>
           </div>
