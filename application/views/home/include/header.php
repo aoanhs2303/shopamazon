@@ -8,7 +8,7 @@
 <meta name="author" content="">
 <meta name="keywords" content="MediaCenter, Template, eCommerce">
 <meta name="robots" content="all">
-<title>Thành Công</title>
+<title>MRAR Shop</title>
 
 <!-- Bootstrap Core CSS -->
 <link rel="stylesheet" href="<?php echo base_url() ?>includehome/css/bootstrap.min.css">
@@ -44,7 +44,7 @@
       <div class="row">
         <div class="col-xs-12 col-sm-12 col-md-3 logo-holder"> 
           <!-- ============================================================= LOGO ============================================================= -->
-          <div class="logo"> <a href="<?php echo base_url() ?>"> <img style="margin-top: -7px" src="<?php echo base_url() ?>includehome/images/logo.png" alt="logo"> </a> </div>
+          <div class="logo"> <a href="<?php echo base_url() ?>"> <img src="<?php echo base_url() ?>includehome/images/logo.png" alt="logo"> </a> </div>
           <!-- /.logo --> 
           <!-- ============================================================= LOGO : END ============================================================= --> </div>
         <!-- /.logo-holder -->
