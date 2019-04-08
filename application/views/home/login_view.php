@@ -1,4 +1,4 @@
-<div class="body-content">
+<div class="body-content" ng-controller="LoginCtrl">
 	<div class="container">
 		<div class="sign-in-page">
 			<div class="row">
@@ -30,3 +30,44 @@
 		</div><!-- /.sigin-in-->
     </div>
 </div>
+
+<script>
+    var app = angular.module('myApp', [])
+    app.controller('LoginCtrl', function($scope, $http, $rootScope) {
+        $scope.appDomain = "http://localhost/luanvan/";
+        var loc_array = window.location.pathname.split("/");
+                    var uri = loc_array[loc_array.length - 1].split("-");
+                    var product_id = uri[uri.length - 1].split(".")[0]
+        $http({
+            url: $scope.appDomain + 'api/getProductById',
+            method: "GET",
+            params: {
+                product_id: product_id
+            }
+        }).then(function(res) {
+            $scope.product = res.data
+            console.log($scope.product)
+        }, function(res) {});
+
+        $scope.addToCart = function(product) {
+            var data = $.param({
+                product_id: product.id,
+                product_name: product.name,
+                product_price: product.price,
+                product_quantity: 1,
+                product_img: "https://via.placeholder.com/500",
+                product_size: "1m"
+            })
+            var config = {
+                headers: {
+                    'content-type': 'application/x-www-form-urlencoded;charset=UTF-8'
+                }
+            }
+            $http.post($scope.appDomain + 'cart/add', data, config)
+                .then(function(res) {
+                    $('#show_cart').html(res.data);
+                }, function(err) {})
+        }
+
+    })
+</script>

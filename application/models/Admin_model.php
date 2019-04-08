@@ -655,11 +655,10 @@ class Admin_model extends CI_Model {
 	public function searchHome($tukhoa)
 	{
 		$this->db->select('*');
-		$this->db->from('sanpham');
-		$this->db->or_like('sanpham.name', $tukhoa);
-		$this->db->or_like('sanpham.category', $tukhoa);
-		$this->db->or_like('sanpham.keyword', $tukhoa);
-
+		$this->db->from('amazon_product');
+		$this->db->or_like('amazon_product.name', $tukhoa);
+		$this->db->or_like('amazon_product.brand_name', $tukhoa);
+		
 		$data = $this->db->get();
 		$data = $data->result_array();
 		return $data;

@@ -317,7 +317,7 @@ class Home extends CI_Controller {
 	public function search()
 	{
 		$tukhoa = $this->input->get('search_fill');
-		$search_res = $this->Admin_model->SearchHome($tukhoa);
+		$search_res = $this->Admin_model->searchHome($tukhoa);
 		$res_empty = "";
 		if(empty($search_res)) {
 			$res_empty = "Không tìm thấy sản phẩm cho \"$tukhoa\"";
@@ -338,17 +338,9 @@ class Home extends CI_Controller {
 			'koketqua' => $res_empty
 		);
 
-		$category_van  = $this->Admin_model->getCategory_Van('van');
-		$category_lot  = $this->Admin_model->getCategory_Van('lot');
-		$category_khac = $this->Admin_model->getCategory_Van('khac');
-		$data_menu = array(
-			'category_van' => $category_van,
-			'category_lot' => $category_lot,
-			'category_khac' => $category_khac
-		);
 
 		$this->load->view('home/include/header.php', null, FALSE);
-		$this->load->view('home/include/menutop.php', $data_menu, FALSE);
+		$this->load->view('home/include/menutop.php', null, FALSE);
 		$this->load->view('home/timkiem_view',$data_main);
 		$this->load->view('home/include/footer.php', null, FALSE);
 
@@ -424,11 +416,6 @@ class Home extends CI_Controller {
 		$this->load->view('home/include/menutop.php', $data_menu, FALSE);
 		$this->load->view('home/login_view',$data_main);
 		$this->load->view('home/include/footer.php', $data_footer, FALSE);
-	}
-
-	public function authen()
-	{
-		# code...
 	}
 
 }

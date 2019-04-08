@@ -43,7 +43,7 @@
               <!-- /.col --> 
             </div>
             <!-- /.col -->
-<!--             <div class="col col-sm-6 col-md-4 text-right">
+<!--        <div class="col col-sm-6 col-md-4 text-right">
               <div class="pagination-container">
                 <ul class="list-inline list-unstyled">
                   <li class="prev"><a href="#"><i class="fa fa-angle-left"></i></a></li>
@@ -72,10 +72,9 @@
                     <div class="products">
                       <div class="product">
                         <div class="product-image">
-                          <?php $img = json_decode($product['image'])[0] ?>
-                          <div class="image"> <a href="<?php echo base_url() ?>Home/sanpham/<?php echo $product['id'] ?>"><img  src="<?php echo $img ?>" alt="<?php echo $img ?>"></a> </div>
+                          <div class="image"> <a href="<?php echo base_url() ?>Home/sanpham/<?php echo $product['id'] ?>"><img  src="https://via.placeholder.com/500" alt="<?php echo $product['name']  ?>"></a> </div>
                           <!-- /.image -->
-                          <div class="tag sale"><span><?php echo $product['thick'] ?></span></div>
+                          <div class="tag sale"><span>Hot</span></div>
                         </div>
                         <!-- /.product-image -->
                         
@@ -83,7 +82,7 @@
                           <h3 class="name"><a href="<?php echo base_url() ?>Home/sanpham/<?php echo $product['id'] ?>"><?php echo $product['name'] ?></a></h3>
                           <div class="rating rateit-small"></div>
                           <div class="description"></div>
-                          <div class="product-price"> <span class="price"> <?php echo number_format($product['price']) ?> ₫</span></div>
+                          <div class="product-price"> <span class="price"> $<?php echo $product['price'] ?></span></div>
                           <!-- /.product-price --> 
                           
                         </div>
@@ -96,9 +95,9 @@
                               data-productid="<?php echo $product['id'] ?>"
                               data-productname="<?php echo $product['name'] ?>"
                               data-price="<?php echo $product['price'] ?>"
-                              data-productimg="<?php echo $img ?>"
+                              data-productimg="https://via.placeholder.com/500"
                               data-quantity="1"
-                              data-size="<?php echo $product['size'] ?>"
+                              data-size="1m"
                               >
                               Thêm <i class="fa fa-shopping-cart"></i>
                             </button>
