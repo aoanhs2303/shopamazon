@@ -1,0 +1,3 @@
+(yearly_salary($30K - $50K))(member card(Bronze))(buy(1036)) --> (buy(227)), {C=0.0007528986598403855, S=0.00048633401420095323}
+(yearly_salary($30K - $50K))(member card(Bronze))(buy(1036)) --> (buy(830)), {C=0.0009034783918084625, S=0.0005836008170411438}
+(yearly_salary($30K - $50K))(member card(Bronze))(buy(1036)) --> (buy(1013)), {C=0.0007528986598403855, S=0.00048633401420095323}

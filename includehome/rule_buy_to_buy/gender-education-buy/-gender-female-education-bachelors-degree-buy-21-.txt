@@ -1,0 +1,1 @@
+(gender(Female))(education(Bachelors Degree))(buy(21)) --> (buy(1496)), {C=0.0007736345350456444, S=0.00048633401420095323}

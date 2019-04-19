@@ -1,0 +1,12 @@
+(age_group(MiddleAdults))(yearly_salary($30K - $50K))(member card(Bronze))(house_owner(Y))(marital_status(M)) --> (buy(340)), {C=0.0005206164098292378, S=0.00048633401420095323}
+(age_group(MiddleAdults))(yearly_salary($30K - $50K))(member card(Bronze))(house_owner(Y))(marital_status(M)) --> (buy(393)), {C=0.0005206164098292378, S=0.00048633401420095323}
+(age_group(MiddleAdults))(yearly_salary($30K - $50K))(member card(Bronze))(house_owner(Y))(marital_status(M)) --> (buy(443)), {C=0.0005206164098292378, S=0.00048633401420095323}
+(age_group(MiddleAdults))(yearly_salary($30K - $50K))(member card(Bronze))(house_owner(Y))(marital_status(M)) --> (buy(1063)), {C=0.0005206164098292378, S=0.00048633401420095323}
+(age_group(MiddleAdults))(yearly_salary($30K - $50K))(member card(Bronze))(house_owner(Y))(marital_status(M)) --> (buy(340)), {C=0.0005206164098292378, S=0.00048633401420095323}
+(age_group(MiddleAdults))(yearly_salary($30K - $50K))(member card(Bronze))(house_owner(Y))(marital_status(M)) --> (buy(393)), {C=0.0005206164098292378, S=0.00048633401420095323}
+(age_group(MiddleAdults))(yearly_salary($30K - $50K))(member card(Bronze))(house_owner(Y))(marital_status(M)) --> (buy(443)), {C=0.0005206164098292378, S=0.00048633401420095323}
+(age_group(MiddleAdults))(yearly_salary($30K - $50K))(member card(Bronze))(house_owner(Y))(marital_status(M)) --> (buy(1063)), {C=0.0005206164098292378, S=0.00048633401420095323}
+(age_group(MiddleAdults))(yearly_salary($30K - $50K))(member card(Bronze))(house_owner(Y))(marital_status(M)) --> (buy(340)), {C=0.0005206164098292378, S=0.00048633401420095323}
+(age_group(MiddleAdults))(yearly_salary($30K - $50K))(member card(Bronze))(house_owner(Y))(marital_status(M)) --> (buy(393)), {C=0.0005206164098292378, S=0.00048633401420095323}
+(age_group(MiddleAdults))(yearly_salary($30K - $50K))(member card(Bronze))(house_owner(Y))(marital_status(M)) --> (buy(443)), {C=0.0005206164098292378, S=0.00048633401420095323}
+(age_group(MiddleAdults))(yearly_salary($30K - $50K))(member card(Bronze))(house_owner(Y))(marital_status(M)) --> (buy(1063)), {C=0.0005206164098292378, S=0.00048633401420095323}

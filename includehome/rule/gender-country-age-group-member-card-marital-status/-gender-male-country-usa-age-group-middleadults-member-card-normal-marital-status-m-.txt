@@ -1,0 +1,6 @@
+(gender(Male))(country(USA))(age_group(MiddleAdults))(member card(Normal))(marital_status(M)) --> (buy(1309)), {C=0.0005065342923715936, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(MiddleAdults))(member card(Normal))(marital_status(M)) --> (buy(1446)), {C=0.0006078411508459123, S=0.0005836008170411438}
+(gender(Male))(country(USA))(age_group(MiddleAdults))(member card(Normal))(marital_status(M)) --> (buy(1309)), {C=0.0005065342923715936, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(MiddleAdults))(member card(Normal))(marital_status(M)) --> (buy(1446)), {C=0.0006078411508459123, S=0.0005836008170411438}
+(gender(Male))(country(USA))(age_group(MiddleAdults))(member card(Normal))(marital_status(M)) --> (buy(1309)), {C=0.0005065342923715936, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(MiddleAdults))(member card(Normal))(marital_status(M)) --> (buy(1446)), {C=0.0006078411508459123, S=0.0005836008170411438}

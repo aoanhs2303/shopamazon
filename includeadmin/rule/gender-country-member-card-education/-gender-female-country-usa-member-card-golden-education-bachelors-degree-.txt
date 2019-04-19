@@ -1,0 +1,1 @@
+(gender(Female))(country(USA))(member card(Golden))(education(Bachelors Degree)) --> (buy(472)), {C=0.0005354465624330693, S=0.00048633401420095323}

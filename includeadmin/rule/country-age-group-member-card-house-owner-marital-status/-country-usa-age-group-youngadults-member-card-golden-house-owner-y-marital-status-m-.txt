@@ -1,0 +1,1 @@
+(country(USA))(age_group(YoungAdults))(member card(Golden))(house_owner(Y))(marital_status(M)) --> (buy(614)), {C=0.0005159958720330238, S=0.00048633401420095323}

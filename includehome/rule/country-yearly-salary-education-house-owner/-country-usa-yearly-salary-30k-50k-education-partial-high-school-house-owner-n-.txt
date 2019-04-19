@@ -1,0 +1,13 @@
+(country(USA))(yearly_salary($30K - $50K))(education(Partial High School))(house_owner(N)) --> (buy(24)), {C=0.0005233957918978332, S=0.00048633401420095323}
+(country(USA))(yearly_salary($30K - $50K))(education(Partial High School))(house_owner(N)) --> (buy(379)), {C=0.0005233957918978332, S=0.00048633401420095323}
+(country(USA))(yearly_salary($30K - $50K))(education(Partial High School))(house_owner(N)) --> (buy(406)), {C=0.0005233957918978332, S=0.00048633401420095323}
+(country(USA))(yearly_salary($30K - $50K))(education(Partial High School))(house_owner(N)) --> (buy(437)), {C=0.0005233957918978332, S=0.00048633401420095323}
+(country(USA))(yearly_salary($30K - $50K))(education(Partial High School))(house_owner(N)) --> (buy(517)), {C=0.0006280749502773998, S=0.0005836008170411438}
+(country(USA))(yearly_salary($30K - $50K))(education(Partial High School))(house_owner(N)) --> (buy(572)), {C=0.0006280749502773998, S=0.0005836008170411438}
+(country(USA))(yearly_salary($30K - $50K))(education(Partial High School))(house_owner(N)) --> (buy(674)), {C=0.0005233957918978332, S=0.00048633401420095323}
+(country(USA))(yearly_salary($30K - $50K))(education(Partial High School))(house_owner(N)) --> (buy(959)), {C=0.0005233957918978332, S=0.00048633401420095323}
+(country(USA))(yearly_salary($30K - $50K))(education(Partial High School))(house_owner(N)) --> (buy(967)), {C=0.0005233957918978332, S=0.00048633401420095323}
+(country(USA))(yearly_salary($30K - $50K))(education(Partial High School))(house_owner(N)) --> (buy(969)), {C=0.0005233957918978332, S=0.00048633401420095323}
+(country(USA))(yearly_salary($30K - $50K))(education(Partial High School))(house_owner(N)) --> (buy(1381)), {C=0.0007327541086569664, S=0.0006808676198813345}
+(country(USA))(yearly_salary($30K - $50K))(education(Partial High School))(house_owner(N)) --> (buy(1410)), {C=0.0005233957918978332, S=0.00048633401420095323}
+(country(USA))(yearly_salary($30K - $50K))(education(Partial High School))(house_owner(N)) --> (buy(1464)), {C=0.0005233957918978332, S=0.00048633401420095323}

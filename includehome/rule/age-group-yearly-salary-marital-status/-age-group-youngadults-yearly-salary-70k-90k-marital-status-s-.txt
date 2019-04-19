@@ -1,0 +1,1 @@
+(age_group(YoungAdults))(yearly_salary($70K - $90K))(marital_status(S)) --> (buy(820)), {C=0.0007478312892611427, S=0.00048633401420095323}

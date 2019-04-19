@@ -1,0 +1,16 @@
+(gender(Male))(country(USA))(yearly_salary($90K - $110K)) --> (buy(106)), {C=0.0006767426122264832, S=0.0005836008170411438}
+(gender(Male))(country(USA))(yearly_salary($90K - $110K)) --> (buy(366)), {C=0.0005639521768554027, S=0.00048633401420095323}
+(gender(Male))(country(USA))(yearly_salary($90K - $110K)) --> (buy(409)), {C=0.0005639521768554027, S=0.00048633401420095323}
+(gender(Male))(country(USA))(yearly_salary($90K - $110K)) --> (buy(433)), {C=0.0005639521768554027, S=0.00048633401420095323}
+(gender(Male))(country(USA))(yearly_salary($90K - $110K)) --> (buy(546)), {C=0.0006767426122264832, S=0.0005836008170411438}
+(gender(Male))(country(USA))(yearly_salary($90K - $110K)) --> (buy(569)), {C=0.0007895330475975637, S=0.0006808676198813345}
+(gender(Male))(country(USA))(yearly_salary($90K - $110K)) --> (buy(691)), {C=0.0005639521768554027, S=0.00048633401420095323}
+(gender(Male))(country(USA))(yearly_salary($90K - $110K)) --> (buy(776)), {C=0.0005639521768554027, S=0.00048633401420095323}
+(gender(Male))(country(USA))(yearly_salary($90K - $110K)) --> (buy(821)), {C=0.0005639521768554027, S=0.00048633401420095323}
+(gender(Male))(country(USA))(yearly_salary($90K - $110K)) --> (buy(949)), {C=0.0005639521768554027, S=0.00048633401420095323}
+(gender(Male))(country(USA))(yearly_salary($90K - $110K)) --> (buy(1142)), {C=0.0005639521768554027, S=0.00048633401420095323}
+(gender(Male))(country(USA))(yearly_salary($90K - $110K)) --> (buy(1212)), {C=0.0005639521768554027, S=0.00048633401420095323}
+(gender(Male))(country(USA))(yearly_salary($90K - $110K)) --> (buy(1340)), {C=0.0005639521768554027, S=0.00048633401420095323}
+(gender(Male))(country(USA))(yearly_salary($90K - $110K)) --> (buy(1387)), {C=0.0006767426122264832, S=0.0005836008170411438}
+(gender(Male))(country(USA))(yearly_salary($90K - $110K)) --> (buy(1493)), {C=0.0005639521768554027, S=0.00048633401420095323}
+(gender(Male))(country(USA))(yearly_salary($90K - $110K)) --> (buy(1545)), {C=0.0005639521768554027, S=0.00048633401420095323}

@@ -1,0 +1,13 @@
+(country(USA))(yearly_salary($50K - $70K))(member card(Golden)) --> (buy(315)), {C=0.0006141751627564182, S=0.00048633401420095323}
+(country(USA))(yearly_salary($50K - $70K))(member card(Golden)) --> (buy(450)), {C=0.0006141751627564182, S=0.00048633401420095323}
+(country(USA))(yearly_salary($50K - $70K))(member card(Golden)) --> (buy(495)), {C=0.0007370101953077017, S=0.0005836008170411438}
+(country(USA))(yearly_salary($50K - $70K))(member card(Golden)) --> (buy(514)), {C=0.0006141751627564182, S=0.00048633401420095323}
+(country(USA))(yearly_salary($50K - $70K))(member card(Golden)) --> (buy(592)), {C=0.0006141751627564182, S=0.00048633401420095323}
+(country(USA))(yearly_salary($50K - $70K))(member card(Golden)) --> (buy(843)), {C=0.0006141751627564182, S=0.00048633401420095323}
+(country(USA))(yearly_salary($50K - $70K))(member card(Golden)) --> (buy(908)), {C=0.0006141751627564182, S=0.00048633401420095323}
+(country(USA))(yearly_salary($50K - $70K))(member card(Golden)) --> (buy(918)), {C=0.0006141751627564182, S=0.00048633401420095323}
+(country(USA))(yearly_salary($50K - $70K))(member card(Golden)) --> (buy(1041)), {C=0.0006141751627564182, S=0.00048633401420095323}
+(country(USA))(yearly_salary($50K - $70K))(member card(Golden)) --> (buy(1049)), {C=0.0006141751627564182, S=0.00048633401420095323}
+(country(USA))(yearly_salary($50K - $70K))(member card(Golden)) --> (buy(1092)), {C=0.0006141751627564182, S=0.00048633401420095323}
+(country(USA))(yearly_salary($50K - $70K))(member card(Golden)) --> (buy(1198)), {C=0.0006141751627564182, S=0.00048633401420095323}
+(country(USA))(yearly_salary($50K - $70K))(member card(Golden)) --> (buy(1554)), {C=0.0006141751627564182, S=0.00048633401420095323}

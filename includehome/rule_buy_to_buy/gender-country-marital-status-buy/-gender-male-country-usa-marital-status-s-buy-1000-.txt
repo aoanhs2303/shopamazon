@@ -1,0 +1,3 @@
+(gender(Male))(country(USA))(marital_status(S))(buy(1000)) --> (buy(1423)), {C=0.0005248792777661138, S=0.00048633401420095323}
+(gender(Male))(country(USA))(marital_status(S))(buy(1000)) --> (buy(1523)), {C=0.0005248792777661138, S=0.00048633401420095323}
+(gender(Male))(country(USA))(marital_status(S))(buy(1000)) --> (buy(1526)), {C=0.0006298551333193365, S=0.0005836008170411438}

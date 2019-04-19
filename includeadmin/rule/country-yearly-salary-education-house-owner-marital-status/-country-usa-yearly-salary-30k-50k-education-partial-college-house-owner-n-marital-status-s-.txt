@@ -1,0 +1,4 @@
+(country(USA))(yearly_salary($30K - $50K))(education(Partial College))(house_owner(N))(marital_status(S)) --> (buy(194)), {C=0.0006255212677231026, S=0.0005836008170411438}
+(country(USA))(yearly_salary($30K - $50K))(education(Partial College))(house_owner(N))(marital_status(S)) --> (buy(477)), {C=0.0005212677231025856, S=0.00048633401420095323}
+(country(USA))(yearly_salary($30K - $50K))(education(Partial College))(house_owner(N))(marital_status(S)) --> (buy(716)), {C=0.0005212677231025856, S=0.00048633401420095323}
+(country(USA))(yearly_salary($30K - $50K))(education(Partial College))(house_owner(N))(marital_status(S)) --> (buy(1144)), {C=0.0006255212677231026, S=0.0005836008170411438}

@@ -1,0 +1,1 @@
+(gender(Male))(yearly_salary($70K - $90K))(member card(Bronze))(education(Graduate Degree)) --> (buy(1422)), {C=0.0006064281382656155, S=0.00048633401420095323}

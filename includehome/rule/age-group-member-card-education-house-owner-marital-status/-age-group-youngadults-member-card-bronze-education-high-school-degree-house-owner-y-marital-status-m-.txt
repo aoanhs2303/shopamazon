@@ -1,0 +1,1 @@
+(age_group(YoungAdults))(member card(Bronze))(education(High School Degree))(house_owner(Y))(marital_status(M)) --> (buy(921)), {C=0.0005210504376823677, S=0.00048633401420095323}

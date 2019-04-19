@@ -1,0 +1,2 @@
+(gender(Female))(yearly_salary($50K - $70K))(member card(Bronze))(education(Bachelors Degree))(house_owner(Y))(marital_status(S)) --> (buy(455)), {C=0.0004990518015770037, S=0.00048633401420095323}
+(gender(Female))(yearly_salary($50K - $70K))(member card(Bronze))(education(Bachelors Degree))(house_owner(Y))(marital_status(S)) --> (buy(1182)), {C=0.0004990518015770037, S=0.00048633401420095323}

@@ -1,0 +1,14 @@
+(gender(Female))(age_group(YoungAdults))(member card(Bronze))(marital_status(M)) --> (buy(160)), {C=0.0005241639584862145, S=0.00048633401420095323}
+(gender(Female))(age_group(YoungAdults))(member card(Bronze))(marital_status(M)) --> (buy(341)), {C=0.0005241639584862145, S=0.00048633401420095323}
+(gender(Female))(age_group(YoungAdults))(member card(Bronze))(marital_status(M)) --> (buy(418)), {C=0.0005241639584862145, S=0.00048633401420095323}
+(gender(Female))(age_group(YoungAdults))(member card(Bronze))(marital_status(M)) --> (buy(432)), {C=0.0006289967501834573, S=0.0005836008170411438}
+(gender(Female))(age_group(YoungAdults))(member card(Bronze))(marital_status(M)) --> (buy(442)), {C=0.0005241639584862145, S=0.00048633401420095323}
+(gender(Female))(age_group(YoungAdults))(member card(Bronze))(marital_status(M)) --> (buy(455)), {C=0.0006289967501834573, S=0.0005836008170411438}
+(gender(Female))(age_group(YoungAdults))(member card(Bronze))(marital_status(M)) --> (buy(465)), {C=0.0005241639584862145, S=0.00048633401420095323}
+(gender(Female))(age_group(YoungAdults))(member card(Bronze))(marital_status(M)) --> (buy(696)), {C=0.0005241639584862145, S=0.00048633401420095323}
+(gender(Female))(age_group(YoungAdults))(member card(Bronze))(marital_status(M)) --> (buy(725)), {C=0.0005241639584862145, S=0.00048633401420095323}
+(gender(Female))(age_group(YoungAdults))(member card(Bronze))(marital_status(M)) --> (buy(898)), {C=0.0005241639584862145, S=0.00048633401420095323}
+(gender(Female))(age_group(YoungAdults))(member card(Bronze))(marital_status(M)) --> (buy(1123)), {C=0.0005241639584862145, S=0.00048633401420095323}
+(gender(Female))(age_group(YoungAdults))(member card(Bronze))(marital_status(M)) --> (buy(1164)), {C=0.0005241639584862145, S=0.00048633401420095323}
+(gender(Female))(age_group(YoungAdults))(member card(Bronze))(marital_status(M)) --> (buy(1322)), {C=0.0005241639584862145, S=0.00048633401420095323}
+(gender(Female))(age_group(YoungAdults))(member card(Bronze))(marital_status(M)) --> (buy(1472)), {C=0.0005241639584862145, S=0.00048633401420095323}

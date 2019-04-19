@@ -1,0 +1,1 @@
+(country(USA))(age_group(YoungAdults))(education(Partial College))(house_owner(Y)) --> (buy(868)), {C=0.0005298855447223401, S=0.00048633401420095323}

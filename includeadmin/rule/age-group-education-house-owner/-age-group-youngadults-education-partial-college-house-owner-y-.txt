@@ -1,0 +1,1 @@
+(age_group(YoungAdults))(education(Partial College))(house_owner(Y)) --> (buy(868)), {C=0.0006772314777190845, S=0.00048633401420095323}

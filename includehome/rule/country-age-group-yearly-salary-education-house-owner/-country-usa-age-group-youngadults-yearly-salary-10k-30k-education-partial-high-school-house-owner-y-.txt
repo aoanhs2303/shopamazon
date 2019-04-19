@@ -1,0 +1,17 @@
+(country(USA))(age_group(YoungAdults))(yearly_salary($10K - $30K))(education(Partial High School))(house_owner(Y)) --> (buy(37)), {C=0.0005189413596263622, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($10K - $30K))(education(Partial High School))(house_owner(Y)) --> (buy(180)), {C=0.0005189413596263622, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($10K - $30K))(education(Partial High School))(house_owner(Y)) --> (buy(187)), {C=0.0005189413596263622, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($10K - $30K))(education(Partial High School))(house_owner(Y)) --> (buy(341)), {C=0.0005189413596263622, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($10K - $30K))(education(Partial High School))(house_owner(Y)) --> (buy(588)), {C=0.0005189413596263622, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($10K - $30K))(education(Partial High School))(house_owner(Y)) --> (buy(590)), {C=0.0005189413596263622, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($10K - $30K))(education(Partial High School))(house_owner(Y)) --> (buy(634)), {C=0.0005189413596263622, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($10K - $30K))(education(Partial High School))(house_owner(Y)) --> (buy(827)), {C=0.0005189413596263622, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($10K - $30K))(education(Partial High School))(house_owner(Y)) --> (buy(881)), {C=0.0007265179034769071, S=0.0006808676198813345}
+(country(USA))(age_group(YoungAdults))(yearly_salary($10K - $30K))(education(Partial High School))(house_owner(Y)) --> (buy(909)), {C=0.0005189413596263622, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($10K - $30K))(education(Partial High School))(house_owner(Y)) --> (buy(1185)), {C=0.0005189413596263622, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($10K - $30K))(education(Partial High School))(house_owner(Y)) --> (buy(1196)), {C=0.0005189413596263622, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($10K - $30K))(education(Partial High School))(house_owner(Y)) --> (buy(1219)), {C=0.0006227296315516346, S=0.0005836008170411438}
+(country(USA))(age_group(YoungAdults))(yearly_salary($10K - $30K))(education(Partial High School))(house_owner(Y)) --> (buy(1220)), {C=0.0005189413596263622, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($10K - $30K))(education(Partial High School))(house_owner(Y)) --> (buy(1459)), {C=0.0005189413596263622, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($10K - $30K))(education(Partial High School))(house_owner(Y)) --> (buy(1462)), {C=0.0005189413596263622, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($10K - $30K))(education(Partial High School))(house_owner(Y)) --> (buy(1530)), {C=0.0005189413596263622, S=0.00048633401420095323}

@@ -1,0 +1,3 @@
+(gender(Female))(member card(Bronze))(education(Partial High School))(marital_status(S)) --> (buy(579)), {C=0.0005242189138184106, S=0.00048633401420095323}
+(gender(Female))(member card(Bronze))(education(Partial High School))(marital_status(S)) --> (buy(820)), {C=0.0005242189138184106, S=0.00048633401420095323}
+(gender(Female))(member card(Bronze))(education(Partial High School))(marital_status(S)) --> (buy(1234)), {C=0.0005242189138184106, S=0.00048633401420095323}

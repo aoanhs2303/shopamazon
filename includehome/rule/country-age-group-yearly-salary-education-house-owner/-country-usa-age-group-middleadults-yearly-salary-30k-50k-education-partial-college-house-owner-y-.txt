@@ -1,0 +1,3 @@
+(country(USA))(age_group(MiddleAdults))(yearly_salary($30K - $50K))(education(Partial College))(house_owner(Y)) --> (buy(307)), {C=0.0005152514427040396, S=0.00048633401420095323}
+(country(USA))(age_group(MiddleAdults))(yearly_salary($30K - $50K))(education(Partial College))(house_owner(Y)) --> (buy(307)), {C=0.0005152514427040396, S=0.00048633401420095323}
+(country(USA))(age_group(MiddleAdults))(yearly_salary($30K - $50K))(education(Partial College))(house_owner(Y)) --> (buy(307)), {C=0.0005152514427040396, S=0.00048633401420095323}

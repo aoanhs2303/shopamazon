@@ -1,0 +1,12 @@
+(country(USA))(age_group(YoungAdults))(education(Bachelors Degree))(house_owner(Y))(marital_status(M)) --> (buy(78)), {C=0.0005082333807684489, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(education(Bachelors Degree))(house_owner(Y))(marital_status(M)) --> (buy(147)), {C=0.0005082333807684489, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(education(Bachelors Degree))(house_owner(Y))(marital_status(M)) --> (buy(411)), {C=0.0005082333807684489, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(education(Bachelors Degree))(house_owner(Y))(marital_status(M)) --> (buy(442)), {C=0.0005082333807684489, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(education(Bachelors Degree))(house_owner(Y))(marital_status(M)) --> (buy(455)), {C=0.0006098800569221386, S=0.0005836008170411438}
+(country(USA))(age_group(YoungAdults))(education(Bachelors Degree))(house_owner(Y))(marital_status(M)) --> (buy(609)), {C=0.0005082333807684489, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(education(Bachelors Degree))(house_owner(Y))(marital_status(M)) --> (buy(679)), {C=0.0005082333807684489, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(education(Bachelors Degree))(house_owner(Y))(marital_status(M)) --> (buy(1041)), {C=0.0006098800569221386, S=0.0005836008170411438}
+(country(USA))(age_group(YoungAdults))(education(Bachelors Degree))(house_owner(Y))(marital_status(M)) --> (buy(1230)), {C=0.0005082333807684489, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(education(Bachelors Degree))(house_owner(Y))(marital_status(M)) --> (buy(1245)), {C=0.0007115267330758283, S=0.0006808676198813345}
+(country(USA))(age_group(YoungAdults))(education(Bachelors Degree))(house_owner(Y))(marital_status(M)) --> (buy(1298)), {C=0.0006098800569221386, S=0.0005836008170411438}
+(country(USA))(age_group(YoungAdults))(education(Bachelors Degree))(house_owner(Y))(marital_status(M)) --> (buy(1299)), {C=0.0005082333807684489, S=0.00048633401420095323}

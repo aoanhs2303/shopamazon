@@ -1,0 +1,6 @@
+(gender(Male))(country(USA))(yearly_salary($70K - $90K))(member card(Bronze))(house_owner(N)) --> (buy(269)), {C=0.0005039814534825119, S=0.00048633401420095323}
+(gender(Male))(country(USA))(yearly_salary($70K - $90K))(member card(Bronze))(house_owner(N)) --> (buy(384)), {C=0.0005039814534825119, S=0.00048633401420095323}
+(gender(Male))(country(USA))(yearly_salary($70K - $90K))(member card(Bronze))(house_owner(N)) --> (buy(501)), {C=0.0006047777441790141, S=0.0005836008170411438}
+(gender(Male))(country(USA))(yearly_salary($70K - $90K))(member card(Bronze))(house_owner(N)) --> (buy(793)), {C=0.0005039814534825119, S=0.00048633401420095323}
+(gender(Male))(country(USA))(yearly_salary($70K - $90K))(member card(Bronze))(house_owner(N)) --> (buy(820)), {C=0.0007055740348755165, S=0.0006808676198813345}
+(gender(Male))(country(USA))(yearly_salary($70K - $90K))(member card(Bronze))(house_owner(N)) --> (buy(984)), {C=0.0005039814534825119, S=0.00048633401420095323}

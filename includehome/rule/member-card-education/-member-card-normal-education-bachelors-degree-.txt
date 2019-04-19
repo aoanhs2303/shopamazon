@@ -1,0 +1,3 @@
+(member card(Normal))(education(Bachelors Degree)) --> (buy(41)), {C=0.0010233319688907083, S=0.00048633401420095323}
+(member card(Normal))(education(Bachelors Degree)) --> (buy(915)), {C=0.0010233319688907083, S=0.00048633401420095323}
+(member card(Normal))(education(Bachelors Degree)) --> (buy(1413)), {C=0.0010233319688907083, S=0.00048633401420095323}

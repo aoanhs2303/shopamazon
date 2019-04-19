@@ -1,0 +1,2 @@
+(age_group(YoungAdults))(education(Partial College))(marital_status(S)) --> (buy(506)), {C=0.0007554011179936547, S=0.00048633401420095323}
+(age_group(YoungAdults))(education(Partial College))(marital_status(S)) --> (buy(1208)), {C=0.0007554011179936547, S=0.00048633401420095323}

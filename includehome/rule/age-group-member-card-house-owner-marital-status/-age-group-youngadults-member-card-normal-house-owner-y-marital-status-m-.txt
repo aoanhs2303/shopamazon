@@ -1,0 +1,2 @@
+(age_group(YoungAdults))(member card(Normal))(house_owner(Y))(marital_status(M)) --> (buy(590)), {C=0.0006930807439066651, S=0.0005836008170411438}
+(age_group(YoungAdults))(member card(Normal))(house_owner(Y))(marital_status(M)) --> (buy(1462)), {C=0.0005775672865888877, S=0.00048633401420095323}

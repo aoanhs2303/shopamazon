@@ -1,0 +1,8 @@
+(gender(Male))(country(USA))(yearly_salary($50K - $70K))(education(Bachelors Degree))(house_owner(N))(marital_status(S)) --> (buy(639)), {C=0.0005060216577269508, S=0.00048633401420095323}
+(gender(Male))(country(USA))(yearly_salary($50K - $70K))(education(Bachelors Degree))(house_owner(N))(marital_status(S)) --> (buy(819)), {C=0.0005060216577269508, S=0.00048633401420095323}
+(gender(Male))(country(USA))(yearly_salary($50K - $70K))(education(Bachelors Degree))(house_owner(N))(marital_status(S)) --> (buy(897)), {C=0.0005060216577269508, S=0.00048633401420095323}
+(gender(Male))(country(USA))(yearly_salary($50K - $70K))(education(Bachelors Degree))(house_owner(N))(marital_status(S)) --> (buy(1046)), {C=0.0005060216577269508, S=0.00048633401420095323}
+(gender(Male))(country(USA))(yearly_salary($50K - $70K))(education(Bachelors Degree))(house_owner(N))(marital_status(S)) --> (buy(1120)), {C=0.0005060216577269508, S=0.00048633401420095323}
+(gender(Male))(country(USA))(yearly_salary($50K - $70K))(education(Bachelors Degree))(house_owner(N))(marital_status(S)) --> (buy(1124)), {C=0.0005060216577269508, S=0.00048633401420095323}
+(gender(Male))(country(USA))(yearly_salary($50K - $70K))(education(Bachelors Degree))(house_owner(N))(marital_status(S)) --> (buy(1145)), {C=0.0005060216577269508, S=0.00048633401420095323}
+(gender(Male))(country(USA))(yearly_salary($50K - $70K))(education(Bachelors Degree))(house_owner(N))(marital_status(S)) --> (buy(1209)), {C=0.0005060216577269508, S=0.00048633401420095323}

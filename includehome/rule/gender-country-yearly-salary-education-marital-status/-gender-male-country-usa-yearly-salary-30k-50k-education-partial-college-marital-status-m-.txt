@@ -1,0 +1,4 @@
+(gender(Male))(country(USA))(yearly_salary($30K - $50K))(education(Partial College))(marital_status(M)) --> (buy(355)), {C=0.000508957654723127, S=0.00048633401420095323}
+(gender(Male))(country(USA))(yearly_salary($30K - $50K))(education(Partial College))(marital_status(M)) --> (buy(612)), {C=0.000508957654723127, S=0.00048633401420095323}
+(gender(Male))(country(USA))(yearly_salary($30K - $50K))(education(Partial College))(marital_status(M)) --> (buy(935)), {C=0.000508957654723127, S=0.00048633401420095323}
+(gender(Male))(country(USA))(yearly_salary($30K - $50K))(education(Partial College))(marital_status(M)) --> (buy(1438)), {C=0.000508957654723127, S=0.00048633401420095323}

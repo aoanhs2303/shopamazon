@@ -1,0 +1,16 @@
+(yearly_salary($70K - $90K))(house_owner(Y))(marital_status(S)) --> (buy(36)), {C=0.0005466273095003827, S=0.00048633401420095323}
+(yearly_salary($70K - $90K))(house_owner(Y))(marital_status(S)) --> (buy(53)), {C=0.0005466273095003827, S=0.00048633401420095323}
+(yearly_salary($70K - $90K))(house_owner(Y))(marital_status(S)) --> (buy(421)), {C=0.0006559527714004591, S=0.0005836008170411438}
+(yearly_salary($70K - $90K))(house_owner(Y))(marital_status(S)) --> (buy(440)), {C=0.0005466273095003827, S=0.00048633401420095323}
+(yearly_salary($70K - $90K))(house_owner(Y))(marital_status(S)) --> (buy(511)), {C=0.0006559527714004591, S=0.0005836008170411438}
+(yearly_salary($70K - $90K))(house_owner(Y))(marital_status(S)) --> (buy(515)), {C=0.0005466273095003827, S=0.00048633401420095323}
+(yearly_salary($70K - $90K))(house_owner(Y))(marital_status(S)) --> (buy(519)), {C=0.0007652782333005357, S=0.0006808676198813345}
+(yearly_salary($70K - $90K))(house_owner(Y))(marital_status(S)) --> (buy(525)), {C=0.0005466273095003827, S=0.00048633401420095323}
+(yearly_salary($70K - $90K))(house_owner(Y))(marital_status(S)) --> (buy(554)), {C=0.0005466273095003827, S=0.00048633401420095323}
+(yearly_salary($70K - $90K))(house_owner(Y))(marital_status(S)) --> (buy(639)), {C=0.0005466273095003827, S=0.00048633401420095323}
+(yearly_salary($70K - $90K))(house_owner(Y))(marital_status(S)) --> (buy(818)), {C=0.0006559527714004591, S=0.0005836008170411438}
+(yearly_salary($70K - $90K))(house_owner(Y))(marital_status(S)) --> (buy(1013)), {C=0.0005466273095003827, S=0.00048633401420095323}
+(yearly_salary($70K - $90K))(house_owner(Y))(marital_status(S)) --> (buy(1039)), {C=0.0005466273095003827, S=0.00048633401420095323}
+(yearly_salary($70K - $90K))(house_owner(Y))(marital_status(S)) --> (buy(1105)), {C=0.0005466273095003827, S=0.00048633401420095323}
+(yearly_salary($70K - $90K))(house_owner(Y))(marital_status(S)) --> (buy(1427)), {C=0.0005466273095003827, S=0.00048633401420095323}
+(yearly_salary($70K - $90K))(house_owner(Y))(marital_status(S)) --> (buy(1452)), {C=0.0006559527714004591, S=0.0005836008170411438}

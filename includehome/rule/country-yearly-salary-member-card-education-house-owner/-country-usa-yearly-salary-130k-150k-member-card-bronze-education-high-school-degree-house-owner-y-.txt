@@ -1,0 +1,2 @@
+(country(USA))(yearly_salary($130K - $150K))(member card(Bronze))(education(High School Degree))(house_owner(Y)) --> (buy(584)), {C=0.0005057657293141817, S=0.00048633401420095323}
+(country(USA))(yearly_salary($130K - $150K))(member card(Bronze))(education(High School Degree))(house_owner(Y)) --> (buy(1095)), {C=0.0005057657293141817, S=0.00048633401420095323}

@@ -1,0 +1,1 @@
+(yearly_salary($50K - $70K))(member card(Silver))(education(Bachelors Degree)) --> (buy(123)), {C=0.0013646288209606988, S=0.00048633401420095323}

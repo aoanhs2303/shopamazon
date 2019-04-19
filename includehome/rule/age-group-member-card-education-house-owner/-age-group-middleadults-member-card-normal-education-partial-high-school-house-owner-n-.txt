@@ -1,0 +1,9 @@
+(age_group(MiddleAdults))(member card(Normal))(education(Partial High School))(house_owner(N)) --> (buy(519)), {C=0.0007025432064071941, S=0.00048633401420095323}
+(age_group(MiddleAdults))(member card(Normal))(education(Partial High School))(house_owner(N)) --> (buy(907)), {C=0.0007025432064071941, S=0.00048633401420095323}
+(age_group(MiddleAdults))(member card(Normal))(education(Partial High School))(house_owner(N)) --> (buy(1522)), {C=0.0007025432064071941, S=0.00048633401420095323}
+(age_group(MiddleAdults))(member card(Normal))(education(Partial High School))(house_owner(N)) --> (buy(519)), {C=0.0007025432064071941, S=0.00048633401420095323}
+(age_group(MiddleAdults))(member card(Normal))(education(Partial High School))(house_owner(N)) --> (buy(907)), {C=0.0007025432064071941, S=0.00048633401420095323}
+(age_group(MiddleAdults))(member card(Normal))(education(Partial High School))(house_owner(N)) --> (buy(1522)), {C=0.0007025432064071941, S=0.00048633401420095323}
+(age_group(MiddleAdults))(member card(Normal))(education(Partial High School))(house_owner(N)) --> (buy(519)), {C=0.0007025432064071941, S=0.00048633401420095323}
+(age_group(MiddleAdults))(member card(Normal))(education(Partial High School))(house_owner(N)) --> (buy(907)), {C=0.0007025432064071941, S=0.00048633401420095323}
+(age_group(MiddleAdults))(member card(Normal))(education(Partial High School))(house_owner(N)) --> (buy(1522)), {C=0.0007025432064071941, S=0.00048633401420095323}

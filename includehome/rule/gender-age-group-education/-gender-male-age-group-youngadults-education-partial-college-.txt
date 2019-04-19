@@ -1,0 +1,1 @@
+(gender(Male))(age_group(YoungAdults))(education(Partial College)) --> (buy(1368)), {C=0.0007531254707034193, S=0.00048633401420095323}

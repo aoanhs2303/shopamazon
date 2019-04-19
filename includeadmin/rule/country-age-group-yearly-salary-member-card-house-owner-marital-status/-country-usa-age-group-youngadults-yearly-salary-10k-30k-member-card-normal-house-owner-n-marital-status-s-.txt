@@ -1,0 +1,2 @@
+(country(USA))(age_group(YoungAdults))(yearly_salary($10K - $30K))(member card(Normal))(house_owner(N))(marital_status(S)) --> (buy(1308)), {C=0.0005191568892119199, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($10K - $30K))(member card(Normal))(house_owner(N))(marital_status(S)) --> (buy(1355)), {C=0.0005191568892119199, S=0.00048633401420095323}

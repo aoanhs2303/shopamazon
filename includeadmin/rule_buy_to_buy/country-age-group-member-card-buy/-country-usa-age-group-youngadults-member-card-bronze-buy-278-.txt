@@ -1,0 +1,1 @@
+(country(USA))(age_group(YoungAdults))(member card(Bronze))(buy(278)) --> (buy(914)), {C=0.0006451612903225805, S=0.0005836008170411438}

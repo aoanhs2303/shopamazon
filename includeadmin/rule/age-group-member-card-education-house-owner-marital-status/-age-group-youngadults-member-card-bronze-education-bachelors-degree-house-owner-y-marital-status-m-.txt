@@ -1,0 +1,2 @@
+(age_group(YoungAdults))(member card(Bronze))(education(Bachelors Degree))(house_owner(Y))(marital_status(M)) --> (buy(455)), {C=0.0005206706237634072, S=0.00048633401420095323}
+(age_group(YoungAdults))(member card(Bronze))(education(Bachelors Degree))(house_owner(Y))(marital_status(M)) --> (buy(1299)), {C=0.0005206706237634072, S=0.00048633401420095323}

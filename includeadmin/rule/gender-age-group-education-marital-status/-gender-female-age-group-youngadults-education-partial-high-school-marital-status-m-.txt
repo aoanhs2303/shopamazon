@@ -1,0 +1,3 @@
+(gender(Female))(age_group(YoungAdults))(education(Partial High School))(marital_status(M)) --> (buy(634)), {C=0.0005652272213429799, S=0.00048633401420095323}
+(gender(Female))(age_group(YoungAdults))(education(Partial High School))(marital_status(M)) --> (buy(827)), {C=0.0005652272213429799, S=0.00048633401420095323}
+(gender(Female))(age_group(YoungAdults))(education(Partial High School))(marital_status(M)) --> (buy(881)), {C=0.0005652272213429799, S=0.00048633401420095323}

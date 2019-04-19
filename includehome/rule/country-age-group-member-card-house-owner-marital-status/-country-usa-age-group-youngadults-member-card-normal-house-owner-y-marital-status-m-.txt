@@ -1,0 +1,2 @@
+(country(USA))(age_group(YoungAdults))(member card(Normal))(house_owner(Y))(marital_status(M)) --> (buy(590)), {C=0.0006114338122898196, S=0.0005836008170411438}
+(country(USA))(age_group(YoungAdults))(member card(Normal))(house_owner(Y))(marital_status(M)) --> (buy(1462)), {C=0.0005095281769081831, S=0.00048633401420095323}

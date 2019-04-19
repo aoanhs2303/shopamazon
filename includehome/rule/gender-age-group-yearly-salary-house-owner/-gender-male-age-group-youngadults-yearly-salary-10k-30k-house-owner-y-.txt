@@ -1,0 +1,1 @@
+(gender(Male))(age_group(YoungAdults))(yearly_salary($10K - $30K))(house_owner(Y)) --> (buy(588)), {C=0.0005498735290883097, S=0.00048633401420095323}

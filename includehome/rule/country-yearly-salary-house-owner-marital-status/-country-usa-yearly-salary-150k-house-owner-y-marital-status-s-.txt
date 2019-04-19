@@ -1,0 +1,2 @@
+(country(USA))(yearly_salary($150K +))(house_owner(Y))(marital_status(S)) --> (buy(603)), {C=0.000505356781888013, S=0.00048633401420095323}
+(country(USA))(yearly_salary($150K +))(house_owner(Y))(marital_status(S)) --> (buy(1052)), {C=0.000505356781888013, S=0.00048633401420095323}

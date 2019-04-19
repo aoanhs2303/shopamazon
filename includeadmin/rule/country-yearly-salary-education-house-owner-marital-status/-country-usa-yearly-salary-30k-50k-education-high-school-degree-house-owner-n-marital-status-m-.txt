@@ -1,0 +1,14 @@
+(country(USA))(yearly_salary($30K - $50K))(education(High School Degree))(house_owner(N))(marital_status(M)) --> (buy(221)), {C=0.0005052546483427648, S=0.00048633401420095323}
+(country(USA))(yearly_salary($30K - $50K))(education(High School Degree))(house_owner(N))(marital_status(M)) --> (buy(441)), {C=0.0005052546483427648, S=0.00048633401420095323}
+(country(USA))(yearly_salary($30K - $50K))(education(High School Degree))(house_owner(N))(marital_status(M)) --> (buy(486)), {C=0.0005052546483427648, S=0.00048633401420095323}
+(country(USA))(yearly_salary($30K - $50K))(education(High School Degree))(house_owner(N))(marital_status(M)) --> (buy(518)), {C=0.0005052546483427648, S=0.00048633401420095323}
+(country(USA))(yearly_salary($30K - $50K))(education(High School Degree))(house_owner(N))(marital_status(M)) --> (buy(549)), {C=0.0005052546483427648, S=0.00048633401420095323}
+(country(USA))(yearly_salary($30K - $50K))(education(High School Degree))(house_owner(N))(marital_status(M)) --> (buy(570)), {C=0.0005052546483427648, S=0.00048633401420095323}
+(country(USA))(yearly_salary($30K - $50K))(education(High School Degree))(house_owner(N))(marital_status(M)) --> (buy(760)), {C=0.0005052546483427648, S=0.00048633401420095323}
+(country(USA))(yearly_salary($30K - $50K))(education(High School Degree))(house_owner(N))(marital_status(M)) --> (buy(1036)), {C=0.0005052546483427648, S=0.00048633401420095323}
+(country(USA))(yearly_salary($30K - $50K))(education(High School Degree))(house_owner(N))(marital_status(M)) --> (buy(1037)), {C=0.0005052546483427648, S=0.00048633401420095323}
+(country(USA))(yearly_salary($30K - $50K))(education(High School Degree))(house_owner(N))(marital_status(M)) --> (buy(1046)), {C=0.0005052546483427648, S=0.00048633401420095323}
+(country(USA))(yearly_salary($30K - $50K))(education(High School Degree))(house_owner(N))(marital_status(M)) --> (buy(1086)), {C=0.0007073565076798706, S=0.0006808676198813345}
+(country(USA))(yearly_salary($30K - $50K))(education(High School Degree))(house_owner(N))(marital_status(M)) --> (buy(1104)), {C=0.0006063055780113176, S=0.0005836008170411438}
+(country(USA))(yearly_salary($30K - $50K))(education(High School Degree))(house_owner(N))(marital_status(M)) --> (buy(1362)), {C=0.0005052546483427648, S=0.00048633401420095323}
+(country(USA))(yearly_salary($30K - $50K))(education(High School Degree))(house_owner(N))(marital_status(M)) --> (buy(1389)), {C=0.0005052546483427648, S=0.00048633401420095323}

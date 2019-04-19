@@ -1,0 +1,2 @@
+(gender(Male))(age_group(YoungAdults))(education(High School Degree))(house_owner(Y)) --> (buy(921)), {C=0.0005463286713286714, S=0.00048633401420095323}
+(gender(Male))(age_group(YoungAdults))(education(High School Degree))(house_owner(Y)) --> (buy(1394)), {C=0.0005463286713286714, S=0.00048633401420095323}

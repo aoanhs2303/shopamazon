@@ -1,0 +1,11 @@
+(gender(Male))(country(USA))(member card(Silver))(marital_status(M)) --> (buy(231)), {C=0.0005188336619279859, S=0.00048633401420095323}
+(gender(Male))(country(USA))(member card(Silver))(marital_status(M)) --> (buy(404)), {C=0.0005188336619279859, S=0.00048633401420095323}
+(gender(Male))(country(USA))(member card(Silver))(marital_status(M)) --> (buy(568)), {C=0.0005188336619279859, S=0.00048633401420095323}
+(gender(Male))(country(USA))(member card(Silver))(marital_status(M)) --> (buy(767)), {C=0.0005188336619279859, S=0.00048633401420095323}
+(gender(Male))(country(USA))(member card(Silver))(marital_status(M)) --> (buy(798)), {C=0.0005188336619279859, S=0.00048633401420095323}
+(gender(Male))(country(USA))(member card(Silver))(marital_status(M)) --> (buy(833)), {C=0.0005188336619279859, S=0.00048633401420095323}
+(gender(Male))(country(USA))(member card(Silver))(marital_status(M)) --> (buy(935)), {C=0.0005188336619279859, S=0.00048633401420095323}
+(gender(Male))(country(USA))(member card(Silver))(marital_status(M)) --> (buy(1022)), {C=0.0005188336619279859, S=0.00048633401420095323}
+(gender(Male))(country(USA))(member card(Silver))(marital_status(M)) --> (buy(1127)), {C=0.0005188336619279859, S=0.00048633401420095323}
+(gender(Male))(country(USA))(member card(Silver))(marital_status(M)) --> (buy(1172)), {C=0.0005188336619279859, S=0.00048633401420095323}
+(gender(Male))(country(USA))(member card(Silver))(marital_status(M)) --> (buy(1383)), {C=0.0005188336619279859, S=0.00048633401420095323}

@@ -1,0 +1,3 @@
+(gender(Male))(country(USA))(age_group(MiddleAdults))(yearly_salary($30K - $50K))(member card(Bronze))(house_owner(N))(marital_status(S)) --> (buy(642)), {C=0.0004951475539710833, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(MiddleAdults))(yearly_salary($30K - $50K))(member card(Bronze))(house_owner(N))(marital_status(S)) --> (buy(642)), {C=0.0004951475539710833, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(MiddleAdults))(yearly_salary($30K - $50K))(member card(Bronze))(house_owner(N))(marital_status(S)) --> (buy(642)), {C=0.0004951475539710833, S=0.00048633401420095323}

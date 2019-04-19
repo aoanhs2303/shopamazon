@@ -1,0 +1,1 @@
+(education(Bachelors Degree))(house_owner(N))(buy(484)) --> (buy(41)), {C=0.001064773735581189, S=0.0005836008170411438}

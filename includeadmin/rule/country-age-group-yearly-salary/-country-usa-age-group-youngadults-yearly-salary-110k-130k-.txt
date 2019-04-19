@@ -1,0 +1,1 @@
+(country(USA))(age_group(YoungAdults))(yearly_salary($110K - $130K)) --> (buy(364)), {C=0.0006172077521293668, S=0.00048633401420095323}

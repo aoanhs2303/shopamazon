@@ -1,0 +1,12 @@
+(country(USA))(age_group(MiddleAdults))(member card(Bronze))(education(Partial High School)) --> (buy(422)), {C=0.0005105687736138058, S=0.00048633401420095323}
+(country(USA))(age_group(MiddleAdults))(member card(Bronze))(education(Partial High School)) --> (buy(562)), {C=0.0005105687736138058, S=0.00048633401420095323}
+(country(USA))(age_group(MiddleAdults))(member card(Bronze))(education(Partial High School)) --> (buy(599)), {C=0.0005105687736138058, S=0.00048633401420095323}
+(country(USA))(age_group(MiddleAdults))(member card(Bronze))(education(Partial High School)) --> (buy(1337)), {C=0.0005105687736138058, S=0.00048633401420095323}
+(country(USA))(age_group(MiddleAdults))(member card(Bronze))(education(Partial High School)) --> (buy(422)), {C=0.0005105687736138058, S=0.00048633401420095323}
+(country(USA))(age_group(MiddleAdults))(member card(Bronze))(education(Partial High School)) --> (buy(562)), {C=0.0005105687736138058, S=0.00048633401420095323}
+(country(USA))(age_group(MiddleAdults))(member card(Bronze))(education(Partial High School)) --> (buy(599)), {C=0.0005105687736138058, S=0.00048633401420095323}
+(country(USA))(age_group(MiddleAdults))(member card(Bronze))(education(Partial High School)) --> (buy(1337)), {C=0.0005105687736138058, S=0.00048633401420095323}
+(country(USA))(age_group(MiddleAdults))(member card(Bronze))(education(Partial High School)) --> (buy(422)), {C=0.0005105687736138058, S=0.00048633401420095323}
+(country(USA))(age_group(MiddleAdults))(member card(Bronze))(education(Partial High School)) --> (buy(562)), {C=0.0005105687736138058, S=0.00048633401420095323}
+(country(USA))(age_group(MiddleAdults))(member card(Bronze))(education(Partial High School)) --> (buy(599)), {C=0.0005105687736138058, S=0.00048633401420095323}
+(country(USA))(age_group(MiddleAdults))(member card(Bronze))(education(Partial High School)) --> (buy(1337)), {C=0.0005105687736138058, S=0.00048633401420095323}

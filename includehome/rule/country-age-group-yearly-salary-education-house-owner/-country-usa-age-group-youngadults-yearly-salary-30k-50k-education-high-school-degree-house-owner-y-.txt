@@ -1,0 +1,12 @@
+(country(USA))(age_group(YoungAdults))(yearly_salary($30K - $50K))(education(High School Degree))(house_owner(Y)) --> (buy(11)), {C=0.000513347022587269, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($30K - $50K))(education(High School Degree))(house_owner(Y)) --> (buy(465)), {C=0.000513347022587269, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($30K - $50K))(education(High School Degree))(house_owner(Y)) --> (buy(517)), {C=0.000513347022587269, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($30K - $50K))(education(High School Degree))(house_owner(Y)) --> (buy(575)), {C=0.000513347022587269, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($30K - $50K))(education(High School Degree))(house_owner(Y)) --> (buy(731)), {C=0.000513347022587269, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($30K - $50K))(education(High School Degree))(house_owner(Y)) --> (buy(921)), {C=0.000513347022587269, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($30K - $50K))(education(High School Degree))(house_owner(Y)) --> (buy(960)), {C=0.000513347022587269, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($30K - $50K))(education(High School Degree))(house_owner(Y)) --> (buy(996)), {C=0.000513347022587269, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($30K - $50K))(education(High School Degree))(house_owner(Y)) --> (buy(1003)), {C=0.000513347022587269, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($30K - $50K))(education(High School Degree))(house_owner(Y)) --> (buy(1184)), {C=0.000513347022587269, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($30K - $50K))(education(High School Degree))(house_owner(Y)) --> (buy(1339)), {C=0.000513347022587269, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($30K - $50K))(education(High School Degree))(house_owner(Y)) --> (buy(1394)), {C=0.000513347022587269, S=0.00048633401420095323}

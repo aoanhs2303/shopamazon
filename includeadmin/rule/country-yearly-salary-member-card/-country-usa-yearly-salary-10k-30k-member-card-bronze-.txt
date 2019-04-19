@@ -1,0 +1,1 @@
+(country(USA))(yearly_salary($10K - $30K))(member card(Bronze)) --> (buy(1505)), {C=0.0005197505197505198, S=0.00048633401420095323}

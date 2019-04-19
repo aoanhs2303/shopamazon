@@ -1,0 +1,5 @@
+(gender(Male))(yearly_salary($30K - $50K))(member card(Bronze))(education(Partial High School)) --> (buy(446)), {C=0.0005232862375719519, S=0.00048633401420095323}
+(gender(Male))(yearly_salary($30K - $50K))(member card(Bronze))(education(Partial High School)) --> (buy(632)), {C=0.0005232862375719519, S=0.00048633401420095323}
+(gender(Male))(yearly_salary($30K - $50K))(member card(Bronze))(education(Partial High School)) --> (buy(998)), {C=0.0005232862375719519, S=0.00048633401420095323}
+(gender(Male))(yearly_salary($30K - $50K))(member card(Bronze))(education(Partial High School)) --> (buy(1289)), {C=0.0005232862375719519, S=0.00048633401420095323}
+(gender(Male))(yearly_salary($30K - $50K))(member card(Bronze))(education(Partial High School)) --> (buy(1381)), {C=0.0006279434850863421, S=0.0005836008170411438}

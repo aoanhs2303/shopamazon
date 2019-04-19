@@ -1,0 +1,3 @@
+(gender(Male))(yearly_salary($110K - $130K))(house_owner(Y)) --> (buy(109)), {C=0.0006006006006006006, S=0.00048633401420095323}
+(gender(Male))(yearly_salary($110K - $130K))(house_owner(Y)) --> (buy(791)), {C=0.0007207207207207206, S=0.0005836008170411438}
+(gender(Male))(yearly_salary($110K - $130K))(house_owner(Y)) --> (buy(930)), {C=0.0006006006006006006, S=0.00048633401420095323}

@@ -1,0 +1,8 @@
+(gender(Male))(country(USA))(age_group(YoungAdults))(yearly_salary($10K - $30K))(education(Partial High School)) --> (buy(287)), {C=0.0005270369979972594, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(YoungAdults))(yearly_salary($10K - $30K))(education(Partial High School)) --> (buy(404)), {C=0.0005270369979972594, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(YoungAdults))(yearly_salary($10K - $30K))(education(Partial High School)) --> (buy(588)), {C=0.0006324443975967112, S=0.0005836008170411438}
+(gender(Male))(country(USA))(age_group(YoungAdults))(yearly_salary($10K - $30K))(education(Partial High School)) --> (buy(891)), {C=0.0005270369979972594, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(YoungAdults))(yearly_salary($10K - $30K))(education(Partial High School)) --> (buy(909)), {C=0.0005270369979972594, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(YoungAdults))(yearly_salary($10K - $30K))(education(Partial High School)) --> (buy(956)), {C=0.0005270369979972594, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(YoungAdults))(yearly_salary($10K - $30K))(education(Partial High School)) --> (buy(1146)), {C=0.0005270369979972594, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(YoungAdults))(yearly_salary($10K - $30K))(education(Partial High School)) --> (buy(1521)), {C=0.0005270369979972594, S=0.00048633401420095323}

@@ -16,7 +16,7 @@
                 <li class="dropdown mega-menu"> 
                   <a>Sản phẩm <span class="menu-label hot-menu hidden-xs">hot</span> </a>  
                 </li>
-                <li class="dropdown hidden-sm"> <a href="<?php echo base_url() ?>dich-vu.html">Dịch vụ<span class="menu-label new-menu hidden-xs">new</span> </a> </li>
+                <li class="dropdown hidden-sm"> <a href="<?php echo base_url() ?>for-you.html">For you<span class="menu-label new-menu hidden-xs">new</span> </a> </li>
                 <!-- <li class="dropdown hidden-sm"> <a href="category.html">Tin tức</a> </li> -->
                 <li class="dropdown"> <a href="<?php echo base_url(); ?>ban-do.html">Bản đồ</a> </li>
                 <li class="dropdown"> <a href="<?php echo base_url(); ?>huong-dan-mua-hang.html">Hướng dẫn mua hàng</a> </li>
@@ -41,9 +41,9 @@
                 </style>
                 
                <?php 
-                  if (isset($_SESSION['Username']) )
+                  if (isset($_SESSION['Customer_name']) )
                   { 
-                    $nameUser = "<i class=\"icon fa fa-user\"></i> " . $_SESSION['Username']; ?> 
+                    $nameUser = "<i class=\"icon fa fa-user\"></i> " . $_SESSION['Customer_name']; ?> 
                     <li class="dropdown navbar-right special-menu user"> 
                       <a data-hover="dropdown" class="dropdown-toggle" data-toggle="dropdown" href="<?php echo base_url() . "home/login" ?>"> <?php echo $nameUser; ?></a> 
                         <ul class="dropdown-menu logout_link">

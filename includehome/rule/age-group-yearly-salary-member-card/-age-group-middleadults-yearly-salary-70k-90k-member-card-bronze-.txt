@@ -1,0 +1,15 @@
+(age_group(MiddleAdults))(yearly_salary($70K - $90K))(member card(Bronze)) --> (buy(53)), {C=0.0008591065292096219, S=0.0005836008170411438}
+(age_group(MiddleAdults))(yearly_salary($70K - $90K))(member card(Bronze)) --> (buy(542)), {C=0.000715922107674685, S=0.00048633401420095323}
+(age_group(MiddleAdults))(yearly_salary($70K - $90K))(member card(Bronze)) --> (buy(1347)), {C=0.0008591065292096219, S=0.0005836008170411438}
+(age_group(MiddleAdults))(yearly_salary($70K - $90K))(member card(Bronze)) --> (buy(1397)), {C=0.000715922107674685, S=0.00048633401420095323}
+(age_group(MiddleAdults))(yearly_salary($70K - $90K))(member card(Bronze)) --> (buy(1487)), {C=0.000715922107674685, S=0.00048633401420095323}
+(age_group(MiddleAdults))(yearly_salary($70K - $90K))(member card(Bronze)) --> (buy(53)), {C=0.0008591065292096219, S=0.0005836008170411438}
+(age_group(MiddleAdults))(yearly_salary($70K - $90K))(member card(Bronze)) --> (buy(542)), {C=0.000715922107674685, S=0.00048633401420095323}
+(age_group(MiddleAdults))(yearly_salary($70K - $90K))(member card(Bronze)) --> (buy(1347)), {C=0.0008591065292096219, S=0.0005836008170411438}
+(age_group(MiddleAdults))(yearly_salary($70K - $90K))(member card(Bronze)) --> (buy(1397)), {C=0.000715922107674685, S=0.00048633401420095323}
+(age_group(MiddleAdults))(yearly_salary($70K - $90K))(member card(Bronze)) --> (buy(1487)), {C=0.000715922107674685, S=0.00048633401420095323}
+(age_group(MiddleAdults))(yearly_salary($70K - $90K))(member card(Bronze)) --> (buy(53)), {C=0.0008591065292096219, S=0.0005836008170411438}
+(age_group(MiddleAdults))(yearly_salary($70K - $90K))(member card(Bronze)) --> (buy(542)), {C=0.000715922107674685, S=0.00048633401420095323}
+(age_group(MiddleAdults))(yearly_salary($70K - $90K))(member card(Bronze)) --> (buy(1347)), {C=0.0008591065292096219, S=0.0005836008170411438}
+(age_group(MiddleAdults))(yearly_salary($70K - $90K))(member card(Bronze)) --> (buy(1397)), {C=0.000715922107674685, S=0.00048633401420095323}
+(age_group(MiddleAdults))(yearly_salary($70K - $90K))(member card(Bronze)) --> (buy(1487)), {C=0.000715922107674685, S=0.00048633401420095323}

@@ -1,0 +1,3 @@
+(age_group(MiddleAdults))(yearly_salary($30K - $50K))(member card(Bronze))(education(High School Degree))(house_owner(N))(marital_status(S)) --> (buy(825)), {C=0.0005424758598242378, S=0.00048633401420095323}
+(age_group(MiddleAdults))(yearly_salary($30K - $50K))(member card(Bronze))(education(High School Degree))(house_owner(N))(marital_status(S)) --> (buy(825)), {C=0.0005424758598242378, S=0.00048633401420095323}
+(age_group(MiddleAdults))(yearly_salary($30K - $50K))(member card(Bronze))(education(High School Degree))(house_owner(N))(marital_status(S)) --> (buy(825)), {C=0.0005424758598242378, S=0.00048633401420095323}

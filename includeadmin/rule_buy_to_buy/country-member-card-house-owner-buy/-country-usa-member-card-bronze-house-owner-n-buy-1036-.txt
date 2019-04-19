@@ -1,0 +1,4 @@
+(country(USA))(member card(Bronze))(house_owner(N))(buy(1036)) --> (buy(830)), {C=0.0006307821698906643, S=0.0005836008170411438}
+(country(USA))(member card(Bronze))(house_owner(N))(buy(1036)) --> (buy(1013)), {C=0.0005256518082422204, S=0.00048633401420095323}
+(country(USA))(member card(Bronze))(house_owner(N))(buy(1036)) --> (buy(1357)), {C=0.0005256518082422204, S=0.00048633401420095323}
+(country(USA))(member card(Bronze))(house_owner(N))(buy(1036)) --> (buy(1412)), {C=0.0005256518082422204, S=0.00048633401420095323}

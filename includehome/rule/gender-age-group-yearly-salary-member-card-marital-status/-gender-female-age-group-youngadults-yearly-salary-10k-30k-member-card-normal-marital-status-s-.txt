@@ -1,0 +1,1 @@
+(gender(Female))(age_group(YoungAdults))(yearly_salary($10K - $30K))(member card(Normal))(marital_status(S)) --> (buy(1308)), {C=0.000569216757741348, S=0.00048633401420095323}

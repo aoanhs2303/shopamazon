@@ -1,0 +1,16 @@
+(yearly_salary($30K - $50K))(member card(Golden))(education(High School Degree))(house_owner(Y)) --> (buy(124)), {C=0.0006211180124223603, S=0.00048633401420095323}
+(yearly_salary($30K - $50K))(member card(Golden))(education(High School Degree))(house_owner(Y)) --> (buy(301)), {C=0.0006211180124223603, S=0.00048633401420095323}
+(yearly_salary($30K - $50K))(member card(Golden))(education(High School Degree))(house_owner(Y)) --> (buy(357)), {C=0.0007453416149068322, S=0.0005836008170411438}
+(yearly_salary($30K - $50K))(member card(Golden))(education(High School Degree))(house_owner(Y)) --> (buy(367)), {C=0.0006211180124223603, S=0.00048633401420095323}
+(yearly_salary($30K - $50K))(member card(Golden))(education(High School Degree))(house_owner(Y)) --> (buy(417)), {C=0.0006211180124223603, S=0.00048633401420095323}
+(yearly_salary($30K - $50K))(member card(Golden))(education(High School Degree))(house_owner(Y)) --> (buy(445)), {C=0.0006211180124223603, S=0.00048633401420095323}
+(yearly_salary($30K - $50K))(member card(Golden))(education(High School Degree))(house_owner(Y)) --> (buy(447)), {C=0.0006211180124223603, S=0.00048633401420095323}
+(yearly_salary($30K - $50K))(member card(Golden))(education(High School Degree))(house_owner(Y)) --> (buy(454)), {C=0.0006211180124223603, S=0.00048633401420095323}
+(yearly_salary($30K - $50K))(member card(Golden))(education(High School Degree))(house_owner(Y)) --> (buy(945)), {C=0.0006211180124223603, S=0.00048633401420095323}
+(yearly_salary($30K - $50K))(member card(Golden))(education(High School Degree))(house_owner(Y)) --> (buy(952)), {C=0.0006211180124223603, S=0.00048633401420095323}
+(yearly_salary($30K - $50K))(member card(Golden))(education(High School Degree))(house_owner(Y)) --> (buy(1002)), {C=0.0006211180124223603, S=0.00048633401420095323}
+(yearly_salary($30K - $50K))(member card(Golden))(education(High School Degree))(house_owner(Y)) --> (buy(1100)), {C=0.0007453416149068322, S=0.0005836008170411438}
+(yearly_salary($30K - $50K))(member card(Golden))(education(High School Degree))(house_owner(Y)) --> (buy(1275)), {C=0.0006211180124223603, S=0.00048633401420095323}
+(yearly_salary($30K - $50K))(member card(Golden))(education(High School Degree))(house_owner(Y)) --> (buy(1382)), {C=0.0006211180124223603, S=0.00048633401420095323}
+(yearly_salary($30K - $50K))(member card(Golden))(education(High School Degree))(house_owner(Y)) --> (buy(1473)), {C=0.0006211180124223603, S=0.00048633401420095323}
+(yearly_salary($30K - $50K))(member card(Golden))(education(High School Degree))(house_owner(Y)) --> (buy(1483)), {C=0.0007453416149068322, S=0.0005836008170411438}

@@ -1,0 +1,1 @@
+(country(USA))(education(Partial High School))(house_owner(Y))(buy(1447)) --> (buy(1422)), {C=0.0005296049147336088, S=0.00048633401420095323}

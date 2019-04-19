@@ -1,0 +1,3 @@
+(gender(Male))(yearly_salary($50K - $70K))(member card(Bronze))(education(Bachelors Degree))(house_owner(N))(marital_status(S)) --> (buy(639)), {C=0.0005269814502529512, S=0.00048633401420095323}
+(gender(Male))(yearly_salary($50K - $70K))(member card(Bronze))(education(Bachelors Degree))(house_owner(N))(marital_status(S)) --> (buy(897)), {C=0.0005269814502529512, S=0.00048633401420095323}
+(gender(Male))(yearly_salary($50K - $70K))(member card(Bronze))(education(Bachelors Degree))(house_owner(N))(marital_status(S)) --> (buy(1145)), {C=0.0005269814502529512, S=0.00048633401420095323}

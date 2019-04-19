@@ -1,0 +1,2 @@
+(gender(Male))(country(USA))(house_owner(N))(buy(984)) --> (buy(425)), {C=0.0005315190815350271, S=0.00048633401420095323}
+(gender(Male))(country(USA))(house_owner(N))(buy(984)) --> (buy(777)), {C=0.0005315190815350271, S=0.00048633401420095323}

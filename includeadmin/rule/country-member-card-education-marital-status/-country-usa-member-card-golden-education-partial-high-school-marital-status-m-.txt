@@ -1,0 +1,2 @@
+(country(USA))(member card(Golden))(education(Partial High School))(marital_status(M)) --> (buy(205)), {C=0.0005365382551775941, S=0.00048633401420095323}
+(country(USA))(member card(Golden))(education(Partial High School))(marital_status(M)) --> (buy(617)), {C=0.0005365382551775941, S=0.00048633401420095323}

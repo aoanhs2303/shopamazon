@@ -1,0 +1,5 @@
+(gender(Male))(education(Graduate Degree))(house_owner(Y)) --> (buy(21)), {C=0.0005970149253731343, S=0.00048633401420095323}
+(gender(Male))(education(Graduate Degree))(house_owner(Y)) --> (buy(329)), {C=0.0005970149253731343, S=0.00048633401420095323}
+(gender(Male))(education(Graduate Degree))(house_owner(Y)) --> (buy(730)), {C=0.0005970149253731343, S=0.00048633401420095323}
+(gender(Male))(education(Graduate Degree))(house_owner(Y)) --> (buy(855)), {C=0.0005970149253731343, S=0.00048633401420095323}
+(gender(Male))(education(Graduate Degree))(house_owner(Y)) --> (buy(865)), {C=0.0005970149253731343, S=0.00048633401420095323}

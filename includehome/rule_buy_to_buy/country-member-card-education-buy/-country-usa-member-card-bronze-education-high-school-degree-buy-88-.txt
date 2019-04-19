@@ -1,0 +1,1 @@
+(country(USA))(member card(Bronze))(education(High School Degree))(buy(88)) --> (buy(1448)), {C=0.0005389092476826903, S=0.00048633401420095323}

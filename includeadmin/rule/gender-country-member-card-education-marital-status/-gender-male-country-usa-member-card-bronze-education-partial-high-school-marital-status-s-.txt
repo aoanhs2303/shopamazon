@@ -1,0 +1,9 @@
+(gender(Male))(country(USA))(member card(Bronze))(education(Partial High School))(marital_status(S)) --> (buy(384)), {C=0.000495687518588282, S=0.00048633401420095323}
+(gender(Male))(country(USA))(member card(Bronze))(education(Partial High School))(marital_status(S)) --> (buy(410)), {C=0.000495687518588282, S=0.00048633401420095323}
+(gender(Male))(country(USA))(member card(Bronze))(education(Partial High School))(marital_status(S)) --> (buy(660)), {C=0.000495687518588282, S=0.00048633401420095323}
+(gender(Male))(country(USA))(member card(Bronze))(education(Partial High School))(marital_status(S)) --> (buy(982)), {C=0.000495687518588282, S=0.00048633401420095323}
+(gender(Male))(country(USA))(member card(Bronze))(education(Partial High School))(marital_status(S)) --> (buy(992)), {C=0.0006939625260235947, S=0.0006808676198813345}
+(gender(Male))(country(USA))(member card(Bronze))(education(Partial High School))(marital_status(S)) --> (buy(1034)), {C=0.000495687518588282, S=0.00048633401420095323}
+(gender(Male))(country(USA))(member card(Bronze))(education(Partial High School))(marital_status(S)) --> (buy(1088)), {C=0.000495687518588282, S=0.00048633401420095323}
+(gender(Male))(country(USA))(member card(Bronze))(education(Partial High School))(marital_status(S)) --> (buy(1434)), {C=0.000495687518588282, S=0.00048633401420095323}
+(gender(Male))(country(USA))(member card(Bronze))(education(Partial High School))(marital_status(S)) --> (buy(1489)), {C=0.000495687518588282, S=0.00048633401420095323}

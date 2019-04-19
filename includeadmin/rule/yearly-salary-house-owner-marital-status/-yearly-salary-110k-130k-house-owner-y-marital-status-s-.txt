@@ -1,0 +1,3 @@
+(yearly_salary($110K - $130K))(house_owner(Y))(marital_status(S)) --> (buy(398)), {C=0.0005539552404165743, S=0.00048633401420095323}
+(yearly_salary($110K - $130K))(house_owner(Y))(marital_status(S)) --> (buy(498)), {C=0.0005539552404165743, S=0.00048633401420095323}
+(yearly_salary($110K - $130K))(house_owner(Y))(marital_status(S)) --> (buy(849)), {C=0.0005539552404165743, S=0.00048633401420095323}

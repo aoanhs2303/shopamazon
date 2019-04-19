@@ -1,0 +1,4 @@
+(gender(Female))(member card(Bronze))(education(Graduate Degree))(house_owner(Y)) --> (buy(182)), {C=0.0005292125317527519, S=0.00048633401420095323}
+(gender(Female))(member card(Bronze))(education(Graduate Degree))(house_owner(Y)) --> (buy(869)), {C=0.0005292125317527519, S=0.00048633401420095323}
+(gender(Female))(member card(Bronze))(education(Graduate Degree))(house_owner(Y)) --> (buy(1252)), {C=0.0005292125317527519, S=0.00048633401420095323}
+(gender(Female))(member card(Bronze))(education(Graduate Degree))(house_owner(Y)) --> (buy(1488)), {C=0.0005292125317527519, S=0.00048633401420095323}

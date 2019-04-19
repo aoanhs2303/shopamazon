@@ -1,0 +1,1 @@
+(member card(Silver))(education(Bachelors Degree))(marital_status(M)) --> (buy(595)), {C=0.0007352941176470589, S=0.00048633401420095323}

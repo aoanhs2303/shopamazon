@@ -1,0 +1,15 @@
+(gender(Male))(country(USA))(age_group(MiddleAdults))(member card(Bronze))(house_owner(N))(marital_status(S)) --> (buy(107)), {C=0.0005968961400716276, S=0.0005836008170411438}
+(gender(Male))(country(USA))(age_group(MiddleAdults))(member card(Bronze))(house_owner(N))(marital_status(S)) --> (buy(639)), {C=0.0004974134500596896, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(MiddleAdults))(member card(Bronze))(house_owner(N))(marital_status(S)) --> (buy(642)), {C=0.0004974134500596896, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(MiddleAdults))(member card(Bronze))(house_owner(N))(marital_status(S)) --> (buy(819)), {C=0.0004974134500596896, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(MiddleAdults))(member card(Bronze))(house_owner(N))(marital_status(S)) --> (buy(1528)), {C=0.0004974134500596896, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(MiddleAdults))(member card(Bronze))(house_owner(N))(marital_status(S)) --> (buy(107)), {C=0.0005968961400716276, S=0.0005836008170411438}
+(gender(Male))(country(USA))(age_group(MiddleAdults))(member card(Bronze))(house_owner(N))(marital_status(S)) --> (buy(639)), {C=0.0004974134500596896, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(MiddleAdults))(member card(Bronze))(house_owner(N))(marital_status(S)) --> (buy(642)), {C=0.0004974134500596896, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(MiddleAdults))(member card(Bronze))(house_owner(N))(marital_status(S)) --> (buy(819)), {C=0.0004974134500596896, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(MiddleAdults))(member card(Bronze))(house_owner(N))(marital_status(S)) --> (buy(1528)), {C=0.0004974134500596896, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(MiddleAdults))(member card(Bronze))(house_owner(N))(marital_status(S)) --> (buy(107)), {C=0.0005968961400716276, S=0.0005836008170411438}
+(gender(Male))(country(USA))(age_group(MiddleAdults))(member card(Bronze))(house_owner(N))(marital_status(S)) --> (buy(639)), {C=0.0004974134500596896, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(MiddleAdults))(member card(Bronze))(house_owner(N))(marital_status(S)) --> (buy(642)), {C=0.0004974134500596896, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(MiddleAdults))(member card(Bronze))(house_owner(N))(marital_status(S)) --> (buy(819)), {C=0.0004974134500596896, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(MiddleAdults))(member card(Bronze))(house_owner(N))(marital_status(S)) --> (buy(1528)), {C=0.0004974134500596896, S=0.00048633401420095323}

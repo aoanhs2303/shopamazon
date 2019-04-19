@@ -1,0 +1,1 @@
+(country(USA))(age_group(YoungAdults))(education(Bachelors Degree))(house_owner(N))(marital_status(S)) --> (buy(1091)), {C=0.000518295843267337, S=0.00048633401420095323}

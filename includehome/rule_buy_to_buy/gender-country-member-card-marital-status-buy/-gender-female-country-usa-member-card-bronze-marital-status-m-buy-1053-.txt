@@ -1,0 +1,1 @@
+(gender(Female))(country(USA))(member card(Bronze))(marital_status(M))(buy(1053)) --> (buy(231)), {C=0.0004992012779552715, S=0.00048633401420095323}

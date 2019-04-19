@@ -1,0 +1,2 @@
+(gender(Female))(age_group(YoungAdults))(yearly_salary($10K - $30K))(member card(Normal))(house_owner(Y)) --> (buy(634)), {C=0.0005524251463926638, S=0.00048633401420095323}
+(gender(Female))(age_group(YoungAdults))(yearly_salary($10K - $30K))(member card(Normal))(house_owner(Y)) --> (buy(881)), {C=0.0005524251463926638, S=0.00048633401420095323}

@@ -1,0 +1,2 @@
+(gender(Male))(member card(Silver))(house_owner(N)) --> (buy(1065)), {C=0.0006669334400426837, S=0.00048633401420095323}
+(gender(Male))(member card(Silver))(house_owner(N)) --> (buy(1355)), {C=0.0006669334400426837, S=0.00048633401420095323}

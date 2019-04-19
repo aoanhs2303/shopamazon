@@ -1,0 +1,12 @@
+(country(USA))(member card(Bronze))(education(Graduate Degree))(marital_status(S)) --> (buy(21)), {C=0.0005218661935079845, S=0.00048633401420095323}
+(country(USA))(member card(Bronze))(education(Graduate Degree))(marital_status(S)) --> (buy(90)), {C=0.0005218661935079845, S=0.00048633401420095323}
+(country(USA))(member card(Bronze))(education(Graduate Degree))(marital_status(S)) --> (buy(359)), {C=0.0005218661935079845, S=0.00048633401420095323}
+(country(USA))(member card(Bronze))(education(Graduate Degree))(marital_status(S)) --> (buy(618)), {C=0.0005218661935079845, S=0.00048633401420095323}
+(country(USA))(member card(Bronze))(education(Graduate Degree))(marital_status(S)) --> (buy(690)), {C=0.0005218661935079845, S=0.00048633401420095323}
+(country(USA))(member card(Bronze))(education(Graduate Degree))(marital_status(S)) --> (buy(869)), {C=0.0005218661935079845, S=0.00048633401420095323}
+(country(USA))(member card(Bronze))(education(Graduate Degree))(marital_status(S)) --> (buy(881)), {C=0.0006262394322095814, S=0.0005836008170411438}
+(country(USA))(member card(Bronze))(education(Graduate Degree))(marital_status(S)) --> (buy(1021)), {C=0.0005218661935079845, S=0.00048633401420095323}
+(country(USA))(member card(Bronze))(education(Graduate Degree))(marital_status(S)) --> (buy(1134)), {C=0.0005218661935079845, S=0.00048633401420095323}
+(country(USA))(member card(Bronze))(education(Graduate Degree))(marital_status(S)) --> (buy(1237)), {C=0.0005218661935079845, S=0.00048633401420095323}
+(country(USA))(member card(Bronze))(education(Graduate Degree))(marital_status(S)) --> (buy(1443)), {C=0.0006262394322095814, S=0.0005836008170411438}
+(country(USA))(member card(Bronze))(education(Graduate Degree))(marital_status(S)) --> (buy(1452)), {C=0.0006262394322095814, S=0.0005836008170411438}

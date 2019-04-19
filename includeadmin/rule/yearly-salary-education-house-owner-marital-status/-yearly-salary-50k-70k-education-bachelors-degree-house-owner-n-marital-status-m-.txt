@@ -1,0 +1,4 @@
+(yearly_salary($50K - $70K))(education(Bachelors Degree))(house_owner(N))(marital_status(M)) --> (buy(271)), {C=0.0006994637444625787, S=0.0005836008170411438}
+(yearly_salary($50K - $70K))(education(Bachelors Degree))(house_owner(N))(marital_status(M)) --> (buy(362)), {C=0.0006994637444625787, S=0.0005836008170411438}
+(yearly_salary($50K - $70K))(education(Bachelors Degree))(house_owner(N))(marital_status(M)) --> (buy(404)), {C=0.0006994637444625787, S=0.0005836008170411438}
+(yearly_salary($50K - $70K))(education(Bachelors Degree))(house_owner(N))(marital_status(M)) --> (buy(947)), {C=0.0005828864537188156, S=0.00048633401420095323}

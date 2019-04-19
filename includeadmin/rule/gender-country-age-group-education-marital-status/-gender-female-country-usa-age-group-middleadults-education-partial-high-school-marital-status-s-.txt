@@ -1,0 +1,3 @@
+(gender(Female))(country(USA))(age_group(MiddleAdults))(education(Partial High School))(marital_status(S)) --> (buy(28)), {C=0.0005062778452814905, S=0.00048633401420095323}
+(gender(Female))(country(USA))(age_group(MiddleAdults))(education(Partial High School))(marital_status(S)) --> (buy(28)), {C=0.0005062778452814905, S=0.00048633401420095323}
+(gender(Female))(country(USA))(age_group(MiddleAdults))(education(Partial High School))(marital_status(S)) --> (buy(28)), {C=0.0005062778452814905, S=0.00048633401420095323}

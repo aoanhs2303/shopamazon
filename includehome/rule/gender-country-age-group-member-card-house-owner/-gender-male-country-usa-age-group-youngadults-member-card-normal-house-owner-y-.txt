@@ -1,0 +1,3 @@
+(gender(Male))(country(USA))(age_group(YoungAdults))(member card(Normal))(house_owner(Y)) --> (buy(588)), {C=0.0005031699708161417, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(YoungAdults))(member card(Normal))(house_owner(Y)) --> (buy(590)), {C=0.0005031699708161417, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(YoungAdults))(member card(Normal))(house_owner(Y)) --> (buy(909)), {C=0.0005031699708161417, S=0.00048633401420095323}

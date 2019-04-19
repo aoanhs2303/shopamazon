@@ -1,0 +1,11 @@
+(gender(Female))(country(USA))(yearly_salary($50K - $70K))(member card(Bronze))(education(Bachelors Degree))(house_owner(N)) --> (buy(286)), {C=0.000500751126690035, S=0.00048633401420095323}
+(gender(Female))(country(USA))(yearly_salary($50K - $70K))(member card(Bronze))(education(Bachelors Degree))(house_owner(N)) --> (buy(443)), {C=0.000500751126690035, S=0.00048633401420095323}
+(gender(Female))(country(USA))(yearly_salary($50K - $70K))(member card(Bronze))(education(Bachelors Degree))(house_owner(N)) --> (buy(603)), {C=0.000500751126690035, S=0.00048633401420095323}
+(gender(Female))(country(USA))(yearly_salary($50K - $70K))(member card(Bronze))(education(Bachelors Degree))(house_owner(N)) --> (buy(886)), {C=0.000500751126690035, S=0.00048633401420095323}
+(gender(Female))(country(USA))(yearly_salary($50K - $70K))(member card(Bronze))(education(Bachelors Degree))(house_owner(N)) --> (buy(952)), {C=0.000500751126690035, S=0.00048633401420095323}
+(gender(Female))(country(USA))(yearly_salary($50K - $70K))(member card(Bronze))(education(Bachelors Degree))(house_owner(N)) --> (buy(1273)), {C=0.000500751126690035, S=0.00048633401420095323}
+(gender(Female))(country(USA))(yearly_salary($50K - $70K))(member card(Bronze))(education(Bachelors Degree))(house_owner(N)) --> (buy(1403)), {C=0.000600901352028042, S=0.0005836008170411438}
+(gender(Female))(country(USA))(yearly_salary($50K - $70K))(member card(Bronze))(education(Bachelors Degree))(house_owner(N)) --> (buy(1411)), {C=0.000600901352028042, S=0.0005836008170411438}
+(gender(Female))(country(USA))(yearly_salary($50K - $70K))(member card(Bronze))(education(Bachelors Degree))(house_owner(N)) --> (buy(1446)), {C=0.000500751126690035, S=0.00048633401420095323}
+(gender(Female))(country(USA))(yearly_salary($50K - $70K))(member card(Bronze))(education(Bachelors Degree))(house_owner(N)) --> (buy(1454)), {C=0.000500751126690035, S=0.00048633401420095323}
+(gender(Female))(country(USA))(yearly_salary($50K - $70K))(member card(Bronze))(education(Bachelors Degree))(house_owner(N)) --> (buy(1503)), {C=0.0008012018027040561, S=0.0007781344227215252}

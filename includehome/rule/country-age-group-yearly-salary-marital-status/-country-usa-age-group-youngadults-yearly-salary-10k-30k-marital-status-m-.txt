@@ -1,0 +1,14 @@
+(country(USA))(age_group(YoungAdults))(yearly_salary($10K - $30K))(marital_status(M)) --> (buy(47)), {C=0.0005325948018747337, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($10K - $30K))(marital_status(M)) --> (buy(341)), {C=0.0005325948018747337, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($10K - $30K))(marital_status(M)) --> (buy(473)), {C=0.0005325948018747337, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($10K - $30K))(marital_status(M)) --> (buy(590)), {C=0.0006391137622496803, S=0.0005836008170411438}
+(country(USA))(age_group(YoungAdults))(yearly_salary($10K - $30K))(marital_status(M)) --> (buy(707)), {C=0.0005325948018747337, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($10K - $30K))(marital_status(M)) --> (buy(761)), {C=0.0005325948018747337, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($10K - $30K))(marital_status(M)) --> (buy(827)), {C=0.0005325948018747337, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($10K - $30K))(marital_status(M)) --> (buy(881)), {C=0.0005325948018747337, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($10K - $30K))(marital_status(M)) --> (buy(901)), {C=0.0005325948018747337, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($10K - $30K))(marital_status(M)) --> (buy(1219)), {C=0.0006391137622496803, S=0.0005836008170411438}
+(country(USA))(age_group(YoungAdults))(yearly_salary($10K - $30K))(marital_status(M)) --> (buy(1267)), {C=0.0005325948018747337, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($10K - $30K))(marital_status(M)) --> (buy(1278)), {C=0.0005325948018747337, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($10K - $30K))(marital_status(M)) --> (buy(1300)), {C=0.0005325948018747337, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($10K - $30K))(marital_status(M)) --> (buy(1462)), {C=0.0005325948018747337, S=0.00048633401420095323}

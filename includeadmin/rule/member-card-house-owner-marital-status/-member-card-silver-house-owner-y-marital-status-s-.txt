@@ -1,0 +1,11 @@
+(member card(Silver))(house_owner(Y))(marital_status(S)) --> (buy(120)), {C=0.0005506001541680432, S=0.00048633401420095323}
+(member card(Silver))(house_owner(Y))(marital_status(S)) --> (buy(304)), {C=0.0005506001541680432, S=0.00048633401420095323}
+(member card(Silver))(house_owner(Y))(marital_status(S)) --> (buy(603)), {C=0.0006607201850016518, S=0.0005836008170411438}
+(member card(Silver))(house_owner(Y))(marital_status(S)) --> (buy(664)), {C=0.0005506001541680432, S=0.00048633401420095323}
+(member card(Silver))(house_owner(Y))(marital_status(S)) --> (buy(811)), {C=0.0005506001541680432, S=0.00048633401420095323}
+(member card(Silver))(house_owner(Y))(marital_status(S)) --> (buy(836)), {C=0.0005506001541680432, S=0.00048633401420095323}
+(member card(Silver))(house_owner(Y))(marital_status(S)) --> (buy(943)), {C=0.0005506001541680432, S=0.00048633401420095323}
+(member card(Silver))(house_owner(Y))(marital_status(S)) --> (buy(948)), {C=0.0006607201850016518, S=0.0005836008170411438}
+(member card(Silver))(house_owner(Y))(marital_status(S)) --> (buy(1052)), {C=0.0005506001541680432, S=0.00048633401420095323}
+(member card(Silver))(house_owner(Y))(marital_status(S)) --> (buy(1071)), {C=0.0005506001541680432, S=0.00048633401420095323}
+(member card(Silver))(house_owner(Y))(marital_status(S)) --> (buy(1445)), {C=0.0005506001541680432, S=0.00048633401420095323}

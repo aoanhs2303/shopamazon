@@ -1,0 +1,2 @@
+(gender(Female))(country(USA))(yearly_salary($70K - $90K))(education(Bachelors Degree))(marital_status(S)) --> (buy(542)), {C=0.0005117183502200389, S=0.00048633401420095323}
+(gender(Female))(country(USA))(yearly_salary($70K - $90K))(education(Bachelors Degree))(marital_status(S)) --> (buy(948)), {C=0.0005117183502200389, S=0.00048633401420095323}

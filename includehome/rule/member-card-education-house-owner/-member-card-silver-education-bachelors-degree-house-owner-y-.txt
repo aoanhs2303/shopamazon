@@ -1,0 +1,7 @@
+(member card(Silver))(education(Bachelors Degree))(house_owner(Y)) --> (buy(112)), {C=0.0006643635397289397, S=0.00048633401420095323}
+(member card(Silver))(education(Bachelors Degree))(house_owner(Y)) --> (buy(155)), {C=0.0006643635397289397, S=0.00048633401420095323}
+(member card(Silver))(education(Bachelors Degree))(house_owner(Y)) --> (buy(514)), {C=0.0006643635397289397, S=0.00048633401420095323}
+(member card(Silver))(education(Bachelors Degree))(house_owner(Y)) --> (buy(595)), {C=0.0006643635397289397, S=0.00048633401420095323}
+(member card(Silver))(education(Bachelors Degree))(house_owner(Y)) --> (buy(948)), {C=0.0007972362476747275, S=0.0005836008170411438}
+(member card(Silver))(education(Bachelors Degree))(house_owner(Y)) --> (buy(1229)), {C=0.0007972362476747275, S=0.0005836008170411438}
+(member card(Silver))(education(Bachelors Degree))(house_owner(Y)) --> (buy(1403)), {C=0.0006643635397289397, S=0.00048633401420095323}

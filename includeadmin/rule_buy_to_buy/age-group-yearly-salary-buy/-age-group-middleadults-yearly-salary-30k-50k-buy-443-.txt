@@ -1,0 +1,3 @@
+(age_group(MiddleAdults))(yearly_salary($30K - $50K))(buy(443)) --> (buy(121)), {C=0.001025220422390814, S=0.00048633401420095323}
+(age_group(MiddleAdults))(yearly_salary($30K - $50K))(buy(443)) --> (buy(121)), {C=0.001025220422390814, S=0.00048633401420095323}
+(age_group(MiddleAdults))(yearly_salary($30K - $50K))(buy(443)) --> (buy(121)), {C=0.001025220422390814, S=0.00048633401420095323}

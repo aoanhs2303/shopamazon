@@ -1,0 +1,5 @@
+(yearly_salary($30K - $50K))(member card(Normal)) --> (buy(541)), {C=0.0008925383791503034, S=0.00048633401420095323}
+(yearly_salary($30K - $50K))(member card(Normal)) --> (buy(596)), {C=0.0008925383791503034, S=0.00048633401420095323}
+(yearly_salary($30K - $50K))(member card(Normal)) --> (buy(865)), {C=0.0008925383791503034, S=0.00048633401420095323}
+(yearly_salary($30K - $50K))(member card(Normal)) --> (buy(1151)), {C=0.0008925383791503034, S=0.00048633401420095323}
+(yearly_salary($30K - $50K))(member card(Normal)) --> (buy(1309)), {C=0.0008925383791503034, S=0.00048633401420095323}

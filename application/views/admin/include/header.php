@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link rel="shortcut icon" href="<?php echo base_url() ?>includeadmin/images/favicon.ico" type="image/x-icon">
     <link rel="icon" href="<?php echo base_url() ?>includeadmin/images/favicon.ico" type="image/x-icon">
-    <title>Admin Thành công</title>
+    <title>Admin MRAR SHOP</title>
 
   <!-- Bootstrap 4.0-->
   <link rel="stylesheet" href="<?php echo base_url(); ?>includeadmin/assets/vendor_components/bootstrap/dist/css/bootstrap.css">

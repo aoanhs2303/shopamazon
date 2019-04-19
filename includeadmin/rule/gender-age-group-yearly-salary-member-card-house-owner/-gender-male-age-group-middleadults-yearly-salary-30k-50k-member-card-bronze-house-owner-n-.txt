@@ -1,0 +1,6 @@
+(gender(Male))(age_group(MiddleAdults))(yearly_salary($30K - $50K))(member card(Bronze))(house_owner(N)) --> (buy(642)), {C=0.0005336179295624333, S=0.00048633401420095323}
+(gender(Male))(age_group(MiddleAdults))(yearly_salary($30K - $50K))(member card(Bronze))(house_owner(N)) --> (buy(1104)), {C=0.0005336179295624333, S=0.00048633401420095323}
+(gender(Male))(age_group(MiddleAdults))(yearly_salary($30K - $50K))(member card(Bronze))(house_owner(N)) --> (buy(642)), {C=0.0005336179295624333, S=0.00048633401420095323}
+(gender(Male))(age_group(MiddleAdults))(yearly_salary($30K - $50K))(member card(Bronze))(house_owner(N)) --> (buy(1104)), {C=0.0005336179295624333, S=0.00048633401420095323}
+(gender(Male))(age_group(MiddleAdults))(yearly_salary($30K - $50K))(member card(Bronze))(house_owner(N)) --> (buy(642)), {C=0.0005336179295624333, S=0.00048633401420095323}
+(gender(Male))(age_group(MiddleAdults))(yearly_salary($30K - $50K))(member card(Bronze))(house_owner(N)) --> (buy(1104)), {C=0.0005336179295624333, S=0.00048633401420095323}

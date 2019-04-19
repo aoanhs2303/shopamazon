@@ -1,0 +1,6 @@
+(country(USA))(age_group(YoungAdults))(member card(Bronze))(education(High School Degree))(marital_status(M)) --> (buy(43)), {C=0.0005028663381273258, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(member card(Bronze))(education(High School Degree))(marital_status(M)) --> (buy(204)), {C=0.0005028663381273258, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(member card(Bronze))(education(High School Degree))(marital_status(M)) --> (buy(447)), {C=0.0005028663381273258, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(member card(Bronze))(education(High School Degree))(marital_status(M)) --> (buy(921)), {C=0.0005028663381273258, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(member card(Bronze))(education(High School Degree))(marital_status(M)) --> (buy(1047)), {C=0.0005028663381273258, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(member card(Bronze))(education(High School Degree))(marital_status(M)) --> (buy(1398)), {C=0.0005028663381273258, S=0.00048633401420095323}

@@ -1,0 +1,4 @@
+(age_group(YoungAdults))(yearly_salary($70K - $90K))(member card(Bronze)) --> (buy(178)), {C=0.0008625646923519264, S=0.0005836008170411438}
+(age_group(YoungAdults))(yearly_salary($70K - $90K))(member card(Bronze)) --> (buy(410)), {C=0.000718803910293272, S=0.00048633401420095323}
+(age_group(YoungAdults))(yearly_salary($70K - $90K))(member card(Bronze)) --> (buy(820)), {C=0.000718803910293272, S=0.00048633401420095323}
+(age_group(YoungAdults))(yearly_salary($70K - $90K))(member card(Bronze)) --> (buy(1074)), {C=0.000718803910293272, S=0.00048633401420095323}

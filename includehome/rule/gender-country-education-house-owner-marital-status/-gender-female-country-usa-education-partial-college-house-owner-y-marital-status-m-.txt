@@ -1,0 +1,13 @@
+(gender(Female))(country(USA))(education(Partial College))(house_owner(Y))(marital_status(M)) --> (buy(18)), {C=0.0005033725963958523, S=0.00048633401420095323}
+(gender(Female))(country(USA))(education(Partial College))(house_owner(Y))(marital_status(M)) --> (buy(307)), {C=0.0005033725963958523, S=0.00048633401420095323}
+(gender(Female))(country(USA))(education(Partial College))(house_owner(Y))(marital_status(M)) --> (buy(337)), {C=0.0005033725963958523, S=0.00048633401420095323}
+(gender(Female))(country(USA))(education(Partial College))(house_owner(Y))(marital_status(M)) --> (buy(407)), {C=0.0006040471156750226, S=0.0005836008170411438}
+(gender(Female))(country(USA))(education(Partial College))(house_owner(Y))(marital_status(M)) --> (buy(417)), {C=0.0006040471156750226, S=0.0005836008170411438}
+(gender(Female))(country(USA))(education(Partial College))(house_owner(Y))(marital_status(M)) --> (buy(429)), {C=0.0005033725963958523, S=0.00048633401420095323}
+(gender(Female))(country(USA))(education(Partial College))(house_owner(Y))(marital_status(M)) --> (buy(659)), {C=0.0005033725963958523, S=0.00048633401420095323}
+(gender(Female))(country(USA))(education(Partial College))(house_owner(Y))(marital_status(M)) --> (buy(660)), {C=0.0006040471156750226, S=0.0005836008170411438}
+(gender(Female))(country(USA))(education(Partial College))(house_owner(Y))(marital_status(M)) --> (buy(868)), {C=0.0005033725963958523, S=0.00048633401420095323}
+(gender(Female))(country(USA))(education(Partial College))(house_owner(Y))(marital_status(M)) --> (buy(969)), {C=0.0005033725963958523, S=0.00048633401420095323}
+(gender(Female))(country(USA))(education(Partial College))(house_owner(Y))(marital_status(M)) --> (buy(1260)), {C=0.0005033725963958523, S=0.00048633401420095323}
+(gender(Female))(country(USA))(education(Partial College))(house_owner(Y))(marital_status(M)) --> (buy(1337)), {C=0.0005033725963958523, S=0.00048633401420095323}
+(gender(Female))(country(USA))(education(Partial College))(house_owner(Y))(marital_status(M)) --> (buy(1423)), {C=0.0005033725963958523, S=0.00048633401420095323}

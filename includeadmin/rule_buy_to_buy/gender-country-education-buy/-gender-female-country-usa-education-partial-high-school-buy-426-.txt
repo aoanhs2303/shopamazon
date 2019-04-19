@@ -1,0 +1,1 @@
+(gender(Female))(country(USA))(education(Partial High School))(buy(426)) --> (buy(422)), {C=0.0005398402072986396, S=0.00048633401420095323}

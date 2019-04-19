@@ -1,0 +1,1 @@
+(country(USA))(education(High School Degree))(marital_status(S))(buy(723)) --> (buy(1179)), {C=0.0005408328826392645, S=0.00048633401420095323}

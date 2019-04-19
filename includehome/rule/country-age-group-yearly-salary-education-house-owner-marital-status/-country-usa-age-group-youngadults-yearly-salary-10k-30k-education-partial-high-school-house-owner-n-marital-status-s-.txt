@@ -1,0 +1,1 @@
+(country(USA))(age_group(YoungAdults))(yearly_salary($10K - $30K))(education(Partial High School))(house_owner(N))(marital_status(S)) --> (buy(1308)), {C=0.0005161023947151115, S=0.00048633401420095323}

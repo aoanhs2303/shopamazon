@@ -1,0 +1,1 @@
+(gender(Male))(education(Graduate Degree))(marital_status(S)) --> (buy(881)), {C=0.0006366182836771072, S=0.00048633401420095323}

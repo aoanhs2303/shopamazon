@@ -1,0 +1,13 @@
+(gender(Female))(member card(Bronze))(education(Graduate Degree)) --> (buy(175)), {C=0.0006213495712687958, S=0.00048633401420095323}
+(gender(Female))(member card(Bronze))(education(Graduate Degree)) --> (buy(182)), {C=0.0007456194855225549, S=0.0005836008170411438}
+(gender(Female))(member card(Bronze))(education(Graduate Degree)) --> (buy(516)), {C=0.0006213495712687958, S=0.00048633401420095323}
+(gender(Female))(member card(Bronze))(education(Graduate Degree)) --> (buy(582)), {C=0.0006213495712687958, S=0.00048633401420095323}
+(gender(Female))(member card(Bronze))(education(Graduate Degree)) --> (buy(754)), {C=0.0006213495712687958, S=0.00048633401420095323}
+(gender(Female))(member card(Bronze))(education(Graduate Degree)) --> (buy(869)), {C=0.0006213495712687958, S=0.00048633401420095323}
+(gender(Female))(member card(Bronze))(education(Graduate Degree)) --> (buy(941)), {C=0.0006213495712687958, S=0.00048633401420095323}
+(gender(Female))(member card(Bronze))(education(Graduate Degree)) --> (buy(968)), {C=0.0006213495712687958, S=0.00048633401420095323}
+(gender(Female))(member card(Bronze))(education(Graduate Degree)) --> (buy(1237)), {C=0.0006213495712687958, S=0.00048633401420095323}
+(gender(Female))(member card(Bronze))(education(Graduate Degree)) --> (buy(1252)), {C=0.0006213495712687958, S=0.00048633401420095323}
+(gender(Female))(member card(Bronze))(education(Graduate Degree)) --> (buy(1381)), {C=0.0006213495712687958, S=0.00048633401420095323}
+(gender(Female))(member card(Bronze))(education(Graduate Degree)) --> (buy(1471)), {C=0.0006213495712687958, S=0.00048633401420095323}
+(gender(Female))(member card(Bronze))(education(Graduate Degree)) --> (buy(1488)), {C=0.0006213495712687958, S=0.00048633401420095323}

@@ -1,0 +1,9 @@
+(country(USA))(age_group(YoungAdults))(member card(Golden))(marital_status(M)) --> (buy(404)), {C=0.0005441288497116118, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(member card(Golden))(marital_status(M)) --> (buy(437)), {C=0.000652954619653934, S=0.0005836008170411438}
+(country(USA))(age_group(YoungAdults))(member card(Golden))(marital_status(M)) --> (buy(609)), {C=0.0005441288497116118, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(member card(Golden))(marital_status(M)) --> (buy(614)), {C=0.0005441288497116118, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(member card(Golden))(marital_status(M)) --> (buy(836)), {C=0.0005441288497116118, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(member card(Golden))(marital_status(M)) --> (buy(903)), {C=0.0005441288497116118, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(member card(Golden))(marital_status(M)) --> (buy(977)), {C=0.0005441288497116118, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(member card(Golden))(marital_status(M)) --> (buy(1553)), {C=0.0005441288497116118, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(member card(Golden))(marital_status(M)) --> (buy(1557)), {C=0.0005441288497116118, S=0.00048633401420095323}

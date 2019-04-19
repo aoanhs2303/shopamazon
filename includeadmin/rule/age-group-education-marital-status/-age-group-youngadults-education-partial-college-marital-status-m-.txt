@@ -1,0 +1,1 @@
+(age_group(YoungAdults))(education(Partial College))(marital_status(M)) --> (buy(686)), {C=0.000752671985548698, S=0.00048633401420095323}

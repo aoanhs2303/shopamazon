@@ -1,0 +1,6 @@
+(country(USA))(age_group(MiddleAdults))(education(Partial High School))(house_owner(Y))(marital_status(S)) --> (buy(469)), {C=0.0005970743357548014, S=0.0005836008170411438}
+(country(USA))(age_group(MiddleAdults))(education(Partial High School))(house_owner(Y))(marital_status(S)) --> (buy(1337)), {C=0.0004975619464623346, S=0.00048633401420095323}
+(country(USA))(age_group(MiddleAdults))(education(Partial High School))(house_owner(Y))(marital_status(S)) --> (buy(469)), {C=0.0005970743357548014, S=0.0005836008170411438}
+(country(USA))(age_group(MiddleAdults))(education(Partial High School))(house_owner(Y))(marital_status(S)) --> (buy(1337)), {C=0.0004975619464623346, S=0.00048633401420095323}
+(country(USA))(age_group(MiddleAdults))(education(Partial High School))(house_owner(Y))(marital_status(S)) --> (buy(469)), {C=0.0005970743357548014, S=0.0005836008170411438}
+(country(USA))(age_group(MiddleAdults))(education(Partial High School))(house_owner(Y))(marital_status(S)) --> (buy(1337)), {C=0.0004975619464623346, S=0.00048633401420095323}

@@ -1,0 +1,2 @@
+(country(USA))(yearly_salary($150K +))(member card(Silver)) --> (buy(603)), {C=0.0006530825496342738, S=0.00048633401420095323}
+(country(USA))(yearly_salary($150K +))(member card(Silver)) --> (buy(1052)), {C=0.0006530825496342738, S=0.00048633401420095323}

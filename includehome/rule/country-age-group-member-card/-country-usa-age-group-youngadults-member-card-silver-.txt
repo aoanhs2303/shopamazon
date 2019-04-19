@@ -1,0 +1,6 @@
+(country(USA))(age_group(YoungAdults))(member card(Silver)) --> (buy(158)), {C=0.0006105006105006105, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(member card(Silver)) --> (buy(334)), {C=0.0006105006105006105, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(member card(Silver)) --> (buy(500)), {C=0.0006105006105006105, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(member card(Silver)) --> (buy(848)), {C=0.0006105006105006105, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(member card(Silver)) --> (buy(948)), {C=0.0006105006105006105, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(member card(Silver)) --> (buy(1031)), {C=0.0006105006105006105, S=0.00048633401420095323}

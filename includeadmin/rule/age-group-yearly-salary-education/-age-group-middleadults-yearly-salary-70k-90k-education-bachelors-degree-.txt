@@ -1,0 +1,15 @@
+(age_group(MiddleAdults))(yearly_salary($70K - $90K))(education(Bachelors Degree)) --> (buy(53)), {C=0.0010672358591248667, S=0.00048633401420095323}
+(age_group(MiddleAdults))(yearly_salary($70K - $90K))(education(Bachelors Degree)) --> (buy(181)), {C=0.0010672358591248667, S=0.00048633401420095323}
+(age_group(MiddleAdults))(yearly_salary($70K - $90K))(education(Bachelors Degree)) --> (buy(560)), {C=0.0010672358591248667, S=0.00048633401420095323}
+(age_group(MiddleAdults))(yearly_salary($70K - $90K))(education(Bachelors Degree)) --> (buy(1397)), {C=0.0012806830309498398, S=0.0005836008170411438}
+(age_group(MiddleAdults))(yearly_salary($70K - $90K))(education(Bachelors Degree)) --> (buy(1487)), {C=0.0010672358591248667, S=0.00048633401420095323}
+(age_group(MiddleAdults))(yearly_salary($70K - $90K))(education(Bachelors Degree)) --> (buy(53)), {C=0.0010672358591248667, S=0.00048633401420095323}
+(age_group(MiddleAdults))(yearly_salary($70K - $90K))(education(Bachelors Degree)) --> (buy(181)), {C=0.0010672358591248667, S=0.00048633401420095323}
+(age_group(MiddleAdults))(yearly_salary($70K - $90K))(education(Bachelors Degree)) --> (buy(560)), {C=0.0010672358591248667, S=0.00048633401420095323}
+(age_group(MiddleAdults))(yearly_salary($70K - $90K))(education(Bachelors Degree)) --> (buy(1397)), {C=0.0012806830309498398, S=0.0005836008170411438}
+(age_group(MiddleAdults))(yearly_salary($70K - $90K))(education(Bachelors Degree)) --> (buy(1487)), {C=0.0010672358591248667, S=0.00048633401420095323}
+(age_group(MiddleAdults))(yearly_salary($70K - $90K))(education(Bachelors Degree)) --> (buy(53)), {C=0.0010672358591248667, S=0.00048633401420095323}
+(age_group(MiddleAdults))(yearly_salary($70K - $90K))(education(Bachelors Degree)) --> (buy(181)), {C=0.0010672358591248667, S=0.00048633401420095323}
+(age_group(MiddleAdults))(yearly_salary($70K - $90K))(education(Bachelors Degree)) --> (buy(560)), {C=0.0010672358591248667, S=0.00048633401420095323}
+(age_group(MiddleAdults))(yearly_salary($70K - $90K))(education(Bachelors Degree)) --> (buy(1397)), {C=0.0012806830309498398, S=0.0005836008170411438}
+(age_group(MiddleAdults))(yearly_salary($70K - $90K))(education(Bachelors Degree)) --> (buy(1487)), {C=0.0010672358591248667, S=0.00048633401420095323}

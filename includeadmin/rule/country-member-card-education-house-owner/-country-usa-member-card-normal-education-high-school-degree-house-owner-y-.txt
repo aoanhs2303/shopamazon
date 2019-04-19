@@ -1,0 +1,4 @@
+(country(USA))(member card(Normal))(education(High School Degree))(house_owner(Y)) --> (buy(78)), {C=0.0005137162231583273, S=0.00048633401420095323}
+(country(USA))(member card(Normal))(education(High School Degree))(house_owner(Y)) --> (buy(98)), {C=0.0005137162231583273, S=0.00048633401420095323}
+(country(USA))(member card(Normal))(education(High School Degree))(house_owner(Y)) --> (buy(364)), {C=0.0005137162231583273, S=0.00048633401420095323}
+(country(USA))(member card(Normal))(education(High School Degree))(house_owner(Y)) --> (buy(1131)), {C=0.0005137162231583273, S=0.00048633401420095323}

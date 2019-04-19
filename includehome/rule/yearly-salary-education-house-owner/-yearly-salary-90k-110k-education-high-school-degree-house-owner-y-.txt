@@ -1,0 +1,1 @@
+(yearly_salary($90K - $110K))(education(High School Degree))(house_owner(Y)) --> (buy(640)), {C=0.0006720430107526882, S=0.00048633401420095323}

@@ -1,0 +1,2 @@
+(gender(Male))(education(Bachelors Degree))(house_owner(N))(marital_status(M)) --> (buy(41)), {C=0.0006391818472355385, S=0.0005836008170411438}
+(gender(Male))(education(Bachelors Degree))(house_owner(N))(marital_status(M)) --> (buy(525)), {C=0.0006391818472355385, S=0.0005836008170411438}

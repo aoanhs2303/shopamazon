@@ -1,0 +1,5 @@
+(gender(Male))(age_group(YoungAdults))(member card(Normal))(education(Partial High School)) --> (buy(287)), {C=0.0006549646319098768, S=0.00048633401420095323}
+(gender(Male))(age_group(YoungAdults))(member card(Normal))(education(Partial High School)) --> (buy(588)), {C=0.0007859575582918521, S=0.0005836008170411438}
+(gender(Male))(age_group(YoungAdults))(member card(Normal))(education(Partial High School)) --> (buy(909)), {C=0.0006549646319098768, S=0.00048633401420095323}
+(gender(Male))(age_group(YoungAdults))(member card(Normal))(education(Partial High School)) --> (buy(1146)), {C=0.0006549646319098768, S=0.00048633401420095323}
+(gender(Male))(age_group(YoungAdults))(member card(Normal))(education(Partial High School)) --> (buy(1521)), {C=0.0006549646319098768, S=0.00048633401420095323}

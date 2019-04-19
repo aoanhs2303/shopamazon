@@ -1,0 +1,2 @@
+(gender(Female))(age_group(YoungAdults))(yearly_salary($30K - $50K))(member card(Bronze))(education(High School Degree)) --> (buy(132)), {C=0.0005550621669626999, S=0.00048633401420095323}
+(gender(Female))(age_group(YoungAdults))(yearly_salary($30K - $50K))(member card(Bronze))(education(High School Degree)) --> (buy(465)), {C=0.0005550621669626999, S=0.00048633401420095323}

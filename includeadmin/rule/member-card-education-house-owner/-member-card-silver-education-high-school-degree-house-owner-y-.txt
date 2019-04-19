@@ -1,0 +1,3 @@
+(member card(Silver))(education(High School Degree))(house_owner(Y)) --> (buy(248)), {C=0.0006569438969911969, S=0.00048633401420095323}
+(member card(Silver))(education(High School Degree))(house_owner(Y)) --> (buy(934)), {C=0.0006569438969911969, S=0.00048633401420095323}
+(member card(Silver))(education(High School Degree))(house_owner(Y)) --> (buy(1526)), {C=0.0006569438969911969, S=0.00048633401420095323}

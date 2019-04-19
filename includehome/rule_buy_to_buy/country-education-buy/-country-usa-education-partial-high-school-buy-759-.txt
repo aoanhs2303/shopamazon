@@ -1,0 +1,2 @@
+(country(USA))(education(Partial High School))(buy(759)) --> (buy(83)), {C=0.0006068697657482705, S=0.00048633401420095323}
+(country(USA))(education(Partial High School))(buy(759)) --> (buy(526)), {C=0.0006068697657482705, S=0.00048633401420095323}

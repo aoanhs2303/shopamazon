@@ -1,0 +1,10 @@
+(country(USA))(age_group(YoungAdults))(yearly_salary($50K - $70K))(house_owner(Y)) --> (buy(54)), {C=0.0005245488879563575, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($50K - $70K))(house_owner(Y)) --> (buy(86)), {C=0.0005245488879563575, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($50K - $70K))(house_owner(Y)) --> (buy(146)), {C=0.0005245488879563575, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($50K - $70K))(house_owner(Y)) --> (buy(211)), {C=0.0005245488879563575, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($50K - $70K))(house_owner(Y)) --> (buy(455)), {C=0.0005245488879563575, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($50K - $70K))(house_owner(Y)) --> (buy(463)), {C=0.0005245488879563575, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($50K - $70K))(house_owner(Y)) --> (buy(908)), {C=0.0005245488879563575, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($50K - $70K))(house_owner(Y)) --> (buy(1041)), {C=0.0005245488879563575, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($50K - $70K))(house_owner(Y)) --> (buy(1298)), {C=0.0005245488879563575, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($50K - $70K))(house_owner(Y)) --> (buy(1441)), {C=0.0005245488879563575, S=0.00048633401420095323}

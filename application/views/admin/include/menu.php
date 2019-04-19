@@ -123,11 +123,17 @@
             <span>Tạo báo cáo</span>
           </a>
         </li>
-        <li class="treeview">
-          <a href="index.html#">
-            <i class="fa fa-edit"></i> <span>Hệ thống</span>
+
+        <?php if($uri == 'mrar') { ?>
+          <li class="active">
+          <a href="<?php echo base_url() ?>Admin/mrar">
+            <i class="fa fa-edit"></i> <span>MRAR Tool</span>
           </a>
-        </li>
+          </li>
+        <?php } else { ?>
+          <li><a href="<?php echo base_url() ?>Admin/mrar"><i class="fa fa-circle-o"></i>MRAR Tool</a></li>
+        <?php }?>     
+
       </ul>
     </section>
     <!-- /.sidebar -->

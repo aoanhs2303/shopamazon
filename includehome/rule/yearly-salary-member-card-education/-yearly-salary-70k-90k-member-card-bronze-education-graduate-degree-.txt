@@ -1,0 +1,6 @@
+(yearly_salary($70K - $90K))(member card(Bronze))(education(Graduate Degree)) --> (buy(516)), {C=0.0008126117341134407, S=0.00048633401420095323}
+(yearly_salary($70K - $90K))(member card(Bronze))(education(Graduate Degree)) --> (buy(941)), {C=0.0008126117341134407, S=0.00048633401420095323}
+(yearly_salary($70K - $90K))(member card(Bronze))(education(Graduate Degree)) --> (buy(1002)), {C=0.0008126117341134407, S=0.00048633401420095323}
+(yearly_salary($70K - $90K))(member card(Bronze))(education(Graduate Degree)) --> (buy(1422)), {C=0.0008126117341134407, S=0.00048633401420095323}
+(yearly_salary($70K - $90K))(member card(Bronze))(education(Graduate Degree)) --> (buy(1451)), {C=0.0008126117341134407, S=0.00048633401420095323}
+(yearly_salary($70K - $90K))(member card(Bronze))(education(Graduate Degree)) --> (buy(1488)), {C=0.0008126117341134407, S=0.00048633401420095323}

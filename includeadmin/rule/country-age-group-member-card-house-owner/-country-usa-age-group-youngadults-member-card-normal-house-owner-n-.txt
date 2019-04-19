@@ -1,0 +1,13 @@
+(country(USA))(age_group(YoungAdults))(member card(Normal))(house_owner(N)) --> (buy(244)), {C=0.0005430060816681147, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(member card(Normal))(house_owner(N)) --> (buy(445)), {C=0.0005430060816681147, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(member card(Normal))(house_owner(N)) --> (buy(486)), {C=0.0005430060816681147, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(member card(Normal))(house_owner(N)) --> (buy(755)), {C=0.0005430060816681147, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(member card(Normal))(house_owner(N)) --> (buy(883)), {C=0.0005430060816681147, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(member card(Normal))(house_owner(N)) --> (buy(974)), {C=0.0005430060816681147, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(member card(Normal))(house_owner(N)) --> (buy(1049)), {C=0.0005430060816681147, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(member card(Normal))(house_owner(N)) --> (buy(1067)), {C=0.0005430060816681147, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(member card(Normal))(house_owner(N)) --> (buy(1308)), {C=0.0005430060816681147, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(member card(Normal))(house_owner(N)) --> (buy(1311)), {C=0.0005430060816681147, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(member card(Normal))(house_owner(N)) --> (buy(1355)), {C=0.0005430060816681147, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(member card(Normal))(house_owner(N)) --> (buy(1413)), {C=0.0005430060816681147, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(member card(Normal))(house_owner(N)) --> (buy(1477)), {C=0.0006516072980017376, S=0.0005836008170411438}

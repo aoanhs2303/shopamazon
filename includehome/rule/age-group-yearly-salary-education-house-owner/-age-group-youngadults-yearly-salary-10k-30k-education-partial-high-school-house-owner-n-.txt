@@ -1,0 +1,4 @@
+(age_group(YoungAdults))(yearly_salary($10K - $30K))(education(Partial High School))(house_owner(N)) --> (buy(788)), {C=0.000724217844727694, S=0.00048633401420095323}
+(age_group(YoungAdults))(yearly_salary($10K - $30K))(education(Partial High School))(house_owner(N)) --> (buy(1049)), {C=0.000724217844727694, S=0.00048633401420095323}
+(age_group(YoungAdults))(yearly_salary($10K - $30K))(education(Partial High School))(house_owner(N)) --> (buy(1067)), {C=0.000724217844727694, S=0.00048633401420095323}
+(age_group(YoungAdults))(yearly_salary($10K - $30K))(education(Partial High School))(house_owner(N)) --> (buy(1308)), {C=0.000724217844727694, S=0.00048633401420095323}

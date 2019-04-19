@@ -1,0 +1,2 @@
+(country(USA))(age_group(YoungAdults))(education(Partial High School))(house_owner(Y))(marital_status(S)) --> (buy(426)), {C=0.0005965400676078743, S=0.0005836008170411438}
+(country(USA))(age_group(YoungAdults))(education(Partial High School))(house_owner(Y))(marital_status(S)) --> (buy(530)), {C=0.000497116723006562, S=0.00048633401420095323}

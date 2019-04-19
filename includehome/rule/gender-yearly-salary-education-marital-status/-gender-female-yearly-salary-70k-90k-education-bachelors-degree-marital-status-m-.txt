@@ -1,0 +1,6 @@
+(gender(Female))(yearly_salary($70K - $90K))(education(Bachelors Degree))(marital_status(M)) --> (buy(85)), {C=0.000589622641509434, S=0.00048633401420095323}
+(gender(Female))(yearly_salary($70K - $90K))(education(Bachelors Degree))(marital_status(M)) --> (buy(261)), {C=0.000589622641509434, S=0.00048633401420095323}
+(gender(Female))(yearly_salary($70K - $90K))(education(Bachelors Degree))(marital_status(M)) --> (buy(527)), {C=0.0007075471698113207, S=0.0005836008170411438}
+(gender(Female))(yearly_salary($70K - $90K))(education(Bachelors Degree))(marital_status(M)) --> (buy(648)), {C=0.0007075471698113207, S=0.0005836008170411438}
+(gender(Female))(yearly_salary($70K - $90K))(education(Bachelors Degree))(marital_status(M)) --> (buy(671)), {C=0.000589622641509434, S=0.00048633401420095323}
+(gender(Female))(yearly_salary($70K - $90K))(education(Bachelors Degree))(marital_status(M)) --> (buy(984)), {C=0.000589622641509434, S=0.00048633401420095323}

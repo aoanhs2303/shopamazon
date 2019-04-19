@@ -1,0 +1,4 @@
+(country(USA))(yearly_salary($90K - $110K))(member card(Bronze))(marital_status(M)) --> (buy(814)), {C=0.0005127679212388473, S=0.00048633401420095323}
+(country(USA))(yearly_salary($90K - $110K))(member card(Bronze))(marital_status(M)) --> (buy(1079)), {C=0.0005127679212388473, S=0.00048633401420095323}
+(country(USA))(yearly_salary($90K - $110K))(member card(Bronze))(marital_status(M)) --> (buy(1125)), {C=0.0005127679212388473, S=0.00048633401420095323}
+(country(USA))(yearly_salary($90K - $110K))(member card(Bronze))(marital_status(M)) --> (buy(1545)), {C=0.0006153215054866167, S=0.0005836008170411438}

@@ -1,0 +1,2 @@
+(yearly_salary($110K - $130K))(education(Bachelors Degree)) --> (buy(862)), {C=0.0016627868307283007, S=0.00048633401420095323}
+(yearly_salary($110K - $130K))(education(Bachelors Degree)) --> (buy(1463)), {C=0.0016627868307283007, S=0.00048633401420095323}

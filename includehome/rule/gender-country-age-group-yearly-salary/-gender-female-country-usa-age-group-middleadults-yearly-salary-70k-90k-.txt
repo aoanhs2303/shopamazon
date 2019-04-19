@@ -1,0 +1,12 @@
+(gender(Female))(country(USA))(age_group(MiddleAdults))(yearly_salary($70K - $90K)) --> (buy(21)), {C=0.0005398402072986396, S=0.00048633401420095323}
+(gender(Female))(country(USA))(age_group(MiddleAdults))(yearly_salary($70K - $90K)) --> (buy(1083)), {C=0.0005398402072986396, S=0.00048633401420095323}
+(gender(Female))(country(USA))(age_group(MiddleAdults))(yearly_salary($70K - $90K)) --> (buy(1126)), {C=0.0005398402072986396, S=0.00048633401420095323}
+(gender(Female))(country(USA))(age_group(MiddleAdults))(yearly_salary($70K - $90K)) --> (buy(1347)), {C=0.0006478082487583675, S=0.0005836008170411438}
+(gender(Female))(country(USA))(age_group(MiddleAdults))(yearly_salary($70K - $90K)) --> (buy(21)), {C=0.0005398402072986396, S=0.00048633401420095323}
+(gender(Female))(country(USA))(age_group(MiddleAdults))(yearly_salary($70K - $90K)) --> (buy(1083)), {C=0.0005398402072986396, S=0.00048633401420095323}
+(gender(Female))(country(USA))(age_group(MiddleAdults))(yearly_salary($70K - $90K)) --> (buy(1126)), {C=0.0005398402072986396, S=0.00048633401420095323}
+(gender(Female))(country(USA))(age_group(MiddleAdults))(yearly_salary($70K - $90K)) --> (buy(1347)), {C=0.0006478082487583675, S=0.0005836008170411438}
+(gender(Female))(country(USA))(age_group(MiddleAdults))(yearly_salary($70K - $90K)) --> (buy(21)), {C=0.0005398402072986396, S=0.00048633401420095323}
+(gender(Female))(country(USA))(age_group(MiddleAdults))(yearly_salary($70K - $90K)) --> (buy(1083)), {C=0.0005398402072986396, S=0.00048633401420095323}
+(gender(Female))(country(USA))(age_group(MiddleAdults))(yearly_salary($70K - $90K)) --> (buy(1126)), {C=0.0005398402072986396, S=0.00048633401420095323}
+(gender(Female))(country(USA))(age_group(MiddleAdults))(yearly_salary($70K - $90K)) --> (buy(1347)), {C=0.0006478082487583675, S=0.0005836008170411438}

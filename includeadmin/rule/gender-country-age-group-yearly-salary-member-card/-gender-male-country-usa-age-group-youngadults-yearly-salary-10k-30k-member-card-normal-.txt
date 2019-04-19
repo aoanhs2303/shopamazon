@@ -1,0 +1,9 @@
+(gender(Male))(country(USA))(age_group(YoungAdults))(yearly_salary($10K - $30K))(member card(Normal)) --> (buy(72)), {C=0.0005314061005420342, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(YoungAdults))(yearly_salary($10K - $30K))(member card(Normal)) --> (buy(122)), {C=0.0005314061005420342, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(YoungAdults))(yearly_salary($10K - $30K))(member card(Normal)) --> (buy(287)), {C=0.000637687320650441, S=0.0005836008170411438}
+(gender(Male))(country(USA))(age_group(YoungAdults))(yearly_salary($10K - $30K))(member card(Normal)) --> (buy(588)), {C=0.000637687320650441, S=0.0005836008170411438}
+(gender(Male))(country(USA))(age_group(YoungAdults))(yearly_salary($10K - $30K))(member card(Normal)) --> (buy(590)), {C=0.0005314061005420342, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(YoungAdults))(yearly_salary($10K - $30K))(member card(Normal)) --> (buy(645)), {C=0.0005314061005420342, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(YoungAdults))(yearly_salary($10K - $30K))(member card(Normal)) --> (buy(909)), {C=0.0005314061005420342, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(YoungAdults))(yearly_salary($10K - $30K))(member card(Normal)) --> (buy(1146)), {C=0.0005314061005420342, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(YoungAdults))(yearly_salary($10K - $30K))(member card(Normal)) --> (buy(1521)), {C=0.0005314061005420342, S=0.00048633401420095323}

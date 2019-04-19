@@ -1,0 +1,1 @@
+(country(USA))(age_group(YoungAdults))(member card(Normal))(education(Partial High School))(house_owner(N))(marital_status(S)) --> (buy(1308)), {C=0.0005146150679291889, S=0.00048633401420095323}

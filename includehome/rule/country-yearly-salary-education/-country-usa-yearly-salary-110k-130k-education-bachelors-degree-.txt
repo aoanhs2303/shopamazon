@@ -1,0 +1,2 @@
+(country(USA))(yearly_salary($110K - $130K))(education(Bachelors Degree)) --> (buy(862)), {C=0.0006085686465433301, S=0.00048633401420095323}
+(country(USA))(yearly_salary($110K - $130K))(education(Bachelors Degree)) --> (buy(1463)), {C=0.0006085686465433301, S=0.00048633401420095323}

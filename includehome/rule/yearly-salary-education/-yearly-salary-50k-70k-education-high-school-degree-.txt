@@ -1,0 +1,3 @@
+(yearly_salary($50K - $70K))(education(High School Degree)) --> (buy(312)), {C=0.0010577533319229956, S=0.00048633401420095323}
+(yearly_salary($50K - $70K))(education(High School Degree)) --> (buy(1377)), {C=0.0010577533319229956, S=0.00048633401420095323}
+(yearly_salary($50K - $70K))(education(High School Degree)) --> (buy(1418)), {C=0.0010577533319229956, S=0.00048633401420095323}

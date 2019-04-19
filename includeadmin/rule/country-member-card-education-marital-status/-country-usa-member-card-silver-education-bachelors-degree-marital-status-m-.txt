@@ -1,0 +1,1 @@
+(country(USA))(member card(Silver))(education(Bachelors Degree))(marital_status(M)) --> (buy(595)), {C=0.0005374032674118659, S=0.00048633401420095323}

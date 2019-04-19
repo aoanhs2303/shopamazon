@@ -1,0 +1,1 @@
+(education(Partial High School))(marital_status(S))(buy(572)) --> (buy(1514)), {C=0.0007457121551081283, S=0.00048633401420095323}

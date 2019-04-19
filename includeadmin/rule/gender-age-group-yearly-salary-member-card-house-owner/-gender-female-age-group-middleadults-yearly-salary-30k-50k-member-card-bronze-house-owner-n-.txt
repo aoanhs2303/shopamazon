@@ -1,0 +1,3 @@
+(gender(Female))(age_group(MiddleAdults))(yearly_salary($30K - $50K))(member card(Bronze))(house_owner(N)) --> (buy(436)), {C=0.0005329922183136127, S=0.00048633401420095323}
+(gender(Female))(age_group(MiddleAdults))(yearly_salary($30K - $50K))(member card(Bronze))(house_owner(N)) --> (buy(436)), {C=0.0005329922183136127, S=0.00048633401420095323}
+(gender(Female))(age_group(MiddleAdults))(yearly_salary($30K - $50K))(member card(Bronze))(house_owner(N)) --> (buy(436)), {C=0.0005329922183136127, S=0.00048633401420095323}

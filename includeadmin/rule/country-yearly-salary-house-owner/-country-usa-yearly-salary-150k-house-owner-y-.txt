@@ -1,0 +1,4 @@
+(country(USA))(yearly_salary($150K +))(house_owner(Y)) --> (buy(603)), {C=0.0006587615283267456, S=0.0005836008170411438}
+(country(USA))(yearly_salary($150K +))(house_owner(Y)) --> (buy(915)), {C=0.0005489679402722881, S=0.00048633401420095323}
+(country(USA))(yearly_salary($150K +))(house_owner(Y)) --> (buy(1048)), {C=0.0006587615283267456, S=0.0005836008170411438}
+(country(USA))(yearly_salary($150K +))(house_owner(Y)) --> (buy(1052)), {C=0.0005489679402722881, S=0.00048633401420095323}

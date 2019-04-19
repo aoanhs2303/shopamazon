@@ -1,0 +1,6 @@
+(gender(Female))(age_group(MiddleAdults))(member card(Bronze))(education(High School Degree))(house_owner(Y)) --> (buy(410)), {C=0.0005132416341613632, S=0.00048633401420095323}
+(gender(Female))(age_group(MiddleAdults))(member card(Bronze))(education(High School Degree))(house_owner(Y)) --> (buy(1452)), {C=0.0005132416341613632, S=0.00048633401420095323}
+(gender(Female))(age_group(MiddleAdults))(member card(Bronze))(education(High School Degree))(house_owner(Y)) --> (buy(410)), {C=0.0005132416341613632, S=0.00048633401420095323}
+(gender(Female))(age_group(MiddleAdults))(member card(Bronze))(education(High School Degree))(house_owner(Y)) --> (buy(1452)), {C=0.0005132416341613632, S=0.00048633401420095323}
+(gender(Female))(age_group(MiddleAdults))(member card(Bronze))(education(High School Degree))(house_owner(Y)) --> (buy(410)), {C=0.0005132416341613632, S=0.00048633401420095323}
+(gender(Female))(age_group(MiddleAdults))(member card(Bronze))(education(High School Degree))(house_owner(Y)) --> (buy(1452)), {C=0.0005132416341613632, S=0.00048633401420095323}

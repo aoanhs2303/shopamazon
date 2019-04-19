@@ -1,0 +1,2 @@
+(gender(Male))(yearly_salary($30K - $50K))(education(Partial High School))(house_owner(N)) --> (buy(572)), {C=0.0005599731212901781, S=0.00048633401420095323}
+(gender(Male))(yearly_salary($30K - $50K))(education(Partial High School))(house_owner(N)) --> (buy(1381)), {C=0.0005599731212901781, S=0.00048633401420095323}

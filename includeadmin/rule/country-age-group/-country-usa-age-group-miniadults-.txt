@@ -1,0 +1,8 @@
+(country(USA))(age_group(MiniAdults)) --> (buy(318)), {C=0.0006704210244033253, S=0.00048633401420095323}
+(country(USA))(age_group(MiniAdults)) --> (buy(410)), {C=0.0006704210244033253, S=0.00048633401420095323}
+(country(USA))(age_group(MiniAdults)) --> (buy(664)), {C=0.0008045052292839903, S=0.0005836008170411438}
+(country(USA))(age_group(MiniAdults)) --> (buy(778)), {C=0.0006704210244033253, S=0.00048633401420095323}
+(country(USA))(age_group(MiniAdults)) --> (buy(784)), {C=0.0006704210244033253, S=0.00048633401420095323}
+(country(USA))(age_group(MiniAdults)) --> (buy(913)), {C=0.0006704210244033253, S=0.00048633401420095323}
+(country(USA))(age_group(MiniAdults)) --> (buy(985)), {C=0.0006704210244033253, S=0.00048633401420095323}
+(country(USA))(age_group(MiniAdults)) --> (buy(1436)), {C=0.0006704210244033253, S=0.00048633401420095323}

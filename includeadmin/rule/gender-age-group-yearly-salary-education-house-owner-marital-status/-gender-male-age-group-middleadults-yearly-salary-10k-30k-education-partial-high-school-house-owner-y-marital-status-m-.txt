@@ -1,0 +1,3 @@
+(gender(Male))(age_group(MiddleAdults))(yearly_salary($10K - $30K))(education(Partial High School))(house_owner(Y))(marital_status(M)) --> (buy(1446)), {C=0.0005226845076311938, S=0.00048633401420095323}
+(gender(Male))(age_group(MiddleAdults))(yearly_salary($10K - $30K))(education(Partial High School))(house_owner(Y))(marital_status(M)) --> (buy(1446)), {C=0.0005226845076311938, S=0.00048633401420095323}
+(gender(Male))(age_group(MiddleAdults))(yearly_salary($10K - $30K))(education(Partial High School))(house_owner(Y))(marital_status(M)) --> (buy(1446)), {C=0.0005226845076311938, S=0.00048633401420095323}

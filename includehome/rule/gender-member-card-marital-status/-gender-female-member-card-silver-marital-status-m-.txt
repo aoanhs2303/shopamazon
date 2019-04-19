@@ -1,0 +1,6 @@
+(gender(Female))(member card(Silver))(marital_status(M)) --> (buy(261)), {C=0.0006327512022272843, S=0.00048633401420095323}
+(gender(Female))(member card(Silver))(marital_status(M)) --> (buy(407)), {C=0.0006327512022272843, S=0.00048633401420095323}
+(gender(Female))(member card(Silver))(marital_status(M)) --> (buy(522)), {C=0.0008858516831181979, S=0.0006808676198813345}
+(gender(Female))(member card(Silver))(marital_status(M)) --> (buy(848)), {C=0.0006327512022272843, S=0.00048633401420095323}
+(gender(Female))(member card(Silver))(marital_status(M)) --> (buy(1340)), {C=0.0006327512022272843, S=0.00048633401420095323}
+(gender(Female))(member card(Silver))(marital_status(M)) --> (buy(1403)), {C=0.0008858516831181979, S=0.0006808676198813345}

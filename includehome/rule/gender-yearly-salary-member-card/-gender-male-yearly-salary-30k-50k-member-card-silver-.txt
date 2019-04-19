@@ -1,0 +1,4 @@
+(gender(Male))(yearly_salary($30K - $50K))(member card(Silver)) --> (buy(238)), {C=0.0007004763239002522, S=0.00048633401420095323}
+(gender(Male))(yearly_salary($30K - $50K))(member card(Silver)) --> (buy(243)), {C=0.0007004763239002522, S=0.00048633401420095323}
+(gender(Male))(yearly_salary($30K - $50K))(member card(Silver)) --> (buy(997)), {C=0.0007004763239002522, S=0.00048633401420095323}
+(gender(Male))(yearly_salary($30K - $50K))(member card(Silver)) --> (buy(1355)), {C=0.0008405715886803026, S=0.0005836008170411438}

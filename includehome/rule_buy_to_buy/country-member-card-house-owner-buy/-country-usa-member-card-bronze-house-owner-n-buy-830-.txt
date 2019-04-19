@@ -1,0 +1,1 @@
+(country(USA))(member card(Bronze))(house_owner(N))(buy(830)) --> (buy(1036)), {C=0.0006307821698906643, S=0.0005836008170411438}

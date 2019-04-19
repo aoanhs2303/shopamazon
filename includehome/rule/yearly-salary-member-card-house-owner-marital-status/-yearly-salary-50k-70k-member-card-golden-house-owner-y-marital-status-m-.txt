@@ -1,0 +1,5 @@
+(yearly_salary($50K - $70K))(member card(Golden))(house_owner(Y))(marital_status(M)) --> (buy(315)), {C=0.0006151574803149607, S=0.00048633401420095323}
+(yearly_salary($50K - $70K))(member card(Golden))(house_owner(Y))(marital_status(M)) --> (buy(450)), {C=0.0006151574803149607, S=0.00048633401420095323}
+(yearly_salary($50K - $70K))(member card(Golden))(house_owner(Y))(marital_status(M)) --> (buy(843)), {C=0.0006151574803149607, S=0.00048633401420095323}
+(yearly_salary($50K - $70K))(member card(Golden))(house_owner(Y))(marital_status(M)) --> (buy(1041)), {C=0.0006151574803149607, S=0.00048633401420095323}
+(yearly_salary($50K - $70K))(member card(Golden))(house_owner(Y))(marital_status(M)) --> (buy(1092)), {C=0.0006151574803149607, S=0.00048633401420095323}

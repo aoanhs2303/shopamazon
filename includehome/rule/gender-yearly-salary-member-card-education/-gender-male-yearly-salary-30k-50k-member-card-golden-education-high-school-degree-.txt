@@ -1,0 +1,3 @@
+(gender(Male))(yearly_salary($30K - $50K))(member card(Golden))(education(High School Degree)) --> (buy(231)), {C=0.0006583278472679394, S=0.00048633401420095323}
+(gender(Male))(yearly_salary($30K - $50K))(member card(Golden))(education(High School Degree)) --> (buy(454)), {C=0.0006583278472679394, S=0.00048633401420095323}
+(gender(Male))(yearly_salary($30K - $50K))(member card(Golden))(education(High School Degree)) --> (buy(1483)), {C=0.0007899934167215272, S=0.0005836008170411438}

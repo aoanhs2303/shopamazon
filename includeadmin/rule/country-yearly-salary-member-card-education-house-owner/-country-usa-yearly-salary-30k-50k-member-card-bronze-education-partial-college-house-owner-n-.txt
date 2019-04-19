@@ -1,0 +1,11 @@
+(country(USA))(yearly_salary($30K - $50K))(member card(Bronze))(education(Partial College))(house_owner(N)) --> (buy(194)), {C=0.0007223942208462332, S=0.0006808676198813345}
+(country(USA))(yearly_salary($30K - $50K))(member card(Bronze))(education(Partial College))(house_owner(N)) --> (buy(274)), {C=0.0007223942208462332, S=0.0006808676198813345}
+(country(USA))(yearly_salary($30K - $50K))(member card(Bronze))(education(Partial College))(house_owner(N)) --> (buy(445)), {C=0.0005159958720330238, S=0.00048633401420095323}
+(country(USA))(yearly_salary($30K - $50K))(member card(Bronze))(education(Partial College))(house_owner(N)) --> (buy(477)), {C=0.0005159958720330238, S=0.00048633401420095323}
+(country(USA))(yearly_salary($30K - $50K))(member card(Bronze))(education(Partial College))(house_owner(N)) --> (buy(503)), {C=0.0005159958720330238, S=0.00048633401420095323}
+(country(USA))(yearly_salary($30K - $50K))(member card(Bronze))(education(Partial College))(house_owner(N)) --> (buy(716)), {C=0.0005159958720330238, S=0.00048633401420095323}
+(country(USA))(yearly_salary($30K - $50K))(member card(Bronze))(education(Partial College))(house_owner(N)) --> (buy(793)), {C=0.0005159958720330238, S=0.00048633401420095323}
+(country(USA))(yearly_salary($30K - $50K))(member card(Bronze))(education(Partial College))(house_owner(N)) --> (buy(905)), {C=0.0005159958720330238, S=0.00048633401420095323}
+(country(USA))(yearly_salary($30K - $50K))(member card(Bronze))(education(Partial College))(house_owner(N)) --> (buy(935)), {C=0.0005159958720330238, S=0.00048633401420095323}
+(country(USA))(yearly_salary($30K - $50K))(member card(Bronze))(education(Partial College))(house_owner(N)) --> (buy(1036)), {C=0.0005159958720330238, S=0.00048633401420095323}
+(country(USA))(yearly_salary($30K - $50K))(member card(Bronze))(education(Partial College))(house_owner(N)) --> (buy(1144)), {C=0.0006191950464396284, S=0.0005836008170411438}

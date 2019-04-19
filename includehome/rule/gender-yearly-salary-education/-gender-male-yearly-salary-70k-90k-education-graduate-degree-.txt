@@ -1,0 +1,1 @@
+(gender(Male))(yearly_salary($70K - $90K))(education(Graduate Degree)) --> (buy(1422)), {C=0.0008387854386847844, S=0.00048633401420095323}

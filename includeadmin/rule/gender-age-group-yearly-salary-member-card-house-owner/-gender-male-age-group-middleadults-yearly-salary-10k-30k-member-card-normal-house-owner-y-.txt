@@ -1,0 +1,12 @@
+(gender(Male))(age_group(MiddleAdults))(yearly_salary($10K - $30K))(member card(Normal))(house_owner(Y)) --> (buy(593)), {C=0.000546268982847154, S=0.00048633401420095323}
+(gender(Male))(age_group(MiddleAdults))(yearly_salary($10K - $30K))(member card(Normal))(house_owner(Y)) --> (buy(996)), {C=0.000546268982847154, S=0.00048633401420095323}
+(gender(Male))(age_group(MiddleAdults))(yearly_salary($10K - $30K))(member card(Normal))(house_owner(Y)) --> (buy(1406)), {C=0.000546268982847154, S=0.00048633401420095323}
+(gender(Male))(age_group(MiddleAdults))(yearly_salary($10K - $30K))(member card(Normal))(house_owner(Y)) --> (buy(1446)), {C=0.000546268982847154, S=0.00048633401420095323}
+(gender(Male))(age_group(MiddleAdults))(yearly_salary($10K - $30K))(member card(Normal))(house_owner(Y)) --> (buy(593)), {C=0.000546268982847154, S=0.00048633401420095323}
+(gender(Male))(age_group(MiddleAdults))(yearly_salary($10K - $30K))(member card(Normal))(house_owner(Y)) --> (buy(996)), {C=0.000546268982847154, S=0.00048633401420095323}
+(gender(Male))(age_group(MiddleAdults))(yearly_salary($10K - $30K))(member card(Normal))(house_owner(Y)) --> (buy(1406)), {C=0.000546268982847154, S=0.00048633401420095323}
+(gender(Male))(age_group(MiddleAdults))(yearly_salary($10K - $30K))(member card(Normal))(house_owner(Y)) --> (buy(1446)), {C=0.000546268982847154, S=0.00048633401420095323}
+(gender(Male))(age_group(MiddleAdults))(yearly_salary($10K - $30K))(member card(Normal))(house_owner(Y)) --> (buy(593)), {C=0.000546268982847154, S=0.00048633401420095323}
+(gender(Male))(age_group(MiddleAdults))(yearly_salary($10K - $30K))(member card(Normal))(house_owner(Y)) --> (buy(996)), {C=0.000546268982847154, S=0.00048633401420095323}
+(gender(Male))(age_group(MiddleAdults))(yearly_salary($10K - $30K))(member card(Normal))(house_owner(Y)) --> (buy(1406)), {C=0.000546268982847154, S=0.00048633401420095323}
+(gender(Male))(age_group(MiddleAdults))(yearly_salary($10K - $30K))(member card(Normal))(house_owner(Y)) --> (buy(1446)), {C=0.000546268982847154, S=0.00048633401420095323}

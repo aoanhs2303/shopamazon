@@ -1,0 +1,2 @@
+(gender(Male))(country(USA))(yearly_salary($30K - $50K))(member card(Golden))(education(High School Degree))(marital_status(M)) --> (buy(231)), {C=0.0005060216577269508, S=0.00048633401420095323}
+(gender(Male))(country(USA))(yearly_salary($30K - $50K))(member card(Golden))(education(High School Degree))(marital_status(M)) --> (buy(454)), {C=0.0005060216577269508, S=0.00048633401420095323}

@@ -1,0 +1,10 @@
+(gender(Male))(education(Partial College))(marital_status(M)) --> (buy(201)), {C=0.0006253126563281642, S=0.00048633401420095323}
+(gender(Male))(education(Partial College))(marital_status(M)) --> (buy(274)), {C=0.0006253126563281642, S=0.00048633401420095323}
+(gender(Male))(education(Partial College))(marital_status(M)) --> (buy(355)), {C=0.0006253126563281642, S=0.00048633401420095323}
+(gender(Male))(education(Partial College))(marital_status(M)) --> (buy(436)), {C=0.0006253126563281642, S=0.00048633401420095323}
+(gender(Male))(education(Partial College))(marital_status(M)) --> (buy(612)), {C=0.0006253126563281642, S=0.00048633401420095323}
+(gender(Male))(education(Partial College))(marital_status(M)) --> (buy(925)), {C=0.0006253126563281642, S=0.00048633401420095323}
+(gender(Male))(education(Partial College))(marital_status(M)) --> (buy(935)), {C=0.0006253126563281642, S=0.00048633401420095323}
+(gender(Male))(education(Partial College))(marital_status(M)) --> (buy(1438)), {C=0.0006253126563281642, S=0.00048633401420095323}
+(gender(Male))(education(Partial College))(marital_status(M)) --> (buy(1441)), {C=0.0006253126563281642, S=0.00048633401420095323}
+(gender(Male))(education(Partial College))(marital_status(M)) --> (buy(1547)), {C=0.0006253126563281642, S=0.00048633401420095323}

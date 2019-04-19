@@ -1,0 +1,1 @@
+(country(USA))(yearly_salary($10K - $30K))(education(Partial High School))(buy(1514)) --> (buy(676)), {C=0.000603500301750151, S=0.00048633401420095323}

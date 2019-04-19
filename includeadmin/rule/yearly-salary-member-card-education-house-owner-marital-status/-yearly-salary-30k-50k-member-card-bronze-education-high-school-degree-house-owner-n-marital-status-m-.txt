@@ -1,0 +1,3 @@
+(yearly_salary($30K - $50K))(member card(Bronze))(education(High School Degree))(house_owner(N))(marital_status(M)) --> (buy(549)), {C=0.0005195344970906068, S=0.00048633401420095323}
+(yearly_salary($30K - $50K))(member card(Bronze))(education(High School Degree))(house_owner(N))(marital_status(M)) --> (buy(1046)), {C=0.0005195344970906068, S=0.00048633401420095323}
+(yearly_salary($30K - $50K))(member card(Bronze))(education(High School Degree))(house_owner(N))(marital_status(M)) --> (buy(1104)), {C=0.0006234413965087282, S=0.0005836008170411438}

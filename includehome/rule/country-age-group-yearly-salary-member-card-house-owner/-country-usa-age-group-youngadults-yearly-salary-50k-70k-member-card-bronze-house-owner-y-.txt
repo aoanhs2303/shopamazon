@@ -1,0 +1,3 @@
+(country(USA))(age_group(YoungAdults))(yearly_salary($50K - $70K))(member card(Bronze))(house_owner(Y)) --> (buy(86)), {C=0.0005026135906714918, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($50K - $70K))(member card(Bronze))(house_owner(Y)) --> (buy(455)), {C=0.0005026135906714918, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($50K - $70K))(member card(Bronze))(house_owner(Y)) --> (buy(1441)), {C=0.0005026135906714918, S=0.00048633401420095323}

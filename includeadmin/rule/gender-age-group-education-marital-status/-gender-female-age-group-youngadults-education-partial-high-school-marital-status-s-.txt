@@ -1,0 +1,6 @@
+(gender(Female))(age_group(YoungAdults))(education(Partial High School))(marital_status(S)) --> (buy(7)), {C=0.0006768189509306261, S=0.0005836008170411438}
+(gender(Female))(age_group(YoungAdults))(education(Partial High School))(marital_status(S)) --> (buy(168)), {C=0.0005640157924421884, S=0.00048633401420095323}
+(gender(Female))(age_group(YoungAdults))(education(Partial High School))(marital_status(S)) --> (buy(240)), {C=0.0005640157924421884, S=0.00048633401420095323}
+(gender(Female))(age_group(YoungAdults))(education(Partial High School))(marital_status(S)) --> (buy(244)), {C=0.0005640157924421884, S=0.00048633401420095323}
+(gender(Female))(age_group(YoungAdults))(education(Partial High School))(marital_status(S)) --> (buy(1308)), {C=0.0006768189509306261, S=0.0005836008170411438}
+(gender(Female))(age_group(YoungAdults))(education(Partial High School))(marital_status(S)) --> (buy(1514)), {C=0.0005640157924421884, S=0.00048633401420095323}

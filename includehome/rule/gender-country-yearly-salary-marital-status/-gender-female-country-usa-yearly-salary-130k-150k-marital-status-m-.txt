@@ -1,0 +1,1 @@
+(gender(Female))(country(USA))(yearly_salary($130K - $150K))(marital_status(M)) --> (buy(1243)), {C=0.0005211590577444236, S=0.00048633401420095323}

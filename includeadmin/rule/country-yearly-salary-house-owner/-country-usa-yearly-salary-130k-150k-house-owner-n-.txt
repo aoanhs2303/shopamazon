@@ -1,0 +1,2 @@
+(country(USA))(yearly_salary($130K - $150K))(house_owner(N)) --> (buy(42)), {C=0.0005773672055427252, S=0.00048633401420095323}
+(country(USA))(yearly_salary($130K - $150K))(house_owner(N)) --> (buy(748)), {C=0.0005773672055427252, S=0.00048633401420095323}

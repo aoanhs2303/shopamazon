@@ -321,7 +321,6 @@ jQuery(document).ready(function($) {
             scrollTop: '+=350'
         }, 500);
     });
-    console.log("scroll");
 });
 
 

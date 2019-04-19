@@ -1,0 +1,1 @@
+(gender(Male))(country(USA))(age_group(YoungAdults))(member card(Normal))(education(Partial High School))(house_owner(Y)) --> (buy(588)), {C=0.0005012028869286287, S=0.00048633401420095323}

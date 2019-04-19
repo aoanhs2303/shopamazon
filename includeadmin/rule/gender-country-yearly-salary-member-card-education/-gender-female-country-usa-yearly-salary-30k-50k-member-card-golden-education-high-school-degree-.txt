@@ -1,0 +1,1 @@
+(gender(Female))(country(USA))(yearly_salary($30K - $50K))(member card(Golden))(education(High School Degree)) --> (buy(378)), {C=0.0005259835893120135, S=0.00048633401420095323}

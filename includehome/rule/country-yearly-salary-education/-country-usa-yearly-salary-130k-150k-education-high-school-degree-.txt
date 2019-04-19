@@ -1,0 +1,7 @@
+(country(USA))(yearly_salary($130K - $150K))(education(High School Degree)) --> (buy(584)), {C=0.000718993409227082, S=0.0005836008170411438}
+(country(USA))(yearly_salary($130K - $150K))(education(High School Degree)) --> (buy(644)), {C=0.0005991611743559018, S=0.00048633401420095323}
+(country(USA))(yearly_salary($130K - $150K))(education(High School Degree)) --> (buy(808)), {C=0.0005991611743559018, S=0.00048633401420095323}
+(country(USA))(yearly_salary($130K - $150K))(education(High School Degree)) --> (buy(1095)), {C=0.0005991611743559018, S=0.00048633401420095323}
+(country(USA))(yearly_salary($130K - $150K))(education(High School Degree)) --> (buy(1150)), {C=0.0005991611743559018, S=0.00048633401420095323}
+(country(USA))(yearly_salary($130K - $150K))(education(High School Degree)) --> (buy(1282)), {C=0.000718993409227082, S=0.0005836008170411438}
+(country(USA))(yearly_salary($130K - $150K))(education(High School Degree)) --> (buy(1377)), {C=0.0005991611743559018, S=0.00048633401420095323}

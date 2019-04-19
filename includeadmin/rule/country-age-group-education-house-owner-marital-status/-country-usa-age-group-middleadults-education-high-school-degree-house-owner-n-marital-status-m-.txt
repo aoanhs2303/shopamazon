@@ -1,0 +1,3 @@
+(country(USA))(age_group(MiddleAdults))(education(High School Degree))(house_owner(N))(marital_status(M)) --> (buy(1003)), {C=0.0005037783375314861, S=0.00048633401420095323}
+(country(USA))(age_group(MiddleAdults))(education(High School Degree))(house_owner(N))(marital_status(M)) --> (buy(1003)), {C=0.0005037783375314861, S=0.00048633401420095323}
+(country(USA))(age_group(MiddleAdults))(education(High School Degree))(house_owner(N))(marital_status(M)) --> (buy(1003)), {C=0.0005037783375314861, S=0.00048633401420095323}

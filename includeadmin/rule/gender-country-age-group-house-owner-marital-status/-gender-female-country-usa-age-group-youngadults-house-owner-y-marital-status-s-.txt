@@ -1,0 +1,15 @@
+(gender(Female))(country(USA))(age_group(YoungAdults))(house_owner(Y))(marital_status(S)) --> (buy(7)), {C=0.0004939247258717772, S=0.00048633401420095323}
+(gender(Female))(country(USA))(age_group(YoungAdults))(house_owner(Y))(marital_status(S)) --> (buy(35)), {C=0.0004939247258717772, S=0.00048633401420095323}
+(gender(Female))(country(USA))(age_group(YoungAdults))(house_owner(Y))(marital_status(S)) --> (buy(310)), {C=0.0004939247258717772, S=0.00048633401420095323}
+(gender(Female))(country(USA))(age_group(YoungAdults))(house_owner(Y))(marital_status(S)) --> (buy(373)), {C=0.0005927096710461325, S=0.0005836008170411438}
+(gender(Female))(country(USA))(age_group(YoungAdults))(house_owner(Y))(marital_status(S)) --> (buy(541)), {C=0.0005927096710461325, S=0.0005836008170411438}
+(gender(Female))(country(USA))(age_group(YoungAdults))(house_owner(Y))(marital_status(S)) --> (buy(739)), {C=0.0004939247258717772, S=0.00048633401420095323}
+(gender(Female))(country(USA))(age_group(YoungAdults))(house_owner(Y))(marital_status(S)) --> (buy(806)), {C=0.0004939247258717772, S=0.00048633401420095323}
+(gender(Female))(country(USA))(age_group(YoungAdults))(house_owner(Y))(marital_status(S)) --> (buy(869)), {C=0.0004939247258717772, S=0.00048633401420095323}
+(gender(Female))(country(USA))(age_group(YoungAdults))(house_owner(Y))(marital_status(S)) --> (buy(911)), {C=0.0004939247258717772, S=0.00048633401420095323}
+(gender(Female))(country(USA))(age_group(YoungAdults))(house_owner(Y))(marital_status(S)) --> (buy(1031)), {C=0.0004939247258717772, S=0.00048633401420095323}
+(gender(Female))(country(USA))(age_group(YoungAdults))(house_owner(Y))(marital_status(S)) --> (buy(1196)), {C=0.0004939247258717772, S=0.00048633401420095323}
+(gender(Female))(country(USA))(age_group(YoungAdults))(house_owner(Y))(marital_status(S)) --> (buy(1243)), {C=0.0004939247258717772, S=0.00048633401420095323}
+(gender(Female))(country(USA))(age_group(YoungAdults))(house_owner(Y))(marital_status(S)) --> (buy(1362)), {C=0.0004939247258717772, S=0.00048633401420095323}
+(gender(Female))(country(USA))(age_group(YoungAdults))(house_owner(Y))(marital_status(S)) --> (buy(1441)), {C=0.0004939247258717772, S=0.00048633401420095323}
+(gender(Female))(country(USA))(age_group(YoungAdults))(house_owner(Y))(marital_status(S)) --> (buy(1464)), {C=0.0004939247258717772, S=0.00048633401420095323}

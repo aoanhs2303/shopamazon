@@ -1,0 +1,2 @@
+(gender(Male))(yearly_salary($130K - $150K))(member card(Bronze))(house_owner(Y)) --> (buy(422)), {C=0.0005281504172388297, S=0.00048633401420095323}
+(gender(Male))(yearly_salary($130K - $150K))(member card(Bronze))(house_owner(Y)) --> (buy(991)), {C=0.0005281504172388297, S=0.00048633401420095323}

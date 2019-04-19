@@ -1,0 +1,12 @@
+(gender(Female))(yearly_salary($10K - $30K))(education(Partial High School))(house_owner(Y))(marital_status(S)) --> (buy(179)), {C=0.000509268690160929, S=0.00048633401420095323}
+(gender(Female))(yearly_salary($10K - $30K))(education(Partial High School))(house_owner(Y))(marital_status(S)) --> (buy(304)), {C=0.000509268690160929, S=0.00048633401420095323}
+(gender(Female))(yearly_salary($10K - $30K))(education(Partial High School))(house_owner(Y))(marital_status(S)) --> (buy(389)), {C=0.000509268690160929, S=0.00048633401420095323}
+(gender(Female))(yearly_salary($10K - $30K))(education(Partial High School))(house_owner(Y))(marital_status(S)) --> (buy(399)), {C=0.000509268690160929, S=0.00048633401420095323}
+(gender(Female))(yearly_salary($10K - $30K))(education(Partial High School))(house_owner(Y))(marital_status(S)) --> (buy(428)), {C=0.000509268690160929, S=0.00048633401420095323}
+(gender(Female))(yearly_salary($10K - $30K))(education(Partial High School))(house_owner(Y))(marital_status(S)) --> (buy(469)), {C=0.0006111224281931147, S=0.0005836008170411438}
+(gender(Female))(yearly_salary($10K - $30K))(education(Partial High School))(house_owner(Y))(marital_status(S)) --> (buy(1012)), {C=0.000509268690160929, S=0.00048633401420095323}
+(gender(Female))(yearly_salary($10K - $30K))(education(Partial High School))(house_owner(Y))(marital_status(S)) --> (buy(1215)), {C=0.000509268690160929, S=0.00048633401420095323}
+(gender(Female))(yearly_salary($10K - $30K))(education(Partial High School))(house_owner(Y))(marital_status(S)) --> (buy(1353)), {C=0.0006111224281931147, S=0.0005836008170411438}
+(gender(Female))(yearly_salary($10K - $30K))(education(Partial High School))(house_owner(Y))(marital_status(S)) --> (buy(1421)), {C=0.000509268690160929, S=0.00048633401420095323}
+(gender(Female))(yearly_salary($10K - $30K))(education(Partial High School))(house_owner(Y))(marital_status(S)) --> (buy(1465)), {C=0.000509268690160929, S=0.00048633401420095323}
+(gender(Female))(yearly_salary($10K - $30K))(education(Partial High School))(house_owner(Y))(marital_status(S)) --> (buy(1514)), {C=0.000509268690160929, S=0.00048633401420095323}

@@ -1,0 +1,3 @@
+(age_group(YoungAdults))(member card(Golden))(house_owner(Y)) --> (buy(609)), {C=0.000683433570256971, S=0.00048633401420095323}
+(age_group(YoungAdults))(member card(Golden))(house_owner(Y)) --> (buy(614)), {C=0.000683433570256971, S=0.00048633401420095323}
+(age_group(YoungAdults))(member card(Golden))(house_owner(Y)) --> (buy(903)), {C=0.000683433570256971, S=0.00048633401420095323}

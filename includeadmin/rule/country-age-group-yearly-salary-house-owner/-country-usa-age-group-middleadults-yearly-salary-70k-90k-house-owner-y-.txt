@@ -1,0 +1,3 @@
+(country(USA))(age_group(MiddleAdults))(yearly_salary($70K - $90K))(house_owner(Y)) --> (buy(1343)), {C=0.0005282062117050497, S=0.00048633401420095323}
+(country(USA))(age_group(MiddleAdults))(yearly_salary($70K - $90K))(house_owner(Y)) --> (buy(1343)), {C=0.0005282062117050497, S=0.00048633401420095323}
+(country(USA))(age_group(MiddleAdults))(yearly_salary($70K - $90K))(house_owner(Y)) --> (buy(1343)), {C=0.0005282062117050497, S=0.00048633401420095323}

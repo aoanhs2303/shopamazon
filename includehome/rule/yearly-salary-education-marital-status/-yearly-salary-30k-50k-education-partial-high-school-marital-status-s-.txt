@@ -1,0 +1,16 @@
+(yearly_salary($30K - $50K))(education(Partial High School))(marital_status(S)) --> (buy(98)), {C=0.0006151574803149607, S=0.00048633401420095323}
+(yearly_salary($30K - $50K))(education(Partial High School))(marital_status(S)) --> (buy(379)), {C=0.0006151574803149607, S=0.00048633401420095323}
+(yearly_salary($30K - $50K))(education(Partial High School))(marital_status(S)) --> (buy(416)), {C=0.0006151574803149607, S=0.00048633401420095323}
+(yearly_salary($30K - $50K))(education(Partial High School))(marital_status(S)) --> (buy(467)), {C=0.0006151574803149607, S=0.00048633401420095323}
+(yearly_salary($30K - $50K))(education(Partial High School))(marital_status(S)) --> (buy(596)), {C=0.0006151574803149607, S=0.00048633401420095323}
+(yearly_salary($30K - $50K))(education(Partial High School))(marital_status(S)) --> (buy(599)), {C=0.0006151574803149607, S=0.00048633401420095323}
+(yearly_salary($30K - $50K))(education(Partial High School))(marital_status(S)) --> (buy(646)), {C=0.0006151574803149607, S=0.00048633401420095323}
+(yearly_salary($30K - $50K))(education(Partial High School))(marital_status(S)) --> (buy(674)), {C=0.0006151574803149607, S=0.00048633401420095323}
+(yearly_salary($30K - $50K))(education(Partial High School))(marital_status(S)) --> (buy(784)), {C=0.0006151574803149607, S=0.00048633401420095323}
+(yearly_salary($30K - $50K))(education(Partial High School))(marital_status(S)) --> (buy(820)), {C=0.0006151574803149607, S=0.00048633401420095323}
+(yearly_salary($30K - $50K))(education(Partial High School))(marital_status(S)) --> (buy(865)), {C=0.0006151574803149607, S=0.00048633401420095323}
+(yearly_salary($30K - $50K))(education(Partial High School))(marital_status(S)) --> (buy(940)), {C=0.0007381889763779527, S=0.0005836008170411438}
+(yearly_salary($30K - $50K))(education(Partial High School))(marital_status(S)) --> (buy(1438)), {C=0.0006151574803149607, S=0.00048633401420095323}
+(yearly_salary($30K - $50K))(education(Partial High School))(marital_status(S)) --> (buy(1460)), {C=0.0007381889763779527, S=0.0005836008170411438}
+(yearly_salary($30K - $50K))(education(Partial High School))(marital_status(S)) --> (buy(1464)), {C=0.0006151574803149607, S=0.00048633401420095323}
+(yearly_salary($30K - $50K))(education(Partial High School))(marital_status(S)) --> (buy(1518)), {C=0.0006151574803149607, S=0.00048633401420095323}

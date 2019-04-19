@@ -1,0 +1,1 @@
+(gender(Female))(country(USA))(age_group(YoungAdults))(yearly_salary($50K - $70K))(member card(Bronze)) --> (buy(1503)), {C=0.0005063291139240507, S=0.00048633401420095323}

@@ -1,0 +1,1 @@
+(gender(Female))(country(USA))(member card(Silver))(education(Bachelors Degree))(house_owner(Y)) --> (buy(948)), {C=0.0005054078641463662, S=0.00048633401420095323}

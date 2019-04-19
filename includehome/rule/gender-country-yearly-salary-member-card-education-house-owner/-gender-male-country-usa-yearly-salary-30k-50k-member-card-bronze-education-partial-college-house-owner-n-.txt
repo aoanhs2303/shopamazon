@@ -1,0 +1,2 @@
+(gender(Male))(country(USA))(yearly_salary($30K - $50K))(member card(Bronze))(education(Partial College))(house_owner(N)) --> (buy(274)), {C=0.0006010217369528197, S=0.0005836008170411438}
+(gender(Male))(country(USA))(yearly_salary($30K - $50K))(member card(Bronze))(education(Partial College))(house_owner(N)) --> (buy(445)), {C=0.0005008514474606832, S=0.00048633401420095323}

@@ -1,0 +1,7 @@
+(gender(Female))(age_group(YoungAdults))(member card(Normal))(education(Partial High School)) --> (buy(546)), {C=0.0006557377049180328, S=0.00048633401420095323}
+(gender(Female))(age_group(YoungAdults))(member card(Normal))(education(Partial High School)) --> (buy(566)), {C=0.0006557377049180328, S=0.00048633401420095323}
+(gender(Female))(age_group(YoungAdults))(member card(Normal))(education(Partial High School)) --> (buy(634)), {C=0.0007868852459016393, S=0.0005836008170411438}
+(gender(Female))(age_group(YoungAdults))(member card(Normal))(education(Partial High School)) --> (buy(827)), {C=0.0007868852459016393, S=0.0005836008170411438}
+(gender(Female))(age_group(YoungAdults))(member card(Normal))(education(Partial High School)) --> (buy(881)), {C=0.0009180327868852458, S=0.0006808676198813345}
+(gender(Female))(age_group(YoungAdults))(member card(Normal))(education(Partial High School)) --> (buy(1262)), {C=0.0006557377049180328, S=0.00048633401420095323}
+(gender(Female))(age_group(YoungAdults))(member card(Normal))(education(Partial High School)) --> (buy(1308)), {C=0.0006557377049180328, S=0.00048633401420095323}

@@ -1,0 +1,13 @@
+(age_group(YoungAdults))(yearly_salary($10K - $30K))(member card(Normal))(marital_status(S)) --> (buy(122)), {C=0.0008278145695364237, S=0.0005836008170411438}
+(age_group(YoungAdults))(yearly_salary($10K - $30K))(member card(Normal))(marital_status(S)) --> (buy(211)), {C=0.0006898454746136866, S=0.00048633401420095323}
+(age_group(YoungAdults))(yearly_salary($10K - $30K))(member card(Normal))(marital_status(S)) --> (buy(212)), {C=0.0006898454746136866, S=0.00048633401420095323}
+(age_group(YoungAdults))(yearly_salary($10K - $30K))(member card(Normal))(marital_status(S)) --> (buy(287)), {C=0.0006898454746136866, S=0.00048633401420095323}
+(age_group(YoungAdults))(yearly_salary($10K - $30K))(member card(Normal))(marital_status(S)) --> (buy(426)), {C=0.0006898454746136866, S=0.00048633401420095323}
+(age_group(YoungAdults))(yearly_salary($10K - $30K))(member card(Normal))(marital_status(S)) --> (buy(755)), {C=0.0006898454746136866, S=0.00048633401420095323}
+(age_group(YoungAdults))(yearly_salary($10K - $30K))(member card(Normal))(marital_status(S)) --> (buy(881)), {C=0.0006898454746136866, S=0.00048633401420095323}
+(age_group(YoungAdults))(yearly_salary($10K - $30K))(member card(Normal))(marital_status(S)) --> (buy(1019)), {C=0.0008278145695364237, S=0.0005836008170411438}
+(age_group(YoungAdults))(yearly_salary($10K - $30K))(member card(Normal))(marital_status(S)) --> (buy(1146)), {C=0.0006898454746136866, S=0.00048633401420095323}
+(age_group(YoungAdults))(yearly_salary($10K - $30K))(member card(Normal))(marital_status(S)) --> (buy(1162)), {C=0.0006898454746136866, S=0.00048633401420095323}
+(age_group(YoungAdults))(yearly_salary($10K - $30K))(member card(Normal))(marital_status(S)) --> (buy(1266)), {C=0.0006898454746136866, S=0.00048633401420095323}
+(age_group(YoungAdults))(yearly_salary($10K - $30K))(member card(Normal))(marital_status(S)) --> (buy(1308)), {C=0.0009657836644591611, S=0.0006808676198813345}
+(age_group(YoungAdults))(yearly_salary($10K - $30K))(member card(Normal))(marital_status(S)) --> (buy(1355)), {C=0.0006898454746136866, S=0.00048633401420095323}

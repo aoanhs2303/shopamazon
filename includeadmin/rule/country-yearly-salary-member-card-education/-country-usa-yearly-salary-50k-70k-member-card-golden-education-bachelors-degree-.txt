@@ -1,0 +1,1 @@
+(country(USA))(yearly_salary($50K - $70K))(member card(Golden))(education(Bachelors Degree)) --> (buy(908)), {C=0.000593401376691194, S=0.00048633401420095323}

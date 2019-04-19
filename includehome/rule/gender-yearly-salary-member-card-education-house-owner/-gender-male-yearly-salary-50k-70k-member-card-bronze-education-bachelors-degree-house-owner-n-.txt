@@ -1,0 +1,14 @@
+(gender(Male))(yearly_salary($50K - $70K))(member card(Bronze))(education(Bachelors Degree))(house_owner(N)) --> (buy(157)), {C=0.0005472854640980736, S=0.00048633401420095323}
+(gender(Male))(yearly_salary($50K - $70K))(member card(Bronze))(education(Bachelors Degree))(house_owner(N)) --> (buy(162)), {C=0.0005472854640980736, S=0.00048633401420095323}
+(gender(Male))(yearly_salary($50K - $70K))(member card(Bronze))(education(Bachelors Degree))(house_owner(N)) --> (buy(244)), {C=0.0005472854640980736, S=0.00048633401420095323}
+(gender(Male))(yearly_salary($50K - $70K))(member card(Bronze))(education(Bachelors Degree))(house_owner(N)) --> (buy(271)), {C=0.0005472854640980736, S=0.00048633401420095323}
+(gender(Male))(yearly_salary($50K - $70K))(member card(Bronze))(education(Bachelors Degree))(house_owner(N)) --> (buy(510)), {C=0.0005472854640980736, S=0.00048633401420095323}
+(gender(Male))(yearly_salary($50K - $70K))(member card(Bronze))(education(Bachelors Degree))(house_owner(N)) --> (buy(525)), {C=0.0005472854640980736, S=0.00048633401420095323}
+(gender(Male))(yearly_salary($50K - $70K))(member card(Bronze))(education(Bachelors Degree))(house_owner(N)) --> (buy(639)), {C=0.0005472854640980736, S=0.00048633401420095323}
+(gender(Male))(yearly_salary($50K - $70K))(member card(Bronze))(education(Bachelors Degree))(house_owner(N)) --> (buy(688)), {C=0.0005472854640980736, S=0.00048633401420095323}
+(gender(Male))(yearly_salary($50K - $70K))(member card(Bronze))(education(Bachelors Degree))(house_owner(N)) --> (buy(897)), {C=0.0005472854640980736, S=0.00048633401420095323}
+(gender(Male))(yearly_salary($50K - $70K))(member card(Bronze))(education(Bachelors Degree))(house_owner(N)) --> (buy(942)), {C=0.0005472854640980736, S=0.00048633401420095323}
+(gender(Male))(yearly_salary($50K - $70K))(member card(Bronze))(education(Bachelors Degree))(house_owner(N)) --> (buy(1046)), {C=0.0005472854640980736, S=0.00048633401420095323}
+(gender(Male))(yearly_salary($50K - $70K))(member card(Bronze))(education(Bachelors Degree))(house_owner(N)) --> (buy(1145)), {C=0.0005472854640980736, S=0.00048633401420095323}
+(gender(Male))(yearly_salary($50K - $70K))(member card(Bronze))(education(Bachelors Degree))(house_owner(N)) --> (buy(1401)), {C=0.0005472854640980736, S=0.00048633401420095323}
+(gender(Male))(yearly_salary($50K - $70K))(member card(Bronze))(education(Bachelors Degree))(house_owner(N)) --> (buy(1436)), {C=0.0006567425569176883, S=0.0005836008170411438}

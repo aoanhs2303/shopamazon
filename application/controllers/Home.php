@@ -130,7 +130,7 @@ class Home extends CI_Controller {
 		$this->load->view('home/include/footer.php', null, FALSE);
 	}
 
-	public function dichvu()
+	public function foryou()
 	{
 		$category     = $this->Admin_model->getCategory();
 		$product_side = $this->Admin_model->getHotProductSide();
@@ -140,24 +140,13 @@ class Home extends CI_Controller {
 		);
 		$sidebar       = $this->load->view('home/include/sidebar', $data_side, TRUE);
 
-		$category_van  = $this->Admin_model->getCategory_Van('van');
-		$category_lot  = $this->Admin_model->getCategory_Van('lot');
-		$category_khac = $this->Admin_model->getCategory_Van('khac');
-
-		$dichvu = $this->Admin_model->getService();
 		$data_main = array(
-			'sidebar'   => $sidebar,
-			'dichvu' => $dichvu
+			'sidebar'   => $sidebar
 		);
 
-		$data_menu = array(
-			'category_van' => $category_van,
-			'category_lot' => $category_lot,
-			'category_khac' => $category_khac
-		);
 		$this->load->view('home/include/header.php', null, FALSE);
-		$this->load->view('home/include/menutop.php', $data_menu, FALSE);
-		$this->load->view('home/dichvu_view', $data_main);
+		$this->load->view('home/include/menutop.php', null, FALSE);
+		$this->load->view('home/foryou_view', $data_main);
 		$this->load->view('home/include/footer.php', null, FALSE);		
 	}
 

@@ -1,0 +1,2 @@
+(gender(Female))(country(USA))(age_group(YoungAdults))(yearly_salary($50K - $70K)) --> (buy(908)), {C=0.0005341309689135777, S=0.00048633401420095323}
+(gender(Female))(country(USA))(age_group(YoungAdults))(yearly_salary($50K - $70K)) --> (buy(1503)), {C=0.0005341309689135777, S=0.00048633401420095323}

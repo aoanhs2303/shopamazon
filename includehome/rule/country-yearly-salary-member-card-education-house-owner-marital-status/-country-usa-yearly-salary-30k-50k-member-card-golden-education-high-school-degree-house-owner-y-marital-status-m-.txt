@@ -1,0 +1,8 @@
+(country(USA))(yearly_salary($30K - $50K))(member card(Golden))(education(High School Degree))(house_owner(Y))(marital_status(M)) --> (buy(357)), {C=0.0006098180709421688, S=0.0005836008170411438}
+(country(USA))(yearly_salary($30K - $50K))(member card(Golden))(education(High School Degree))(house_owner(Y))(marital_status(M)) --> (buy(445)), {C=0.0005081817257851408, S=0.00048633401420095323}
+(country(USA))(yearly_salary($30K - $50K))(member card(Golden))(education(High School Degree))(house_owner(Y))(marital_status(M)) --> (buy(454)), {C=0.0005081817257851408, S=0.00048633401420095323}
+(country(USA))(yearly_salary($30K - $50K))(member card(Golden))(education(High School Degree))(house_owner(Y))(marital_status(M)) --> (buy(952)), {C=0.0005081817257851408, S=0.00048633401420095323}
+(country(USA))(yearly_salary($30K - $50K))(member card(Golden))(education(High School Degree))(house_owner(Y))(marital_status(M)) --> (buy(1100)), {C=0.0006098180709421688, S=0.0005836008170411438}
+(country(USA))(yearly_salary($30K - $50K))(member card(Golden))(education(High School Degree))(house_owner(Y))(marital_status(M)) --> (buy(1275)), {C=0.0005081817257851408, S=0.00048633401420095323}
+(country(USA))(yearly_salary($30K - $50K))(member card(Golden))(education(High School Degree))(house_owner(Y))(marital_status(M)) --> (buy(1382)), {C=0.0005081817257851408, S=0.00048633401420095323}
+(country(USA))(yearly_salary($30K - $50K))(member card(Golden))(education(High School Degree))(house_owner(Y))(marital_status(M)) --> (buy(1483)), {C=0.0005081817257851408, S=0.00048633401420095323}

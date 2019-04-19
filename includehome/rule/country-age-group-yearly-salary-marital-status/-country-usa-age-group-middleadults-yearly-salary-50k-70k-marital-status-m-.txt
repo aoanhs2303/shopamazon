@@ -1,0 +1,15 @@
+(country(USA))(age_group(MiddleAdults))(yearly_salary($50K - $70K))(marital_status(M)) --> (buy(784)), {C=0.0005347593582887701, S=0.00048633401420095323}
+(country(USA))(age_group(MiddleAdults))(yearly_salary($50K - $70K))(marital_status(M)) --> (buy(972)), {C=0.0005347593582887701, S=0.00048633401420095323}
+(country(USA))(age_group(MiddleAdults))(yearly_salary($50K - $70K))(marital_status(M)) --> (buy(1019)), {C=0.0005347593582887701, S=0.00048633401420095323}
+(country(USA))(age_group(MiddleAdults))(yearly_salary($50K - $70K))(marital_status(M)) --> (buy(1092)), {C=0.0006417112299465241, S=0.0005836008170411438}
+(country(USA))(age_group(MiddleAdults))(yearly_salary($50K - $70K))(marital_status(M)) --> (buy(1129)), {C=0.0005347593582887701, S=0.00048633401420095323}
+(country(USA))(age_group(MiddleAdults))(yearly_salary($50K - $70K))(marital_status(M)) --> (buy(784)), {C=0.0005347593582887701, S=0.00048633401420095323}
+(country(USA))(age_group(MiddleAdults))(yearly_salary($50K - $70K))(marital_status(M)) --> (buy(972)), {C=0.0005347593582887701, S=0.00048633401420095323}
+(country(USA))(age_group(MiddleAdults))(yearly_salary($50K - $70K))(marital_status(M)) --> (buy(1019)), {C=0.0005347593582887701, S=0.00048633401420095323}
+(country(USA))(age_group(MiddleAdults))(yearly_salary($50K - $70K))(marital_status(M)) --> (buy(1092)), {C=0.0006417112299465241, S=0.0005836008170411438}
+(country(USA))(age_group(MiddleAdults))(yearly_salary($50K - $70K))(marital_status(M)) --> (buy(1129)), {C=0.0005347593582887701, S=0.00048633401420095323}
+(country(USA))(age_group(MiddleAdults))(yearly_salary($50K - $70K))(marital_status(M)) --> (buy(784)), {C=0.0005347593582887701, S=0.00048633401420095323}
+(country(USA))(age_group(MiddleAdults))(yearly_salary($50K - $70K))(marital_status(M)) --> (buy(972)), {C=0.0005347593582887701, S=0.00048633401420095323}
+(country(USA))(age_group(MiddleAdults))(yearly_salary($50K - $70K))(marital_status(M)) --> (buy(1019)), {C=0.0005347593582887701, S=0.00048633401420095323}
+(country(USA))(age_group(MiddleAdults))(yearly_salary($50K - $70K))(marital_status(M)) --> (buy(1092)), {C=0.0006417112299465241, S=0.0005836008170411438}
+(country(USA))(age_group(MiddleAdults))(yearly_salary($50K - $70K))(marital_status(M)) --> (buy(1129)), {C=0.0005347593582887701, S=0.00048633401420095323}

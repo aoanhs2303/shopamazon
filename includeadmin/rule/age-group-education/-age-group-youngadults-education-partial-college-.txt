@@ -1,0 +1,11 @@
+(age_group(YoungAdults))(education(Partial College)) --> (buy(503)), {C=0.001677289500167729, S=0.00048633401420095323}
+(age_group(YoungAdults))(education(Partial College)) --> (buy(506)), {C=0.0020127474002012745, S=0.0005836008170411438}
+(age_group(YoungAdults))(education(Partial College)) --> (buy(686)), {C=0.0020127474002012745, S=0.0005836008170411438}
+(age_group(YoungAdults))(education(Partial College)) --> (buy(725)), {C=0.001677289500167729, S=0.00048633401420095323}
+(age_group(YoungAdults))(education(Partial College)) --> (buy(786)), {C=0.001677289500167729, S=0.00048633401420095323}
+(age_group(YoungAdults))(education(Partial College)) --> (buy(868)), {C=0.0020127474002012745, S=0.0005836008170411438}
+(age_group(YoungAdults))(education(Partial College)) --> (buy(1164)), {C=0.001677289500167729, S=0.00048633401420095323}
+(age_group(YoungAdults))(education(Partial College)) --> (buy(1198)), {C=0.001677289500167729, S=0.00048633401420095323}
+(age_group(YoungAdults))(education(Partial College)) --> (buy(1208)), {C=0.001677289500167729, S=0.00048633401420095323}
+(age_group(YoungAdults))(education(Partial College)) --> (buy(1216)), {C=0.001677289500167729, S=0.00048633401420095323}
+(age_group(YoungAdults))(education(Partial College)) --> (buy(1368)), {C=0.001677289500167729, S=0.00048633401420095323}

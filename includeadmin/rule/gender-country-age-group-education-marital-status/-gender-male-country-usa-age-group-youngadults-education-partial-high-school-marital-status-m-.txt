@@ -1,0 +1,1 @@
+(gender(Male))(country(USA))(age_group(YoungAdults))(education(Partial High School))(marital_status(M)) --> (buy(47)), {C=0.0005061241016297197, S=0.00048633401420095323}

@@ -1,0 +1,1 @@
+(gender(Male))(country(USA))(yearly_salary($30K - $50K))(member card(Bronze))(education(Partial College))(marital_status(S)) --> (buy(465)), {C=0.0004999500049995, S=0.00048633401420095323}

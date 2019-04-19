@@ -1,0 +1,3 @@
+(age_group(MiddleAdults))(member card(Bronze))(buy(1503)) --> (buy(1199)), {C=0.0007443799315170464, S=0.00048633401420095323}
+(age_group(MiddleAdults))(member card(Bronze))(buy(1503)) --> (buy(1199)), {C=0.0007443799315170464, S=0.00048633401420095323}
+(age_group(MiddleAdults))(member card(Bronze))(buy(1503)) --> (buy(1199)), {C=0.0007443799315170464, S=0.00048633401420095323}

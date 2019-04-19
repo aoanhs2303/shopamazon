@@ -1,0 +1,9 @@
+(gender(Male))(age_group(YoungAdults))(education(Bachelors Degree))(house_owner(Y)) --> (buy(463)), {C=0.0005458515283842796, S=0.00048633401420095323}
+(gender(Male))(age_group(YoungAdults))(education(Bachelors Degree))(house_owner(Y)) --> (buy(473)), {C=0.0005458515283842796, S=0.00048633401420095323}
+(gender(Male))(age_group(YoungAdults))(education(Bachelors Degree))(house_owner(Y)) --> (buy(723)), {C=0.0005458515283842796, S=0.00048633401420095323}
+(gender(Male))(age_group(YoungAdults))(education(Bachelors Degree))(house_owner(Y)) --> (buy(1025)), {C=0.0005458515283842796, S=0.00048633401420095323}
+(gender(Male))(age_group(YoungAdults))(education(Bachelors Degree))(house_owner(Y)) --> (buy(1245)), {C=0.0007641921397379913, S=0.0006808676198813345}
+(gender(Male))(age_group(YoungAdults))(education(Bachelors Degree))(house_owner(Y)) --> (buy(1275)), {C=0.0005458515283842796, S=0.00048633401420095323}
+(gender(Male))(age_group(YoungAdults))(education(Bachelors Degree))(house_owner(Y)) --> (buy(1298)), {C=0.0005458515283842796, S=0.00048633401420095323}
+(gender(Male))(age_group(YoungAdults))(education(Bachelors Degree))(house_owner(Y)) --> (buy(1300)), {C=0.0005458515283842796, S=0.00048633401420095323}
+(gender(Male))(age_group(YoungAdults))(education(Bachelors Degree))(house_owner(Y)) --> (buy(1538)), {C=0.0007641921397379913, S=0.0006808676198813345}

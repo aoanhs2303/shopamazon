@@ -1,0 +1,3 @@
+(country(USA))(member card(Normal))(education(Bachelors Degree)) --> (buy(41)), {C=0.0005730002292000917, S=0.00048633401420095323}
+(country(USA))(member card(Normal))(education(Bachelors Degree)) --> (buy(915)), {C=0.0005730002292000917, S=0.00048633401420095323}
+(country(USA))(member card(Normal))(education(Bachelors Degree)) --> (buy(1413)), {C=0.0005730002292000917, S=0.00048633401420095323}

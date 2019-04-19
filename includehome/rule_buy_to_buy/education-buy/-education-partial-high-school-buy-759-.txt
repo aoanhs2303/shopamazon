@@ -1,0 +1,2 @@
+(education(Partial High School))(buy(759)) --> (buy(83)), {C=0.0016, S=0.00048633401420095323}
+(education(Partial High School))(buy(759)) --> (buy(526)), {C=0.0016, S=0.00048633401420095323}

@@ -1,0 +1,1 @@
+(country(USA))(yearly_salary($70K - $90K))(education(Graduate Degree))(marital_status(S)) --> (buy(1443)), {C=0.000555432126194179, S=0.00048633401420095323}

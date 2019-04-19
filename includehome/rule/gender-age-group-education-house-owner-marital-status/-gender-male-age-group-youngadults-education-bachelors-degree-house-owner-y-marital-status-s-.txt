@@ -1,0 +1,1 @@
+(gender(Male))(age_group(YoungAdults))(education(Bachelors Degree))(house_owner(Y))(marital_status(S)) --> (buy(1538)), {C=0.0006046558500453492, S=0.0005836008170411438}

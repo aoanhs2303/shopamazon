@@ -1,0 +1,1 @@
+(gender(Female))(country(USA))(age_group(YoungAdults))(yearly_salary($10K - $30K))(education(Partial High School))(marital_status(M)) --> (buy(827)), {C=0.0005055611729019212, S=0.00048633401420095323}

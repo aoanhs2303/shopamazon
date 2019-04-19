@@ -1,0 +1,3 @@
+(country(USA))(yearly_salary($130K - $150K))(member card(Bronze))(education(High School Degree)) --> (buy(584)), {C=0.0005375188131584606, S=0.00048633401420095323}
+(country(USA))(yearly_salary($130K - $150K))(member card(Bronze))(education(High School Degree)) --> (buy(1095)), {C=0.0005375188131584606, S=0.00048633401420095323}
+(country(USA))(yearly_salary($130K - $150K))(member card(Bronze))(education(High School Degree)) --> (buy(1282)), {C=0.0005375188131584606, S=0.00048633401420095323}

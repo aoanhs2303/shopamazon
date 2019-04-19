@@ -1,0 +1,16 @@
+(gender(Female))(country(USA))(yearly_salary($90K - $110K)) --> (buy(107)), {C=0.0005619240278714318, S=0.00048633401420095323}
+(gender(Female))(country(USA))(yearly_salary($90K - $110K)) --> (buy(119)), {C=0.000674308833445718, S=0.0005836008170411438}
+(gender(Female))(country(USA))(yearly_salary($90K - $110K)) --> (buy(441)), {C=0.0005619240278714318, S=0.00048633401420095323}
+(gender(Female))(country(USA))(yearly_salary($90K - $110K)) --> (buy(502)), {C=0.0005619240278714318, S=0.00048633401420095323}
+(gender(Female))(country(USA))(yearly_salary($90K - $110K)) --> (buy(549)), {C=0.0005619240278714318, S=0.00048633401420095323}
+(gender(Female))(country(USA))(yearly_salary($90K - $110K)) --> (buy(640)), {C=0.0005619240278714318, S=0.00048633401420095323}
+(gender(Female))(country(USA))(yearly_salary($90K - $110K)) --> (buy(704)), {C=0.000674308833445718, S=0.0005836008170411438}
+(gender(Female))(country(USA))(yearly_salary($90K - $110K)) --> (buy(762)), {C=0.000674308833445718, S=0.0005836008170411438}
+(gender(Female))(country(USA))(yearly_salary($90K - $110K)) --> (buy(814)), {C=0.0005619240278714318, S=0.00048633401420095323}
+(gender(Female))(country(USA))(yearly_salary($90K - $110K)) --> (buy(900)), {C=0.0005619240278714318, S=0.00048633401420095323}
+(gender(Female))(country(USA))(yearly_salary($90K - $110K)) --> (buy(909)), {C=0.0005619240278714318, S=0.00048633401420095323}
+(gender(Female))(country(USA))(yearly_salary($90K - $110K)) --> (buy(917)), {C=0.0005619240278714318, S=0.00048633401420095323}
+(gender(Female))(country(USA))(yearly_salary($90K - $110K)) --> (buy(946)), {C=0.0005619240278714318, S=0.00048633401420095323}
+(gender(Female))(country(USA))(yearly_salary($90K - $110K)) --> (buy(1007)), {C=0.0005619240278714318, S=0.00048633401420095323}
+(gender(Female))(country(USA))(yearly_salary($90K - $110K)) --> (buy(1117)), {C=0.0005619240278714318, S=0.00048633401420095323}
+(gender(Female))(country(USA))(yearly_salary($90K - $110K)) --> (buy(1125)), {C=0.0005619240278714318, S=0.00048633401420095323}

@@ -1,0 +1,9 @@
+(country(USA))(age_group(YoungAdults))(yearly_salary($50K - $70K))(member card(Bronze))(education(Bachelors Degree)) --> (buy(443)), {C=0.0005258176464402145, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($50K - $70K))(member card(Bronze))(education(Bachelors Degree)) --> (buy(455)), {C=0.0005258176464402145, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($50K - $70K))(member card(Bronze))(education(Bachelors Degree)) --> (buy(599)), {C=0.0005258176464402145, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($50K - $70K))(member card(Bronze))(education(Bachelors Degree)) --> (buy(965)), {C=0.0005258176464402145, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($50K - $70K))(member card(Bronze))(education(Bachelors Degree)) --> (buy(1230)), {C=0.0005258176464402145, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($50K - $70K))(member card(Bronze))(education(Bachelors Degree)) --> (buy(1411)), {C=0.0005258176464402145, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($50K - $70K))(member card(Bronze))(education(Bachelors Degree)) --> (buy(1433)), {C=0.0005258176464402145, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($50K - $70K))(member card(Bronze))(education(Bachelors Degree)) --> (buy(1441)), {C=0.0005258176464402145, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($50K - $70K))(member card(Bronze))(education(Bachelors Degree)) --> (buy(1503)), {C=0.0006309811757282574, S=0.0005836008170411438}

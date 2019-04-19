@@ -1,0 +1,3 @@
+(member card(Bronze))(house_owner(Y))(buy(855)) --> (buy(410)), {C=0.0005810575246949448, S=0.00048633401420095323}
+(member card(Bronze))(house_owner(Y))(buy(855)) --> (buy(788)), {C=0.0005810575246949448, S=0.00048633401420095323}
+(member card(Bronze))(house_owner(Y))(buy(855)) --> (buy(838)), {C=0.0005810575246949448, S=0.00048633401420095323}

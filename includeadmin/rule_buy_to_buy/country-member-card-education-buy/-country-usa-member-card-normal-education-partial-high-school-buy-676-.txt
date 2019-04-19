@@ -1,0 +1,1 @@
+(country(USA))(member card(Normal))(education(Partial High School))(buy(676)) --> (buy(1514)), {C=0.000598157674362962, S=0.00048633401420095323}

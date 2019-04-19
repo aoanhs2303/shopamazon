@@ -1,0 +1,15 @@
+(age_group(YoungAdults))(member card(Bronze))(education(Bachelors Degree))(marital_status(S)) --> (buy(178)), {C=0.0006984866123399301, S=0.0005836008170411438}
+(age_group(YoungAdults))(member card(Bronze))(education(Bachelors Degree))(marital_status(S)) --> (buy(257)), {C=0.0005820721769499418, S=0.00048633401420095323}
+(age_group(YoungAdults))(member card(Bronze))(education(Bachelors Degree))(marital_status(S)) --> (buy(339)), {C=0.0006984866123399301, S=0.0005836008170411438}
+(age_group(YoungAdults))(member card(Bronze))(education(Bachelors Degree))(marital_status(S)) --> (buy(443)), {C=0.0005820721769499418, S=0.00048633401420095323}
+(age_group(YoungAdults))(member card(Bronze))(education(Bachelors Degree))(marital_status(S)) --> (buy(820)), {C=0.0005820721769499418, S=0.00048633401420095323}
+(age_group(YoungAdults))(member card(Bronze))(education(Bachelors Degree))(marital_status(S)) --> (buy(826)), {C=0.0005820721769499418, S=0.00048633401420095323}
+(age_group(YoungAdults))(member card(Bronze))(education(Bachelors Degree))(marital_status(S)) --> (buy(905)), {C=0.0005820721769499418, S=0.00048633401420095323}
+(age_group(YoungAdults))(member card(Bronze))(education(Bachelors Degree))(marital_status(S)) --> (buy(975)), {C=0.0006984866123399301, S=0.0005836008170411438}
+(age_group(YoungAdults))(member card(Bronze))(education(Bachelors Degree))(marital_status(S)) --> (buy(979)), {C=0.0005820721769499418, S=0.00048633401420095323}
+(age_group(YoungAdults))(member card(Bronze))(education(Bachelors Degree))(marital_status(S)) --> (buy(1121)), {C=0.0005820721769499418, S=0.00048633401420095323}
+(age_group(YoungAdults))(member card(Bronze))(education(Bachelors Degree))(marital_status(S)) --> (buy(1287)), {C=0.0005820721769499418, S=0.00048633401420095323}
+(age_group(YoungAdults))(member card(Bronze))(education(Bachelors Degree))(marital_status(S)) --> (buy(1407)), {C=0.0006984866123399301, S=0.0005836008170411438}
+(age_group(YoungAdults))(member card(Bronze))(education(Bachelors Degree))(marital_status(S)) --> (buy(1422)), {C=0.0005820721769499418, S=0.00048633401420095323}
+(age_group(YoungAdults))(member card(Bronze))(education(Bachelors Degree))(marital_status(S)) --> (buy(1496)), {C=0.0005820721769499418, S=0.00048633401420095323}
+(age_group(YoungAdults))(member card(Bronze))(education(Bachelors Degree))(marital_status(S)) --> (buy(1538)), {C=0.0009313154831199069, S=0.0007781344227215252}

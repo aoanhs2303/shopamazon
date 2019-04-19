@@ -1,0 +1,1 @@
+(yearly_salary($30K - $50K))(education(Partial College))(house_owner(Y))(marital_status(S)) --> (buy(465)), {C=0.0005305039787798409, S=0.00048633401420095323}

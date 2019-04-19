@@ -1,0 +1,1 @@
+(country(USA))(age_group(YoungAdults))(house_owner(Y))(buy(278)) --> (buy(914)), {C=0.0005349309939017867, S=0.00048633401420095323}

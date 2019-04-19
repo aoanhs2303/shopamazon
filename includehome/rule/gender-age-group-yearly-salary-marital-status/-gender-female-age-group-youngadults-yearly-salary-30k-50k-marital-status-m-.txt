@@ -1,0 +1,3 @@
+(gender(Female))(age_group(YoungAdults))(yearly_salary($30K - $50K))(marital_status(M)) --> (buy(465)), {C=0.0005602868668758404, S=0.00048633401420095323}
+(gender(Female))(age_group(YoungAdults))(yearly_salary($30K - $50K))(marital_status(M)) --> (buy(883)), {C=0.0005602868668758404, S=0.00048633401420095323}
+(gender(Female))(age_group(YoungAdults))(yearly_salary($30K - $50K))(marital_status(M)) --> (buy(909)), {C=0.0005602868668758404, S=0.00048633401420095323}

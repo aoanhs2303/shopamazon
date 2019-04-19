@@ -1,0 +1,3 @@
+(country(USA))(age_group(MiddleAdults))(yearly_salary($30K - $50K))(education(Partial College))(marital_status(M)) --> (buy(307)), {C=0.0005231767290990897, S=0.00048633401420095323}
+(country(USA))(age_group(MiddleAdults))(yearly_salary($30K - $50K))(education(Partial College))(marital_status(M)) --> (buy(307)), {C=0.0005231767290990897, S=0.00048633401420095323}
+(country(USA))(age_group(MiddleAdults))(yearly_salary($30K - $50K))(education(Partial College))(marital_status(M)) --> (buy(307)), {C=0.0005231767290990897, S=0.00048633401420095323}

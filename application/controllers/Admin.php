@@ -33,6 +33,102 @@ class Admin extends CI_Controller {
 		$this->load->view('admin/include/footer.php', null, FALSE);
 	}
 
+	public function mrar()
+	{
+		$menu = $this->load->view('admin/include/menu.php', null, TRUE);
+		$all_category = $this->Admin_model->getCategory();
+		$data = array('menu' => $menu, 'category' => $all_category); 
+
+		$this->load->view('admin/include/header.php', null, FALSE);
+		$this->load->view('admin/mrar_init.php', $data);
+		$this->load->view('admin/include/footer.php', null, FALSE);
+	}
+
+	public function init_mrar()
+	{
+		$start = $_GET['start'];
+		$end = $_GET['end'];
+		$list_customer = $this->Admin_model->getSliceCustomer($start, $end);
+		
+		foreach ($list_customer as $customer) {
+			$antecedent = array();
+			foreach ($customer as $key => $value) {
+
+				if($key == 'age') {
+					$key = 'age_group';
+					$age = (int) $value;
+					if($age < 20) {
+						$value = 'MiniAdults';
+					} else if ($age < 35 && $age >= 20) {
+						$value = 'YoungAdults';
+					} else {
+						$value = 'MiddleAdults';
+					}
+				} else if ($key == 'gender') {
+					if($value == 'M') {
+						$value = 'Male';
+					} else {
+						$value = 'Female';
+					}
+				} else if ($key == 'username' || $key == 'password' || $key == 'customer_id' || $key == 'product_rcm') {
+					continue;
+				}
+				$item = '(' . $key . '(' . $value . '))';
+				array_push($antecedent, $item);
+			}
+
+			$directory = array();
+			$temp= array();
+			$letLen = pow(2,sizeof($antecedent));
+
+			for ($i=0; $i < $letLen; $i++) { 
+				$temp= array();
+				foreach ($antecedent as $j => $antecedentEle) {
+					if ($i & pow(2,$j)) { 
+						array_push($temp, $antecedentEle);
+					}
+				}
+
+				if (sizeof($temp) == 3 || sizeof($temp) == 4) {
+					$filename = slugify(implode("",$temp)) . '.txt';
+					$pathname = pathName(implode("",$temp));
+					$dir['pathname'] = $pathname; 
+					$dir['filename'] = $filename; 
+					array_push($directory, $dir);
+				}
+				
+			}
+
+			$recommendProduct = array();
+
+			foreach ($directory as $key => $dir) {
+				$path = 'http://localhost/luanvan/includeadmin/rule/' . $dir['pathname'] . '/' . $dir['filename'];
+				if(file_exists('includeadmin/rule/' . $dir['pathname'] . '/' . $dir['filename'])) {
+					$listp = readFileAndHandleForYou($path);
+					foreach ($listp as $p) {
+						array_push($recommendProduct, $p);
+					}
+				}
+			}
+			usort($recommendProduct,"cmpCof");
+			
+			$listProductId = array();
+			foreach ($recommendProduct as $rcmd) {
+				array_push($listProductId, $rcmd['productid']);
+			}
+			$listProductId = array_unique($listProductId);
+			$listProductId = array_slice($listProductId, 0, 100, true);
+			// echo implode(',', $listProductId) . '</br>';
+			$this->db->set('product_rcm', implode(',', $listProductId));
+			$this->db->where('customer_id', $customer['customer_id']);
+			$this->db->update('customer');
+
+			
+		}
+	}
+
+
+
 
 	// ===========// 
 	// ! dANH MỤC //        

@@ -1,0 +1,3 @@
+(gender(Female))(age_group(MiddleAdults))(yearly_salary($50K - $70K))(house_owner(Y))(marital_status(M)) --> (buy(972)), {C=0.0005316886431305827, S=0.00048633401420095323}
+(gender(Female))(age_group(MiddleAdults))(yearly_salary($50K - $70K))(house_owner(Y))(marital_status(M)) --> (buy(972)), {C=0.0005316886431305827, S=0.00048633401420095323}
+(gender(Female))(age_group(MiddleAdults))(yearly_salary($50K - $70K))(house_owner(Y))(marital_status(M)) --> (buy(972)), {C=0.0005316886431305827, S=0.00048633401420095323}

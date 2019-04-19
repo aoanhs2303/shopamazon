@@ -1,0 +1,6 @@
+(gender(Male))(age_group(MiddleAdults))(yearly_salary($30K - $50K))(education(High School Degree))(house_owner(Y)) --> (buy(1063)), {C=0.0006396588486140724, S=0.0005836008170411438}
+(gender(Male))(age_group(MiddleAdults))(yearly_salary($30K - $50K))(education(High School Degree))(house_owner(Y)) --> (buy(1357)), {C=0.0005330490405117271, S=0.00048633401420095323}
+(gender(Male))(age_group(MiddleAdults))(yearly_salary($30K - $50K))(education(High School Degree))(house_owner(Y)) --> (buy(1063)), {C=0.0006396588486140724, S=0.0005836008170411438}
+(gender(Male))(age_group(MiddleAdults))(yearly_salary($30K - $50K))(education(High School Degree))(house_owner(Y)) --> (buy(1357)), {C=0.0005330490405117271, S=0.00048633401420095323}
+(gender(Male))(age_group(MiddleAdults))(yearly_salary($30K - $50K))(education(High School Degree))(house_owner(Y)) --> (buy(1063)), {C=0.0006396588486140724, S=0.0005836008170411438}
+(gender(Male))(age_group(MiddleAdults))(yearly_salary($30K - $50K))(education(High School Degree))(house_owner(Y)) --> (buy(1357)), {C=0.0005330490405117271, S=0.00048633401420095323}

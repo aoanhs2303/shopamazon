@@ -1,0 +1,3 @@
+(gender(Female))(age_group(MiddleAdults))(yearly_salary($50K - $70K))(member card(Bronze)) --> (buy(1050)), {C=0.0005757715338553663, S=0.00048633401420095323}
+(gender(Female))(age_group(MiddleAdults))(yearly_salary($50K - $70K))(member card(Bronze)) --> (buy(1050)), {C=0.0005757715338553663, S=0.00048633401420095323}
+(gender(Female))(age_group(MiddleAdults))(yearly_salary($50K - $70K))(member card(Bronze)) --> (buy(1050)), {C=0.0005757715338553663, S=0.00048633401420095323}

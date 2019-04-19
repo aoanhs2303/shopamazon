@@ -1,0 +1,17 @@
+(gender(Female))(member card(Silver))(marital_status(S)) --> (buy(184)), {C=0.0006282196255811032, S=0.00048633401420095323}
+(gender(Female))(member card(Silver))(marital_status(S)) --> (buy(304)), {C=0.0007538635506973237, S=0.0005836008170411438}
+(gender(Female))(member card(Silver))(marital_status(S)) --> (buy(307)), {C=0.0006282196255811032, S=0.00048633401420095323}
+(gender(Female))(member card(Silver))(marital_status(S)) --> (buy(381)), {C=0.0006282196255811032, S=0.00048633401420095323}
+(gender(Female))(member card(Silver))(marital_status(S)) --> (buy(415)), {C=0.0006282196255811032, S=0.00048633401420095323}
+(gender(Female))(member card(Silver))(marital_status(S)) --> (buy(492)), {C=0.0006282196255811032, S=0.00048633401420095323}
+(gender(Female))(member card(Silver))(marital_status(S)) --> (buy(625)), {C=0.0006282196255811032, S=0.00048633401420095323}
+(gender(Female))(member card(Silver))(marital_status(S)) --> (buy(668)), {C=0.0006282196255811032, S=0.00048633401420095323}
+(gender(Female))(member card(Silver))(marital_status(S)) --> (buy(809)), {C=0.0006282196255811032, S=0.00048633401420095323}
+(gender(Female))(member card(Silver))(marital_status(S)) --> (buy(836)), {C=0.0006282196255811032, S=0.00048633401420095323}
+(gender(Female))(member card(Silver))(marital_status(S)) --> (buy(889)), {C=0.0006282196255811032, S=0.00048633401420095323}
+(gender(Female))(member card(Silver))(marital_status(S)) --> (buy(938)), {C=0.0006282196255811032, S=0.00048633401420095323}
+(gender(Female))(member card(Silver))(marital_status(S)) --> (buy(1071)), {C=0.0007538635506973237, S=0.0005836008170411438}
+(gender(Female))(member card(Silver))(marital_status(S)) --> (buy(1124)), {C=0.0006282196255811032, S=0.00048633401420095323}
+(gender(Female))(member card(Silver))(marital_status(S)) --> (buy(1190)), {C=0.0006282196255811032, S=0.00048633401420095323}
+(gender(Female))(member card(Silver))(marital_status(S)) --> (buy(1219)), {C=0.0006282196255811032, S=0.00048633401420095323}
+(gender(Female))(member card(Silver))(marital_status(S)) --> (buy(1407)), {C=0.0006282196255811032, S=0.00048633401420095323}

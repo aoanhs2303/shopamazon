@@ -1,0 +1,11 @@
+(country(USA))(yearly_salary($110K - $130K))(marital_status(S)) --> (buy(364)), {C=0.0005631264782070053, S=0.00048633401420095323}
+(country(USA))(yearly_salary($110K - $130K))(marital_status(S)) --> (buy(380)), {C=0.0005631264782070053, S=0.00048633401420095323}
+(country(USA))(yearly_salary($110K - $130K))(marital_status(S)) --> (buy(398)), {C=0.0005631264782070053, S=0.00048633401420095323}
+(country(USA))(yearly_salary($110K - $130K))(marital_status(S)) --> (buy(427)), {C=0.0005631264782070053, S=0.00048633401420095323}
+(country(USA))(yearly_salary($110K - $130K))(marital_status(S)) --> (buy(498)), {C=0.0006757517738484063, S=0.0005836008170411438}
+(country(USA))(yearly_salary($110K - $130K))(marital_status(S)) --> (buy(664)), {C=0.0005631264782070053, S=0.00048633401420095323}
+(country(USA))(yearly_salary($110K - $130K))(marital_status(S)) --> (buy(849)), {C=0.0005631264782070053, S=0.00048633401420095323}
+(country(USA))(yearly_salary($110K - $130K))(marital_status(S)) --> (buy(909)), {C=0.0005631264782070053, S=0.00048633401420095323}
+(country(USA))(yearly_salary($110K - $130K))(marital_status(S)) --> (buy(1063)), {C=0.0005631264782070053, S=0.00048633401420095323}
+(country(USA))(yearly_salary($110K - $130K))(marital_status(S)) --> (buy(1177)), {C=0.0005631264782070053, S=0.00048633401420095323}
+(country(USA))(yearly_salary($110K - $130K))(marital_status(S)) --> (buy(1492)), {C=0.0005631264782070053, S=0.00048633401420095323}

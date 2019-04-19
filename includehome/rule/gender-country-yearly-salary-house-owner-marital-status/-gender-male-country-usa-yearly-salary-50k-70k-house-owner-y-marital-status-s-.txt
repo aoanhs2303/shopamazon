@@ -1,0 +1,4 @@
+(gender(Male))(country(USA))(yearly_salary($50K - $70K))(house_owner(Y))(marital_status(S)) --> (buy(278)), {C=0.0004942665085013839, S=0.00048633401420095323}
+(gender(Male))(country(USA))(yearly_salary($50K - $70K))(house_owner(Y))(marital_status(S)) --> (buy(283)), {C=0.0004942665085013839, S=0.00048633401420095323}
+(gender(Male))(country(USA))(yearly_salary($50K - $70K))(house_owner(Y))(marital_status(S)) --> (buy(987)), {C=0.0004942665085013839, S=0.00048633401420095323}
+(gender(Male))(country(USA))(yearly_salary($50K - $70K))(house_owner(Y))(marital_status(S)) --> (buy(1171)), {C=0.0004942665085013839, S=0.00048633401420095323}

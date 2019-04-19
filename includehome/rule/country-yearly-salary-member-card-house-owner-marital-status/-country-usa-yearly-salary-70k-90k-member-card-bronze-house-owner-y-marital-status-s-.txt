@@ -1,0 +1,8 @@
+(country(USA))(yearly_salary($70K - $90K))(member card(Bronze))(house_owner(Y))(marital_status(S)) --> (buy(53)), {C=0.0004947555907381753, S=0.00048633401420095323}
+(country(USA))(yearly_salary($70K - $90K))(member card(Bronze))(house_owner(Y))(marital_status(S)) --> (buy(421)), {C=0.0004947555907381753, S=0.00048633401420095323}
+(country(USA))(yearly_salary($70K - $90K))(member card(Bronze))(house_owner(Y))(marital_status(S)) --> (buy(440)), {C=0.0004947555907381753, S=0.00048633401420095323}
+(country(USA))(yearly_salary($70K - $90K))(member card(Bronze))(house_owner(Y))(marital_status(S)) --> (buy(511)), {C=0.0004947555907381753, S=0.00048633401420095323}
+(country(USA))(yearly_salary($70K - $90K))(member card(Bronze))(house_owner(Y))(marital_status(S)) --> (buy(519)), {C=0.0004947555907381753, S=0.00048633401420095323}
+(country(USA))(yearly_salary($70K - $90K))(member card(Bronze))(house_owner(Y))(marital_status(S)) --> (buy(1039)), {C=0.0004947555907381753, S=0.00048633401420095323}
+(country(USA))(yearly_salary($70K - $90K))(member card(Bronze))(house_owner(Y))(marital_status(S)) --> (buy(1427)), {C=0.0004947555907381753, S=0.00048633401420095323}
+(country(USA))(yearly_salary($70K - $90K))(member card(Bronze))(house_owner(Y))(marital_status(S)) --> (buy(1452)), {C=0.0004947555907381753, S=0.00048633401420095323}

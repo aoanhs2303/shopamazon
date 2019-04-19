@@ -1,0 +1,1 @@
+(education(Partial High School))(house_owner(Y))(buy(1422)) --> (buy(1447)), {C=0.0006714113065664026, S=0.00048633401420095323}

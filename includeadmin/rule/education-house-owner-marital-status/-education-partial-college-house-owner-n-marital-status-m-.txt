@@ -1,0 +1,2 @@
+(education(Partial College))(house_owner(N))(marital_status(M)) --> (buy(60)), {C=0.0006130456105934281, S=0.00048633401420095323}
+(education(Partial College))(house_owner(N))(marital_status(M)) --> (buy(925)), {C=0.0006130456105934281, S=0.00048633401420095323}

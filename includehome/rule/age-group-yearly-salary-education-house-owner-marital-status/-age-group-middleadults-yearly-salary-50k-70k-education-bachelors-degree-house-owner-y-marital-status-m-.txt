@@ -1,0 +1,3 @@
+(age_group(MiddleAdults))(yearly_salary($50K - $70K))(education(Bachelors Degree))(house_owner(Y))(marital_status(M)) --> (buy(972)), {C=0.0005701904436081652, S=0.00048633401420095323}
+(age_group(MiddleAdults))(yearly_salary($50K - $70K))(education(Bachelors Degree))(house_owner(Y))(marital_status(M)) --> (buy(972)), {C=0.0005701904436081652, S=0.00048633401420095323}
+(age_group(MiddleAdults))(yearly_salary($50K - $70K))(education(Bachelors Degree))(house_owner(Y))(marital_status(M)) --> (buy(972)), {C=0.0005701904436081652, S=0.00048633401420095323}

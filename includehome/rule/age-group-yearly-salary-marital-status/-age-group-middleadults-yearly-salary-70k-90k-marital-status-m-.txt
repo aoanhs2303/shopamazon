@@ -1,0 +1,3 @@
+(age_group(MiddleAdults))(yearly_salary($70K - $90K))(marital_status(M)) --> (buy(1123)), {C=0.0007429420505200595, S=0.00048633401420095323}
+(age_group(MiddleAdults))(yearly_salary($70K - $90K))(marital_status(M)) --> (buy(1123)), {C=0.0007429420505200595, S=0.00048633401420095323}
+(age_group(MiddleAdults))(yearly_salary($70K - $90K))(marital_status(M)) --> (buy(1123)), {C=0.0007429420505200595, S=0.00048633401420095323}

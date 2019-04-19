@@ -1,0 +1,1 @@
+(country(USA))(yearly_salary($70K - $90K))(member card(Golden))(marital_status(M)) --> (buy(297)), {C=0.0005521201413427562, S=0.00048633401420095323}

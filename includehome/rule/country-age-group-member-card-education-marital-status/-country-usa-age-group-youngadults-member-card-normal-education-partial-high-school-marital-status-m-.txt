@@ -1,0 +1,2 @@
+(country(USA))(age_group(YoungAdults))(member card(Normal))(education(Partial High School))(marital_status(M)) --> (buy(827)), {C=0.000524824183898394, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(member card(Normal))(education(Partial High School))(marital_status(M)) --> (buy(881)), {C=0.000524824183898394, S=0.00048633401420095323}

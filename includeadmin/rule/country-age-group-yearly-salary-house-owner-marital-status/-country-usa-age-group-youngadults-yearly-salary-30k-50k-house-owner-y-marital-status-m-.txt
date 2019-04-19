@@ -1,0 +1,13 @@
+(country(USA))(age_group(YoungAdults))(yearly_salary($30K - $50K))(house_owner(Y))(marital_status(M)) --> (buy(139)), {C=0.0005056122964910507, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($30K - $50K))(house_owner(Y))(marital_status(M)) --> (buy(229)), {C=0.0005056122964910507, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($30K - $50K))(house_owner(Y))(marital_status(M)) --> (buy(516)), {C=0.0005056122964910507, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($30K - $50K))(house_owner(Y))(marital_status(M)) --> (buy(632)), {C=0.0005056122964910507, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($30K - $50K))(house_owner(Y))(marital_status(M)) --> (buy(724)), {C=0.0005056122964910507, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($30K - $50K))(house_owner(Y))(marital_status(M)) --> (buy(731)), {C=0.0005056122964910507, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($30K - $50K))(house_owner(Y))(marital_status(M)) --> (buy(960)), {C=0.0005056122964910507, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($30K - $50K))(house_owner(Y))(marital_status(M)) --> (buy(1057)), {C=0.0005056122964910507, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($30K - $50K))(house_owner(Y))(marital_status(M)) --> (buy(1127)), {C=0.0005056122964910507, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($30K - $50K))(house_owner(Y))(marital_status(M)) --> (buy(1184)), {C=0.0005056122964910507, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($30K - $50K))(house_owner(Y))(marital_status(M)) --> (buy(1342)), {C=0.0005056122964910507, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($30K - $50K))(house_owner(Y))(marital_status(M)) --> (buy(1377)), {C=0.0005056122964910507, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($30K - $50K))(house_owner(Y))(marital_status(M)) --> (buy(1387)), {C=0.0005056122964910507, S=0.00048633401420095323}

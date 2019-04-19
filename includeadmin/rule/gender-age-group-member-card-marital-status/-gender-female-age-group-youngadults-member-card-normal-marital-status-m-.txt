@@ -1,0 +1,1 @@
+(gender(Female))(age_group(YoungAdults))(member card(Normal))(marital_status(M)) --> (buy(827)), {C=0.0005736576411197798, S=0.00048633401420095323}

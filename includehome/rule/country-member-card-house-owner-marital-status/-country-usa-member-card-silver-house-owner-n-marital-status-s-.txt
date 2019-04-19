@@ -1,0 +1,7 @@
+(country(USA))(member card(Silver))(house_owner(N))(marital_status(S)) --> (buy(366)), {C=0.0005383869925702596, S=0.00048633401420095323}
+(country(USA))(member card(Silver))(house_owner(N))(marital_status(S)) --> (buy(492)), {C=0.0005383869925702596, S=0.00048633401420095323}
+(country(USA))(member card(Silver))(house_owner(N))(marital_status(S)) --> (buy(650)), {C=0.0005383869925702596, S=0.00048633401420095323}
+(country(USA))(member card(Silver))(house_owner(N))(marital_status(S)) --> (buy(674)), {C=0.0005383869925702596, S=0.00048633401420095323}
+(country(USA))(member card(Silver))(house_owner(N))(marital_status(S)) --> (buy(791)), {C=0.0005383869925702596, S=0.00048633401420095323}
+(country(USA))(member card(Silver))(house_owner(N))(marital_status(S)) --> (buy(1055)), {C=0.0005383869925702596, S=0.00048633401420095323}
+(country(USA))(member card(Silver))(house_owner(N))(marital_status(S)) --> (buy(1377)), {C=0.0005383869925702596, S=0.00048633401420095323}

@@ -1,0 +1,6 @@
+(gender(Female))(education(Partial College))(house_owner(N)) --> (buy(384)), {C=0.0006691648822269807, S=0.00048633401420095323}
+(gender(Female))(education(Partial College))(house_owner(N)) --> (buy(645)), {C=0.0006691648822269807, S=0.00048633401420095323}
+(gender(Female))(education(Partial College))(house_owner(N)) --> (buy(725)), {C=0.0006691648822269807, S=0.00048633401420095323}
+(gender(Female))(education(Partial College))(house_owner(N)) --> (buy(1448)), {C=0.0006691648822269807, S=0.00048633401420095323}
+(gender(Female))(education(Partial College))(house_owner(N)) --> (buy(1461)), {C=0.0006691648822269807, S=0.00048633401420095323}
+(gender(Female))(education(Partial College))(house_owner(N)) --> (buy(1529)), {C=0.0008029978586723768, S=0.0005836008170411438}

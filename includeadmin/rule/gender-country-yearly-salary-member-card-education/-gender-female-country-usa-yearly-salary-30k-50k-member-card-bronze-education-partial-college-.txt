@@ -1,0 +1,10 @@
+(gender(Female))(country(USA))(yearly_salary($30K - $50K))(member card(Bronze))(education(Partial College)) --> (buy(455)), {C=0.0006120575334081403, S=0.0005836008170411438}
+(gender(Female))(country(USA))(yearly_salary($30K - $50K))(member card(Bronze))(education(Partial College)) --> (buy(537)), {C=0.0005100479445067837, S=0.00048633401420095323}
+(gender(Female))(country(USA))(yearly_salary($30K - $50K))(member card(Bronze))(education(Partial College)) --> (buy(565)), {C=0.0005100479445067837, S=0.00048633401420095323}
+(gender(Female))(country(USA))(yearly_salary($30K - $50K))(member card(Bronze))(education(Partial College)) --> (buy(660)), {C=0.0005100479445067837, S=0.00048633401420095323}
+(gender(Female))(country(USA))(yearly_salary($30K - $50K))(member card(Bronze))(education(Partial College)) --> (buy(916)), {C=0.0005100479445067837, S=0.00048633401420095323}
+(gender(Female))(country(USA))(yearly_salary($30K - $50K))(member card(Bronze))(education(Partial College)) --> (buy(1077)), {C=0.0006120575334081403, S=0.0005836008170411438}
+(gender(Female))(country(USA))(yearly_salary($30K - $50K))(member card(Bronze))(education(Partial College)) --> (buy(1196)), {C=0.0005100479445067837, S=0.00048633401420095323}
+(gender(Female))(country(USA))(yearly_salary($30K - $50K))(member card(Bronze))(education(Partial College)) --> (buy(1311)), {C=0.0005100479445067837, S=0.00048633401420095323}
+(gender(Female))(country(USA))(yearly_salary($30K - $50K))(member card(Bronze))(education(Partial College)) --> (buy(1330)), {C=0.0005100479445067837, S=0.00048633401420095323}
+(gender(Female))(country(USA))(yearly_salary($30K - $50K))(member card(Bronze))(education(Partial College)) --> (buy(1445)), {C=0.0005100479445067837, S=0.00048633401420095323}

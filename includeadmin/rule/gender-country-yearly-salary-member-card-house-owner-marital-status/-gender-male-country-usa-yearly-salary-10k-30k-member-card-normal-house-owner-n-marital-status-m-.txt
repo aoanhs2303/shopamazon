@@ -1,0 +1,1 @@
+(gender(Male))(country(USA))(yearly_salary($10K - $30K))(member card(Normal))(house_owner(N))(marital_status(M)) --> (buy(1466)), {C=0.0004985541928407618, S=0.00048633401420095323}

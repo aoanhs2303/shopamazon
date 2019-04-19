@@ -1,0 +1,15 @@
+(age_group(MiddleAdults))(education(Bachelors Degree))(house_owner(N)) --> (buy(41)), {C=0.0007525586995785672, S=0.00048633401420095323}
+(age_group(MiddleAdults))(education(Bachelors Degree))(house_owner(N)) --> (buy(298)), {C=0.0007525586995785672, S=0.00048633401420095323}
+(age_group(MiddleAdults))(education(Bachelors Degree))(house_owner(N)) --> (buy(404)), {C=0.0007525586995785672, S=0.00048633401420095323}
+(age_group(MiddleAdults))(education(Bachelors Degree))(house_owner(N)) --> (buy(631)), {C=0.0009030704394942806, S=0.0005836008170411438}
+(age_group(MiddleAdults))(education(Bachelors Degree))(house_owner(N)) --> (buy(688)), {C=0.0007525586995785672, S=0.00048633401420095323}
+(age_group(MiddleAdults))(education(Bachelors Degree))(house_owner(N)) --> (buy(41)), {C=0.0007525586995785672, S=0.00048633401420095323}
+(age_group(MiddleAdults))(education(Bachelors Degree))(house_owner(N)) --> (buy(298)), {C=0.0007525586995785672, S=0.00048633401420095323}
+(age_group(MiddleAdults))(education(Bachelors Degree))(house_owner(N)) --> (buy(404)), {C=0.0007525586995785672, S=0.00048633401420095323}
+(age_group(MiddleAdults))(education(Bachelors Degree))(house_owner(N)) --> (buy(631)), {C=0.0009030704394942806, S=0.0005836008170411438}
+(age_group(MiddleAdults))(education(Bachelors Degree))(house_owner(N)) --> (buy(688)), {C=0.0007525586995785672, S=0.00048633401420095323}
+(age_group(MiddleAdults))(education(Bachelors Degree))(house_owner(N)) --> (buy(41)), {C=0.0007525586995785672, S=0.00048633401420095323}
+(age_group(MiddleAdults))(education(Bachelors Degree))(house_owner(N)) --> (buy(298)), {C=0.0007525586995785672, S=0.00048633401420095323}
+(age_group(MiddleAdults))(education(Bachelors Degree))(house_owner(N)) --> (buy(404)), {C=0.0007525586995785672, S=0.00048633401420095323}
+(age_group(MiddleAdults))(education(Bachelors Degree))(house_owner(N)) --> (buy(631)), {C=0.0009030704394942806, S=0.0005836008170411438}
+(age_group(MiddleAdults))(education(Bachelors Degree))(house_owner(N)) --> (buy(688)), {C=0.0007525586995785672, S=0.00048633401420095323}

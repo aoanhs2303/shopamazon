@@ -1,0 +1,5 @@
+(country(USA))(member card(Bronze))(buy(1435)) --> (buy(371)), {C=0.0007763975155279503, S=0.0006808676198813345}
+(country(USA))(member card(Bronze))(buy(1435)) --> (buy(877)), {C=0.0005545696539485359, S=0.00048633401420095323}
+(country(USA))(member card(Bronze))(buy(1435)) --> (buy(1176)), {C=0.0005545696539485359, S=0.00048633401420095323}
+(country(USA))(member card(Bronze))(buy(1435)) --> (buy(1362)), {C=0.0005545696539485359, S=0.00048633401420095323}
+(country(USA))(member card(Bronze))(buy(1435)) --> (buy(1392)), {C=0.0005545696539485359, S=0.00048633401420095323}

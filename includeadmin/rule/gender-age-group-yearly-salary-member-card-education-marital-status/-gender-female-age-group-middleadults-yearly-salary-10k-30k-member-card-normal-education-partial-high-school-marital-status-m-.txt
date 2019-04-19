@@ -1,0 +1,3 @@
+(gender(Female))(age_group(MiddleAdults))(yearly_salary($10K - $30K))(member card(Normal))(education(Partial High School))(marital_status(M)) --> (buy(1356)), {C=0.0005607895917451773, S=0.00048633401420095323}
+(gender(Female))(age_group(MiddleAdults))(yearly_salary($10K - $30K))(member card(Normal))(education(Partial High School))(marital_status(M)) --> (buy(1356)), {C=0.0005607895917451773, S=0.00048633401420095323}
+(gender(Female))(age_group(MiddleAdults))(yearly_salary($10K - $30K))(member card(Normal))(education(Partial High School))(marital_status(M)) --> (buy(1356)), {C=0.0005607895917451773, S=0.00048633401420095323}

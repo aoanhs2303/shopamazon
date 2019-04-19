@@ -1,0 +1,1 @@
+(country(USA))(age_group(YoungAdults))(yearly_salary($30K - $50K))(member card(Bronze))(house_owner(Y))(marital_status(S)) --> (buy(461)), {C=0.0004921259842519685, S=0.00048633401420095323}

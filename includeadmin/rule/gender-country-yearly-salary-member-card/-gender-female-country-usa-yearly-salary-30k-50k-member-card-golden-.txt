@@ -1,0 +1,7 @@
+(gender(Female))(country(USA))(yearly_salary($30K - $50K))(member card(Golden)) --> (buy(234)), {C=0.0005319714863283329, S=0.00048633401420095323}
+(gender(Female))(country(USA))(yearly_salary($30K - $50K))(member card(Golden)) --> (buy(277)), {C=0.0005319714863283329, S=0.00048633401420095323}
+(gender(Female))(country(USA))(yearly_salary($30K - $50K))(member card(Golden)) --> (buy(378)), {C=0.0005319714863283329, S=0.00048633401420095323}
+(gender(Female))(country(USA))(yearly_salary($30K - $50K))(member card(Golden)) --> (buy(909)), {C=0.0007447600808596659, S=0.0006808676198813345}
+(gender(Female))(country(USA))(yearly_salary($30K - $50K))(member card(Golden)) --> (buy(937)), {C=0.0005319714863283329, S=0.00048633401420095323}
+(gender(Female))(country(USA))(yearly_salary($30K - $50K))(member card(Golden)) --> (buy(1162)), {C=0.0005319714863283329, S=0.00048633401420095323}
+(gender(Female))(country(USA))(yearly_salary($30K - $50K))(member card(Golden)) --> (buy(1412)), {C=0.0006383657835939993, S=0.0005836008170411438}

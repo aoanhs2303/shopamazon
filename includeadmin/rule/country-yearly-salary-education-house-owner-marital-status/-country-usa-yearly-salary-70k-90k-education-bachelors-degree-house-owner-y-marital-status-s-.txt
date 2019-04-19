@@ -1,0 +1,2 @@
+(country(USA))(yearly_salary($70K - $90K))(education(Bachelors Degree))(house_owner(Y))(marital_status(S)) --> (buy(440)), {C=0.0004997501249375312, S=0.00048633401420095323}
+(country(USA))(yearly_salary($70K - $90K))(education(Bachelors Degree))(house_owner(Y))(marital_status(S)) --> (buy(818)), {C=0.0004997501249375312, S=0.00048633401420095323}

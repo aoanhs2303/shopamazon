@@ -1,0 +1,1 @@
+(gender(Female))(country(USA))(house_owner(Y))(marital_status(M))(buy(440)) --> (buy(966)), {C=0.000505356781888013, S=0.00048633401420095323}

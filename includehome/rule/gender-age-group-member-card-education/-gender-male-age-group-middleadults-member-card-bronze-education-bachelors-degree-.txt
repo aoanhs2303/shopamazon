@@ -1,0 +1,12 @@
+(gender(Male))(age_group(MiddleAdults))(member card(Bronze))(education(Bachelors Degree)) --> (buy(41)), {C=0.0005680527152919792, S=0.00048633401420095323}
+(gender(Male))(age_group(MiddleAdults))(member card(Bronze))(education(Bachelors Degree)) --> (buy(271)), {C=0.0005680527152919792, S=0.00048633401420095323}
+(gender(Male))(age_group(MiddleAdults))(member card(Bronze))(education(Bachelors Degree)) --> (buy(338)), {C=0.0005680527152919792, S=0.00048633401420095323}
+(gender(Male))(age_group(MiddleAdults))(member card(Bronze))(education(Bachelors Degree)) --> (buy(1558)), {C=0.0005680527152919792, S=0.00048633401420095323}
+(gender(Male))(age_group(MiddleAdults))(member card(Bronze))(education(Bachelors Degree)) --> (buy(41)), {C=0.0005680527152919792, S=0.00048633401420095323}
+(gender(Male))(age_group(MiddleAdults))(member card(Bronze))(education(Bachelors Degree)) --> (buy(271)), {C=0.0005680527152919792, S=0.00048633401420095323}
+(gender(Male))(age_group(MiddleAdults))(member card(Bronze))(education(Bachelors Degree)) --> (buy(338)), {C=0.0005680527152919792, S=0.00048633401420095323}
+(gender(Male))(age_group(MiddleAdults))(member card(Bronze))(education(Bachelors Degree)) --> (buy(1558)), {C=0.0005680527152919792, S=0.00048633401420095323}
+(gender(Male))(age_group(MiddleAdults))(member card(Bronze))(education(Bachelors Degree)) --> (buy(41)), {C=0.0005680527152919792, S=0.00048633401420095323}
+(gender(Male))(age_group(MiddleAdults))(member card(Bronze))(education(Bachelors Degree)) --> (buy(271)), {C=0.0005680527152919792, S=0.00048633401420095323}
+(gender(Male))(age_group(MiddleAdults))(member card(Bronze))(education(Bachelors Degree)) --> (buy(338)), {C=0.0005680527152919792, S=0.00048633401420095323}
+(gender(Male))(age_group(MiddleAdults))(member card(Bronze))(education(Bachelors Degree)) --> (buy(1558)), {C=0.0005680527152919792, S=0.00048633401420095323}

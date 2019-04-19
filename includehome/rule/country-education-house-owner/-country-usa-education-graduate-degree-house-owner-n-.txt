@@ -1,0 +1,5 @@
+(country(USA))(education(Graduate Degree))(house_owner(N)) --> (buy(76)), {C=0.0005788376939106274, S=0.00048633401420095323}
+(country(USA))(education(Graduate Degree))(house_owner(N)) --> (buy(460)), {C=0.0005788376939106274, S=0.00048633401420095323}
+(country(USA))(education(Graduate Degree))(house_owner(N)) --> (buy(923)), {C=0.0005788376939106274, S=0.00048633401420095323}
+(country(USA))(education(Graduate Degree))(house_owner(N)) --> (buy(1384)), {C=0.0006946052326927528, S=0.0005836008170411438}
+(country(USA))(education(Graduate Degree))(house_owner(N)) --> (buy(1452)), {C=0.0005788376939106274, S=0.00048633401420095323}

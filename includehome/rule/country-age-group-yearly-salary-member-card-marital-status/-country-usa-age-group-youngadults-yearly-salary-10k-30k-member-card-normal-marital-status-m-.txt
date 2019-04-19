@@ -1,0 +1,3 @@
+(country(USA))(age_group(YoungAdults))(yearly_salary($10K - $30K))(member card(Normal))(marital_status(M)) --> (buy(590)), {C=0.000637213254035684, S=0.0005836008170411438}
+(country(USA))(age_group(YoungAdults))(yearly_salary($10K - $30K))(member card(Normal))(marital_status(M)) --> (buy(827)), {C=0.0005310110450297366, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($10K - $30K))(member card(Normal))(marital_status(M)) --> (buy(881)), {C=0.0005310110450297366, S=0.00048633401420095323}

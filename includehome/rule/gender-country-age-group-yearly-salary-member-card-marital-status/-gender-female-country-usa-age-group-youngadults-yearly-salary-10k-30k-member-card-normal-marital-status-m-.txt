@@ -1,0 +1,1 @@
+(gender(Female))(country(USA))(age_group(YoungAdults))(yearly_salary($10K - $30K))(member card(Normal))(marital_status(M)) --> (buy(827)), {C=0.0005079236082893133, S=0.00048633401420095323}

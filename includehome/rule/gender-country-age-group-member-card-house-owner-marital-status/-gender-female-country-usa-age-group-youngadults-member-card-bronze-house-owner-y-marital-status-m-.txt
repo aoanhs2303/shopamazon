@@ -1,0 +1,3 @@
+(gender(Female))(country(USA))(age_group(YoungAdults))(member card(Bronze))(house_owner(Y))(marital_status(M)) --> (buy(160)), {C=0.0004912073877591119, S=0.00048633401420095323}
+(gender(Female))(country(USA))(age_group(YoungAdults))(member card(Bronze))(house_owner(Y))(marital_status(M)) --> (buy(455)), {C=0.0004912073877591119, S=0.00048633401420095323}
+(gender(Female))(country(USA))(age_group(YoungAdults))(member card(Bronze))(house_owner(Y))(marital_status(M)) --> (buy(898)), {C=0.0004912073877591119, S=0.00048633401420095323}

@@ -1,0 +1,2 @@
+(gender(Male))(member card(Golden))(education(Bachelors Degree))(house_owner(Y)) --> (buy(515)), {C=0.0005609783462358353, S=0.00048633401420095323}
+(gender(Male))(member card(Golden))(education(Bachelors Degree))(house_owner(Y)) --> (buy(1041)), {C=0.0006731740154830023, S=0.0005836008170411438}

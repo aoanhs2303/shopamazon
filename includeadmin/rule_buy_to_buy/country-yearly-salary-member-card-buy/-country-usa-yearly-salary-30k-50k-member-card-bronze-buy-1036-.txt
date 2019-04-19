@@ -1,0 +1,3 @@
+(country(USA))(yearly_salary($30K - $50K))(member card(Bronze))(buy(1036)) --> (buy(227)), {C=0.0005394907207596029, S=0.00048633401420095323}
+(country(USA))(yearly_salary($30K - $50K))(member card(Bronze))(buy(1036)) --> (buy(830)), {C=0.0006473888649115235, S=0.0005836008170411438}
+(country(USA))(yearly_salary($30K - $50K))(member card(Bronze))(buy(1036)) --> (buy(1013)), {C=0.0005394907207596029, S=0.00048633401420095323}

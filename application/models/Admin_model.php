@@ -703,6 +703,16 @@ class Admin_model extends CI_Model {
 		return $this->db->update('contact');
 	}
 
+	// CUSTOMER
+
+	public function getSliceCustomer($count, $offset)
+	{
+		$this->db->select('customer_id, username, password, gender, country, age, yearly_income as year_salary, member_card, education, houseowner as house_owner, marital_status');
+		$data = $this->db->get('customer', $offset, $count);
+		$data = $data->result_array();
+		return $data;
+	}
+
 }
 
 /* End of file Admin_model.php */

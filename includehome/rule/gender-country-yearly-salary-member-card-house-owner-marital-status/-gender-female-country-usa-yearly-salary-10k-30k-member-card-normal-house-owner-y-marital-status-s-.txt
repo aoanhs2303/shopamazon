@@ -1,0 +1,8 @@
+(gender(Female))(country(USA))(yearly_salary($10K - $30K))(member card(Normal))(house_owner(Y))(marital_status(S)) --> (buy(304)), {C=0.000493583415597236, S=0.00048633401420095323}
+(gender(Female))(country(USA))(yearly_salary($10K - $30K))(member card(Normal))(house_owner(Y))(marital_status(S)) --> (buy(374)), {C=0.000493583415597236, S=0.00048633401420095323}
+(gender(Female))(country(USA))(yearly_salary($10K - $30K))(member card(Normal))(house_owner(Y))(marital_status(S)) --> (buy(399)), {C=0.000493583415597236, S=0.00048633401420095323}
+(gender(Female))(country(USA))(yearly_salary($10K - $30K))(member card(Normal))(house_owner(Y))(marital_status(S)) --> (buy(428)), {C=0.000493583415597236, S=0.00048633401420095323}
+(gender(Female))(country(USA))(yearly_salary($10K - $30K))(member card(Normal))(house_owner(Y))(marital_status(S)) --> (buy(1012)), {C=0.000493583415597236, S=0.00048633401420095323}
+(gender(Female))(country(USA))(yearly_salary($10K - $30K))(member card(Normal))(house_owner(Y))(marital_status(S)) --> (buy(1353)), {C=0.0005923000987166831, S=0.0005836008170411438}
+(gender(Female))(country(USA))(yearly_salary($10K - $30K))(member card(Normal))(house_owner(Y))(marital_status(S)) --> (buy(1421)), {C=0.000493583415597236, S=0.00048633401420095323}
+(gender(Female))(country(USA))(yearly_salary($10K - $30K))(member card(Normal))(house_owner(Y))(marital_status(S)) --> (buy(1465)), {C=0.000493583415597236, S=0.00048633401420095323}

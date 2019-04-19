@@ -1,0 +1,11 @@
+(gender(Female))(country(USA))(member card(Golden))(education(High School Degree)) --> (buy(24)), {C=0.0005340739158299509, S=0.00048633401420095323}
+(gender(Female))(country(USA))(member card(Golden))(education(High School Degree)) --> (buy(32)), {C=0.0005340739158299509, S=0.00048633401420095323}
+(gender(Female))(country(USA))(member card(Golden))(education(High School Degree)) --> (buy(234)), {C=0.0007477034821619312, S=0.0006808676198813345}
+(gender(Female))(country(USA))(member card(Golden))(education(High School Degree)) --> (buy(378)), {C=0.0005340739158299509, S=0.00048633401420095323}
+(gender(Female))(country(USA))(member card(Golden))(education(High School Degree)) --> (buy(463)), {C=0.0005340739158299509, S=0.00048633401420095323}
+(gender(Female))(country(USA))(member card(Golden))(education(High School Degree)) --> (buy(882)), {C=0.0005340739158299509, S=0.00048633401420095323}
+(gender(Female))(country(USA))(member card(Golden))(education(High School Degree)) --> (buy(1107)), {C=0.0005340739158299509, S=0.00048633401420095323}
+(gender(Female))(country(USA))(member card(Golden))(education(High School Degree)) --> (buy(1145)), {C=0.0005340739158299509, S=0.00048633401420095323}
+(gender(Female))(country(USA))(member card(Golden))(education(High School Degree)) --> (buy(1153)), {C=0.000640888698995941, S=0.0005836008170411438}
+(gender(Female))(country(USA))(member card(Golden))(education(High School Degree)) --> (buy(1305)), {C=0.0005340739158299509, S=0.00048633401420095323}
+(gender(Female))(country(USA))(member card(Golden))(education(High School Degree)) --> (buy(1424)), {C=0.0005340739158299509, S=0.00048633401420095323}

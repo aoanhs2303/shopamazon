@@ -1,0 +1,2 @@
+(age_group(YoungAdults))(yearly_salary($30K - $50K))(education(Partial College)) --> (buy(503)), {C=0.00099147332936744, S=0.00048633401420095323}
+(age_group(YoungAdults))(yearly_salary($30K - $50K))(education(Partial College)) --> (buy(868)), {C=0.00099147332936744, S=0.00048633401420095323}

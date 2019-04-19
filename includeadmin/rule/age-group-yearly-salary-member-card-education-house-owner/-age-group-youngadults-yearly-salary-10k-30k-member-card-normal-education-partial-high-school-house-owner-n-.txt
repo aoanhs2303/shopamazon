@@ -1,0 +1,2 @@
+(age_group(YoungAdults))(yearly_salary($10K - $30K))(member card(Normal))(education(Partial High School))(house_owner(N)) --> (buy(1049)), {C=0.0007070135746606335, S=0.00048633401420095323}
+(age_group(YoungAdults))(yearly_salary($10K - $30K))(member card(Normal))(education(Partial High School))(house_owner(N)) --> (buy(1308)), {C=0.0007070135746606335, S=0.00048633401420095323}

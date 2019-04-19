@@ -1,0 +1,3 @@
+(gender(Female))(yearly_salary($30K - $50K))(education(Partial College))(marital_status(M)) --> (buy(710)), {C=0.0005824790307548928, S=0.00048633401420095323}
+(gender(Female))(yearly_salary($30K - $50K))(education(Partial College))(marital_status(M)) --> (buy(868)), {C=0.0006989748369058713, S=0.0005836008170411438}
+(gender(Female))(yearly_salary($30K - $50K))(education(Partial College))(marital_status(M)) --> (buy(1190)), {C=0.0005824790307548928, S=0.00048633401420095323}

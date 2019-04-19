@@ -1,0 +1,1 @@
+(gender(Male))(country(USA))(age_group(YoungAdults))(yearly_salary($30K - $50K))(member card(Bronze))(education(High School Degree)) --> (buy(1044)), {C=0.0005044899606497831, S=0.00048633401420095323}

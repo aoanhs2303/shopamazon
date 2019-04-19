@@ -1,0 +1,6 @@
+(age_group(YoungAdults))(member card(Bronze))(education(High School Degree))(house_owner(Y)) --> (buy(241)), {C=0.0006521739130434782, S=0.0005836008170411438}
+(age_group(YoungAdults))(member card(Bronze))(education(High School Degree))(house_owner(Y)) --> (buy(451)), {C=0.0005434782608695652, S=0.00048633401420095323}
+(age_group(YoungAdults))(member card(Bronze))(education(High School Degree))(house_owner(Y)) --> (buy(912)), {C=0.0005434782608695652, S=0.00048633401420095323}
+(age_group(YoungAdults))(member card(Bronze))(education(High School Degree))(house_owner(Y)) --> (buy(921)), {C=0.0008695652173913045, S=0.0007781344227215252}
+(age_group(YoungAdults))(member card(Bronze))(education(High School Degree))(house_owner(Y)) --> (buy(1184)), {C=0.0005434782608695652, S=0.00048633401420095323}
+(age_group(YoungAdults))(member card(Bronze))(education(High School Degree))(house_owner(Y)) --> (buy(1398)), {C=0.0007608695652173913, S=0.0006808676198813345}

@@ -1,0 +1,12 @@
+(age_group(YoungAdults))(education(Partial High School))(house_owner(Y))(marital_status(M)) --> (buy(47)), {C=0.0005705808513066302, S=0.00048633401420095323}
+(age_group(YoungAdults))(education(Partial High School))(house_owner(Y))(marital_status(M)) --> (buy(341)), {C=0.0005705808513066302, S=0.00048633401420095323}
+(age_group(YoungAdults))(education(Partial High School))(house_owner(Y))(marital_status(M)) --> (buy(634)), {C=0.0005705808513066302, S=0.00048633401420095323}
+(age_group(YoungAdults))(education(Partial High School))(house_owner(Y))(marital_status(M)) --> (buy(707)), {C=0.0005705808513066302, S=0.00048633401420095323}
+(age_group(YoungAdults))(education(Partial High School))(house_owner(Y))(marital_status(M)) --> (buy(725)), {C=0.0006846970215679561, S=0.0005836008170411438}
+(age_group(YoungAdults))(education(Partial High School))(house_owner(Y))(marital_status(M)) --> (buy(898)), {C=0.0005705808513066302, S=0.00048633401420095323}
+(age_group(YoungAdults))(education(Partial High School))(house_owner(Y))(marital_status(M)) --> (buy(1196)), {C=0.0005705808513066302, S=0.00048633401420095323}
+(age_group(YoungAdults))(education(Partial High School))(house_owner(Y))(marital_status(M)) --> (buy(1219)), {C=0.0006846970215679561, S=0.0005836008170411438}
+(age_group(YoungAdults))(education(Partial High School))(house_owner(Y))(marital_status(M)) --> (buy(1267)), {C=0.0005705808513066302, S=0.00048633401420095323}
+(age_group(YoungAdults))(education(Partial High School))(house_owner(Y))(marital_status(M)) --> (buy(1276)), {C=0.0005705808513066302, S=0.00048633401420095323}
+(age_group(YoungAdults))(education(Partial High School))(house_owner(Y))(marital_status(M)) --> (buy(1278)), {C=0.0006846970215679561, S=0.0005836008170411438}
+(age_group(YoungAdults))(education(Partial High School))(house_owner(Y))(marital_status(M)) --> (buy(1377)), {C=0.0005705808513066302, S=0.00048633401420095323}

@@ -1,0 +1,2 @@
+(gender(Male))(country(USA))(age_group(YoungAdults))(member card(Bronze))(education(High School Degree)) --> (buy(921)), {C=0.0006072874493927125, S=0.0005836008170411438}
+(gender(Male))(country(USA))(age_group(YoungAdults))(member card(Bronze))(education(High School Degree)) --> (buy(1044)), {C=0.0005060728744939271, S=0.00048633401420095323}

@@ -1,0 +1,2 @@
+(gender(Male))(yearly_salary($70K - $90K))(member card(Bronze))(marital_status(M)) --> (buy(551)), {C=0.0005327650506126799, S=0.00048633401420095323}
+(gender(Male))(yearly_salary($70K - $90K))(member card(Bronze))(marital_status(M)) --> (buy(710)), {C=0.0005327650506126799, S=0.00048633401420095323}

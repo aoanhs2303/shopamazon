@@ -1,0 +1,3 @@
+(gender(Male))(age_group(YoungAdults))(member card(Bronze))(education(Partial High School)) --> (buy(342)), {C=0.0005317451877060512, S=0.00048633401420095323}
+(gender(Male))(age_group(YoungAdults))(member card(Bronze))(education(Partial High School)) --> (buy(1088)), {C=0.0005317451877060512, S=0.00048633401420095323}
+(gender(Male))(age_group(YoungAdults))(member card(Bronze))(education(Partial High School)) --> (buy(1489)), {C=0.0005317451877060512, S=0.00048633401420095323}

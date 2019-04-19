@@ -1,0 +1,1 @@
+(gender(Female))(education(Partial College))(house_owner(N))(marital_status(S)) --> (buy(1529)), {C=0.000584316933504733, S=0.00048633401420095323}

@@ -1,0 +1,14 @@
+(gender(Male))(country(USA))(yearly_salary($10K - $30K))(house_owner(Y))(marital_status(S)) --> (buy(43)), {C=0.0005918910920390647, S=0.0005836008170411438}
+(gender(Male))(country(USA))(yearly_salary($10K - $30K))(house_owner(Y))(marital_status(S)) --> (buy(89)), {C=0.0004932425766992207, S=0.00048633401420095323}
+(gender(Male))(country(USA))(yearly_salary($10K - $30K))(house_owner(Y))(marital_status(S)) --> (buy(228)), {C=0.0004932425766992207, S=0.00048633401420095323}
+(gender(Male))(country(USA))(yearly_salary($10K - $30K))(house_owner(Y))(marital_status(S)) --> (buy(456)), {C=0.0004932425766992207, S=0.00048633401420095323}
+(gender(Male))(country(USA))(yearly_salary($10K - $30K))(house_owner(Y))(marital_status(S)) --> (buy(506)), {C=0.0004932425766992207, S=0.00048633401420095323}
+(gender(Male))(country(USA))(yearly_salary($10K - $30K))(house_owner(Y))(marital_status(S)) --> (buy(553)), {C=0.0005918910920390647, S=0.0005836008170411438}
+(gender(Male))(country(USA))(yearly_salary($10K - $30K))(house_owner(Y))(marital_status(S)) --> (buy(593)), {C=0.0005918910920390647, S=0.0005836008170411438}
+(gender(Male))(country(USA))(yearly_salary($10K - $30K))(house_owner(Y))(marital_status(S)) --> (buy(596)), {C=0.0004932425766992207, S=0.00048633401420095323}
+(gender(Male))(country(USA))(yearly_salary($10K - $30K))(house_owner(Y))(marital_status(S)) --> (buy(782)), {C=0.0004932425766992207, S=0.00048633401420095323}
+(gender(Male))(country(USA))(yearly_salary($10K - $30K))(house_owner(Y))(marital_status(S)) --> (buy(786)), {C=0.0004932425766992207, S=0.00048633401420095323}
+(gender(Male))(country(USA))(yearly_salary($10K - $30K))(house_owner(Y))(marital_status(S)) --> (buy(827)), {C=0.0005918910920390647, S=0.0005836008170411438}
+(gender(Male))(country(USA))(yearly_salary($10K - $30K))(house_owner(Y))(marital_status(S)) --> (buy(948)), {C=0.0004932425766992207, S=0.00048633401420095323}
+(gender(Male))(country(USA))(yearly_salary($10K - $30K))(house_owner(Y))(marital_status(S)) --> (buy(1085)), {C=0.0004932425766992207, S=0.00048633401420095323}
+(gender(Male))(country(USA))(yearly_salary($10K - $30K))(house_owner(Y))(marital_status(S)) --> (buy(1332)), {C=0.0004932425766992207, S=0.00048633401420095323}

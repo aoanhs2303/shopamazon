@@ -1,0 +1,2 @@
+(gender(Female))(country(USA))(yearly_salary($30K - $50K))(member card(Bronze))(education(Partial High School)) --> (buy(739)), {C=0.000495589255624938, S=0.00048633401420095323}
+(gender(Female))(country(USA))(yearly_salary($30K - $50K))(member card(Bronze))(education(Partial High School)) --> (buy(784)), {C=0.0005947071067499256, S=0.0005836008170411438}

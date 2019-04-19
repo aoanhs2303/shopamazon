@@ -1,0 +1,3 @@
+(age_group(YoungAdults))(yearly_salary($10K - $30K))(house_owner(N))(marital_status(S)) --> (buy(1308)), {C=0.0006327512022272843, S=0.00048633401420095323}
+(age_group(YoungAdults))(yearly_salary($10K - $30K))(house_owner(N))(marital_status(S)) --> (buy(1311)), {C=0.0006327512022272843, S=0.00048633401420095323}
+(age_group(YoungAdults))(yearly_salary($10K - $30K))(house_owner(N))(marital_status(S)) --> (buy(1355)), {C=0.0006327512022272843, S=0.00048633401420095323}

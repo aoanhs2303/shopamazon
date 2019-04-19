@@ -1,0 +1,2 @@
+(gender(Female))(member card(Bronze))(education(Partial College))(house_owner(N)) --> (buy(1448)), {C=0.0005602240896358544, S=0.00048633401420095323}
+(gender(Female))(member card(Bronze))(education(Partial College))(house_owner(N)) --> (buy(1529)), {C=0.0005602240896358544, S=0.00048633401420095323}

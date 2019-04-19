@@ -1,0 +1,1 @@
+(gender(Male))(member card(Bronze))(education(Partial High School))(house_owner(Y))(marital_status(S)) --> (buy(992)), {C=0.0004929994084007099, S=0.00048633401420095323}

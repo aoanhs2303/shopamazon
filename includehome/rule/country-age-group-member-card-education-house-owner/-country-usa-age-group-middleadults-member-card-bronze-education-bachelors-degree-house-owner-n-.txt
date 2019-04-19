@@ -1,0 +1,6 @@
+(country(USA))(age_group(MiddleAdults))(member card(Bronze))(education(Bachelors Degree))(house_owner(N)) --> (buy(41)), {C=0.0005118755118755119, S=0.00048633401420095323}
+(country(USA))(age_group(MiddleAdults))(member card(Bronze))(education(Bachelors Degree))(house_owner(N)) --> (buy(688)), {C=0.0005118755118755119, S=0.00048633401420095323}
+(country(USA))(age_group(MiddleAdults))(member card(Bronze))(education(Bachelors Degree))(house_owner(N)) --> (buy(41)), {C=0.0005118755118755119, S=0.00048633401420095323}
+(country(USA))(age_group(MiddleAdults))(member card(Bronze))(education(Bachelors Degree))(house_owner(N)) --> (buy(688)), {C=0.0005118755118755119, S=0.00048633401420095323}
+(country(USA))(age_group(MiddleAdults))(member card(Bronze))(education(Bachelors Degree))(house_owner(N)) --> (buy(41)), {C=0.0005118755118755119, S=0.00048633401420095323}
+(country(USA))(age_group(MiddleAdults))(member card(Bronze))(education(Bachelors Degree))(house_owner(N)) --> (buy(688)), {C=0.0005118755118755119, S=0.00048633401420095323}

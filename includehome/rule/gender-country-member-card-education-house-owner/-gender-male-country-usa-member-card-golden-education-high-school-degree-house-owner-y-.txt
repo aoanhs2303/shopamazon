@@ -1,0 +1,8 @@
+(gender(Male))(country(USA))(member card(Golden))(education(High School Degree))(house_owner(Y)) --> (buy(357)), {C=0.0005056122964910507, S=0.00048633401420095323}
+(gender(Male))(country(USA))(member card(Golden))(education(High School Degree))(house_owner(Y)) --> (buy(454)), {C=0.0006067347557892608, S=0.0005836008170411438}
+(gender(Male))(country(USA))(member card(Golden))(education(High School Degree))(house_owner(Y)) --> (buy(632)), {C=0.0005056122964910507, S=0.00048633401420095323}
+(gender(Male))(country(USA))(member card(Golden))(education(High School Degree))(house_owner(Y)) --> (buy(838)), {C=0.0005056122964910507, S=0.00048633401420095323}
+(gender(Male))(country(USA))(member card(Golden))(education(High School Degree))(house_owner(Y)) --> (buy(873)), {C=0.0006067347557892608, S=0.0005836008170411438}
+(gender(Male))(country(USA))(member card(Golden))(education(High School Degree))(house_owner(Y)) --> (buy(960)), {C=0.0005056122964910507, S=0.00048633401420095323}
+(gender(Male))(country(USA))(member card(Golden))(education(High School Degree))(house_owner(Y)) --> (buy(1176)), {C=0.0005056122964910507, S=0.00048633401420095323}
+(gender(Male))(country(USA))(member card(Golden))(education(High School Degree))(house_owner(Y)) --> (buy(1483)), {C=0.0006067347557892608, S=0.0005836008170411438}

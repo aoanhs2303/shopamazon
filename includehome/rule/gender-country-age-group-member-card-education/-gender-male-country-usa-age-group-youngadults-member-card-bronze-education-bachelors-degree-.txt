@@ -1,0 +1,14 @@
+(gender(Male))(country(USA))(age_group(YoungAdults))(member card(Bronze))(education(Bachelors Degree)) --> (buy(178)), {C=0.0005076142131979696, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(YoungAdults))(member card(Bronze))(education(Bachelors Degree)) --> (buy(339)), {C=0.0005076142131979696, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(YoungAdults))(member card(Bronze))(education(Bachelors Degree)) --> (buy(349)), {C=0.0005076142131979696, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(YoungAdults))(member card(Bronze))(education(Bachelors Degree)) --> (buy(428)), {C=0.0005076142131979696, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(YoungAdults))(member card(Bronze))(education(Bachelors Degree)) --> (buy(594)), {C=0.0005076142131979696, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(YoungAdults))(member card(Bronze))(education(Bachelors Degree)) --> (buy(802)), {C=0.0005076142131979696, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(YoungAdults))(member card(Bronze))(education(Bachelors Degree)) --> (buy(808)), {C=0.0005076142131979696, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(YoungAdults))(member card(Bronze))(education(Bachelors Degree)) --> (buy(841)), {C=0.0005076142131979696, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(YoungAdults))(member card(Bronze))(education(Bachelors Degree)) --> (buy(904)), {C=0.0006091370558375635, S=0.0005836008170411438}
+(gender(Male))(country(USA))(age_group(YoungAdults))(member card(Bronze))(education(Bachelors Degree)) --> (buy(956)), {C=0.0005076142131979696, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(YoungAdults))(member card(Bronze))(education(Bachelors Degree)) --> (buy(988)), {C=0.0005076142131979696, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(YoungAdults))(member card(Bronze))(education(Bachelors Degree)) --> (buy(1245)), {C=0.0005076142131979696, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(YoungAdults))(member card(Bronze))(education(Bachelors Degree)) --> (buy(1507)), {C=0.0005076142131979696, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(YoungAdults))(member card(Bronze))(education(Bachelors Degree)) --> (buy(1538)), {C=0.0008121827411167514, S=0.0007781344227215252}

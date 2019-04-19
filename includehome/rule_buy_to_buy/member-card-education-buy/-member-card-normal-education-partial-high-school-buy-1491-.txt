@@ -1,0 +1,1 @@
+(member card(Normal))(education(Partial High School))(buy(1491)) --> (buy(549)), {C=0.00138811771238201, S=0.00048633401420095323}

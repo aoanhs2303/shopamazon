@@ -1,0 +1,5 @@
+(gender(Male))(education(Partial High School))(house_owner(N))(marital_status(M)) --> (buy(581)), {C=0.0005280388636603654, S=0.00048633401420095323}
+(gender(Male))(education(Partial High School))(house_owner(N))(marital_status(M)) --> (buy(956)), {C=0.0005280388636603654, S=0.00048633401420095323}
+(gender(Male))(education(Partial High School))(house_owner(N))(marital_status(M)) --> (buy(1162)), {C=0.0005280388636603654, S=0.00048633401420095323}
+(gender(Male))(education(Partial High School))(house_owner(N))(marital_status(M)) --> (buy(1379)), {C=0.0005280388636603654, S=0.00048633401420095323}
+(gender(Male))(education(Partial High School))(house_owner(N))(marital_status(M)) --> (buy(1466)), {C=0.0008448621818565847, S=0.0007781344227215252}

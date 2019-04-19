@@ -1,0 +1,4 @@
+(gender(Female))(yearly_salary($130K - $150K))(member card(Bronze))(house_owner(Y)) --> (buy(231)), {C=0.0005294927459493805, S=0.00048633401420095323}
+(gender(Female))(yearly_salary($130K - $150K))(member card(Bronze))(house_owner(Y)) --> (buy(917)), {C=0.0005294927459493805, S=0.00048633401420095323}
+(gender(Female))(yearly_salary($130K - $150K))(member card(Bronze))(house_owner(Y)) --> (buy(950)), {C=0.0005294927459493805, S=0.00048633401420095323}
+(gender(Female))(yearly_salary($130K - $150K))(member card(Bronze))(house_owner(Y)) --> (buy(1436)), {C=0.0005294927459493805, S=0.00048633401420095323}

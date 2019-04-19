@@ -1,0 +1,4 @@
+(member card(Golden))(education(Partial High School)) --> (buy(39)), {C=0.0012215978499877842, S=0.00048633401420095323}
+(member card(Golden))(education(Partial High School)) --> (buy(205)), {C=0.0012215978499877842, S=0.00048633401420095323}
+(member card(Golden))(education(Partial High School)) --> (buy(617)), {C=0.0012215978499877842, S=0.00048633401420095323}
+(member card(Golden))(education(Partial High School)) --> (buy(968)), {C=0.0012215978499877842, S=0.00048633401420095323}

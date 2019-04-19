@@ -1,0 +1,3 @@
+(age_group(MiddleAdults))(house_owner(Y))(buy(609)) --> (buy(426)), {C=0.0007045230379033395, S=0.00048633401420095323}
+(age_group(MiddleAdults))(house_owner(Y))(buy(609)) --> (buy(426)), {C=0.0007045230379033395, S=0.00048633401420095323}
+(age_group(MiddleAdults))(house_owner(Y))(buy(609)) --> (buy(426)), {C=0.0007045230379033395, S=0.00048633401420095323}

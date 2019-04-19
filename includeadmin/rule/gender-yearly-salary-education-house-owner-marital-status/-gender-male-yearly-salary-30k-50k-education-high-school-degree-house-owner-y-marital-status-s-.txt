@@ -1,0 +1,13 @@
+(gender(Male))(yearly_salary($30K - $50K))(education(High School Degree))(house_owner(Y))(marital_status(S)) --> (buy(195)), {C=0.0005054589567327133, S=0.00048633401420095323}
+(gender(Male))(yearly_salary($30K - $50K))(education(High School Degree))(house_owner(Y))(marital_status(S)) --> (buy(220)), {C=0.0005054589567327133, S=0.00048633401420095323}
+(gender(Male))(yearly_salary($30K - $50K))(education(High School Degree))(house_owner(Y))(marital_status(S)) --> (buy(785)), {C=0.0005054589567327133, S=0.00048633401420095323}
+(gender(Male))(yearly_salary($30K - $50K))(education(High School Degree))(house_owner(Y))(marital_status(S)) --> (buy(837)), {C=0.0005054589567327133, S=0.00048633401420095323}
+(gender(Male))(yearly_salary($30K - $50K))(education(High School Degree))(house_owner(Y))(marital_status(S)) --> (buy(902)), {C=0.0005054589567327133, S=0.00048633401420095323}
+(gender(Male))(yearly_salary($30K - $50K))(education(High School Degree))(house_owner(Y))(marital_status(S)) --> (buy(995)), {C=0.0006065507480792558, S=0.0005836008170411438}
+(gender(Male))(yearly_salary($30K - $50K))(education(High School Degree))(house_owner(Y))(marital_status(S)) --> (buy(1041)), {C=0.0005054589567327133, S=0.00048633401420095323}
+(gender(Male))(yearly_salary($30K - $50K))(education(High School Degree))(house_owner(Y))(marital_status(S)) --> (buy(1198)), {C=0.0005054589567327133, S=0.00048633401420095323}
+(gender(Male))(yearly_salary($30K - $50K))(education(High School Degree))(house_owner(Y))(marital_status(S)) --> (buy(1326)), {C=0.0005054589567327133, S=0.00048633401420095323}
+(gender(Male))(yearly_salary($30K - $50K))(education(High School Degree))(house_owner(Y))(marital_status(S)) --> (buy(1339)), {C=0.0005054589567327133, S=0.00048633401420095323}
+(gender(Male))(yearly_salary($30K - $50K))(education(High School Degree))(house_owner(Y))(marital_status(S)) --> (buy(1410)), {C=0.0005054589567327133, S=0.00048633401420095323}
+(gender(Male))(yearly_salary($30K - $50K))(education(High School Degree))(house_owner(Y))(marital_status(S)) --> (buy(1500)), {C=0.0005054589567327133, S=0.00048633401420095323}
+(gender(Male))(yearly_salary($30K - $50K))(education(High School Degree))(house_owner(Y))(marital_status(S)) --> (buy(1503)), {C=0.0005054589567327133, S=0.00048633401420095323}

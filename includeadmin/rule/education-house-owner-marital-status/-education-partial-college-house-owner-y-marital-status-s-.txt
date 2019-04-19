@@ -1,0 +1,9 @@
+(education(Partial College))(house_owner(Y))(marital_status(S)) --> (buy(132)), {C=0.0005494505494505495, S=0.00048633401420095323}
+(education(Partial College))(house_owner(Y))(marital_status(S)) --> (buy(465)), {C=0.0005494505494505495, S=0.00048633401420095323}
+(education(Partial College))(house_owner(Y))(marital_status(S)) --> (buy(849)), {C=0.0005494505494505495, S=0.00048633401420095323}
+(education(Partial College))(house_owner(Y))(marital_status(S)) --> (buy(947)), {C=0.0005494505494505495, S=0.00048633401420095323}
+(education(Partial College))(house_owner(Y))(marital_status(S)) --> (buy(1283)), {C=0.0005494505494505495, S=0.00048633401420095323}
+(education(Partial College))(house_owner(Y))(marital_status(S)) --> (buy(1297)), {C=0.0007692307692307691, S=0.0006808676198813345}
+(education(Partial College))(house_owner(Y))(marital_status(S)) --> (buy(1361)), {C=0.0005494505494505495, S=0.00048633401420095323}
+(education(Partial College))(house_owner(Y))(marital_status(S)) --> (buy(1380)), {C=0.0006593406593406592, S=0.0005836008170411438}
+(education(Partial College))(house_owner(Y))(marital_status(S)) --> (buy(1421)), {C=0.0005494505494505495, S=0.00048633401420095323}

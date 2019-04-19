@@ -1,0 +1,1 @@
+(country(USA))(yearly_salary($110K - $130K))(education(Bachelors Degree))(house_owner(Y)) --> (buy(1463)), {C=0.0005302226935312832, S=0.00048633401420095323}

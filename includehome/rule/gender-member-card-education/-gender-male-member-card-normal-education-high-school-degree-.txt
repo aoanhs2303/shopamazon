@@ -1,0 +1,1 @@
+(gender(Male))(member card(Normal))(education(High School Degree)) --> (buy(98)), {C=0.0006430868167202572, S=0.00048633401420095323}

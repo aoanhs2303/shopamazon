@@ -1,0 +1,2 @@
+(gender(Male))(country(USA))(member card(Silver))(education(Bachelors Degree)) --> (buy(858)), {C=0.000540423692174665, S=0.00048633401420095323}
+(gender(Male))(country(USA))(member card(Silver))(education(Bachelors Degree)) --> (buy(1206)), {C=0.000540423692174665, S=0.00048633401420095323}

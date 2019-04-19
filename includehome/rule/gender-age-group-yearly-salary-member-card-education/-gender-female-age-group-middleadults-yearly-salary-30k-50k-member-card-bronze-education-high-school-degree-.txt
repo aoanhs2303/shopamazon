@@ -1,0 +1,15 @@
+(gender(Female))(age_group(MiddleAdults))(yearly_salary($30K - $50K))(member card(Bronze))(education(High School Degree)) --> (buy(410)), {C=0.0006657050926439586, S=0.0005836008170411438}
+(gender(Female))(age_group(MiddleAdults))(yearly_salary($30K - $50K))(member card(Bronze))(education(High School Degree)) --> (buy(447)), {C=0.0005547542438699656, S=0.00048633401420095323}
+(gender(Female))(age_group(MiddleAdults))(yearly_salary($30K - $50K))(member card(Bronze))(education(High School Degree)) --> (buy(825)), {C=0.0005547542438699656, S=0.00048633401420095323}
+(gender(Female))(age_group(MiddleAdults))(yearly_salary($30K - $50K))(member card(Bronze))(education(High School Degree)) --> (buy(1207)), {C=0.0005547542438699656, S=0.00048633401420095323}
+(gender(Female))(age_group(MiddleAdults))(yearly_salary($30K - $50K))(member card(Bronze))(education(High School Degree)) --> (buy(1467)), {C=0.0005547542438699656, S=0.00048633401420095323}
+(gender(Female))(age_group(MiddleAdults))(yearly_salary($30K - $50K))(member card(Bronze))(education(High School Degree)) --> (buy(410)), {C=0.0006657050926439586, S=0.0005836008170411438}
+(gender(Female))(age_group(MiddleAdults))(yearly_salary($30K - $50K))(member card(Bronze))(education(High School Degree)) --> (buy(447)), {C=0.0005547542438699656, S=0.00048633401420095323}
+(gender(Female))(age_group(MiddleAdults))(yearly_salary($30K - $50K))(member card(Bronze))(education(High School Degree)) --> (buy(825)), {C=0.0005547542438699656, S=0.00048633401420095323}
+(gender(Female))(age_group(MiddleAdults))(yearly_salary($30K - $50K))(member card(Bronze))(education(High School Degree)) --> (buy(1207)), {C=0.0005547542438699656, S=0.00048633401420095323}
+(gender(Female))(age_group(MiddleAdults))(yearly_salary($30K - $50K))(member card(Bronze))(education(High School Degree)) --> (buy(1467)), {C=0.0005547542438699656, S=0.00048633401420095323}
+(gender(Female))(age_group(MiddleAdults))(yearly_salary($30K - $50K))(member card(Bronze))(education(High School Degree)) --> (buy(410)), {C=0.0006657050926439586, S=0.0005836008170411438}
+(gender(Female))(age_group(MiddleAdults))(yearly_salary($30K - $50K))(member card(Bronze))(education(High School Degree)) --> (buy(447)), {C=0.0005547542438699656, S=0.00048633401420095323}
+(gender(Female))(age_group(MiddleAdults))(yearly_salary($30K - $50K))(member card(Bronze))(education(High School Degree)) --> (buy(825)), {C=0.0005547542438699656, S=0.00048633401420095323}
+(gender(Female))(age_group(MiddleAdults))(yearly_salary($30K - $50K))(member card(Bronze))(education(High School Degree)) --> (buy(1207)), {C=0.0005547542438699656, S=0.00048633401420095323}
+(gender(Female))(age_group(MiddleAdults))(yearly_salary($30K - $50K))(member card(Bronze))(education(High School Degree)) --> (buy(1467)), {C=0.0005547542438699656, S=0.00048633401420095323}

@@ -1,0 +1,3 @@
+(gender(Male))(age_group(MiddleAdults))(member card(Golden)) --> (buy(269)), {C=0.0007374631268436579, S=0.00048633401420095323}
+(gender(Male))(age_group(MiddleAdults))(member card(Golden)) --> (buy(269)), {C=0.0007374631268436579, S=0.00048633401420095323}
+(gender(Male))(age_group(MiddleAdults))(member card(Golden)) --> (buy(269)), {C=0.0007374631268436579, S=0.00048633401420095323}

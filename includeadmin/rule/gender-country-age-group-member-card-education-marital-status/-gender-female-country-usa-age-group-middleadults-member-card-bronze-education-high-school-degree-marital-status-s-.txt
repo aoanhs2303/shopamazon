@@ -1,0 +1,12 @@
+(gender(Female))(country(USA))(age_group(MiddleAdults))(member card(Bronze))(education(High School Degree))(marital_status(S)) --> (buy(3)), {C=0.0004970673029128144, S=0.00048633401420095323}
+(gender(Female))(country(USA))(age_group(MiddleAdults))(member card(Bronze))(education(High School Degree))(marital_status(S)) --> (buy(70)), {C=0.0004970673029128144, S=0.00048633401420095323}
+(gender(Female))(country(USA))(age_group(MiddleAdults))(member card(Bronze))(education(High School Degree))(marital_status(S)) --> (buy(575)), {C=0.0004970673029128144, S=0.00048633401420095323}
+(gender(Female))(country(USA))(age_group(MiddleAdults))(member card(Bronze))(education(High School Degree))(marital_status(S)) --> (buy(825)), {C=0.0004970673029128144, S=0.00048633401420095323}
+(gender(Female))(country(USA))(age_group(MiddleAdults))(member card(Bronze))(education(High School Degree))(marital_status(S)) --> (buy(3)), {C=0.0004970673029128144, S=0.00048633401420095323}
+(gender(Female))(country(USA))(age_group(MiddleAdults))(member card(Bronze))(education(High School Degree))(marital_status(S)) --> (buy(70)), {C=0.0004970673029128144, S=0.00048633401420095323}
+(gender(Female))(country(USA))(age_group(MiddleAdults))(member card(Bronze))(education(High School Degree))(marital_status(S)) --> (buy(575)), {C=0.0004970673029128144, S=0.00048633401420095323}
+(gender(Female))(country(USA))(age_group(MiddleAdults))(member card(Bronze))(education(High School Degree))(marital_status(S)) --> (buy(825)), {C=0.0004970673029128144, S=0.00048633401420095323}
+(gender(Female))(country(USA))(age_group(MiddleAdults))(member card(Bronze))(education(High School Degree))(marital_status(S)) --> (buy(3)), {C=0.0004970673029128144, S=0.00048633401420095323}
+(gender(Female))(country(USA))(age_group(MiddleAdults))(member card(Bronze))(education(High School Degree))(marital_status(S)) --> (buy(70)), {C=0.0004970673029128144, S=0.00048633401420095323}
+(gender(Female))(country(USA))(age_group(MiddleAdults))(member card(Bronze))(education(High School Degree))(marital_status(S)) --> (buy(575)), {C=0.0004970673029128144, S=0.00048633401420095323}
+(gender(Female))(country(USA))(age_group(MiddleAdults))(member card(Bronze))(education(High School Degree))(marital_status(S)) --> (buy(825)), {C=0.0004970673029128144, S=0.00048633401420095323}

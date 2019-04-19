@@ -1,0 +1,2 @@
+(age_group(YoungAdults))(member card(Normal))(education(Partial High School))(marital_status(M)) --> (buy(827)), {C=0.0006547930853850184, S=0.00048633401420095323}
+(age_group(YoungAdults))(member card(Normal))(education(Partial High School))(marital_status(M)) --> (buy(881)), {C=0.0006547930853850184, S=0.00048633401420095323}

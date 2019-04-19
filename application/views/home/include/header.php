@@ -25,17 +25,17 @@
 <link rel="icon" href="<?php echo base_url() ?>includehome/images/favicon.ico" type="image/x-icon">
 <!-- Icons/Glyphs -->
 <link rel="stylesheet" href="<?php echo base_url() ?>includehome/css/font-awesome.css">
-<script src="<?php echo base_url() ?>includehome/js/vue.js"></script>
 <!-- Fonts -->
 <link href='http://fonts.googleapis.com/css?family=Roboto:300,400,500,700' rel='stylesheet' type='text/css'>
 <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,400italic,600,600italic,700,700italic,800' rel='stylesheet' type='text/css'>
 <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
-<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/lodash.js/0.10.0/lodash.min.js"></script>
 <script src="<?php echo base_url() ?>includehome/js/jquery-3.3.1.min.js"></script> 
-<script type="text/javascript" src="<?php echo base_url() ?>includehome/js//angular-1.5.min.js"></script>  
+<script type="text/javascript" src="<?php echo base_url() ?>includehome/js/angular-1.5.min.js"></script>  
 
 </head>
+
 <body class="cnt-home" ng-app="myApp" ng-cloak>
+
 <!-- ============================================== HEADER ============================================== -->
 <header class="header-style-1"> 
   

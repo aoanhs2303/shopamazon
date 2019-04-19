@@ -1,0 +1,1 @@
+(country(USA))(age_group(MiniAdults))(yearly_salary($30K - $50K)) --> (buy(784)), {C=0.0005962318149296447, S=0.00048633401420095323}

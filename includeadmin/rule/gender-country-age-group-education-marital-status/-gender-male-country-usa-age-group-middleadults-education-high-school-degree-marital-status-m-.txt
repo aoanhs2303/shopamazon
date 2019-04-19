@@ -1,0 +1,12 @@
+(gender(Male))(country(USA))(age_group(MiddleAdults))(education(High School Degree))(marital_status(M)) --> (buy(660)), {C=0.0005045408678102926, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(MiddleAdults))(education(High School Degree))(marital_status(M)) --> (buy(778)), {C=0.0005045408678102926, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(MiddleAdults))(education(High School Degree))(marital_status(M)) --> (buy(836)), {C=0.0005045408678102926, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(MiddleAdults))(education(High School Degree))(marital_status(M)) --> (buy(1063)), {C=0.0006054490413723512, S=0.0005836008170411438}
+(gender(Male))(country(USA))(age_group(MiddleAdults))(education(High School Degree))(marital_status(M)) --> (buy(660)), {C=0.0005045408678102926, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(MiddleAdults))(education(High School Degree))(marital_status(M)) --> (buy(778)), {C=0.0005045408678102926, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(MiddleAdults))(education(High School Degree))(marital_status(M)) --> (buy(836)), {C=0.0005045408678102926, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(MiddleAdults))(education(High School Degree))(marital_status(M)) --> (buy(1063)), {C=0.0006054490413723512, S=0.0005836008170411438}
+(gender(Male))(country(USA))(age_group(MiddleAdults))(education(High School Degree))(marital_status(M)) --> (buy(660)), {C=0.0005045408678102926, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(MiddleAdults))(education(High School Degree))(marital_status(M)) --> (buy(778)), {C=0.0005045408678102926, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(MiddleAdults))(education(High School Degree))(marital_status(M)) --> (buy(836)), {C=0.0005045408678102926, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(MiddleAdults))(education(High School Degree))(marital_status(M)) --> (buy(1063)), {C=0.0006054490413723512, S=0.0005836008170411438}

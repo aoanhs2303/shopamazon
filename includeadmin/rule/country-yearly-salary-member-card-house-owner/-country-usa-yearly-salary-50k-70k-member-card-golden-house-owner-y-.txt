@@ -1,0 +1,6 @@
+(country(USA))(yearly_salary($50K - $70K))(member card(Golden))(house_owner(Y)) --> (buy(315)), {C=0.0005323112956456936, S=0.00048633401420095323}
+(country(USA))(yearly_salary($50K - $70K))(member card(Golden))(house_owner(Y)) --> (buy(450)), {C=0.0005323112956456936, S=0.00048633401420095323}
+(country(USA))(yearly_salary($50K - $70K))(member card(Golden))(house_owner(Y)) --> (buy(843)), {C=0.0005323112956456936, S=0.00048633401420095323}
+(country(USA))(yearly_salary($50K - $70K))(member card(Golden))(house_owner(Y)) --> (buy(1041)), {C=0.0005323112956456936, S=0.00048633401420095323}
+(country(USA))(yearly_salary($50K - $70K))(member card(Golden))(house_owner(Y)) --> (buy(1092)), {C=0.0005323112956456936, S=0.00048633401420095323}
+(country(USA))(yearly_salary($50K - $70K))(member card(Golden))(house_owner(Y)) --> (buy(1198)), {C=0.0005323112956456936, S=0.00048633401420095323}

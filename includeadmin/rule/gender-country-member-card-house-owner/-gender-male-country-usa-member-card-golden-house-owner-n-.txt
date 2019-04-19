@@ -1,0 +1,2 @@
+(gender(Male))(country(USA))(member card(Golden))(house_owner(N)) --> (buy(595)), {C=0.0005250446287934474, S=0.00048633401420095323}
+(gender(Male))(country(USA))(member card(Golden))(house_owner(N)) --> (buy(1037)), {C=0.0005250446287934474, S=0.00048633401420095323}

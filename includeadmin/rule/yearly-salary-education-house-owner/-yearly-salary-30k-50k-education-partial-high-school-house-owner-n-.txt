@@ -1,0 +1,13 @@
+(yearly_salary($30K - $50K))(education(Partial High School))(house_owner(N)) --> (buy(24)), {C=0.0006576351440220966, S=0.00048633401420095323}
+(yearly_salary($30K - $50K))(education(Partial High School))(house_owner(N)) --> (buy(379)), {C=0.0006576351440220966, S=0.00048633401420095323}
+(yearly_salary($30K - $50K))(education(Partial High School))(house_owner(N)) --> (buy(406)), {C=0.0006576351440220966, S=0.00048633401420095323}
+(yearly_salary($30K - $50K))(education(Partial High School))(house_owner(N)) --> (buy(437)), {C=0.0006576351440220966, S=0.00048633401420095323}
+(yearly_salary($30K - $50K))(education(Partial High School))(house_owner(N)) --> (buy(517)), {C=0.0007891621728265158, S=0.0005836008170411438}
+(yearly_salary($30K - $50K))(education(Partial High School))(house_owner(N)) --> (buy(572)), {C=0.0007891621728265158, S=0.0005836008170411438}
+(yearly_salary($30K - $50K))(education(Partial High School))(house_owner(N)) --> (buy(674)), {C=0.0006576351440220966, S=0.00048633401420095323}
+(yearly_salary($30K - $50K))(education(Partial High School))(house_owner(N)) --> (buy(959)), {C=0.0006576351440220966, S=0.00048633401420095323}
+(yearly_salary($30K - $50K))(education(Partial High School))(house_owner(N)) --> (buy(967)), {C=0.0006576351440220966, S=0.00048633401420095323}
+(yearly_salary($30K - $50K))(education(Partial High School))(house_owner(N)) --> (buy(969)), {C=0.0006576351440220966, S=0.00048633401420095323}
+(yearly_salary($30K - $50K))(education(Partial High School))(house_owner(N)) --> (buy(1381)), {C=0.0009206892016309352, S=0.0006808676198813345}
+(yearly_salary($30K - $50K))(education(Partial High School))(house_owner(N)) --> (buy(1410)), {C=0.0006576351440220966, S=0.00048633401420095323}
+(yearly_salary($30K - $50K))(education(Partial High School))(house_owner(N)) --> (buy(1464)), {C=0.0006576351440220966, S=0.00048633401420095323}

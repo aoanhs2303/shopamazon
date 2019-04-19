@@ -1,0 +1,3 @@
+(age_group(MiddleAdults))(yearly_salary($130K - $150K))(member card(Bronze)) --> (buy(559)), {C=0.000732064421669107, S=0.00048633401420095323}
+(age_group(MiddleAdults))(yearly_salary($130K - $150K))(member card(Bronze)) --> (buy(559)), {C=0.000732064421669107, S=0.00048633401420095323}
+(age_group(MiddleAdults))(yearly_salary($130K - $150K))(member card(Bronze)) --> (buy(559)), {C=0.000732064421669107, S=0.00048633401420095323}

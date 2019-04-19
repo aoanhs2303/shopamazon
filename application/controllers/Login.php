@@ -31,7 +31,7 @@ class Login extends CI_Controller {
 		
 		$data = $this->Admin_model->authenticationAdmin($user, md5($pass));
 		if ($data) {
-            $_SESSION["Username"] = $data[0]["username"];
+			$_SESSION["Username"] = $data[0]["username"];
             $this->session->unset_userdata("ErrorMessage");
             redirect(base_url().'admin');
         } else {
@@ -47,7 +47,8 @@ class Login extends CI_Controller {
 		
 		$data = $this->Mrar_model->authenticationUser($user, $pass);
 		if ($data) {
-            $_SESSION["Username"] = $data[0]["username"];
+			$_SESSION["Customer_name"] = $data[0]["username"];
+			$_SESSION["UserId"] = $data[0]["customer_id"];
             $this->session->unset_userdata("ErrorMessage");
             redirect(base_url().'home');
         } else {

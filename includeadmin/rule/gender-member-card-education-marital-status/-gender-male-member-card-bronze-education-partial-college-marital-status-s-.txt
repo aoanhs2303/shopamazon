@@ -1,0 +1,4 @@
+(gender(Male))(member card(Bronze))(education(Partial College))(marital_status(S)) --> (buy(331)), {C=0.0005512679162072767, S=0.00048633401420095323}
+(gender(Male))(member card(Bronze))(education(Partial College))(marital_status(S)) --> (buy(425)), {C=0.0005512679162072767, S=0.00048633401420095323}
+(gender(Male))(member card(Bronze))(education(Partial College))(marital_status(S)) --> (buy(465)), {C=0.0005512679162072767, S=0.00048633401420095323}
+(gender(Male))(member card(Bronze))(education(Partial College))(marital_status(S)) --> (buy(1365)), {C=0.0005512679162072767, S=0.00048633401420095323}

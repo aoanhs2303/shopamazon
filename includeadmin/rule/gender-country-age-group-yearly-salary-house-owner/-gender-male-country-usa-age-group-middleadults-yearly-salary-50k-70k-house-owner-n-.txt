@@ -1,0 +1,3 @@
+(gender(Male))(country(USA))(age_group(MiddleAdults))(yearly_salary($50K - $70K))(house_owner(N)) --> (buy(639)), {C=0.0005146150679291889, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(MiddleAdults))(yearly_salary($50K - $70K))(house_owner(N)) --> (buy(639)), {C=0.0005146150679291889, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(MiddleAdults))(yearly_salary($50K - $70K))(house_owner(N)) --> (buy(639)), {C=0.0005146150679291889, S=0.00048633401420095323}

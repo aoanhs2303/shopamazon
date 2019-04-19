@@ -1,0 +1,3 @@
+(country(USA))(age_group(MiddleAdults))(buy(589)) --> (buy(822)), {C=0.0006264879087833605, S=0.00048633401420095323}
+(country(USA))(age_group(MiddleAdults))(buy(589)) --> (buy(822)), {C=0.0006264879087833605, S=0.00048633401420095323}
+(country(USA))(age_group(MiddleAdults))(buy(589)) --> (buy(822)), {C=0.0006264879087833605, S=0.00048633401420095323}

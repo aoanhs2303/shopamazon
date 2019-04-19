@@ -1,0 +1,16 @@
+(country(USA))(education(Partial College))(house_owner(N))(marital_status(S)) --> (buy(181)), {C=0.0005369415807560138, S=0.00048633401420095323}
+(country(USA))(education(Partial College))(house_owner(N))(marital_status(S)) --> (buy(194)), {C=0.0006443298969072165, S=0.0005836008170411438}
+(country(USA))(education(Partial College))(house_owner(N))(marital_status(S)) --> (buy(292)), {C=0.0005369415807560138, S=0.00048633401420095323}
+(country(USA))(education(Partial College))(house_owner(N))(marital_status(S)) --> (buy(379)), {C=0.0005369415807560138, S=0.00048633401420095323}
+(country(USA))(education(Partial College))(house_owner(N))(marital_status(S)) --> (buy(477)), {C=0.0005369415807560138, S=0.00048633401420095323}
+(country(USA))(education(Partial College))(house_owner(N))(marital_status(S)) --> (buy(607)), {C=0.0005369415807560138, S=0.00048633401420095323}
+(country(USA))(education(Partial College))(house_owner(N))(marital_status(S)) --> (buy(716)), {C=0.0005369415807560138, S=0.00048633401420095323}
+(country(USA))(education(Partial College))(house_owner(N))(marital_status(S)) --> (buy(829)), {C=0.0005369415807560138, S=0.00048633401420095323}
+(country(USA))(education(Partial College))(house_owner(N))(marital_status(S)) --> (buy(931)), {C=0.0005369415807560138, S=0.00048633401420095323}
+(country(USA))(education(Partial College))(house_owner(N))(marital_status(S)) --> (buy(1144)), {C=0.0006443298969072165, S=0.0005836008170411438}
+(country(USA))(education(Partial College))(house_owner(N))(marital_status(S)) --> (buy(1208)), {C=0.0005369415807560138, S=0.00048633401420095323}
+(country(USA))(education(Partial College))(house_owner(N))(marital_status(S)) --> (buy(1298)), {C=0.0006443298969072165, S=0.0005836008170411438}
+(country(USA))(education(Partial College))(house_owner(N))(marital_status(S)) --> (buy(1353)), {C=0.0005369415807560138, S=0.00048633401420095323}
+(country(USA))(education(Partial College))(house_owner(N))(marital_status(S)) --> (buy(1495)), {C=0.0005369415807560138, S=0.00048633401420095323}
+(country(USA))(education(Partial College))(house_owner(N))(marital_status(S)) --> (buy(1529)), {C=0.0007517182130584192, S=0.0006808676198813345}
+(country(USA))(education(Partial College))(house_owner(N))(marital_status(S)) --> (buy(1532)), {C=0.0005369415807560138, S=0.00048633401420095323}

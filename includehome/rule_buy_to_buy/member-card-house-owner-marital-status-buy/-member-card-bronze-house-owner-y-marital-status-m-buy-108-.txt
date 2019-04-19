@@ -1,0 +1,1 @@
+(member card(Bronze))(house_owner(Y))(marital_status(M))(buy(108)) --> (buy(264)), {C=0.0005419466724474311, S=0.00048633401420095323}

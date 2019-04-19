@@ -1,0 +1,15 @@
+(gender(Male))(country(USA))(age_group(MiddleAdults))(member card(Normal))(house_owner(Y)) --> (buy(593)), {C=0.0005030687191870409, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(MiddleAdults))(member card(Normal))(house_owner(Y)) --> (buy(996)), {C=0.0006036824630244491, S=0.0005836008170411438}
+(gender(Male))(country(USA))(age_group(MiddleAdults))(member card(Normal))(house_owner(Y)) --> (buy(1309)), {C=0.0005030687191870409, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(MiddleAdults))(member card(Normal))(house_owner(Y)) --> (buy(1406)), {C=0.0005030687191870409, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(MiddleAdults))(member card(Normal))(house_owner(Y)) --> (buy(1446)), {C=0.0005030687191870409, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(MiddleAdults))(member card(Normal))(house_owner(Y)) --> (buy(593)), {C=0.0005030687191870409, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(MiddleAdults))(member card(Normal))(house_owner(Y)) --> (buy(996)), {C=0.0006036824630244491, S=0.0005836008170411438}
+(gender(Male))(country(USA))(age_group(MiddleAdults))(member card(Normal))(house_owner(Y)) --> (buy(1309)), {C=0.0005030687191870409, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(MiddleAdults))(member card(Normal))(house_owner(Y)) --> (buy(1406)), {C=0.0005030687191870409, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(MiddleAdults))(member card(Normal))(house_owner(Y)) --> (buy(1446)), {C=0.0005030687191870409, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(MiddleAdults))(member card(Normal))(house_owner(Y)) --> (buy(593)), {C=0.0005030687191870409, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(MiddleAdults))(member card(Normal))(house_owner(Y)) --> (buy(996)), {C=0.0006036824630244491, S=0.0005836008170411438}
+(gender(Male))(country(USA))(age_group(MiddleAdults))(member card(Normal))(house_owner(Y)) --> (buy(1309)), {C=0.0005030687191870409, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(MiddleAdults))(member card(Normal))(house_owner(Y)) --> (buy(1406)), {C=0.0005030687191870409, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(MiddleAdults))(member card(Normal))(house_owner(Y)) --> (buy(1446)), {C=0.0005030687191870409, S=0.00048633401420095323}

@@ -1,0 +1,6 @@
+(country(USA))(member card(Bronze))(education(Partial College))(house_owner(Y))(marital_status(M)) --> (buy(307)), {C=0.000600540486437794, S=0.0005836008170411438}
+(country(USA))(member card(Bronze))(education(Partial College))(house_owner(Y))(marital_status(M)) --> (buy(337)), {C=0.0005004504053648283, S=0.00048633401420095323}
+(country(USA))(member card(Bronze))(education(Partial College))(house_owner(Y))(marital_status(M)) --> (buy(413)), {C=0.0005004504053648283, S=0.00048633401420095323}
+(country(USA))(member card(Bronze))(education(Partial College))(house_owner(Y))(marital_status(M)) --> (buy(443)), {C=0.000600540486437794, S=0.0005836008170411438}
+(country(USA))(member card(Bronze))(education(Partial College))(house_owner(Y))(marital_status(M)) --> (buy(660)), {C=0.0005004504053648283, S=0.00048633401420095323}
+(country(USA))(member card(Bronze))(education(Partial College))(house_owner(Y))(marital_status(M)) --> (buy(1423)), {C=0.000600540486437794, S=0.0005836008170411438}

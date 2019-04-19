@@ -1,0 +1,4 @@
+(gender(Female))(education(Partial College))(marital_status(S)) --> (buy(849)), {C=0.000754527162977867, S=0.0005836008170411438}
+(gender(Female))(education(Partial College))(marital_status(S)) --> (buy(1152)), {C=0.0006287726358148893, S=0.00048633401420095323}
+(gender(Female))(education(Partial College))(marital_status(S)) --> (buy(1421)), {C=0.0006287726358148893, S=0.00048633401420095323}
+(gender(Female))(education(Partial College))(marital_status(S)) --> (buy(1529)), {C=0.0006287726358148893, S=0.00048633401420095323}

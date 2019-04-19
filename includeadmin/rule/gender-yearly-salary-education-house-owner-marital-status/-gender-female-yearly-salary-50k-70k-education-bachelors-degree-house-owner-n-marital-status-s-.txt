@@ -1,0 +1,4 @@
+(gender(Female))(yearly_salary($50K - $70K))(education(Bachelors Degree))(house_owner(N))(marital_status(S)) --> (buy(468)), {C=0.0005595344673231872, S=0.00048633401420095323}
+(gender(Female))(yearly_salary($50K - $70K))(education(Bachelors Degree))(house_owner(N))(marital_status(S)) --> (buy(886)), {C=0.0005595344673231872, S=0.00048633401420095323}
+(gender(Female))(yearly_salary($50K - $70K))(education(Bachelors Degree))(house_owner(N))(marital_status(S)) --> (buy(1411)), {C=0.0005595344673231872, S=0.00048633401420095323}
+(gender(Female))(yearly_salary($50K - $70K))(education(Bachelors Degree))(house_owner(N))(marital_status(S)) --> (buy(1503)), {C=0.000783348254252462, S=0.0006808676198813345}

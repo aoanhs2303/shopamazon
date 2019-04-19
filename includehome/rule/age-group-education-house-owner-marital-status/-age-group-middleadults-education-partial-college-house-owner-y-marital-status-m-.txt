@@ -1,0 +1,3 @@
+(age_group(MiddleAdults))(education(Partial College))(house_owner(Y))(marital_status(M)) --> (buy(307)), {C=0.0007226303745634108, S=0.0005836008170411438}
+(age_group(MiddleAdults))(education(Partial College))(house_owner(Y))(marital_status(M)) --> (buy(307)), {C=0.0007226303745634108, S=0.0005836008170411438}
+(age_group(MiddleAdults))(education(Partial College))(house_owner(Y))(marital_status(M)) --> (buy(307)), {C=0.0007226303745634108, S=0.0005836008170411438}

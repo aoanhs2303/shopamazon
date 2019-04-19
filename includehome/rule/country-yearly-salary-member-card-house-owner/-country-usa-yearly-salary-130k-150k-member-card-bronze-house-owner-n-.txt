@@ -1,0 +1,1 @@
+(country(USA))(yearly_salary($130K - $150K))(member card(Bronze))(house_owner(N)) --> (buy(748)), {C=0.0005241090146750524, S=0.00048633401420095323}

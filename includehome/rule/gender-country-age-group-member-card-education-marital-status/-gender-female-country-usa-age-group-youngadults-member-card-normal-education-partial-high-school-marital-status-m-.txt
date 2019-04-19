@@ -1,0 +1,1 @@
+(gender(Female))(country(USA))(age_group(YoungAdults))(member card(Normal))(education(Partial High School))(marital_status(M)) --> (buy(827)), {C=0.0005048465266558966, S=0.00048633401420095323}

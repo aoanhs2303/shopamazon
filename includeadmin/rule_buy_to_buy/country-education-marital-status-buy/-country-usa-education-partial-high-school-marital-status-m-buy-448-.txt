@@ -1,0 +1,1 @@
+(country(USA))(education(Partial High School))(marital_status(M))(buy(448)) --> (buy(554)), {C=0.0005391998274560553, S=0.00048633401420095323}

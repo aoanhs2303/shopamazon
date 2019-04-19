@@ -1,0 +1,1 @@
+(yearly_salary($70K - $90K))(education(High School Degree))(marital_status(M)) --> (buy(1546)), {C=0.0006965728615213152, S=0.00048633401420095323}

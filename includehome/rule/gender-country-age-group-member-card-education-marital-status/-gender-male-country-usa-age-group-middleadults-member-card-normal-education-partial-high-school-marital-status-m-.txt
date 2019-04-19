@@ -1,0 +1,3 @@
+(gender(Male))(country(USA))(age_group(MiddleAdults))(member card(Normal))(education(Partial High School))(marital_status(M)) --> (buy(1446)), {C=0.000604351329572925, S=0.0005836008170411438}
+(gender(Male))(country(USA))(age_group(MiddleAdults))(member card(Normal))(education(Partial High School))(marital_status(M)) --> (buy(1446)), {C=0.000604351329572925, S=0.0005836008170411438}
+(gender(Male))(country(USA))(age_group(MiddleAdults))(member card(Normal))(education(Partial High School))(marital_status(M)) --> (buy(1446)), {C=0.000604351329572925, S=0.0005836008170411438}

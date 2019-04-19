@@ -1,0 +1,12 @@
+(gender(Female))(member card(Bronze))(education(High School Degree))(house_owner(Y))(marital_status(S)) --> (buy(161)), {C=0.0004989024146876871, S=0.00048633401420095323}
+(gender(Female))(member card(Bronze))(education(High School Degree))(house_owner(Y))(marital_status(S)) --> (buy(186)), {C=0.0004989024146876871, S=0.00048633401420095323}
+(gender(Female))(member card(Bronze))(education(High School Degree))(house_owner(Y))(marital_status(S)) --> (buy(453)), {C=0.0004989024146876871, S=0.00048633401420095323}
+(gender(Female))(member card(Bronze))(education(High School Degree))(house_owner(Y))(marital_status(S)) --> (buy(685)), {C=0.0005986828976252245, S=0.0005836008170411438}
+(gender(Female))(member card(Bronze))(education(High School Degree))(house_owner(Y))(marital_status(S)) --> (buy(895)), {C=0.0005986828976252245, S=0.0005836008170411438}
+(gender(Female))(member card(Bronze))(education(High School Degree))(house_owner(Y))(marital_status(S)) --> (buy(946)), {C=0.0004989024146876871, S=0.00048633401420095323}
+(gender(Female))(member card(Bronze))(education(High School Degree))(house_owner(Y))(marital_status(S)) --> (buy(970)), {C=0.0004989024146876871, S=0.00048633401420095323}
+(gender(Female))(member card(Bronze))(education(High School Degree))(house_owner(Y))(marital_status(S)) --> (buy(1121)), {C=0.0004989024146876871, S=0.00048633401420095323}
+(gender(Female))(member card(Bronze))(education(High School Degree))(house_owner(Y))(marital_status(S)) --> (buy(1296)), {C=0.0005986828976252245, S=0.0005836008170411438}
+(gender(Female))(member card(Bronze))(education(High School Degree))(house_owner(Y))(marital_status(S)) --> (buy(1443)), {C=0.0005986828976252245, S=0.0005836008170411438}
+(gender(Female))(member card(Bronze))(education(High School Degree))(house_owner(Y))(marital_status(S)) --> (buy(1500)), {C=0.0004989024146876871, S=0.00048633401420095323}
+(gender(Female))(member card(Bronze))(education(High School Degree))(house_owner(Y))(marital_status(S)) --> (buy(1552)), {C=0.0004989024146876871, S=0.00048633401420095323}

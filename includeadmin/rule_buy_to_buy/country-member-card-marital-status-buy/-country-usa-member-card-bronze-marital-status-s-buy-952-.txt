@@ -1,0 +1,3 @@
+(country(USA))(member card(Bronze))(marital_status(S))(buy(952)) --> (buy(773)), {C=0.0005232862375719519, S=0.00048633401420095323}
+(country(USA))(member card(Bronze))(marital_status(S))(buy(952)) --> (buy(975)), {C=0.0005232862375719519, S=0.00048633401420095323}
+(country(USA))(member card(Bronze))(marital_status(S))(buy(952)) --> (buy(1540)), {C=0.0005232862375719519, S=0.00048633401420095323}

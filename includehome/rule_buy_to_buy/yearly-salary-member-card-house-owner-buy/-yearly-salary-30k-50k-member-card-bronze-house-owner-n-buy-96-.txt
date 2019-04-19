@@ -1,0 +1,1 @@
+(yearly_salary($30K - $50K))(member card(Bronze))(house_owner(N))(buy(96)) --> (buy(1124)), {C=0.0006259389083625439, S=0.00048633401420095323}

@@ -1,0 +1,6 @@
+(age_group(MiddleAdults))(yearly_salary($30K - $50K))(education(Partial College)) --> (buy(307)), {C=0.0009879470460383323, S=0.00048633401420095323}
+(age_group(MiddleAdults))(yearly_salary($30K - $50K))(education(Partial College)) --> (buy(1523)), {C=0.0009879470460383323, S=0.00048633401420095323}
+(age_group(MiddleAdults))(yearly_salary($30K - $50K))(education(Partial College)) --> (buy(307)), {C=0.0009879470460383323, S=0.00048633401420095323}
+(age_group(MiddleAdults))(yearly_salary($30K - $50K))(education(Partial College)) --> (buy(1523)), {C=0.0009879470460383323, S=0.00048633401420095323}
+(age_group(MiddleAdults))(yearly_salary($30K - $50K))(education(Partial College)) --> (buy(307)), {C=0.0009879470460383323, S=0.00048633401420095323}
+(age_group(MiddleAdults))(yearly_salary($30K - $50K))(education(Partial College)) --> (buy(1523)), {C=0.0009879470460383323, S=0.00048633401420095323}

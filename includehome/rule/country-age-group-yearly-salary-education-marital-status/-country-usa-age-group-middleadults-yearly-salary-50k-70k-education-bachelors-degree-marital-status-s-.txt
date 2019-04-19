@@ -1,0 +1,9 @@
+(country(USA))(age_group(MiddleAdults))(yearly_salary($50K - $70K))(education(Bachelors Degree))(marital_status(S)) --> (buy(475)), {C=0.0005292685508627077, S=0.00048633401420095323}
+(country(USA))(age_group(MiddleAdults))(yearly_salary($50K - $70K))(education(Bachelors Degree))(marital_status(S)) --> (buy(617)), {C=0.0005292685508627077, S=0.00048633401420095323}
+(country(USA))(age_group(MiddleAdults))(yearly_salary($50K - $70K))(education(Bachelors Degree))(marital_status(S)) --> (buy(1270)), {C=0.0005292685508627077, S=0.00048633401420095323}
+(country(USA))(age_group(MiddleAdults))(yearly_salary($50K - $70K))(education(Bachelors Degree))(marital_status(S)) --> (buy(475)), {C=0.0005292685508627077, S=0.00048633401420095323}
+(country(USA))(age_group(MiddleAdults))(yearly_salary($50K - $70K))(education(Bachelors Degree))(marital_status(S)) --> (buy(617)), {C=0.0005292685508627077, S=0.00048633401420095323}
+(country(USA))(age_group(MiddleAdults))(yearly_salary($50K - $70K))(education(Bachelors Degree))(marital_status(S)) --> (buy(1270)), {C=0.0005292685508627077, S=0.00048633401420095323}
+(country(USA))(age_group(MiddleAdults))(yearly_salary($50K - $70K))(education(Bachelors Degree))(marital_status(S)) --> (buy(475)), {C=0.0005292685508627077, S=0.00048633401420095323}
+(country(USA))(age_group(MiddleAdults))(yearly_salary($50K - $70K))(education(Bachelors Degree))(marital_status(S)) --> (buy(617)), {C=0.0005292685508627077, S=0.00048633401420095323}
+(country(USA))(age_group(MiddleAdults))(yearly_salary($50K - $70K))(education(Bachelors Degree))(marital_status(S)) --> (buy(1270)), {C=0.0005292685508627077, S=0.00048633401420095323}

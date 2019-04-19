@@ -1,0 +1,2 @@
+(country(USA))(age_group(YoungAdults))(yearly_salary($30K - $50K))(member card(Bronze))(education(High School Degree))(house_owner(N)) --> (buy(644)), {C=0.0005069451485349286, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($30K - $50K))(member card(Bronze))(education(High School Degree))(house_owner(N)) --> (buy(849)), {C=0.0005069451485349286, S=0.00048633401420095323}

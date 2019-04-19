@@ -1,0 +1,6 @@
+(gender(Female))(country(USA))(yearly_salary($30K - $50K))(education(Partial High School)) --> (buy(168)), {C=0.0005165289256198347, S=0.00048633401420095323}
+(gender(Female))(country(USA))(yearly_salary($30K - $50K))(education(Partial High School)) --> (buy(370)), {C=0.0005165289256198347, S=0.00048633401420095323}
+(gender(Female))(country(USA))(yearly_salary($30K - $50K))(education(Partial High School)) --> (buy(739)), {C=0.0005165289256198347, S=0.00048633401420095323}
+(gender(Female))(country(USA))(yearly_salary($30K - $50K))(education(Partial High School)) --> (buy(784)), {C=0.0006198347107438016, S=0.0005836008170411438}
+(gender(Female))(country(USA))(yearly_salary($30K - $50K))(education(Partial High School)) --> (buy(968)), {C=0.0005165289256198347, S=0.00048633401420095323}
+(gender(Female))(country(USA))(yearly_salary($30K - $50K))(education(Partial High School)) --> (buy(1438)), {C=0.0006198347107438016, S=0.0005836008170411438}

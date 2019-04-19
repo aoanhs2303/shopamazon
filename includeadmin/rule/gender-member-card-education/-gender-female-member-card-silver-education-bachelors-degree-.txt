@@ -1,0 +1,2 @@
+(gender(Female))(member card(Silver))(education(Bachelors Degree)) --> (buy(407)), {C=0.0007378984651711925, S=0.00048633401420095323}
+(gender(Female))(member card(Silver))(education(Bachelors Degree)) --> (buy(948)), {C=0.0007378984651711925, S=0.00048633401420095323}

@@ -1,0 +1,1 @@
+(gender(Male))(age_group(YoungAdults))(member card(Normal))(education(Partial High School))(marital_status(S)) --> (buy(1146)), {C=0.0005595970900951316, S=0.00048633401420095323}

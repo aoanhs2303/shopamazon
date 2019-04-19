@@ -1,0 +1,5 @@
+(yearly_salary($110K - $130K))(house_owner(Y))(marital_status(M)) --> (buy(25)), {C=0.0006633939233116624, S=0.00048633401420095323}
+(yearly_salary($110K - $130K))(house_owner(Y))(marital_status(M)) --> (buy(109)), {C=0.0006633939233116624, S=0.00048633401420095323}
+(yearly_salary($110K - $130K))(house_owner(Y))(marital_status(M)) --> (buy(397)), {C=0.0007960727079739948, S=0.0005836008170411438}
+(yearly_salary($110K - $130K))(house_owner(Y))(marital_status(M)) --> (buy(503)), {C=0.0006633939233116624, S=0.00048633401420095323}
+(yearly_salary($110K - $130K))(house_owner(Y))(marital_status(M)) --> (buy(622)), {C=0.0006633939233116624, S=0.00048633401420095323}

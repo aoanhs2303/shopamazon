@@ -1,0 +1,3 @@
+(country(USA))(age_group(YoungAdults))(yearly_salary($50K - $70K))(house_owner(N)) --> (buy(399)), {C=0.0005462093074065982, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($50K - $70K))(house_owner(N)) --> (buy(443)), {C=0.0005462093074065982, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($50K - $70K))(house_owner(N)) --> (buy(1457)), {C=0.0005462093074065982, S=0.00048633401420095323}

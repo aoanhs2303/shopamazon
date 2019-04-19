@@ -1,0 +1,3 @@
+(age_group(MiddleAdults))(marital_status(M))(buy(568)) --> (buy(878)), {C=0.0007937767899666614, S=0.00048633401420095323}
+(age_group(MiddleAdults))(marital_status(M))(buy(568)) --> (buy(878)), {C=0.0007937767899666614, S=0.00048633401420095323}
+(age_group(MiddleAdults))(marital_status(M))(buy(568)) --> (buy(878)), {C=0.0007937767899666614, S=0.00048633401420095323}

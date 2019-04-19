@@ -1,0 +1,1 @@
+(country(USA))(member card(Bronze))(education(Bachelors Degree))(house_owner(N))(buy(41)) --> (buy(484)), {C=0.0005184033177812338, S=0.00048633401420095323}

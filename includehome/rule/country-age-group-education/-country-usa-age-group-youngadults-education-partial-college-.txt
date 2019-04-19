@@ -1,0 +1,11 @@
+(country(USA))(age_group(YoungAdults))(education(Partial College)) --> (buy(503)), {C=0.0006087909411907951, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(education(Partial College)) --> (buy(506)), {C=0.000730549129428954, S=0.0005836008170411438}
+(country(USA))(age_group(YoungAdults))(education(Partial College)) --> (buy(686)), {C=0.000730549129428954, S=0.0005836008170411438}
+(country(USA))(age_group(YoungAdults))(education(Partial College)) --> (buy(725)), {C=0.0006087909411907951, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(education(Partial College)) --> (buy(786)), {C=0.0006087909411907951, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(education(Partial College)) --> (buy(868)), {C=0.000730549129428954, S=0.0005836008170411438}
+(country(USA))(age_group(YoungAdults))(education(Partial College)) --> (buy(1164)), {C=0.0006087909411907951, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(education(Partial College)) --> (buy(1198)), {C=0.0006087909411907951, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(education(Partial College)) --> (buy(1208)), {C=0.0006087909411907951, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(education(Partial College)) --> (buy(1216)), {C=0.0006087909411907951, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(education(Partial College)) --> (buy(1368)), {C=0.0006087909411907951, S=0.00048633401420095323}

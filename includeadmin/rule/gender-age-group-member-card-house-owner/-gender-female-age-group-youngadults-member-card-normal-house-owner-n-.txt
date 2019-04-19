@@ -1,0 +1,2 @@
+(gender(Female))(age_group(YoungAdults))(member card(Normal))(house_owner(N)) --> (buy(244)), {C=0.0005923468783319512, S=0.00048633401420095323}
+(gender(Female))(age_group(YoungAdults))(member card(Normal))(house_owner(N)) --> (buy(755)), {C=0.0005923468783319512, S=0.00048633401420095323}

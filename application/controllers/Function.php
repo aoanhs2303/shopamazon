@@ -29,6 +29,58 @@ function vn_to_str ($str){
   return $str;   
 }
 
+function slugify($text) {
+  $text = strtolower($text);
+  $text = preg_replace ('/[\W_]+/', '-', $text);
+  return $text;
+}
+
+
+function pathName($text) {
+  $text = explode(')(', $text);
+  $text[0] = mb_substr($text[0], 1);
+  $text[sizeof($text) - 1] = substr_replace(end($text), "", -1);
+  
+  $path = array();
+  foreach ($text as $key => $textEle) {
+    $textEle = explode('(', $textEle)[0];
+    array_push($path, $textEle);
+  }
+
+  return slugify(implode('-', $path));
+}
+
+function cmpCof($a, $b) {
+  return strnatcmp($b['confidence'], $a['confidence']);
+}
+
+
+
+function readFileAndHandleForYou($path) {
+  $file = fopen($path,"r");
+  $temp = array();
+  while(!feof($file)) {
+    try {
+      $r = fgets($file);
+      $r = explode(',', explode(' --> ', $r)[1]);
+      preg_match_all('!\d+!', $r[0], $m1);
+      preg_match_all('/(\d+.?\d+)/', $r[1], $m2);
+      $productId = $m1[0][0];
+      $conf = $m2[0][0];
+      $rcm['productid'] = $productId; 
+      $rcm['confidence'] = $conf; 
+      array_push($temp, $rcm);
+      error_reporting(0);
+    } catch (Exception $e) {
+        echo 'Caught exception: ',  $e->getMessage(), "\n";
+    }    
+  }
+
+  usort($temp,"cmpCof");
+  fclose($file);
+  return $listRCM = array_slice($temp, 0, 5, true);
+}
+
 function Login() {
     if(isset($_SESSION['Username'])) {
         return true;

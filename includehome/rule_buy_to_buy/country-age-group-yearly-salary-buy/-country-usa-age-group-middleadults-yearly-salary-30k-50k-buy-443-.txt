@@ -1,0 +1,3 @@
+(country(USA))(age_group(MiddleAdults))(yearly_salary($30K - $50K))(buy(443)) --> (buy(121)), {C=0.0005716899153898925, S=0.00048633401420095323}
+(country(USA))(age_group(MiddleAdults))(yearly_salary($30K - $50K))(buy(443)) --> (buy(121)), {C=0.0005716899153898925, S=0.00048633401420095323}
+(country(USA))(age_group(MiddleAdults))(yearly_salary($30K - $50K))(buy(443)) --> (buy(121)), {C=0.0005716899153898925, S=0.00048633401420095323}

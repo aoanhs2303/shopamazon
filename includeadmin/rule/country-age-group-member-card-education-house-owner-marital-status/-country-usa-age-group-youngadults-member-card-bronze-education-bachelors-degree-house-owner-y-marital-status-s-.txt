@@ -1,0 +1,2 @@
+(country(USA))(age_group(YoungAdults))(member card(Bronze))(education(Bachelors Degree))(house_owner(Y))(marital_status(S)) --> (buy(339)), {C=0.0004922228785193936, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(member card(Bronze))(education(Bachelors Degree))(house_owner(Y))(marital_status(S)) --> (buy(1538)), {C=0.0005906674542232723, S=0.0005836008170411438}

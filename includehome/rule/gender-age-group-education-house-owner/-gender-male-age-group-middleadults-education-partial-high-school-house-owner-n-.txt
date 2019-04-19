@@ -1,0 +1,3 @@
+(gender(Male))(age_group(MiddleAdults))(education(Partial High School))(house_owner(N)) --> (buy(333)), {C=0.000696217219772569, S=0.0005836008170411438}
+(gender(Male))(age_group(MiddleAdults))(education(Partial High School))(house_owner(N)) --> (buy(333)), {C=0.000696217219772569, S=0.0005836008170411438}
+(gender(Male))(age_group(MiddleAdults))(education(Partial High School))(house_owner(N)) --> (buy(333)), {C=0.000696217219772569, S=0.0005836008170411438}

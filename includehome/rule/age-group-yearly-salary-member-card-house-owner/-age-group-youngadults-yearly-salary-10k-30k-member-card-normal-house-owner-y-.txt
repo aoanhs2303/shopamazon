@@ -1,0 +1,12 @@
+(age_group(YoungAdults))(yearly_salary($10K - $30K))(member card(Normal))(house_owner(Y)) --> (buy(180)), {C=0.0006317119393556539, S=0.00048633401420095323}
+(age_group(YoungAdults))(yearly_salary($10K - $30K))(member card(Normal))(house_owner(Y)) --> (buy(374)), {C=0.0006317119393556539, S=0.00048633401420095323}
+(age_group(YoungAdults))(yearly_salary($10K - $30K))(member card(Normal))(house_owner(Y)) --> (buy(390)), {C=0.0006317119393556539, S=0.00048633401420095323}
+(age_group(YoungAdults))(yearly_salary($10K - $30K))(member card(Normal))(house_owner(Y)) --> (buy(588)), {C=0.0006317119393556539, S=0.00048633401420095323}
+(age_group(YoungAdults))(yearly_salary($10K - $30K))(member card(Normal))(house_owner(Y)) --> (buy(590)), {C=0.0008843967150979153, S=0.0006808676198813345}
+(age_group(YoungAdults))(yearly_salary($10K - $30K))(member card(Normal))(house_owner(Y)) --> (buy(634)), {C=0.0006317119393556539, S=0.00048633401420095323}
+(age_group(YoungAdults))(yearly_salary($10K - $30K))(member card(Normal))(house_owner(Y)) --> (buy(827)), {C=0.0006317119393556539, S=0.00048633401420095323}
+(age_group(YoungAdults))(yearly_salary($10K - $30K))(member card(Normal))(house_owner(Y)) --> (buy(881)), {C=0.0008843967150979153, S=0.0006808676198813345}
+(age_group(YoungAdults))(yearly_salary($10K - $30K))(member card(Normal))(house_owner(Y)) --> (buy(909)), {C=0.0006317119393556539, S=0.00048633401420095323}
+(age_group(YoungAdults))(yearly_salary($10K - $30K))(member card(Normal))(house_owner(Y)) --> (buy(1220)), {C=0.0006317119393556539, S=0.00048633401420095323}
+(age_group(YoungAdults))(yearly_salary($10K - $30K))(member card(Normal))(house_owner(Y)) --> (buy(1462)), {C=0.0006317119393556539, S=0.00048633401420095323}
+(age_group(YoungAdults))(yearly_salary($10K - $30K))(member card(Normal))(house_owner(Y)) --> (buy(1530)), {C=0.0006317119393556539, S=0.00048633401420095323}

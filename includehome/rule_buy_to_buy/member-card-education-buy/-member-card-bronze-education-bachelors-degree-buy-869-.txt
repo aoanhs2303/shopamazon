@@ -1,0 +1,1 @@
+(member card(Bronze))(education(Bachelors Degree))(buy(869)) --> (buy(1335)), {C=0.0007666360012266176, S=0.00048633401420095323}

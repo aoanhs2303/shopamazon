@@ -1,0 +1,1 @@
+(age_group(YoungAdults))(member card(Bronze))(buy(278)) --> (buy(914)), {C=0.000896995066527134, S=0.0005836008170411438}

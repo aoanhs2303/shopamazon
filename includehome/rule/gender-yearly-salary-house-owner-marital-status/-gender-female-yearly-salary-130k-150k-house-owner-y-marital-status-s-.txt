@@ -1,0 +1,1 @@
+(gender(Female))(yearly_salary($130K - $150K))(house_owner(Y))(marital_status(S)) --> (buy(950)), {C=0.0005191029900332226, S=0.00048633401420095323}

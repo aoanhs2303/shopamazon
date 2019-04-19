@@ -1,0 +1,2 @@
+(yearly_salary($30K - $50K))(member card(Bronze))(education(Partial High School))(house_owner(Y)) --> (buy(160)), {C=0.0005085435313262816, S=0.00048633401420095323}
+(yearly_salary($30K - $50K))(member card(Bronze))(education(Partial High School))(house_owner(Y)) --> (buy(1059)), {C=0.0005085435313262816, S=0.00048633401420095323}

@@ -1,0 +1,2 @@
+(gender(Female))(country(USA))(member card(Bronze))(buy(648)) --> (buy(481)), {C=0.000517651930841702, S=0.00048633401420095323}
+(gender(Female))(country(USA))(member card(Bronze))(buy(648)) --> (buy(1257)), {C=0.000517651930841702, S=0.00048633401420095323}

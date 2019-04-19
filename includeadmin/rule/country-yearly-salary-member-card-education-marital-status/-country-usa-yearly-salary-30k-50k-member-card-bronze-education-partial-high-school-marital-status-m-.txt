@@ -1,0 +1,4 @@
+(country(USA))(yearly_salary($30K - $50K))(member card(Bronze))(education(Partial High School))(marital_status(M)) --> (buy(632)), {C=0.0004937296336526119, S=0.00048633401420095323}
+(country(USA))(yearly_salary($30K - $50K))(member card(Bronze))(education(Partial High School))(marital_status(M)) --> (buy(1059)), {C=0.0004937296336526119, S=0.00048633401420095323}
+(country(USA))(yearly_salary($30K - $50K))(member card(Bronze))(education(Partial High School))(marital_status(M)) --> (buy(1381)), {C=0.0004937296336526119, S=0.00048633401420095323}
+(country(USA))(yearly_salary($30K - $50K))(member card(Bronze))(education(Partial High School))(marital_status(M)) --> (buy(1410)), {C=0.0004937296336526119, S=0.00048633401420095323}

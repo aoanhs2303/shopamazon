@@ -1,0 +1,1 @@
+(country(USA))(education(High School Degree))(buy(1366)) --> (buy(573)), {C=0.0006072382803011902, S=0.00048633401420095323}

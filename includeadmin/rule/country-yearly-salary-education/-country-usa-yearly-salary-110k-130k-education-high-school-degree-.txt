@@ -1,0 +1,1 @@
+(country(USA))(yearly_salary($110K - $130K))(education(High School Degree)) --> (buy(364)), {C=0.0005995203836930455, S=0.00048633401420095323}

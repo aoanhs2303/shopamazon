@@ -1,0 +1,7 @@
+(gender(Male))(country(USA))(age_group(YoungAdults))(yearly_salary($30K - $50K))(marital_status(S)) --> (buy(38)), {C=0.0005056122964910507, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(YoungAdults))(yearly_salary($30K - $50K))(marital_status(S)) --> (buy(349)), {C=0.0006067347557892608, S=0.0005836008170411438}
+(gender(Male))(country(USA))(age_group(YoungAdults))(yearly_salary($30K - $50K))(marital_status(S)) --> (buy(465)), {C=0.0005056122964910507, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(YoungAdults))(yearly_salary($30K - $50K))(marital_status(S)) --> (buy(588)), {C=0.0006067347557892608, S=0.0005836008170411438}
+(gender(Male))(country(USA))(age_group(YoungAdults))(yearly_salary($30K - $50K))(marital_status(S)) --> (buy(634)), {C=0.0005056122964910507, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(YoungAdults))(yearly_salary($30K - $50K))(marital_status(S)) --> (buy(1046)), {C=0.0005056122964910507, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(YoungAdults))(yearly_salary($30K - $50K))(marital_status(S)) --> (buy(1354)), {C=0.0005056122964910507, S=0.00048633401420095323}

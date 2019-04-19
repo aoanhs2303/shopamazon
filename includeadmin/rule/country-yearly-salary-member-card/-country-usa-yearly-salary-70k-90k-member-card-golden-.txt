@@ -1,0 +1,2 @@
+(country(USA))(yearly_salary($70K - $90K))(member card(Golden)) --> (buy(297)), {C=0.000628140703517588, S=0.00048633401420095323}
+(country(USA))(yearly_salary($70K - $90K))(member card(Golden)) --> (buy(435)), {C=0.000628140703517588, S=0.00048633401420095323}

@@ -1,0 +1,2 @@
+(member card(Bronze))(education(Graduate Degree))(marital_status(M)) --> (buy(1488)), {C=0.0005936127270568681, S=0.00048633401420095323}
+(member card(Bronze))(education(Graduate Degree))(marital_status(M)) --> (buy(1491)), {C=0.0005936127270568681, S=0.00048633401420095323}

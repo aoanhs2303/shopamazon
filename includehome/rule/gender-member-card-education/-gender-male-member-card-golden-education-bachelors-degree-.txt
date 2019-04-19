@@ -1,0 +1,5 @@
+(gender(Male))(member card(Golden))(education(Bachelors Degree)) --> (buy(408)), {C=0.0007279079924297569, S=0.00048633401420095323}
+(gender(Male))(member card(Golden))(education(Bachelors Degree)) --> (buy(440)), {C=0.0007279079924297569, S=0.00048633401420095323}
+(gender(Male))(member card(Golden))(education(Bachelors Degree)) --> (buy(515)), {C=0.0008734895909157083, S=0.0005836008170411438}
+(gender(Male))(member card(Golden))(education(Bachelors Degree)) --> (buy(1041)), {C=0.0008734895909157083, S=0.0005836008170411438}
+(gender(Male))(member card(Golden))(education(Bachelors Degree)) --> (buy(1398)), {C=0.0008734895909157083, S=0.0005836008170411438}

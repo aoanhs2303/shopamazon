@@ -1,0 +1,1 @@
+(gender(Female))(age_group(YoungAdults))(yearly_salary($30K - $50K))(education(High School Degree))(house_owner(N)) --> (buy(812)), {C=0.0005631899076368552, S=0.00048633401420095323}

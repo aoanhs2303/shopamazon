@@ -1,0 +1,11 @@
+(gender(Male))(yearly_salary($50K - $70K))(member card(Bronze))(marital_status(M)) --> (buy(54)), {C=0.0005312931675698651, S=0.00048633401420095323}
+(gender(Male))(yearly_salary($50K - $70K))(member card(Bronze))(marital_status(M)) --> (buy(100)), {C=0.0005312931675698651, S=0.00048633401420095323}
+(gender(Male))(yearly_salary($50K - $70K))(member card(Bronze))(marital_status(M)) --> (buy(271)), {C=0.0005312931675698651, S=0.00048633401420095323}
+(gender(Male))(yearly_salary($50K - $70K))(member card(Bronze))(marital_status(M)) --> (buy(529)), {C=0.0005312931675698651, S=0.00048633401420095323}
+(gender(Male))(yearly_salary($50K - $70K))(member card(Bronze))(marital_status(M)) --> (buy(550)), {C=0.000637551801083838, S=0.0005836008170411438}
+(gender(Male))(yearly_salary($50K - $70K))(member card(Bronze))(marital_status(M)) --> (buy(1005)), {C=0.0005312931675698651, S=0.00048633401420095323}
+(gender(Male))(yearly_salary($50K - $70K))(member card(Bronze))(marital_status(M)) --> (buy(1103)), {C=0.0005312931675698651, S=0.00048633401420095323}
+(gender(Male))(yearly_salary($50K - $70K))(member card(Bronze))(marital_status(M)) --> (buy(1237)), {C=0.0005312931675698651, S=0.00048633401420095323}
+(gender(Male))(yearly_salary($50K - $70K))(member card(Bronze))(marital_status(M)) --> (buy(1413)), {C=0.0005312931675698651, S=0.00048633401420095323}
+(gender(Male))(yearly_salary($50K - $70K))(member card(Bronze))(marital_status(M)) --> (buy(1425)), {C=0.0005312931675698651, S=0.00048633401420095323}
+(gender(Male))(yearly_salary($50K - $70K))(member card(Bronze))(marital_status(M)) --> (buy(1504)), {C=0.0007438104345978111, S=0.0006808676198813345}

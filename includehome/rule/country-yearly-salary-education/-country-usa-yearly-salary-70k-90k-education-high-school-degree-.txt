@@ -1,0 +1,3 @@
+(country(USA))(yearly_salary($70K - $90K))(education(High School Degree)) --> (buy(188)), {C=0.0005871301080319399, S=0.00048633401420095323}
+(country(USA))(yearly_salary($70K - $90K))(education(High School Degree)) --> (buy(600)), {C=0.0007045561296383278, S=0.0005836008170411438}
+(country(USA))(yearly_salary($70K - $90K))(education(High School Degree)) --> (buy(1546)), {C=0.0005871301080319399, S=0.00048633401420095323}

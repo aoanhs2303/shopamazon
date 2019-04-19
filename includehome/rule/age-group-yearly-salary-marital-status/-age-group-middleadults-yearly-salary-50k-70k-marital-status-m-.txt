@@ -1,0 +1,15 @@
+(age_group(MiddleAdults))(yearly_salary($50K - $70K))(marital_status(M)) --> (buy(784)), {C=0.0007151029748283753, S=0.00048633401420095323}
+(age_group(MiddleAdults))(yearly_salary($50K - $70K))(marital_status(M)) --> (buy(972)), {C=0.0007151029748283753, S=0.00048633401420095323}
+(age_group(MiddleAdults))(yearly_salary($50K - $70K))(marital_status(M)) --> (buy(1019)), {C=0.0007151029748283753, S=0.00048633401420095323}
+(age_group(MiddleAdults))(yearly_salary($50K - $70K))(marital_status(M)) --> (buy(1092)), {C=0.0008581235697940502, S=0.0005836008170411438}
+(age_group(MiddleAdults))(yearly_salary($50K - $70K))(marital_status(M)) --> (buy(1129)), {C=0.0007151029748283753, S=0.00048633401420095323}
+(age_group(MiddleAdults))(yearly_salary($50K - $70K))(marital_status(M)) --> (buy(784)), {C=0.0007151029748283753, S=0.00048633401420095323}
+(age_group(MiddleAdults))(yearly_salary($50K - $70K))(marital_status(M)) --> (buy(972)), {C=0.0007151029748283753, S=0.00048633401420095323}
+(age_group(MiddleAdults))(yearly_salary($50K - $70K))(marital_status(M)) --> (buy(1019)), {C=0.0007151029748283753, S=0.00048633401420095323}
+(age_group(MiddleAdults))(yearly_salary($50K - $70K))(marital_status(M)) --> (buy(1092)), {C=0.0008581235697940502, S=0.0005836008170411438}
+(age_group(MiddleAdults))(yearly_salary($50K - $70K))(marital_status(M)) --> (buy(1129)), {C=0.0007151029748283753, S=0.00048633401420095323}
+(age_group(MiddleAdults))(yearly_salary($50K - $70K))(marital_status(M)) --> (buy(784)), {C=0.0007151029748283753, S=0.00048633401420095323}
+(age_group(MiddleAdults))(yearly_salary($50K - $70K))(marital_status(M)) --> (buy(972)), {C=0.0007151029748283753, S=0.00048633401420095323}
+(age_group(MiddleAdults))(yearly_salary($50K - $70K))(marital_status(M)) --> (buy(1019)), {C=0.0007151029748283753, S=0.00048633401420095323}
+(age_group(MiddleAdults))(yearly_salary($50K - $70K))(marital_status(M)) --> (buy(1092)), {C=0.0008581235697940502, S=0.0005836008170411438}
+(age_group(MiddleAdults))(yearly_salary($50K - $70K))(marital_status(M)) --> (buy(1129)), {C=0.0007151029748283753, S=0.00048633401420095323}

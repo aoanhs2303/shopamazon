@@ -1,0 +1,12 @@
+(country(USA))(age_group(YoungAdults))(education(Partial High School))(house_owner(Y))(marital_status(M)) --> (buy(47)), {C=0.0005084918132818062, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(education(Partial High School))(house_owner(Y))(marital_status(M)) --> (buy(341)), {C=0.0005084918132818062, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(education(Partial High School))(house_owner(Y))(marital_status(M)) --> (buy(634)), {C=0.0005084918132818062, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(education(Partial High School))(house_owner(Y))(marital_status(M)) --> (buy(707)), {C=0.0005084918132818062, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(education(Partial High School))(house_owner(Y))(marital_status(M)) --> (buy(725)), {C=0.0006101901759381673, S=0.0005836008170411438}
+(country(USA))(age_group(YoungAdults))(education(Partial High School))(house_owner(Y))(marital_status(M)) --> (buy(898)), {C=0.0005084918132818062, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(education(Partial High School))(house_owner(Y))(marital_status(M)) --> (buy(1196)), {C=0.0005084918132818062, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(education(Partial High School))(house_owner(Y))(marital_status(M)) --> (buy(1219)), {C=0.0006101901759381673, S=0.0005836008170411438}
+(country(USA))(age_group(YoungAdults))(education(Partial High School))(house_owner(Y))(marital_status(M)) --> (buy(1267)), {C=0.0005084918132818062, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(education(Partial High School))(house_owner(Y))(marital_status(M)) --> (buy(1276)), {C=0.0005084918132818062, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(education(Partial High School))(house_owner(Y))(marital_status(M)) --> (buy(1278)), {C=0.0006101901759381673, S=0.0005836008170411438}
+(country(USA))(age_group(YoungAdults))(education(Partial High School))(house_owner(Y))(marital_status(M)) --> (buy(1377)), {C=0.0005084918132818062, S=0.00048633401420095323}

@@ -1,0 +1,1 @@
+(age_group(YoungAdults))(yearly_salary($70K - $90K))(member card(Bronze))(marital_status(S)) --> (buy(820)), {C=0.0005978715771852207, S=0.00048633401420095323}

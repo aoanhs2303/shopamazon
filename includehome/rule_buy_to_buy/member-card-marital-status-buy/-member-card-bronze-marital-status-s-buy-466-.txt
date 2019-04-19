@@ -1,0 +1,2 @@
+(member card(Bronze))(marital_status(S))(buy(466)) --> (buy(73)), {C=0.0006546216286986122, S=0.00048633401420095323}
+(member card(Bronze))(marital_status(S))(buy(466)) --> (buy(202)), {C=0.0006546216286986122, S=0.00048633401420095323}

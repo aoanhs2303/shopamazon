@@ -1,0 +1,3 @@
+(gender(Male))(country(USA))(age_group(MiddleAdults))(member card(Bronze))(house_owner(Y))(marital_status(S)) --> (buy(225)), {C=0.0004897639337839162, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(MiddleAdults))(member card(Bronze))(house_owner(Y))(marital_status(S)) --> (buy(225)), {C=0.0004897639337839162, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(MiddleAdults))(member card(Bronze))(house_owner(Y))(marital_status(S)) --> (buy(225)), {C=0.0004897639337839162, S=0.00048633401420095323}

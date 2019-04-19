@@ -1,0 +1,3 @@
+(gender(Male))(country(USA))(age_group(MiddleAdults))(yearly_salary($30K - $50K))(education(High School Degree))(marital_status(S)) --> (buy(785)), {C=0.0005035246727089627, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(MiddleAdults))(yearly_salary($30K - $50K))(education(High School Degree))(marital_status(S)) --> (buy(785)), {C=0.0005035246727089627, S=0.00048633401420095323}
+(gender(Male))(country(USA))(age_group(MiddleAdults))(yearly_salary($30K - $50K))(education(High School Degree))(marital_status(S)) --> (buy(785)), {C=0.0005035246727089627, S=0.00048633401420095323}

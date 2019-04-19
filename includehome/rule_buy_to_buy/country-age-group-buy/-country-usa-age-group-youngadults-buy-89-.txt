@@ -1,0 +1,2 @@
+(country(USA))(age_group(YoungAdults))(buy(89)) --> (buy(395)), {C=0.0006264879087833605, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(buy(89)) --> (buy(705)), {C=0.0006264879087833605, S=0.00048633401420095323}

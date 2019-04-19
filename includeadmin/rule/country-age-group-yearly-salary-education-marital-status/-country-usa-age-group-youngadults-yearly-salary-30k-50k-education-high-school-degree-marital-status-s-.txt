@@ -1,0 +1,11 @@
+(country(USA))(age_group(YoungAdults))(yearly_salary($30K - $50K))(education(High School Degree))(marital_status(S)) --> (buy(81)), {C=0.0006240249609984399, S=0.0005836008170411438}
+(country(USA))(age_group(YoungAdults))(yearly_salary($30K - $50K))(education(High School Degree))(marital_status(S)) --> (buy(394)), {C=0.0005200208008320333, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($30K - $50K))(education(High School Degree))(marital_status(S)) --> (buy(517)), {C=0.0005200208008320333, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($30K - $50K))(education(High School Degree))(marital_status(S)) --> (buy(644)), {C=0.0006240249609984399, S=0.0005836008170411438}
+(country(USA))(age_group(YoungAdults))(yearly_salary($30K - $50K))(education(High School Degree))(marital_status(S)) --> (buy(814)), {C=0.0005200208008320333, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($30K - $50K))(education(High School Degree))(marital_status(S)) --> (buy(834)), {C=0.0005200208008320333, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($30K - $50K))(education(High School Degree))(marital_status(S)) --> (buy(941)), {C=0.0005200208008320333, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($30K - $50K))(education(High School Degree))(marital_status(S)) --> (buy(996)), {C=0.0005200208008320333, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($30K - $50K))(education(High School Degree))(marital_status(S)) --> (buy(1339)), {C=0.0005200208008320333, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($30K - $50K))(education(High School Degree))(marital_status(S)) --> (buy(1346)), {C=0.0005200208008320333, S=0.00048633401420095323}
+(country(USA))(age_group(YoungAdults))(yearly_salary($30K - $50K))(education(High School Degree))(marital_status(S)) --> (buy(1366)), {C=0.0005200208008320333, S=0.00048633401420095323}

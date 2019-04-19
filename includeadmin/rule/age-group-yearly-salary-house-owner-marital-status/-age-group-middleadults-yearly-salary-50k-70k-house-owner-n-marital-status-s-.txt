@@ -1,0 +1,3 @@
+(age_group(MiddleAdults))(yearly_salary($50K - $70K))(house_owner(N))(marital_status(S)) --> (buy(639)), {C=0.0006407791874919903, S=0.00048633401420095323}
+(age_group(MiddleAdults))(yearly_salary($50K - $70K))(house_owner(N))(marital_status(S)) --> (buy(639)), {C=0.0006407791874919903, S=0.00048633401420095323}
+(age_group(MiddleAdults))(yearly_salary($50K - $70K))(house_owner(N))(marital_status(S)) --> (buy(639)), {C=0.0006407791874919903, S=0.00048633401420095323}
