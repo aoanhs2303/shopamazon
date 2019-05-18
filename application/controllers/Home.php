@@ -99,6 +99,23 @@ class Home extends CI_Controller {
 		$this->load->view('home/include/footer.php', null, FALSE);
 	}
 
+	public function brand()
+	{
+
+		$sidebar     = $this->load->view('home/include/sidebar', null, TRUE);
+		$slideanh    = $this->Admin_model->getSlideAnh();
+		$data_main = array(
+			'sidebar'  => $sidebar,
+			'slideanh' => $slideanh
+		);
+
+		$this->load->view('home/include/header.php', null, FALSE);
+		$this->load->view('home/include/menutop.php', null, FALSE);
+		$this->load->view('home/brand_view',$data_main);
+		$this->load->view('home/include/footer.php', null, FALSE);
+	}
+
+
 	public function gioithieu()
 	{
 		$category     = $this->Admin_model->getCategory();

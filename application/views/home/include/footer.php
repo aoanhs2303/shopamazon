@@ -34,10 +34,10 @@
         
         <div class="col-xs-12 col-sm-6 col-md-3">
           <div class="module-heading">
-            <h4 class="module-title">Cửa hàng Thành Công</h4>
+            <h4 class="module-title">MRAR Shop</h4>
           </div>
           <div class="text" style="color: #666; font-size: 13px">
-            Cửa hàng Gỗ ghép Biên Quỳnh Gia hoạt động trong các lĩnh vực sản xuất, thương mại và xuất nhập khẩu các sản phẩm gỗ nguyên liệu như: <br> Gỗ ghép các loại, Gỗ xẻ sấy, Gỗ ghép/Veneer, MDF/Veneer, HDF/Veneer, MFC, Okal, Ván sàn.
+            Cửa hàng chuyên cung cấp các mặt hàng thực phẩm.
           </div>
         </div>
         <!-- /.col -->

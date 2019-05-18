@@ -10,22 +10,9 @@ class Cart extends CI_Controller {
 
 	public function index()
 	{
-		$data_main = array(
-
-		);
-
-		$category_van  = $this->Admin_model->getCategory_Van('van');
-		$category_lot  = $this->Admin_model->getCategory_Van('lot');
-		$category_khac = $this->Admin_model->getCategory_Van('khac');
-		$data_menu = array(
-			'category_van' => $category_van,
-			'category_lot' => $category_lot,
-			'category_khac' => $category_khac
-		);
-
 		$this->load->view('home/include/header.php', null, FALSE);
-		$this->load->view('home/include/menutop.php', $data_menu, FALSE);
-		$this->load->view('home/cart_view',$data_main);
+		$this->load->view('home/include/menutop.php', null, FALSE);
+		$this->load->view('home/cart_view',null);
 		$this->load->view('home/include/footer.php', null, FALSE);
 	}
 
@@ -219,7 +206,7 @@ class Cart extends CI_Controller {
 		}
 		$output .= '
 			<div class="cart-grand-total pull-right" style="font-size: 18px">
-					<span style="font-weight: bold; font-size: 30px">Tổng cộng: </span> <span class="inner-left-md badge" style="background-color: #fdd922; font-size: 30px; padding: 5px; border-radius: 5px; color: #444">'.number_format($this->cart->total()).' ₫</span>
+					<span style="font-weight: bold; font-size: 30px">Tổng cộng: </span> <span class="inner-left-md badge" style="background-color: #fdd922; font-size: 30px; padding: 5px; border-radius: 5px; color: #444">$'.$this->cart->total().'</span>
 				</div>
 			</tbody>
 		</table>

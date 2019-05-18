@@ -136,50 +136,72 @@
                     </div>
 
                     <?php 
-					if (isset($_SESSION['Username']) ){  ?> 
+					if (isset($_SESSION['Customer_name']) ){  ?> 
 					<input type="hidden" id="customerId" value=<?php echo $_SESSION['UserId']  ?>>
                     <?php } ?>
 
                         <!-- ============================================== UPSELL PRODUCTS ============================================== -->
                         <section class="section featured-product wow fadeInUp">
                             <h3 class="section-title">Sản phẩm liên quan</h3>
-                            <div class="owl-carousel home-owl-carousel upsell-product custom-carousel owl-theme outer-top-xs">
-                                    <div class="item item-carousel" ng-repeat="product in listProduct">
+
+                            <div class="search-result-container ">
+                                <div id="myTabContent" class="tab-content category-list">
+                                <div class="tab-pane active " id="grid-container">
+                                    <div class="category-product">
+                                    <div class="row">
+
+                                    <div ng-repeat="product in listProduct" style="height: 270px" class="col-sm-6 col-md-3 wow fadeInUp">
                                         <div class="products">
                                             <div class="product">
-                                                <div class="product-image">
-                                                    <div class="image">
-													<a href="<?php echo base_url() ?>{{to_slug(product.name)}}-{{product.id}}.chn"><img src="https://via.placeholder.com/500" alt=""></a>
-                                                    </div>
-                                                    <!-- /.image -->
-                                                    <div class="tag sale"><span>Hot</span></div>
-                                                </div>
-                                                <!-- /.product-image -->
-                                                <div class="product-info text-left">
-                                                    <h3 class="name"><a href="<?php echo base_url() ?>{{to_slug(product.name)}}-{{product.id}}.chn">{{product.name}}</a></h3>
-                                                    <div class="rating rateit-small"></div>
-                                                    <div class="description"></div>
-
-                                                    <div class="product-price">
-                                                        <span class="price">${{product.price}}</span>
-                                                    </div>
-                                                    <!-- /.product-price -->
-
-                                                </div>
-                                                <!-- /.product-info -->
-                                                <div class="cart clearfix animate-effect">
-                                                    <div class="btn-group">
-                                                        <a ng-click="addToCart(product)" class="btn btn-warning" style="background-color: #fdd922; color: #444;">Thêm <i class="fa fa-shopping-cart"></i></a>
-                                                        <a href="<?php echo base_url() ?>{{to_slug(product.name)}}-{{product.id}}.chn" data-toggle="tooltip" title="Xem chi tiết" class="btn btn-info"><i class="fa fa-search"></i></a>
-                                                    </div>
-                                                    <!-- /.action -->
-                                                </div>
+                                            <div class="product-image">
+                                                <div class="image"> <a href="<?php echo base_url() ?>{{to_slug(product.name)}}-{{product.id}}.chn"><img src="https://via.placeholder.com/500" alt="{{product.name}}"></a> </div>
+                                                <!-- /.image -->
+                                                <div class="tag sale"><span>Hot</span></div>
                                             </div>
-                                            <!-- /.product -->
+                                            <!-- /.product-image -->
+                                            
+                                            <div class="product-info text-left">
+                                                <h3 class="name"><a href="<?php echo base_url() ?>{{to_slug(product.name)}}-{{product.id}}.chn">{{product.name}}</a></h3>
+                                                <div class="rating rateit-small"></div>
+                                                <div class="description"></div>
+                                                <div class="product-price text-danger"><b>${{product.price}}</b></div>
+                                                
+                                                <!-- /.product-price --> 
+                                                
+                                            </div>
+                                            <!-- /.product-info -->
+                                            <div class="cart clearfix animate-effect">
+                                                <div class="btn-group">
+                                                <button ng-click="addToCart(product)"
+                                                    class="add_cart btn btn-warning" 
+                                                    style="background-color: #fdd922; color: #444;"
+                                                    data-productid="{{product.id}}"
+                                                    data-productname="{{product.name}}"
+                                                    data-price="{{product.price}}"
+                                                    data-productimg="https://via.placeholder.com/500"
+                                                    data-quantity="1"
+                                                    data-size="0"
+                                                    >
+                                                    Thêm <i class="fa fa-shopping-cart"></i>
+                                                </button>
+                                                <a href="<?php echo base_url() ?>{{to_slug(product.name)}}-{{product.id}}.chn" data-toggle="tooltip" title="Xem chi tiết" class="btn btn-info"><i class="fa fa-search"></i></a>
+                                                </div>
+                                                <!-- /.action --> 
+                                            </div>
+                                            <!-- /.cart --> 
+                                            </div>
+                                            <!-- /.product -->  
                                         </div>
-                                        <!-- /.products -->
+                                        </div>
                                     </div>
-                                    <!-- /.item -->
+                                    </div>
+                                </div>
+                                </div>  
+                            </div>
+                            </div>
+
+                        </div>
+                           
 
                         </section>
                         <!-- /.section -->
@@ -205,8 +227,6 @@
     <!-- ============================================================= FOOTER ============================================================= -->
     <script>
         $(document).ready(function() {
-            
-
             $('#show_cart').load("<?php echo base_url(); ?>cart/load");
 
             $(document).on('click', '.delete_cart', function() {
@@ -287,8 +307,7 @@
                 listViewProduct = getCookie("view_product").split(',');
                 if(listViewProduct.indexOf(product_id) == -1) {
                     setCookie("view_product", getCookie("view_product") + "," + product_id, 1);
-                }
-                
+                } 
             }
 
             function UrlExists(url) {
@@ -334,8 +353,7 @@
                             if(rawFile.status === 200 || rawFile.status == 0) {
                                 var allText = rawFile.responseText;
                                 var lines = allText.split('\n');
-                                for(var line = 0; line < lines.length - 1; line++){
-                                    
+                                for(var line = 0; line < lines.length - 1; line++) {  
                                     if (antecedent == lines[line].split(" , ")[0]) {
                                         let productId = lines[line].split(" , ")[1].split(" (")[0];
                                         let conf = lines[line].split(" , ")[1].split("conf=")[1].slice(0, -2);
@@ -349,40 +367,17 @@
                 } 
             }
             var recommendProduct = []
-            function readTextFileAndHandle2(file) {
-			
-                if(UrlExists(file)) { 
-                    var rawFile = new XMLHttpRequest();
-                    rawFile.open("GET", file, false);
-                    rawFile.onreadystatechange = function () {
-                        if(rawFile.readyState === 4) {
-                            if(rawFile.status === 200 || rawFile.status == 0) {
-                                var allText = rawFile.responseText;
-                                var lines = allText.split('\n');
-                                var temp5 = []
-                                for(var line = 0; line < lines.length - 1; line++){
-                                    r = lines[line];
-                                    try {
-                                        r = r.split(' --> ')[1].split(',');
-                                        let productid = r[0].match(/\d+/)[0];
-                                        let confidence = r[1].split('=')[1];
-                                        product = {'productid': productid, 'confidence': confidence}
-                                        temp5.push(product);
-                                    } catch (error) {
-                                        console.log(file, line)
-                                    }
-                                    
-                                }
-                                temp5.sort(compareConfidence);
-                                temp5.splice(5, temp5.length);
-                                for (let i = 0; i < temp5.length; i++) {
-                                    recommendProduct.push(temp5[i])	
-                                }
-                            }
-                        }
-                    }
-                    rawFile.send(null);
-                }
+            $scope.listProduct = []
+            $scope.getListProduct = function(listProductId) {          
+                var data = $.param({
+                    listProductId: listProductId
+                })
+                var config = {headers: {'content-type': 'application/x-www-form-urlencoded;charset=UTF-8'}}
+                $http.post($scope.appDomain + 'api/getListProduct',data,config)
+                .then(function(res) {
+                    $scope.listProduct = res.data;
+                    console.log($scope.listProduct)
+                }, function(err){})
             }
 
             
@@ -421,7 +416,6 @@
                     var directory = [];
                     var temp= [];
                     var letLen = Math.pow(2, antecedent.length);
-
 
                     var listViewProduct = getCookie("view_product").split(',');
                     if(listViewProduct.length > 8) {
@@ -470,17 +464,29 @@
                     }
 
                     // Read each file
+                    var listPath = [];
                     for (let i = 0; i < directory.length; i++) {
-                        let path = $scope.rulePath2 + '/' + directory[i].pathname + '/' +  directory[i].filename + '.txt';
-                        readTextFileAndHandle2(path);
+                        let path = 'includeadmin/rule_buy_to_buy/' + directory[i].pathname + '/' +  directory[i].filename + '.txt';
+                        listPath.push(path);
                     }
-
                     var listProductId = []
                     for (let i = 0; i < recommendProduct.length; i++) {
                         listProductId.push(parseInt(recommendProduct[i].productid))
                     }
 
-                    console.log(listProductId);
+                    //ĐEM LÊN SEVER XỬ LÝ
+                    $scope.listProduct = [];
+                    var data = $.param({
+                        listPath: JSON.stringify(listPath)
+                    })
+                    var config = {headers: {'content-type': 'application/x-www-form-urlencoded;charset=UTF-8'}}
+                    $http.post($scope.appDomain + 'api/getProductByRule',data,config)
+                    .then(function(res) {
+                        $scope.listProduct = res.data;
+                        console.log($scope.listProduct);
+                    }, function(err){})
+
+                  
                 })
 
             } else {
@@ -508,33 +514,23 @@
                     const ant = allAnt[i];
                     readTextFileAndHandle($scope.rulePath + '/rule_' +  ant.length + '.txt', ant.join(" "));
                 }
-            }
 
-
-
-            recommend = recommend.sort(compareConfidence);
+                recommend = recommend.sort(compareConfidence);
             
-            var listProductId = []
-            for (let i = 0; i < recommend.length; i++) {
-                listProductId.push(parseInt(recommend[i].productid))
+                var listProductId = []
+                for (let i = 0; i < recommend.length; i++) {
+                    listProductId.push(parseInt(recommend[i].productid))
+                }
+
+                listProductId = [...new Set(listProductId)]
+                $scope.listProduct = [];
+                $scope.getListProduct(listProductId)
             }
 
-            listProductId = [...new Set(listProductId)]
-            console.log(listProductId);
-            $scope.listProduct = [];
-            $scope.getListProduct = function(listProductId) {          
-                var data = $.param({
-                    listProductId: listProductId
-                })
-                var config = {headers: {'content-type': 'application/x-www-form-urlencoded;charset=UTF-8'}}
-                $http.post($scope.appDomain + 'api/getListProduct',data,config)
-                .then(function(res) {
-                    $scope.listProduct = res.data;
-                    console.log($scope.listProduct)
-                }, function(err){})
-            }
+            
+            
 
-            $scope.getListProduct(listProductId)
+            
             
             $scope.to_slug = function(str) {
                 // Chuyển hết sang chữ thường

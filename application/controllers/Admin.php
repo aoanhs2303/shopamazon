@@ -109,7 +109,7 @@ class Admin extends CI_Controller {
 						array_push($recommendProduct, $p);
 					}
 				}
-			}
+			}	
 			usort($recommendProduct,"cmpCof");
 			
 			$listProductId = array();

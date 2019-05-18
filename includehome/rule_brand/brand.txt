@@ -1,0 +1,1395 @@
+(buy(brand name(Golden))) --> (buy(brand name(Blue Label))), {C=0.2698039215686275, S=0.03345978017702558}
+(buy(brand name(Blue Label))) --> (buy(brand name(Golden))), {C=0.3478260869565218, S=0.03345978017702558}
+(buy(brand name(Denny))) --> (buy(brand name(Blue Label))), {C=0.26363636363636367, S=0.031028110106020815}
+(buy(brand name(Blue Label))) --> (buy(brand name(Denny))), {C=0.3225480283114257, S=0.031028110106020815}
+(buy(brand name(High Top))) --> (buy(brand name(Blue Label))), {C=0.25621414913957935, S=0.03910125474175664}
+(buy(brand name(Blue Label))) --> (buy(brand name(High Top))), {C=0.4064711830131446, S=0.03910125474175664}
+(buy(brand name(Best Choice))) --> (buy(brand name(Blue Label))), {C=0.2742424242424243, S=0.035210582628149016}
+(buy(brand name(Blue Label))) --> (buy(brand name(Best Choice))), {C=0.36602628918099095, S=0.035210582628149016}
+(buy(brand name(Super))) --> (buy(brand name(Blue Label))), {C=0.27164685908319186, S=0.031125376908861007}
+(buy(brand name(Blue Label))) --> (buy(brand name(Super))), {C=0.32355915065722957, S=0.031125376908861007}
+(buy(brand name(Big Time))) --> (buy(brand name(Blue Label))), {C=0.25545390570021115, S=0.035307849430989205}
+(buy(brand name(Blue Label))) --> (buy(brand name(Big Time))), {C=0.36703741152679475, S=0.035307849430989205}
+(buy(brand name(Red Wing))) --> (buy(brand name(Blue Label))), {C=0.25732666190135817, S=0.03501604902246863}
+(buy(brand name(Blue Label))) --> (buy(brand name(Red Wing))), {C=0.3640040444893832, S=0.03501604902246863}
+(buy(brand name(Tell Tale))) --> (buy(brand name(Blue Label))), {C=0.26212471131639725, S=0.04415912848944655}
+(buy(brand name(Blue Label))) --> (buy(brand name(Tell Tale))), {C=0.4590495449949444, S=0.04415912848944655}
+(buy(brand name(Fast))) --> (buy(brand name(Blue Label))), {C=0.27435387673956263, S=0.040268456375838924}
+(buy(brand name(Blue Label))) --> (buy(brand name(Fast))), {C=0.41860465116279066, S=0.040268456375838924}
+(buy(brand name(Landslide))) --> (buy(brand name(Blue Label))), {C=0.2753968253968254, S=0.033751580585546156}
+(buy(brand name(Blue Label))) --> (buy(brand name(Landslide))), {C=0.3508594539939333, S=0.033751580585546156}
+(buy(brand name(Imagine))) --> (buy(brand name(Blue Label))), {C=0.27560975609756094, S=0.032973446162824625}
+(buy(brand name(Blue Label))) --> (buy(brand name(Imagine))), {C=0.34277047522750254, S=0.032973446162824625}
+(buy(brand name(Cormorant))) --> (buy(brand name(Blue Label))), {C=0.275808936825886, S=0.03482151541678825}
+(buy(brand name(Blue Label))) --> (buy(brand name(Cormorant))), {C=0.3619817997977755, S=0.03482151541678825}
+(buy(brand name(Ebony))) --> (buy(brand name(Blue Label))), {C=0.27672209026128264, S=0.04532633012352884}
+(buy(brand name(Blue Label))) --> (buy(brand name(Ebony))), {C=0.4711830131445905, S=0.04532633012352884}
+(buy(brand name(Nationeel))) --> (buy(brand name(Blue Label))), {C=0.2563600782778865, S=0.038225853516194924}
+(buy(brand name(Blue Label))) --> (buy(brand name(Nationeel))), {C=0.39737108190091003, S=0.038225853516194924}
+(buy(brand name(BBB Best))) --> (buy(brand name(Blue Label))), {C=0.2636015325670498, S=0.03345978017702558}
+(buy(brand name(Blue Label))) --> (buy(brand name(BBB Best))), {C=0.3478260869565218, S=0.03345978017702558}
+(buy(brand name(PigTail))) --> (buy(brand name(Blue Label))), {C=0.2542901716068643, S=0.03170897772590215}
+(buy(brand name(Blue Label))) --> (buy(brand name(PigTail))), {C=0.3296258847320526, S=0.03170897772590215}
+(buy(brand name(High Quality))) --> (buy(brand name(Blue Label))), {C=0.2822085889570552, S=0.035794183445190156}
+(buy(brand name(Blue Label))) --> (buy(brand name(High Quality))), {C=0.37209302325581395, S=0.035794183445190156}
+(buy(brand name(Tri-State))) --> (buy(brand name(Blue Label))), {C=0.26846846846846845, S=0.043478260869565216}
+(buy(brand name(Blue Label))) --> (buy(brand name(Tri-State))), {C=0.4519716885743175, S=0.043478260869565216}
+(buy(brand name(Horatio))) --> (buy(brand name(Blue Label))), {C=0.28479196556671454, S=0.038614920727555686}
+(buy(brand name(Blue Label))) --> (buy(brand name(Horatio))), {C=0.4014155712841254, S=0.038614920727555686}
+(buy(brand name(Plato))) --> (buy(brand name(Blue Label))), {C=0.2737611697806661, S=0.03277891255714425}
+(buy(brand name(Blue Label))) --> (buy(brand name(Plato))), {C=0.34074823053589487, S=0.03277891255714425}
+(buy(brand name(Carrington))) --> (buy(brand name(Blue Label))), {C=0.2738184546136534, S=0.03550238303666958}
+(buy(brand name(Blue Label))) --> (buy(brand name(Carrington))), {C=0.3690596562184024, S=0.03550238303666958}
+(buy(brand name(Sunset))) --> (buy(brand name(Blue Label))), {C=0.2665745856353591, S=0.03754498589631359}
+(buy(brand name(Blue Label))) --> (buy(brand name(Sunset))), {C=0.3902932254802831, S=0.03754498589631359}
+(buy(brand name(Hermanos))) --> (buy(brand name(Blue Label))), {C=0.2525306339904102, S=0.04610446454625036}
+(buy(brand name(Blue Label))) --> (buy(brand name(Hermanos))), {C=0.4792719919110212, S=0.04610446454625036}
+(buy(brand name(Fort West))) --> (buy(brand name(Blue Label))), {C=0.2605210420841683, S=0.03793405310767435}
+(buy(brand name(Blue Label))) --> (buy(brand name(Fort West))), {C=0.3943377148634985, S=0.03793405310767435}
+(buy(brand name(CDR))) --> (buy(brand name(Blue Label))), {C=0.2625318606627018, S=0.03005544207761891}
+(buy(brand name(Blue Label))) --> (buy(brand name(CDR))), {C=0.31243680485338726, S=0.03005544207761891}
+(buy(brand name(Golden))) --> (buy(brand name(Club))), {C=0.2572549019607843, S=0.03190351133158253}
+(buy(brand name(Club))) --> (buy(brand name(Golden))), {C=0.3636363636363636, S=0.03190351133158253}
+(buy(brand name(High Top))) --> (buy(brand name(Club))), {C=0.2574888463989803, S=0.03929578834743702}
+(buy(brand name(Club))) --> (buy(brand name(High Top))), {C=0.4478935698447894, S=0.03929578834743702}
+(buy(brand name(Best Choice))) --> (buy(brand name(Club))), {C=0.24696969696969698, S=0.03170897772590215}
+(buy(brand name(Club))) --> (buy(brand name(Best Choice))), {C=0.36141906873614194, S=0.03170897772590215}
+(buy(brand name(Super))) --> (buy(brand name(Club))), {C=0.2631578947368421, S=0.0301527088804591}
+(buy(brand name(Club))) --> (buy(brand name(Super))), {C=0.3436807095343681, S=0.0301527088804591}
+(buy(brand name(Big Time))) --> (buy(brand name(Club))), {C=0.25545390570021115, S=0.035307849430989205}
+(buy(brand name(Club))) --> (buy(brand name(Big Time))), {C=0.4024390243902439, S=0.035307849430989205}
+(buy(brand name(Red Wing))) --> (buy(brand name(Club))), {C=0.26447462473195144, S=0.03598871705087054}
+(buy(brand name(Club))) --> (buy(brand name(Red Wing))), {C=0.41019955654101997, S=0.03598871705087054}
+(buy(brand name(Tell Tale))) --> (buy(brand name(Club))), {C=0.23960739030023098, S=0.04036572317867912}
+(buy(brand name(Club))) --> (buy(brand name(Tell Tale))), {C=0.4600886917960089, S=0.04036572317867912}
+(buy(brand name(Fast))) --> (buy(brand name(Club))), {C=0.2677269715043075, S=0.03929578834743702}
+(buy(brand name(Club))) --> (buy(brand name(Fast))), {C=0.4478935698447894, S=0.03929578834743702}
+(buy(brand name(Landslide))) --> (buy(brand name(Club))), {C=0.26746031746031745, S=0.03277891255714425}
+(buy(brand name(Club))) --> (buy(brand name(Landslide))), {C=0.37361419068736146, S=0.03277891255714425}
+(buy(brand name(Imagine))) --> (buy(brand name(Club))), {C=0.24390243902439024, S=0.029180040852057193}
+(buy(brand name(Club))) --> (buy(brand name(Imagine))), {C=0.3325942350332594, S=0.029180040852057193}
+(buy(brand name(Cormorant))) --> (buy(brand name(Club))), {C=0.2627118644067797, S=0.03316797976850501}
+(buy(brand name(Club))) --> (buy(brand name(Cormorant))), {C=0.3780487804878049, S=0.03316797976850501}
+(buy(brand name(Ebony))) --> (buy(brand name(Club))), {C=0.244061757719715, S=0.03997665596731836}
+(buy(brand name(Club))) --> (buy(brand name(Ebony))), {C=0.45565410199556544, S=0.03997665596731836}
+(buy(brand name(Nationeel))) --> (buy(brand name(Club))), {C=0.24200913242009134, S=0.03608598385371073}
+(buy(brand name(Club))) --> (buy(brand name(Nationeel))), {C=0.4113082039911308, S=0.03608598385371073}
+(buy(brand name(BBB Best))) --> (buy(brand name(Club))), {C=0.2567049808429118, S=0.03258437895146386}
+(buy(brand name(Club))) --> (buy(brand name(BBB Best))), {C=0.3713968957871397, S=0.03258437895146386}
+(buy(brand name(PigTail))) --> (buy(brand name(Club))), {C=0.24570982839313574, S=0.030639042894660053}
+(buy(brand name(Club))) --> (buy(brand name(PigTail))), {C=0.3492239467849224, S=0.030639042894660053}
+(buy(brand name(High Quality))) --> (buy(brand name(Club))), {C=0.2653374233128834, S=0.03365431378270596}
+(buy(brand name(Club))) --> (buy(brand name(High Quality))), {C=0.3835920177383592, S=0.03365431378270596}
+(buy(brand name(Tri-State))) --> (buy(brand name(Club))), {C=0.25045045045045045, S=0.0405602567843595}
+(buy(brand name(Club))) --> (buy(brand name(Tri-State))), {C=0.4623059866962306, S=0.0405602567843595}
+(buy(brand name(Horatio))) --> (buy(brand name(Club))), {C=0.2539454806312769, S=0.034432448205427485}
+(buy(brand name(Club))) --> (buy(brand name(Horatio))), {C=0.3924611973392461, S=0.034432448205427485}
+(buy(brand name(Plato))) --> (buy(brand name(Club))), {C=0.2461413484971568, S=0.029471841260577766}
+(buy(brand name(Club))) --> (buy(brand name(Plato))), {C=0.33592017738359203, S=0.029471841260577766}
+(buy(brand name(Carrington))) --> (buy(brand name(Club))), {C=0.2558139534883721, S=0.03316797976850501}
+(buy(brand name(Club))) --> (buy(brand name(Carrington))), {C=0.3780487804878049, S=0.03316797976850501}
+(buy(brand name(Sunset))) --> (buy(brand name(Club))), {C=0.23342541436464084, S=0.032876179359984437}
+(buy(brand name(Club))) --> (buy(brand name(Sunset))), {C=0.3747228381374723, S=0.032876179359984437}
+(buy(brand name(Hermanos))) --> (buy(brand name(Club))), {C=0.2349493873201918, S=0.042894660052524076}
+(buy(brand name(Club))) --> (buy(brand name(Hermanos))), {C=0.4889135254988914, S=0.042894660052524076}
+(buy(brand name(Fort West))) --> (buy(brand name(Club))), {C=0.24849699398797592, S=0.03618325065655092}
+(buy(brand name(Club))) --> (buy(brand name(Fort West))), {C=0.4124168514412417, S=0.03618325065655092}
+(buy(brand name(Hermanos))) --> (buy(brand name(Red Spade))), {C=0.1635588705380927, S=0.02986090847193853}
+(buy(brand name(Red Spade))) --> (buy(brand name(Hermanos))), {C=0.47230769230769226, S=0.02986090847193853}
+(buy(brand name(Denny))) --> (buy(brand name(Golden))), {C=0.3752066115702479, S=0.04415912848944655}
+(buy(brand name(Golden))) --> (buy(brand name(Denny))), {C=0.356078431372549, S=0.04415912848944655}
+(buy(brand name(High Top))) --> (buy(brand name(Golden))), {C=0.34034416826003827, S=0.0519404727166618}
+(buy(brand name(Golden))) --> (buy(brand name(High Top))), {C=0.4188235294117647, S=0.0519404727166618}
+(buy(brand name(Best Choice))) --> (buy(brand name(Golden))), {C=0.35454545454545455, S=0.04552086372920922}
+(buy(brand name(Golden))) --> (buy(brand name(Best Choice))), {C=0.36705882352941177, S=0.04552086372920922}
+(buy(brand name(Super))) --> (buy(brand name(Golden))), {C=0.3370118845500849, S=0.038614920727555686}
+(buy(brand name(Golden))) --> (buy(brand name(Super))), {C=0.31137254901960787, S=0.038614920727555686}
+(buy(brand name(Better))) --> (buy(brand name(Golden))), {C=0.3634538152610442, S=0.035210582628149016}
+(buy(brand name(Golden))) --> (buy(brand name(Better))), {C=0.28392156862745105, S=0.035210582628149016}
+(buy(brand name(Carlson))) --> (buy(brand name(Golden))), {C=0.3538135593220339, S=0.032487112148623674}
+(buy(brand name(Golden))) --> (buy(brand name(Carlson))), {C=0.2619607843137255, S=0.032487112148623674}
+(buy(brand name(Big Time))) --> (buy(brand name(Golden))), {C=0.3589021815622801, S=0.04960606944849723}
+(buy(brand name(Golden))) --> (buy(brand name(Big Time))), {C=0.4, S=0.04960606944849723}
+(buy(brand name(Steady))) --> (buy(brand name(Golden))), {C=0.3684210526315789, S=0.035405116233829394}
+(buy(brand name(Golden))) --> (buy(brand name(Steady))), {C=0.2854901960784314, S=0.035405116233829394}
+(buy(brand name(Red Wing))) --> (buy(brand name(Golden))), {C=0.3452466047176555, S=0.04697986577181208}
+(buy(brand name(Golden))) --> (buy(brand name(Red Wing))), {C=0.3788235294117647, S=0.04697986577181208}
+(buy(brand name(Tell Tale))) --> (buy(brand name(Golden))), {C=0.3493071593533487, S=0.05884641571831534}
+(buy(brand name(Golden))) --> (buy(brand name(Tell Tale))), {C=0.47450980392156866, S=0.05884641571831534}
+(buy(brand name(Fast))) --> (buy(brand name(Golden))), {C=0.32803180914512925, S=0.04814706740589437}
+(buy(brand name(Golden))) --> (buy(brand name(Fast))), {C=0.38823529411764707, S=0.04814706740589437}
+(buy(brand name(Landslide))) --> (buy(brand name(Golden))), {C=0.35714285714285715, S=0.04377006127808579}
+(buy(brand name(Golden))) --> (buy(brand name(Landslide))), {C=0.35294117647058826, S=0.04377006127808579}
+(buy(brand name(Bravo))) --> (buy(brand name(Golden))), {C=0.3546747967479675, S=0.033946114191226534}
+(buy(brand name(Golden))) --> (buy(brand name(Bravo))), {C=0.27372549019607845, S=0.033946114191226534}
+(buy(brand name(Gorilla))) --> (buy(brand name(Golden))), {C=0.35593220338983056, S=0.030639042894660053}
+(buy(brand name(Golden))) --> (buy(brand name(Gorilla))), {C=0.24705882352941178, S=0.030639042894660053}
+(buy(brand name(Imagine))) --> (buy(brand name(Golden))), {C=0.34715447154471546, S=0.041532924812761406}
+(buy(brand name(Golden))) --> (buy(brand name(Imagine))), {C=0.3349019607843138, S=0.041532924812761406}
+(buy(brand name(Cormorant))) --> (buy(brand name(Golden))), {C=0.33821263482280434, S=0.04270012644684369}
+(buy(brand name(Golden))) --> (buy(brand name(Cormorant))), {C=0.3443137254901961, S=0.04270012644684369}
+(buy(brand name(Ebony))) --> (buy(brand name(Golden))), {C=0.33729216152019004, S=0.05524754401322828}
+(buy(brand name(Golden))) --> (buy(brand name(Ebony))), {C=0.4454901960784314, S=0.05524754401322828}
+(buy(brand name(Nationeel))) --> (buy(brand name(Golden))), {C=0.3222439660795825, S=0.04804980060305418}
+(buy(brand name(Golden))) --> (buy(brand name(Nationeel))), {C=0.3874509803921569, S=0.04804980060305418}
+(buy(brand name(BBB Best))) --> (buy(brand name(Golden))), {C=0.3348659003831418, S=0.042505592841163314}
+(buy(brand name(Golden))) --> (buy(brand name(BBB Best))), {C=0.3427450980392157, S=0.042505592841163314}
+(buy(brand name(Just Right))) --> (buy(brand name(Golden))), {C=0.3273921200750469, S=0.033946114191226534}
+(buy(brand name(Golden))) --> (buy(brand name(Just Right))), {C=0.27372549019607845, S=0.033946114191226534}
+(buy(brand name(Even Better))) --> (buy(brand name(Golden))), {C=0.35165975103734437, S=0.032973446162824625}
+(buy(brand name(Golden))) --> (buy(brand name(Even Better))), {C=0.26588235294117646, S=0.032973446162824625}
+(buy(brand name(PigTail))) --> (buy(brand name(Golden))), {C=0.34789391575663026, S=0.04338099406672503}
+(buy(brand name(Golden))) --> (buy(brand name(PigTail))), {C=0.3498039215686275, S=0.04338099406672503}
+(buy(brand name(High Quality))) --> (buy(brand name(Golden))), {C=0.3450920245398773, S=0.04377006127808579}
+(buy(brand name(Golden))) --> (buy(brand name(High Quality))), {C=0.35294117647058826, S=0.04377006127808579}
+(buy(brand name(Tri-State))) --> (buy(brand name(Golden))), {C=0.3339339339339339, S=0.054080342379145996}
+(buy(brand name(Golden))) --> (buy(brand name(Tri-State))), {C=0.43607843137254904, S=0.054080342379145996}
+(buy(brand name(Horatio))) --> (buy(brand name(Golden))), {C=0.3321377331420373, S=0.045034529715008265}
+(buy(brand name(Golden))) --> (buy(brand name(Horatio))), {C=0.3631372549019608, S=0.045034529715008265}
+(buy(brand name(Plato))) --> (buy(brand name(Golden))), {C=0.3428107229894395, S=0.041046590798560455}
+(buy(brand name(Golden))) --> (buy(brand name(Plato))), {C=0.3309803921568628, S=0.041046590798560455}
+(buy(brand name(Pleasant))) --> (buy(brand name(Golden))), {C=0.3520982599795292, S=0.03345978017702558}
+(buy(brand name(Golden))) --> (buy(brand name(Pleasant))), {C=0.2698039215686275, S=0.03345978017702558}
+(buy(brand name(Booker))) --> (buy(brand name(Golden))), {C=0.36272321428571436, S=0.03161171092306196}
+(buy(brand name(Golden))) --> (buy(brand name(Booker))), {C=0.25490196078431376, S=0.03161171092306196}
+(buy(brand name(Carrington))) --> (buy(brand name(Golden))), {C=0.3480870217554388, S=0.04513179651784846}
+(buy(brand name(Golden))) --> (buy(brand name(Carrington))), {C=0.363921568627451, S=0.04513179651784846}
+(buy(brand name(Hilltop))) --> (buy(brand name(Golden))), {C=0.3711790393013101, S=0.03307071296566482}
+(buy(brand name(Golden))) --> (buy(brand name(Hilltop))), {C=0.2666666666666667, S=0.03307071296566482}
+(buy(brand name(Sunset))) --> (buy(brand name(Golden))), {C=0.3577348066298342, S=0.05038420387121875}
+(buy(brand name(Golden))) --> (buy(brand name(Sunset))), {C=0.4062745098039216, S=0.05038420387121875}
+(buy(brand name(Hermanos))) --> (buy(brand name(Golden))), {C=0.33031433137986144, S=0.0603054177609182}
+(buy(brand name(Golden))) --> (buy(brand name(Hermanos))), {C=0.48627450980392156, S=0.0603054177609182}
+(buy(brand name(Fort West))) --> (buy(brand name(Golden))), {C=0.3273213092852371, S=0.04766073339169342}
+(buy(brand name(Golden))) --> (buy(brand name(Fort West))), {C=0.3843137254901961, S=0.04766073339169342}
+(buy(brand name(CDR))) --> (buy(brand name(Golden))), {C=0.334749362786746, S=0.03832312031903511}
+(buy(brand name(Golden))) --> (buy(brand name(CDR))), {C=0.30901960784313726, S=0.03832312031903511}
+(buy(brand name(High Top))) --> (buy(brand name(Faux Products))), {C=0.23900573613766732, S=0.03647505106507149}
+(buy(brand name(Faux Products))) --> (buy(brand name(High Top))), {C=0.46296296296296297, S=0.03647505106507149}
+(buy(brand name(Big Time))) --> (buy(brand name(Faux Products))), {C=0.23574947220267417, S=0.03258437895146386}
+(buy(brand name(Faux Products))) --> (buy(brand name(Big Time))), {C=0.4135802469135802, S=0.03258437895146386}
+(buy(brand name(Red Wing))) --> (buy(brand name(Faux Products))), {C=0.2258756254467477, S=0.03073630969750024}
+(buy(brand name(Faux Products))) --> (buy(brand name(Red Wing))), {C=0.39012345679012345, S=0.03073630969750024}
+(buy(brand name(Tell Tale))) --> (buy(brand name(Faux Products))), {C=0.20958429561200925, S=0.035307849430989205}
+(buy(brand name(Faux Products))) --> (buy(brand name(Tell Tale))), {C=0.4481481481481482, S=0.035307849430989205}
+(buy(brand name(Fast))) --> (buy(brand name(Faux Products))), {C=0.2233267064280981, S=0.03277891255714425}
+(buy(brand name(Faux Products))) --> (buy(brand name(Fast))), {C=0.4160493827160494, S=0.03277891255714425}
+(buy(brand name(Landslide))) --> (buy(brand name(Faux Products))), {C=0.25317460317460316, S=0.031028110106020815}
+(buy(brand name(Faux Products))) --> (buy(brand name(Landslide))), {C=0.39382716049382716, S=0.031028110106020815}
+(buy(brand name(Ebony))) --> (buy(brand name(Faux Products))), {C=0.20902612826603326, S=0.03423791459974711}
+(buy(brand name(Faux Products))) --> (buy(brand name(Ebony))), {C=0.4345679012345679, S=0.03423791459974711}
+(buy(brand name(Nationeel))) --> (buy(brand name(Faux Products))), {C=0.21069797782126548, S=0.03141717731738158}
+(buy(brand name(Faux Products))) --> (buy(brand name(Nationeel))), {C=0.3987654320987654, S=0.03141717731738158}
+(buy(brand name(High Quality))) --> (buy(brand name(Faux Products))), {C=0.2338957055214724, S=0.029666374866258147}
+(buy(brand name(Faux Products))) --> (buy(brand name(High Quality))), {C=0.3765432098765432, S=0.029666374866258147}
+(buy(brand name(Tri-State))) --> (buy(brand name(Faux Products))), {C=0.23123123123123124, S=0.0374477190934734}
+(buy(brand name(Faux Products))) --> (buy(brand name(Tri-State))), {C=0.4753086419753087, S=0.0374477190934734}
+(buy(brand name(Horatio))) --> (buy(brand name(Faux Products))), {C=0.24031563845050216, S=0.03258437895146386}
+(buy(brand name(Faux Products))) --> (buy(brand name(Horatio))), {C=0.4135802469135802, S=0.03258437895146386}
+(buy(brand name(Carrington))) --> (buy(brand name(Faux Products))), {C=0.237059264816204, S=0.03073630969750024}
+(buy(brand name(Faux Products))) --> (buy(brand name(Carrington))), {C=0.39012345679012345, S=0.03073630969750024}
+(buy(brand name(Sunset))) --> (buy(brand name(Faux Products))), {C=0.2230662983425414, S=0.03141717731738158}
+(buy(brand name(Faux Products))) --> (buy(brand name(Sunset))), {C=0.3987654320987654, S=0.03141717731738158}
+(buy(brand name(Hermanos))) --> (buy(brand name(Faux Products))), {C=0.22269579115610014, S=0.040657523587199686}
+(buy(brand name(Faux Products))) --> (buy(brand name(Hermanos))), {C=0.5160493827160494, S=0.040657523587199686}
+(buy(brand name(Fort West))) --> (buy(brand name(Faux Products))), {C=0.22578490313961253, S=0.032876179359984437}
+(buy(brand name(Faux Products))) --> (buy(brand name(Fort West))), {C=0.41728395061728396, S=0.032876179359984437}
+(buy(brand name(High Top))) --> (buy(brand name(Denny))), {C=0.32377310388782665, S=0.049411535842816844}
+(buy(brand name(Denny))) --> (buy(brand name(High Top))), {C=0.41983471074380163, S=0.049411535842816844}
+(buy(brand name(Best Choice))) --> (buy(brand name(Denny))), {C=0.3431818181818182, S=0.04406186168660636}
+(buy(brand name(Denny))) --> (buy(brand name(Best Choice))), {C=0.3743801652892562, S=0.04406186168660636}
+(buy(brand name(Super))) --> (buy(brand name(Denny))), {C=0.3259762308998302, S=0.037350452290633204}
+(buy(brand name(Denny))) --> (buy(brand name(Super))), {C=0.3173553719008264, S=0.037350452290633204}
+(buy(brand name(Better))) --> (buy(brand name(Denny))), {C=0.34236947791164657, S=0.03316797976850501}
+(buy(brand name(Denny))) --> (buy(brand name(Better))), {C=0.28181818181818186, S=0.03316797976850501}
+(buy(brand name(Carlson))) --> (buy(brand name(Denny))), {C=0.36016949152542377, S=0.03307071296566482}
+(buy(brand name(Denny))) --> (buy(brand name(Carlson))), {C=0.2809917355371901, S=0.03307071296566482}
+(buy(brand name(Big Time))) --> (buy(brand name(Denny))), {C=0.3314567206192823, S=0.045812664137729796}
+(buy(brand name(Denny))) --> (buy(brand name(Big Time))), {C=0.38925619834710745, S=0.045812664137729796}
+(buy(brand name(Steady))) --> (buy(brand name(Denny))), {C=0.33299595141700405, S=0.032000778134422724}
+(buy(brand name(Denny))) --> (buy(brand name(Steady))), {C=0.271900826446281, S=0.032000778134422724}
+(buy(brand name(Red Wing))) --> (buy(brand name(Denny))), {C=0.3431022158684775, S=0.04668806536329151}
+(buy(brand name(Denny))) --> (buy(brand name(Red Wing))), {C=0.39669421487603307, S=0.04668806536329151}
+(buy(brand name(Tell Tale))) --> (buy(brand name(Denny))), {C=0.3244803695150116, S=0.05466394319618714}
+(buy(brand name(Denny))) --> (buy(brand name(Tell Tale))), {C=0.4644628099173554, S=0.05466394319618714}
+(buy(brand name(Fast))) --> (buy(brand name(Denny))), {C=0.3061630218687873, S=0.044937262912168076}
+(buy(brand name(Denny))) --> (buy(brand name(Fast))), {C=0.38181818181818183, S=0.044937262912168076}
+(buy(brand name(Landslide))) --> (buy(brand name(Denny))), {C=0.3365079365079365, S=0.04124112440424083}
+(buy(brand name(Denny))) --> (buy(brand name(Landslide))), {C=0.3504132231404959, S=0.04124112440424083}
+(buy(brand name(Bravo))) --> (buy(brand name(Denny))), {C=0.375, S=0.035891450248030345}
+(buy(brand name(Denny))) --> (buy(brand name(Bravo))), {C=0.3049586776859504, S=0.035891450248030345}
+(buy(brand name(Gorilla))) --> (buy(brand name(Denny))), {C=0.35706214689265536, S=0.03073630969750024}
+(buy(brand name(Denny))) --> (buy(brand name(Gorilla))), {C=0.2611570247933884, S=0.03073630969750024}
+(buy(brand name(Imagine))) --> (buy(brand name(Denny))), {C=0.3203252032520325, S=0.03832312031903511}
+(buy(brand name(Denny))) --> (buy(brand name(Imagine))), {C=0.3256198347107438, S=0.03832312031903511}
+(buy(brand name(Cormorant))) --> (buy(brand name(Denny))), {C=0.34745762711864403, S=0.04386732808092598}
+(buy(brand name(Denny))) --> (buy(brand name(Cormorant))), {C=0.37272727272727274, S=0.04386732808092598}
+(buy(brand name(Ebony))) --> (buy(brand name(Denny))), {C=0.3159144893111639, S=0.05174593911098142}
+(buy(brand name(Denny))) --> (buy(brand name(Ebony))), {C=0.43966942148760335, S=0.05174593911098142}
+(buy(brand name(Nationeel))) --> (buy(brand name(Denny))), {C=0.32159165035877363, S=0.047952533800213984}
+(buy(brand name(Denny))) --> (buy(brand name(Nationeel))), {C=0.4074380165289256, S=0.047952533800213984}
+(buy(brand name(BBB Best))) --> (buy(brand name(Denny))), {C=0.3279693486590038, S=0.041630191615601594}
+(buy(brand name(Denny))) --> (buy(brand name(BBB Best))), {C=0.35371900826446284, S=0.041630191615601594}
+(buy(brand name(Just Right))) --> (buy(brand name(Denny))), {C=0.32833020637898686, S=0.03404338099406672}
+(buy(brand name(Denny))) --> (buy(brand name(Just Right))), {C=0.2892561983471074, S=0.03404338099406672}
+(buy(brand name(Even Better))) --> (buy(brand name(Denny))), {C=0.3132780082987552, S=0.029374574457737574}
+(buy(brand name(Denny))) --> (buy(brand name(Even Better))), {C=0.24958677685950414, S=0.029374574457737574}
+(buy(brand name(PigTail))) --> (buy(brand name(Denny))), {C=0.33463338533541337, S=0.04172745841844178}
+(buy(brand name(Denny))) --> (buy(brand name(PigTail))), {C=0.35454545454545455, S=0.04172745841844178}
+(buy(brand name(High Quality))) --> (buy(brand name(Denny))), {C=0.3090490797546012, S=0.039198521544596826}
+(buy(brand name(Denny))) --> (buy(brand name(High Quality))), {C=0.3330578512396694, S=0.039198521544596826}
+(buy(brand name(Tri-State))) --> (buy(brand name(Denny))), {C=0.3291291291291291, S=0.05330220795642447}
+(buy(brand name(Denny))) --> (buy(brand name(Tri-State))), {C=0.4528925619834711, S=0.05330220795642447}
+(buy(brand name(Horatio))) --> (buy(brand name(Denny))), {C=0.34791965566714494, S=0.04717439937749246}
+(buy(brand name(Denny))) --> (buy(brand name(Horatio))), {C=0.40082644628099173, S=0.04717439937749246}
+(buy(brand name(Plato))) --> (buy(brand name(Denny))), {C=0.3460601137286759, S=0.04143565800992122}
+(buy(brand name(Denny))) --> (buy(brand name(Plato))), {C=0.35206611570247937, S=0.04143565800992122}
+(buy(brand name(Pleasant))) --> (buy(brand name(Denny))), {C=0.3572159672466735, S=0.033946114191226534}
+(buy(brand name(Denny))) --> (buy(brand name(Pleasant))), {C=0.2884297520661157, S=0.033946114191226534}
+(buy(brand name(Booker))) --> (buy(brand name(Denny))), {C=0.3470982142857143, S=0.03024997568329929}
+(buy(brand name(Denny))) --> (buy(brand name(Booker))), {C=0.25702479338842976, S=0.03024997568329929}
+(buy(brand name(Carrington))) --> (buy(brand name(Denny))), {C=0.3255813953488372, S=0.04221379243264274}
+(buy(brand name(Denny))) --> (buy(brand name(Carrington))), {C=0.35867768595041327, S=0.04221379243264274}
+(buy(brand name(Hilltop))) --> (buy(brand name(Denny))), {C=0.3635371179039302, S=0.032389845345783486}
+(buy(brand name(Denny))) --> (buy(brand name(Hilltop))), {C=0.27520661157024795, S=0.032389845345783486}
+(buy(brand name(Sunset))) --> (buy(brand name(Denny))), {C=0.34944751381215466, S=0.049217002237136466}
+(buy(brand name(Denny))) --> (buy(brand name(Sunset))), {C=0.4181818181818182, S=0.049217002237136466}
+(buy(brand name(Hermanos))) --> (buy(brand name(Denny))), {C=0.3106020245071923, S=0.05670654605583114}
+(buy(brand name(Denny))) --> (buy(brand name(Hermanos))), {C=0.4818181818181818, S=0.05670654605583114}
+(buy(brand name(Fort West))) --> (buy(brand name(Denny))), {C=0.3066132264529058, S=0.0446454625036475}
+(buy(brand name(Denny))) --> (buy(brand name(Fort West))), {C=0.3793388429752066, S=0.0446454625036475}
+(buy(brand name(CDR))) --> (buy(brand name(Denny))), {C=0.34239592183517414, S=0.039198521544596826}
+(buy(brand name(Denny))) --> (buy(brand name(CDR))), {C=0.3330578512396694, S=0.039198521544596826}
+(buy(brand name(Best Choice))) --> (buy(brand name(High Top))), {C=0.4189393939393939, S=0.05378854197062542}
+(buy(brand name(High Top))) --> (buy(brand name(Best Choice))), {C=0.3524537922243467, S=0.05378854197062542}
+(buy(brand name(Super))) --> (buy(brand name(High Top))), {C=0.42614601018675724, S=0.048827935025775704}
+(buy(brand name(High Top))) --> (buy(brand name(Super))), {C=0.319949012109624, S=0.048827935025775704}
+(buy(brand name(Better))) --> (buy(brand name(High Top))), {C=0.4377510040160642, S=0.04240832603832312}
+(buy(brand name(High Top))) --> (buy(brand name(Better))), {C=0.27788400254939455, S=0.04240832603832312}
+(buy(brand name(Carlson))) --> (buy(brand name(High Top))), {C=0.4279661016949153, S=0.03929578834743702}
+(buy(brand name(High Top))) --> (buy(brand name(Carlson))), {C=0.2574888463989803, S=0.03929578834743702}
+(buy(brand name(Moms))) --> (buy(brand name(High Top))), {C=0.4140302613480055, S=0.029277307654897382}
+(buy(brand name(High Top))) --> (buy(brand name(Moms))), {C=0.19184193753983428, S=0.029277307654897382}
+(buy(brand name(Big Time))) --> (buy(brand name(High Top))), {C=0.4137931034482759, S=0.0571928800700321}
+(buy(brand name(High Top))) --> (buy(brand name(Big Time))), {C=0.3747609942638624, S=0.0571928800700321}
+(buy(brand name(Steady))) --> (buy(brand name(High Top))), {C=0.4139676113360324, S=0.03978212236163797}
+(buy(brand name(High Top))) --> (buy(brand name(Steady))), {C=0.2606755895474825, S=0.03978212236163797}
+(buy(brand name(Red Wing))) --> (buy(brand name(High Top))), {C=0.40100071479628313, S=0.054566676393346954}
+(buy(brand name(High Top))) --> (buy(brand name(Red Wing))), {C=0.35755258126195033, S=0.054566676393346954}
+(buy(brand name(Tell Tale))) --> (buy(brand name(High Top))), {C=0.38914549653579683, S=0.0655578251142885}
+(buy(brand name(High Top))) --> (buy(brand name(Tell Tale))), {C=0.4295729764181007, S=0.0655578251142885}
+(buy(brand name(Fast))) --> (buy(brand name(High Top))), {C=0.4002650762094102, S=0.05874914891547515}
+(buy(brand name(High Top))) --> (buy(brand name(Fast))), {C=0.3849585723390695, S=0.05874914891547515}
+(buy(brand name(Landslide))) --> (buy(brand name(High Top))), {C=0.4261904761904762, S=0.052232273125182374}
+(buy(brand name(High Top))) --> (buy(brand name(Landslide))), {C=0.3422562141491396, S=0.052232273125182374}
+(buy(brand name(Bravo))) --> (buy(brand name(High Top))), {C=0.3953252032520326, S=0.03783678630483416}
+(buy(brand name(High Top))) --> (buy(brand name(Bravo))), {C=0.24792861695347357, S=0.03783678630483416}
+(buy(brand name(Gorilla))) --> (buy(brand name(High Top))), {C=0.44180790960451977, S=0.03803131991051454}
+(buy(brand name(High Top))) --> (buy(brand name(Gorilla))), {C=0.24920331421287445, S=0.03803131991051454}
+(buy(brand name(Cutting Edge))) --> (buy(brand name(High Top))), {C=0.4645061728395062, S=0.029277307654897382}
+(buy(brand name(High Top))) --> (buy(brand name(Cutting Edge))), {C=0.19184193753983428, S=0.029277307654897382}
+(buy(brand name(Imagine))) --> (buy(brand name(High Top))), {C=0.44227642276422763, S=0.05291314074506371}
+(buy(brand name(High Top))) --> (buy(brand name(Imagine))), {C=0.34671765455704273, S=0.05291314074506371}
+(buy(brand name(Consolidated))) --> (buy(brand name(High Top))), {C=0.4326683291770574, S=0.033751580585546156}
+(buy(brand name(High Top))) --> (buy(brand name(Consolidated))), {C=0.22115997450605485, S=0.033751580585546156}
+(buy(brand name(Cormorant))) --> (buy(brand name(High Top))), {C=0.39907550077041604, S=0.05038420387121875}
+(buy(brand name(High Top))) --> (buy(brand name(Cormorant))), {C=0.3301465901848311, S=0.05038420387121875}
+(buy(brand name(Ebony))) --> (buy(brand name(High Top))), {C=0.4121140142517815, S=0.06750316117109231}
+(buy(brand name(High Top))) --> (buy(brand name(Ebony))), {C=0.4423199490121097, S=0.06750316117109231}
+(buy(brand name(Nationeel))) --> (buy(brand name(High Top))), {C=0.4129158512720157, S=0.06156988619784068}
+(buy(brand name(High Top))) --> (buy(brand name(Nationeel))), {C=0.40344168260038243, S=0.06156988619784068}
+(buy(brand name(BBB Best))) --> (buy(brand name(High Top))), {C=0.39233716475095787, S=0.04980060305417761}
+(buy(brand name(High Top))) --> (buy(brand name(BBB Best))), {C=0.32632249840662847, S=0.04980060305417761}
+(buy(brand name(Just Right))) --> (buy(brand name(High Top))), {C=0.40243902439024387, S=0.04172745841844178}
+(buy(brand name(High Top))) --> (buy(brand name(Just Right))), {C=0.2734225621414914, S=0.04172745841844178}
+(buy(brand name(Even Better))) --> (buy(brand name(High Top))), {C=0.3921161825726141, S=0.036766851473592065}
+(buy(brand name(High Top))) --> (buy(brand name(Even Better))), {C=0.24091778202676867, S=0.036766851473592065}
+(buy(brand name(PigTail))) --> (buy(brand name(High Top))), {C=0.405616224648986, S=0.05057873747689914}
+(buy(brand name(High Top))) --> (buy(brand name(PigTail))), {C=0.33142128744423205, S=0.05057873747689914}
+(buy(brand name(Bird Call))) --> (buy(brand name(High Top))), {C=0.3885647607934656, S=0.032389845345783486}
+(buy(brand name(High Top))) --> (buy(brand name(Bird Call))), {C=0.2122370936902486, S=0.032389845345783486}
+(buy(brand name(High Quality))) --> (buy(brand name(High Top))), {C=0.41180981595092025, S=0.052232273125182374}
+(buy(brand name(High Top))) --> (buy(brand name(High Quality))), {C=0.3422562141491396, S=0.052232273125182374}
+(buy(brand name(Tri-State))) --> (buy(brand name(High Top))), {C=0.3867867867867868, S=0.06263982102908278}
+(buy(brand name(High Top))) --> (buy(brand name(Tri-State))), {C=0.41045251752708733, S=0.06263982102908278}
+(buy(brand name(Horatio))) --> (buy(brand name(High Top))), {C=0.4253945480631277, S=0.05767921408423305}
+(buy(brand name(High Top))) --> (buy(brand name(Horatio))), {C=0.3779477374123646, S=0.05767921408423305}
+(buy(brand name(Plato))) --> (buy(brand name(High Top))), {C=0.40373679935012186, S=0.04834160101157475}
+(buy(brand name(High Top))) --> (buy(brand name(Plato))), {C=0.31676226896112175, S=0.04834160101157475}
+(buy(brand name(Pleasant))) --> (buy(brand name(High Top))), {C=0.44421699078812693, S=0.04221379243264274}
+(buy(brand name(High Top))) --> (buy(brand name(Pleasant))), {C=0.27660930528999367, S=0.04221379243264274}
+(buy(brand name(Booker))) --> (buy(brand name(High Top))), {C=0.3895089285714286, S=0.033946114191226534}
+(buy(brand name(High Top))) --> (buy(brand name(Booker))), {C=0.22243467176545573, S=0.033946114191226534}
+(buy(brand name(Carrington))) --> (buy(brand name(High Top))), {C=0.3855963990997749, S=0.04999513665985799}
+(buy(brand name(High Top))) --> (buy(brand name(Carrington))), {C=0.32759719566602935, S=0.04999513665985799}
+(buy(brand name(Hilltop))) --> (buy(brand name(High Top))), {C=0.4017467248908297, S=0.035794183445190156}
+(buy(brand name(High Top))) --> (buy(brand name(Hilltop))), {C=0.23454429572976418, S=0.035794183445190156}
+(buy(brand name(Sunset))) --> (buy(brand name(High Top))), {C=0.40538674033149164, S=0.057095613267191904}
+(buy(brand name(High Top))) --> (buy(brand name(Sunset))), {C=0.3741236456341619, S=0.057095613267191904}
+(buy(brand name(Hermanos))) --> (buy(brand name(High Top))), {C=0.40223761321257323, S=0.07343643614434393}
+(buy(brand name(High Top))) --> (buy(brand name(Hermanos))), {C=0.48119821542383684, S=0.07343643614434393}
+(buy(brand name(Fort West))) --> (buy(brand name(High Top))), {C=0.4034736138944555, S=0.05874914891547515}
+(buy(brand name(High Top))) --> (buy(brand name(Fort West))), {C=0.3849585723390695, S=0.05874914891547515}
+(buy(brand name(CDR))) --> (buy(brand name(High Top))), {C=0.39762107051826684, S=0.04552086372920922}
+(buy(brand name(High Top))) --> (buy(brand name(CDR))), {C=0.2982791586998088, S=0.04552086372920922}
+(buy(brand name(Super))) --> (buy(brand name(Best Choice))), {C=0.36757215619694394, S=0.042116525629802545}
+(buy(brand name(Best Choice))) --> (buy(brand name(Super))), {C=0.328030303030303, S=0.042116525629802545}
+(buy(brand name(Better))) --> (buy(brand name(Best Choice))), {C=0.39056224899598396, S=0.03783678630483416}
+(buy(brand name(Best Choice))) --> (buy(brand name(Better))), {C=0.29469696969696973, S=0.03783678630483416}
+(buy(brand name(Carlson))) --> (buy(brand name(Best Choice))), {C=0.3538135593220339, S=0.032487112148623674}
+(buy(brand name(Best Choice))) --> (buy(brand name(Carlson))), {C=0.25303030303030305, S=0.032487112148623674}
+(buy(brand name(Big Time))) --> (buy(brand name(Best Choice))), {C=0.33075299085151305, S=0.0457153973348896}
+(buy(brand name(Best Choice))) --> (buy(brand name(Big Time))), {C=0.356060606060606, S=0.0457153973348896}
+(buy(brand name(Steady))) --> (buy(brand name(Best Choice))), {C=0.36639676113360325, S=0.035210582628149016}
+(buy(brand name(Best Choice))) --> (buy(brand name(Steady))), {C=0.2742424242424243, S=0.035210582628149016}
+(buy(brand name(Red Wing))) --> (buy(brand name(Best Choice))), {C=0.3423874195854182, S=0.04659079856045132}
+(buy(brand name(Best Choice))) --> (buy(brand name(Red Wing))), {C=0.3628787878787879, S=0.04659079856045132}
+(buy(brand name(Tell Tale))) --> (buy(brand name(Best Choice))), {C=0.3579676674364896, S=0.0603054177609182}
+(buy(brand name(Best Choice))) --> (buy(brand name(Tell Tale))), {C=0.46969696969696967, S=0.0603054177609182}
+(buy(brand name(Fast))) --> (buy(brand name(Best Choice))), {C=0.33863485752153744, S=0.04970333625133742}
+(buy(brand name(Best Choice))) --> (buy(brand name(Fast))), {C=0.3871212121212121, S=0.04970333625133742}
+(buy(brand name(Landslide))) --> (buy(brand name(Best Choice))), {C=0.3531746031746032, S=0.04328372726388484}
+(buy(brand name(Best Choice))) --> (buy(brand name(Landslide))), {C=0.33712121212121215, S=0.04328372726388484}
+(buy(brand name(Bravo))) --> (buy(brand name(Best Choice))), {C=0.35772357723577236, S=0.03423791459974711}
+(buy(brand name(Best Choice))) --> (buy(brand name(Bravo))), {C=0.26666666666666666, S=0.03423791459974711}
+(buy(brand name(Gorilla))) --> (buy(brand name(Best Choice))), {C=0.38079096045197747, S=0.03277891255714425}
+(buy(brand name(Best Choice))) --> (buy(brand name(Gorilla))), {C=0.2553030303030303, S=0.03277891255714425}
+(buy(brand name(Imagine))) --> (buy(brand name(Best Choice))), {C=0.3544715447154471, S=0.04240832603832312}
+(buy(brand name(Best Choice))) --> (buy(brand name(Imagine))), {C=0.33030303030303027, S=0.04240832603832312}
+(buy(brand name(Cormorant))) --> (buy(brand name(Best Choice))), {C=0.36363636363636365, S=0.045909930940569985}
+(buy(brand name(Best Choice))) --> (buy(brand name(Cormorant))), {C=0.3575757575757576, S=0.045909930940569985}
+(buy(brand name(Ebony))) --> (buy(brand name(Best Choice))), {C=0.35391923990498814, S=0.057971014492753624}
+(buy(brand name(Best Choice))) --> (buy(brand name(Ebony))), {C=0.45151515151515154, S=0.057971014492753624}
+(buy(brand name(Nationeel))) --> (buy(brand name(Best Choice))), {C=0.35616438356164387, S=0.053107674350744094}
+(buy(brand name(Best Choice))) --> (buy(brand name(Nationeel))), {C=0.41363636363636364, S=0.053107674350744094}
+(buy(brand name(BBB Best))) --> (buy(brand name(Best Choice))), {C=0.3747126436781609, S=0.04756346658885322}
+(buy(brand name(Best Choice))) --> (buy(brand name(BBB Best))), {C=0.3704545454545454, S=0.04756346658885322}
+(buy(brand name(Just Right))) --> (buy(brand name(Best Choice))), {C=0.34709193245778613, S=0.03598871705087054}
+(buy(brand name(Best Choice))) --> (buy(brand name(Just Right))), {C=0.28030303030303033, S=0.03598871705087054}
+(buy(brand name(Even Better))) --> (buy(brand name(Best Choice))), {C=0.35165975103734437, S=0.032973446162824625}
+(buy(brand name(Best Choice))) --> (buy(brand name(Even Better))), {C=0.2568181818181818, S=0.032973446162824625}
+(buy(brand name(PigTail))) --> (buy(brand name(Best Choice))), {C=0.37363494539781594, S=0.04659079856045132}
+(buy(brand name(Best Choice))) --> (buy(brand name(PigTail))), {C=0.3628787878787879, S=0.04659079856045132}
+(buy(brand name(Bird Call))) --> (buy(brand name(Best Choice))), {C=0.3652275379229872, S=0.03044450928897967}
+(buy(brand name(Best Choice))) --> (buy(brand name(Bird Call))), {C=0.23712121212121212, S=0.03044450928897967}
+(buy(brand name(High Quality))) --> (buy(brand name(Best Choice))), {C=0.36809815950920244, S=0.04668806536329151}
+(buy(brand name(Best Choice))) --> (buy(brand name(High Quality))), {C=0.36363636363636365, S=0.04668806536329151}
+(buy(brand name(Tri-State))) --> (buy(brand name(Best Choice))), {C=0.35915915915915914, S=0.058165548098434}
+(buy(brand name(Best Choice))) --> (buy(brand name(Tri-State))), {C=0.453030303030303, S=0.058165548098434}
+(buy(brand name(Horatio))) --> (buy(brand name(Best Choice))), {C=0.3385939741750359, S=0.045909930940569985}
+(buy(brand name(Best Choice))) --> (buy(brand name(Horatio))), {C=0.3575757575757576, S=0.045909930940569985}
+(buy(brand name(Plato))) --> (buy(brand name(Best Choice))), {C=0.363931762794476, S=0.043575527672405405}
+(buy(brand name(Best Choice))) --> (buy(brand name(Plato))), {C=0.33939393939393936, S=0.043575527672405405}
+(buy(brand name(Pleasant))) --> (buy(brand name(Best Choice))), {C=0.3766632548618219, S=0.035794183445190156}
+(buy(brand name(Best Choice))) --> (buy(brand name(Pleasant))), {C=0.2787878787878788, S=0.035794183445190156}
+(buy(brand name(Booker))) --> (buy(brand name(Best Choice))), {C=0.36941964285714285, S=0.0321953117401031}
+(buy(brand name(Best Choice))) --> (buy(brand name(Booker))), {C=0.25075757575757573, S=0.0321953117401031}
+(buy(brand name(Carrington))) --> (buy(brand name(Best Choice))), {C=0.36234058514628653, S=0.04697986577181208}
+(buy(brand name(Best Choice))) --> (buy(brand name(Carrington))), {C=0.3659090909090909, S=0.04697986577181208}
+(buy(brand name(Hilltop))) --> (buy(brand name(Best Choice))), {C=0.3482532751091703, S=0.031028110106020815}
+(buy(brand name(Best Choice))) --> (buy(brand name(Hilltop))), {C=0.24166666666666667, S=0.031028110106020815}
+(buy(brand name(Sunset))) --> (buy(brand name(Best Choice))), {C=0.33494475138121543, S=0.04717439937749246}
+(buy(brand name(Best Choice))) --> (buy(brand name(Sunset))), {C=0.36742424242424243, S=0.04717439937749246}
+(buy(brand name(Hermanos))) --> (buy(brand name(Best Choice))), {C=0.34363345764517844, S=0.06273708783192296}
+(buy(brand name(Best Choice))) --> (buy(brand name(Hermanos))), {C=0.4886363636363636, S=0.06273708783192296}
+(buy(brand name(Fort West))) --> (buy(brand name(Best Choice))), {C=0.3520374081496326, S=0.05125960509678047}
+(buy(brand name(Best Choice))) --> (buy(brand name(Fort West))), {C=0.3992424242424243, S=0.05125960509678047}
+(buy(brand name(CDR))) --> (buy(brand name(Best Choice))), {C=0.36873406966864913, S=0.04221379243264274}
+(buy(brand name(Best Choice))) --> (buy(brand name(CDR))), {C=0.3287878787878788, S=0.04221379243264274}
+(buy(brand name(Better))) --> (buy(brand name(Super))), {C=0.3544176706827309, S=0.034335181402587296}
+(buy(brand name(Super))) --> (buy(brand name(Better))), {C=0.299660441426146, S=0.034335181402587296}
+(buy(brand name(Carlson))) --> (buy(brand name(Super))), {C=0.3273305084745763, S=0.03005544207761891}
+(buy(brand name(Super))) --> (buy(brand name(Carlson))), {C=0.26230899830220716, S=0.03005544207761891}
+(buy(brand name(Big Time))) --> (buy(brand name(Super))), {C=0.3124560168895144, S=0.04318646046104464}
+(buy(brand name(Super))) --> (buy(brand name(Big Time))), {C=0.3769100169779287, S=0.04318646046104464}
+(buy(brand name(Steady))) --> (buy(brand name(Super))), {C=0.3107287449392713, S=0.02986090847193853}
+(buy(brand name(Super))) --> (buy(brand name(Steady))), {C=0.2606112054329372, S=0.02986090847193853}
+(buy(brand name(Red Wing))) --> (buy(brand name(Super))), {C=0.320228734810579, S=0.043575527672405405}
+(buy(brand name(Super))) --> (buy(brand name(Red Wing))), {C=0.38030560271646857, S=0.043575527672405405}
+(buy(brand name(Tell Tale))) --> (buy(brand name(Super))), {C=0.2979214780600462, S=0.050189670265538375}
+(buy(brand name(Super))) --> (buy(brand name(Tell Tale))), {C=0.4380305602716469, S=0.050189670265538375}
+(buy(brand name(Fast))) --> (buy(brand name(Super))), {C=0.3306825712392313, S=0.04853613461725513}
+(buy(brand name(Super))) --> (buy(brand name(Fast))), {C=0.4235993208828523, S=0.04853613461725513}
+(buy(brand name(Landslide))) --> (buy(brand name(Super))), {C=0.3341269841269841, S=0.04094932399572026}
+(buy(brand name(Super))) --> (buy(brand name(Landslide))), {C=0.35738539898132426, S=0.04094932399572026}
+(buy(brand name(Imagine))) --> (buy(brand name(Super))), {C=0.3276422764227642, S=0.039198521544596826}
+(buy(brand name(Super))) --> (buy(brand name(Imagine))), {C=0.3421052631578947, S=0.039198521544596826}
+(buy(brand name(Cormorant))) --> (buy(brand name(Super))), {C=0.31047765793528503, S=0.039198521544596826}
+(buy(brand name(Super))) --> (buy(brand name(Cormorant))), {C=0.3421052631578947, S=0.039198521544596826}
+(buy(brand name(Ebony))) --> (buy(brand name(Super))), {C=0.29097387173396677, S=0.04766073339169342}
+(buy(brand name(Super))) --> (buy(brand name(Ebony))), {C=0.41595925297113756, S=0.04766073339169342}
+(buy(brand name(Nationeel))) --> (buy(brand name(Super))), {C=0.3111545988258317, S=0.046396264954770935}
+(buy(brand name(Super))) --> (buy(brand name(Nationeel))), {C=0.40492359932088284, S=0.046396264954770935}
+(buy(brand name(BBB Best))) --> (buy(brand name(Super))), {C=0.3080459770114942, S=0.03910125474175664}
+(buy(brand name(Super))) --> (buy(brand name(BBB Best))), {C=0.34125636672325976, S=0.03910125474175664}
+(buy(brand name(Just Right))) --> (buy(brand name(Super))), {C=0.3273921200750469, S=0.033946114191226534}
+(buy(brand name(Super))) --> (buy(brand name(Just Right))), {C=0.29626485568760613, S=0.033946114191226534}
+(buy(brand name(Even Better))) --> (buy(brand name(Super))), {C=0.32987551867219916, S=0.030930843303180626}
+(buy(brand name(Super))) --> (buy(brand name(Even Better))), {C=0.2699490662139219, S=0.030930843303180626}
+(buy(brand name(PigTail))) --> (buy(brand name(Super))), {C=0.3042121684867395, S=0.03793405310767435}
+(buy(brand name(Super))) --> (buy(brand name(PigTail))), {C=0.3310696095076401, S=0.03793405310767435}
+(buy(brand name(High Quality))) --> (buy(brand name(Super))), {C=0.3128834355828221, S=0.039684855558797784}
+(buy(brand name(Super))) --> (buy(brand name(High Quality))), {C=0.3463497453310696, S=0.039684855558797784}
+(buy(brand name(Tri-State))) --> (buy(brand name(Super))), {C=0.3219219219219219, S=0.052135006322342185}
+(buy(brand name(Super))) --> (buy(brand name(Tri-State))), {C=0.45500848896434637, S=0.052135006322342185}
+(buy(brand name(Horatio))) --> (buy(brand name(Super))), {C=0.3220946915351507, S=0.0436727944752456}
+(buy(brand name(Super))) --> (buy(brand name(Horatio))), {C=0.3811544991511036, S=0.0436727944752456}
+(buy(brand name(Plato))) --> (buy(brand name(Super))), {C=0.3119415109666937, S=0.037350452290633204}
+(buy(brand name(Super))) --> (buy(brand name(Plato))), {C=0.3259762308998302, S=0.037350452290633204}
+(buy(brand name(Pleasant))) --> (buy(brand name(Super))), {C=0.3367451381780962, S=0.032000778134422724}
+(buy(brand name(Super))) --> (buy(brand name(Pleasant))), {C=0.27928692699490665, S=0.032000778134422724}
+(buy(brand name(Carrington))) --> (buy(brand name(Super))), {C=0.30457614403600897, S=0.0394903219531174}
+(buy(brand name(Super))) --> (buy(brand name(Carrington))), {C=0.34465195246179964, S=0.0394903219531174}
+(buy(brand name(Sunset))) --> (buy(brand name(Super))), {C=0.316988950276243, S=0.0446454625036475}
+(buy(brand name(Super))) --> (buy(brand name(Sunset))), {C=0.38964346349745327, S=0.0446454625036475}
+(buy(brand name(Hermanos))) --> (buy(brand name(Super))), {C=0.2930207778369739, S=0.053496741562104856}
+(buy(brand name(Super))) --> (buy(brand name(Hermanos))), {C=0.466893039049236, S=0.053496741562104856}
+(buy(brand name(Fort West))) --> (buy(brand name(Super))), {C=0.29058116232464926, S=0.04231105923548293}
+(buy(brand name(Super))) --> (buy(brand name(Fort West))), {C=0.3692699490662139, S=0.04231105923548293}
+(buy(brand name(CDR))) --> (buy(brand name(Super))), {C=0.3143585386576041, S=0.03598871705087054}
+(buy(brand name(Super))) --> (buy(brand name(CDR))), {C=0.3140916808149406, S=0.03598871705087054}
+(buy(brand name(Big Time))) --> (buy(brand name(Better))), {C=0.30049261083743845, S=0.041532924812761406}
+(buy(brand name(Better))) --> (buy(brand name(Big Time))), {C=0.428714859437751, S=0.041532924812761406}
+(buy(brand name(Red Wing))) --> (buy(brand name(Better))), {C=0.26090064331665475, S=0.03550238303666958}
+(buy(brand name(Better))) --> (buy(brand name(Red Wing))), {C=0.3664658634538152, S=0.03550238303666958}
+(buy(brand name(Tell Tale))) --> (buy(brand name(Better))), {C=0.2777136258660508, S=0.0467853321661317}
+(buy(brand name(Better))) --> (buy(brand name(Tell Tale))), {C=0.4829317269076305, S=0.0467853321661317}
+(buy(brand name(Fast))) --> (buy(brand name(Better))), {C=0.27037773359840955, S=0.039684855558797784}
+(buy(brand name(Better))) --> (buy(brand name(Fast))), {C=0.40963855421686746, S=0.039684855558797784}
+(buy(brand name(Landslide))) --> (buy(brand name(Better))), {C=0.2642857142857143, S=0.032389845345783486}
+(buy(brand name(Better))) --> (buy(brand name(Landslide))), {C=0.33433734939759036, S=0.032389845345783486}
+(buy(brand name(Imagine))) --> (buy(brand name(Better))), {C=0.29349593495934956, S=0.03511331582530882}
+(buy(brand name(Better))) --> (buy(brand name(Imagine))), {C=0.3624497991967871, S=0.03511331582530882}
+(buy(brand name(Cormorant))) --> (buy(brand name(Better))), {C=0.2727272727272727, S=0.034432448205427485}
+(buy(brand name(Better))) --> (buy(brand name(Cormorant))), {C=0.35542168674698793, S=0.034432448205427485}
+(buy(brand name(Ebony))) --> (buy(brand name(Better))), {C=0.27137767220902614, S=0.044450928897967125}
+(buy(brand name(Better))) --> (buy(brand name(Ebony))), {C=0.45883534136546184, S=0.044450928897967125}
+(buy(brand name(Nationeel))) --> (buy(brand name(Better))), {C=0.26614481409001955, S=0.039684855558797784}
+(buy(brand name(Better))) --> (buy(brand name(Nationeel))), {C=0.40963855421686746, S=0.039684855558797784}
+(buy(brand name(BBB Best))) --> (buy(brand name(Better))), {C=0.27662835249042145, S=0.03511331582530882}
+(buy(brand name(Better))) --> (buy(brand name(BBB Best))), {C=0.3624497991967871, S=0.03511331582530882}
+(buy(brand name(PigTail))) --> (buy(brand name(Better))), {C=0.28471138845553823, S=0.03550238303666958}
+(buy(brand name(Better))) --> (buy(brand name(PigTail))), {C=0.3664658634538152, S=0.03550238303666958}
+(buy(brand name(High Quality))) --> (buy(brand name(Better))), {C=0.2921779141104295, S=0.03705865188211264}
+(buy(brand name(Better))) --> (buy(brand name(High Quality))), {C=0.38253012048192775, S=0.03705865188211264}
+(buy(brand name(Tri-State))) --> (buy(brand name(Better))), {C=0.2906906906906907, S=0.04707713257465227}
+(buy(brand name(Better))) --> (buy(brand name(Tri-State))), {C=0.4859437751004016, S=0.04707713257465227}
+(buy(brand name(Horatio))) --> (buy(brand name(Better))), {C=0.30846484935437596, S=0.04182472522128198}
+(buy(brand name(Better))) --> (buy(brand name(Horatio))), {C=0.4317269076305221, S=0.04182472522128198}
+(buy(brand name(Plato))) --> (buy(brand name(Better))), {C=0.2745735174654752, S=0.032876179359984437}
+(buy(brand name(Better))) --> (buy(brand name(Plato))), {C=0.3393574297188755, S=0.032876179359984437}
+(buy(brand name(Carrington))) --> (buy(brand name(Better))), {C=0.29107276819204797, S=0.037739519501993966}
+(buy(brand name(Better))) --> (buy(brand name(Carrington))), {C=0.38955823293172687, S=0.037739519501993966}
+(buy(brand name(Sunset))) --> (buy(brand name(Better))), {C=0.26864640883977897, S=0.03783678630483416}
+(buy(brand name(Better))) --> (buy(brand name(Sunset))), {C=0.39056224899598396, S=0.03783678630483416}
+(buy(brand name(Hermanos))) --> (buy(brand name(Better))), {C=0.2690463505594033, S=0.04911973543429628}
+(buy(brand name(Better))) --> (buy(brand name(Hermanos))), {C=0.5070281124497992, S=0.04911973543429628}
+(buy(brand name(Fort West))) --> (buy(brand name(Better))), {C=0.2618570474281897, S=0.038128586713354735}
+(buy(brand name(Better))) --> (buy(brand name(Fort West))), {C=0.39357429718875503, S=0.038128586713354735}
+(buy(brand name(CDR))) --> (buy(brand name(Better))), {C=0.25658453695836875, S=0.029374574457737574}
+(buy(brand name(Better))) --> (buy(brand name(CDR))), {C=0.3032128514056225, S=0.029374574457737574}
+(buy(brand name(Big Time))) --> (buy(brand name(Carlson))), {C=0.2744546094299789, S=0.03793405310767435}
+(buy(brand name(Carlson))) --> (buy(brand name(Big Time))), {C=0.413135593220339, S=0.03793405310767435}
+(buy(brand name(Red Wing))) --> (buy(brand name(Carlson))), {C=0.2594710507505361, S=0.035307849430989205}
+(buy(brand name(Carlson))) --> (buy(brand name(Red Wing))), {C=0.3845338983050848, S=0.035307849430989205}
+(buy(brand name(Tell Tale))) --> (buy(brand name(Carlson))), {C=0.24942263279445728, S=0.04201925882696236}
+(buy(brand name(Carlson))) --> (buy(brand name(Tell Tale))), {C=0.4576271186440678, S=0.04201925882696236}
+(buy(brand name(Fast))) --> (buy(brand name(Carlson))), {C=0.24188204108681247, S=0.03550238303666958}
+(buy(brand name(Carlson))) --> (buy(brand name(Fast))), {C=0.3866525423728813, S=0.03550238303666958}
+(buy(brand name(Landslide))) --> (buy(brand name(Carlson))), {C=0.28095238095238095, S=0.034432448205427485}
+(buy(brand name(Carlson))) --> (buy(brand name(Landslide))), {C=0.37499999999999994, S=0.034432448205427485}
+(buy(brand name(Imagine))) --> (buy(brand name(Carlson))), {C=0.27560975609756094, S=0.032973446162824625}
+(buy(brand name(Carlson))) --> (buy(brand name(Imagine))), {C=0.3591101694915254, S=0.032973446162824625}
+(buy(brand name(Cormorant))) --> (buy(brand name(Carlson))), {C=0.25500770416024654, S=0.0321953117401031}
+(buy(brand name(Carlson))) --> (buy(brand name(Cormorant))), {C=0.35063559322033894, S=0.0321953117401031}
+(buy(brand name(Ebony))) --> (buy(brand name(Carlson))), {C=0.24881235154394302, S=0.04075479039003988}
+(buy(brand name(Carlson))) --> (buy(brand name(Ebony))), {C=0.44385593220338987, S=0.04075479039003988}
+(buy(brand name(Nationeel))) --> (buy(brand name(Carlson))), {C=0.2328767123287671, S=0.03472424861394806}
+(buy(brand name(Carlson))) --> (buy(brand name(Nationeel))), {C=0.3781779661016949, S=0.03472424861394806}
+(buy(brand name(BBB Best))) --> (buy(brand name(Carlson))), {C=0.2574712643678161, S=0.03268164575430406}
+(buy(brand name(Carlson))) --> (buy(brand name(BBB Best))), {C=0.35593220338983056, S=0.03268164575430406}
+(buy(brand name(PigTail))) --> (buy(brand name(Carlson))), {C=0.2683307332293292, S=0.03345978017702558}
+(buy(brand name(Carlson))) --> (buy(brand name(PigTail))), {C=0.364406779661017, S=0.03345978017702558}
+(buy(brand name(High Quality))) --> (buy(brand name(Carlson))), {C=0.26226993865030673, S=0.0332652465713452}
+(buy(brand name(Carlson))) --> (buy(brand name(High Quality))), {C=0.3622881355932203, S=0.0332652465713452}
+(buy(brand name(Tri-State))) --> (buy(brand name(Carlson))), {C=0.2564564564564564, S=0.041532924812761406}
+(buy(brand name(Carlson))) --> (buy(brand name(Tri-State))), {C=0.4523305084745763, S=0.041532924812761406}
+(buy(brand name(Horatio))) --> (buy(brand name(Carlson))), {C=0.27331420373027265, S=0.03705865188211264}
+(buy(brand name(Carlson))) --> (buy(brand name(Horatio))), {C=0.40360169491525427, S=0.03705865188211264}
+(buy(brand name(Plato))) --> (buy(brand name(Carlson))), {C=0.26807473598700243, S=0.03209804493726291}
+(buy(brand name(Carlson))) --> (buy(brand name(Plato))), {C=0.3495762711864407, S=0.03209804493726291}
+(buy(brand name(Carrington))) --> (buy(brand name(Carlson))), {C=0.24981245311327832, S=0.032389845345783486}
+(buy(brand name(Carlson))) --> (buy(brand name(Carrington))), {C=0.3527542372881356, S=0.032389845345783486}
+(buy(brand name(Sunset))) --> (buy(brand name(Carlson))), {C=0.25690607734806625, S=0.03618325065655092}
+(buy(brand name(Carlson))) --> (buy(brand name(Sunset))), {C=0.39406779661016944, S=0.03618325065655092}
+(buy(brand name(Hermanos))) --> (buy(brand name(Carlson))), {C=0.2551944592434736, S=0.04659079856045132}
+(buy(brand name(Carlson))) --> (buy(brand name(Hermanos))), {C=0.5074152542372882, S=0.04659079856045132}
+(buy(brand name(Fort West))) --> (buy(brand name(Carlson))), {C=0.24181696726786908, S=0.035210582628149016}
+(buy(brand name(Carlson))) --> (buy(brand name(Fort West))), {C=0.3834745762711865, S=0.035210582628149016}
+(buy(brand name(Red Wing))) --> (buy(brand name(Moms))), {C=0.2280200142959257, S=0.031028110106020815}
+(buy(brand name(Moms))) --> (buy(brand name(Red Wing))), {C=0.43878954607977994, S=0.031028110106020815}
+(buy(brand name(Tell Tale))) --> (buy(brand name(Moms))), {C=0.18937644341801385, S=0.03190351133158253}
+(buy(brand name(Moms))) --> (buy(brand name(Tell Tale))), {C=0.4511691884456671, S=0.03190351133158253}
+(buy(brand name(Ebony))) --> (buy(brand name(Moms))), {C=0.19655581947743467, S=0.0321953117401031}
+(buy(brand name(Moms))) --> (buy(brand name(Ebony))), {C=0.4552957359009629, S=0.0321953117401031}
+(buy(brand name(Nationeel))) --> (buy(brand name(Moms))), {C=0.20482713633398564, S=0.03054177609181986}
+(buy(brand name(Moms))) --> (buy(brand name(Nationeel))), {C=0.43191196698762035, S=0.03054177609181986}
+(buy(brand name(Tri-State))) --> (buy(brand name(Moms))), {C=0.2132132132132132, S=0.03452971500826768}
+(buy(brand name(Moms))) --> (buy(brand name(Tri-State))), {C=0.4883081155433288, S=0.03452971500826768}
+(buy(brand name(Sunset))) --> (buy(brand name(Moms))), {C=0.21063535911602208, S=0.029666374866258147}
+(buy(brand name(Moms))) --> (buy(brand name(Sunset))), {C=0.4195323246217332, S=0.029666374866258147}
+(buy(brand name(Hermanos))) --> (buy(brand name(Moms))), {C=0.1875332978156633, S=0.03423791459974711}
+(buy(brand name(Moms))) --> (buy(brand name(Hermanos))), {C=0.4841815680880331, S=0.03423791459974711}
+(buy(brand name(Fort West))) --> (buy(brand name(Moms))), {C=0.20240480961923846, S=0.029471841260577766}
+(buy(brand name(Moms))) --> (buy(brand name(Fort West))), {C=0.4167812929848694, S=0.029471841260577766}
+(buy(brand name(Steady))) --> (buy(brand name(Big Time))), {C=0.4018218623481781, S=0.038614920727555686}
+(buy(brand name(Big Time))) --> (buy(brand name(Steady))), {C=0.27938071780436313, S=0.038614920727555686}
+(buy(brand name(Red Wing))) --> (buy(brand name(Big Time))), {C=0.37741243745532527, S=0.05135687189962066}
+(buy(brand name(Big Time))) --> (buy(brand name(Red Wing))), {C=0.3715693173821253, S=0.05135687189962066}
+(buy(brand name(Tell Tale))) --> (buy(brand name(Big Time))), {C=0.367782909930716, S=0.06195895340920144}
+(buy(brand name(Big Time))) --> (buy(brand name(Tell Tale))), {C=0.4482758620689656, S=0.06195895340920144}
+(buy(brand name(Fast))) --> (buy(brand name(Big Time))), {C=0.36514247846255804, S=0.053594008364945045}
+(buy(brand name(Big Time))) --> (buy(brand name(Fast))), {C=0.38775510204081637, S=0.053594008364945045}
+(buy(brand name(Landslide))) --> (buy(brand name(Big Time))), {C=0.3746031746031746, S=0.045909930940569985}
+(buy(brand name(Big Time))) --> (buy(brand name(Landslide))), {C=0.3321604503870514, S=0.045909930940569985}
+(buy(brand name(Bravo))) --> (buy(brand name(Big Time))), {C=0.4186991869918699, S=0.040073922770158546}
+(buy(brand name(Big Time))) --> (buy(brand name(Bravo))), {C=0.2899366643209008, S=0.040073922770158546}
+(buy(brand name(Gorilla))) --> (buy(brand name(Big Time))), {C=0.41581920903954805, S=0.035794183445190156}
+(buy(brand name(Big Time))) --> (buy(brand name(Gorilla))), {C=0.25897255453905704, S=0.035794183445190156}
+(buy(brand name(Imagine))) --> (buy(brand name(Big Time))), {C=0.38455284552845526, S=0.04600719774341017}
+(buy(brand name(Big Time))) --> (buy(brand name(Imagine))), {C=0.33286418015482055, S=0.04600719774341017}
+(buy(brand name(Consolidated))) --> (buy(brand name(Big Time))), {C=0.415211970074813, S=0.032389845345783486}
+(buy(brand name(Big Time))) --> (buy(brand name(Consolidated))), {C=0.23434201266713586, S=0.032389845345783486}
+(buy(brand name(Cormorant))) --> (buy(brand name(Big Time))), {C=0.37673343605546994, S=0.04756346658885322}
+(buy(brand name(Big Time))) --> (buy(brand name(Cormorant))), {C=0.3441238564391274, S=0.04756346658885322}
+(buy(brand name(Ebony))) --> (buy(brand name(Big Time))), {C=0.37232779097387175, S=0.06098628538079953}
+(buy(brand name(Big Time))) --> (buy(brand name(Ebony))), {C=0.4412385643912738, S=0.06098628538079953}
+(buy(brand name(Nationeel))) --> (buy(brand name(Big Time))), {C=0.3868232224396608, S=0.05767921408423305}
+(buy(brand name(Big Time))) --> (buy(brand name(Nationeel))), {C=0.4173117522871218, S=0.05767921408423305}
+(buy(brand name(BBB Best))) --> (buy(brand name(Big Time))), {C=0.3547892720306513, S=0.045034529715008265}
+(buy(brand name(Big Time))) --> (buy(brand name(BBB Best))), {C=0.32582688247712877, S=0.045034529715008265}
+(buy(brand name(Just Right))) --> (buy(brand name(Big Time))), {C=0.3611632270168856, S=0.0374477190934734}
+(buy(brand name(Big Time))) --> (buy(brand name(Just Right))), {C=0.27093596059113306, S=0.0374477190934734}
+(buy(brand name(Even Better))) --> (buy(brand name(Big Time))), {C=0.40352697095435686, S=0.03783678630483416}
+(buy(brand name(Big Time))) --> (buy(brand name(Even Better))), {C=0.27375087966220973, S=0.03783678630483416}
+(buy(brand name(PigTail))) --> (buy(brand name(Big Time))), {C=0.38923556942277693, S=0.04853613461725513}
+(buy(brand name(Big Time))) --> (buy(brand name(PigTail))), {C=0.3511611541168192, S=0.04853613461725513}
+(buy(brand name(Bird Call))) --> (buy(brand name(Big Time))), {C=0.411901983663944, S=0.034335181402587296}
+(buy(brand name(Big Time))) --> (buy(brand name(Bird Call))), {C=0.24841660802251936, S=0.034335181402587296}
+(buy(brand name(High Quality))) --> (buy(brand name(Big Time))), {C=0.38343558282208584, S=0.04863340142009532}
+(buy(brand name(Big Time))) --> (buy(brand name(High Quality))), {C=0.3518648838845883, S=0.04863340142009532}
+(buy(brand name(Tri-State))) --> (buy(brand name(Big Time))), {C=0.38558558558558553, S=0.06244528742340239}
+(buy(brand name(Big Time))) --> (buy(brand name(Tri-State))), {C=0.4517945109078114, S=0.06244528742340239}
+(buy(brand name(Horatio))) --> (buy(brand name(Big Time))), {C=0.3938307030129125, S=0.05339947475926466}
+(buy(brand name(Big Time))) --> (buy(brand name(Horatio))), {C=0.386347642505278, S=0.05339947475926466}
+(buy(brand name(Plato))) --> (buy(brand name(Big Time))), {C=0.4029244516653127, S=0.04824433420873456}
+(buy(brand name(Big Time))) --> (buy(brand name(Plato))), {C=0.34904996481351164, S=0.04824433420873456}
+(buy(brand name(Pleasant))) --> (buy(brand name(Big Time))), {C=0.4104401228249744, S=0.03900398793891645}
+(buy(brand name(Big Time))) --> (buy(brand name(Pleasant))), {C=0.28219563687543986, S=0.03900398793891645}
+(buy(brand name(Booker))) --> (buy(brand name(Big Time))), {C=0.36607142857142855, S=0.03190351133158253}
+(buy(brand name(Big Time))) --> (buy(brand name(Booker))), {C=0.23082336382828994, S=0.03190351133158253}
+(buy(brand name(Carrington))) --> (buy(brand name(Big Time))), {C=0.4006001500375093, S=0.0519404727166618}
+(buy(brand name(Big Time))) --> (buy(brand name(Carrington))), {C=0.37579169598874035, S=0.0519404727166618}
+(buy(brand name(Hilltop))) --> (buy(brand name(Big Time))), {C=0.398471615720524, S=0.03550238303666958}
+(buy(brand name(Big Time))) --> (buy(brand name(Hilltop))), {C=0.2568613652357495, S=0.03550238303666958}
+(buy(brand name(Sunset))) --> (buy(brand name(Big Time))), {C=0.37638121546961323, S=0.0530104075479039}
+(buy(brand name(Big Time))) --> (buy(brand name(Sunset))), {C=0.3835327234342013, S=0.0530104075479039}
+(buy(brand name(Hermanos))) --> (buy(brand name(Big Time))), {C=0.36387852956846034, S=0.06643322633985022}
+(buy(brand name(Big Time))) --> (buy(brand name(Hermanos))), {C=0.48064743138634775, S=0.06643322633985022}
+(buy(brand name(Fort West))) --> (buy(brand name(Big Time))), {C=0.3834335337341349, S=0.05583114483026943}
+(buy(brand name(Big Time))) --> (buy(brand name(Fort West))), {C=0.40394088669950745, S=0.05583114483026943}
+(buy(brand name(CDR))) --> (buy(brand name(Big Time))), {C=0.3653355989804588, S=0.04182472522128198}
+(buy(brand name(Big Time))) --> (buy(brand name(CDR))), {C=0.302603800140746, S=0.04182472522128198}
+(buy(brand name(Red Wing))) --> (buy(brand name(Steady))), {C=0.2794853466761973, S=0.03803131991051454}
+(buy(brand name(Steady))) --> (buy(brand name(Red Wing))), {C=0.395748987854251, S=0.03803131991051454}
+(buy(brand name(Tell Tale))) --> (buy(brand name(Steady))), {C=0.2684757505773672, S=0.04522906332068865}
+(buy(brand name(Steady))) --> (buy(brand name(Tell Tale))), {C=0.4706477732793522, S=0.04522906332068865}
+(buy(brand name(Fast))) --> (buy(brand name(Steady))), {C=0.2664015904572565, S=0.03910125474175664}
+(buy(brand name(Steady))) --> (buy(brand name(Fast))), {C=0.40688259109311736, S=0.03910125474175664}
+(buy(brand name(Landslide))) --> (buy(brand name(Steady))), {C=0.28492063492063496, S=0.03491878221962844}
+(buy(brand name(Steady))) --> (buy(brand name(Landslide))), {C=0.3633603238866397, S=0.03491878221962844}
+(buy(brand name(Imagine))) --> (buy(brand name(Steady))), {C=0.2731707317073171, S=0.03268164575430406}
+(buy(brand name(Steady))) --> (buy(brand name(Imagine))), {C=0.340080971659919, S=0.03268164575430406}
+(buy(brand name(Cormorant))) --> (buy(brand name(Steady))), {C=0.2704160246533128, S=0.03414064779690692}
+(buy(brand name(Steady))) --> (buy(brand name(Cormorant))), {C=0.35526315789473684, S=0.03414064779690692}
+(buy(brand name(Ebony))) --> (buy(brand name(Steady))), {C=0.2583135391923991, S=0.04231105923548293}
+(buy(brand name(Steady))) --> (buy(brand name(Ebony))), {C=0.44028340080971656, S=0.04231105923548293}
+(buy(brand name(Nationeel))) --> (buy(brand name(Steady))), {C=0.24853228962818005, S=0.03705865188211264}
+(buy(brand name(Steady))) --> (buy(brand name(Nationeel))), {C=0.3856275303643725, S=0.03705865188211264}
+(buy(brand name(BBB Best))) --> (buy(brand name(Steady))), {C=0.2712643678160919, S=0.034432448205427485}
+(buy(brand name(Steady))) --> (buy(brand name(BBB Best))), {C=0.35829959514170034, S=0.034432448205427485}
+(buy(brand name(PigTail))) --> (buy(brand name(Steady))), {C=0.26365054602184085, S=0.032876179359984437}
+(buy(brand name(Steady))) --> (buy(brand name(PigTail))), {C=0.3421052631578947, S=0.032876179359984437}
+(buy(brand name(High Quality))) --> (buy(brand name(Steady))), {C=0.26226993865030673, S=0.0332652465713452}
+(buy(brand name(Steady))) --> (buy(brand name(High Quality))), {C=0.34615384615384615, S=0.0332652465713452}
+(buy(brand name(Tri-State))) --> (buy(brand name(Steady))), {C=0.26546546546546546, S=0.042991926855364265}
+(buy(brand name(Steady))) --> (buy(brand name(Tri-State))), {C=0.4473684210526316, S=0.042991926855364265}
+(buy(brand name(Horatio))) --> (buy(brand name(Steady))), {C=0.27761836441893833, S=0.03764225269915378}
+(buy(brand name(Steady))) --> (buy(brand name(Horatio))), {C=0.39170040485829954, S=0.03764225269915378}
+(buy(brand name(Plato))) --> (buy(brand name(Steady))), {C=0.27619821283509344, S=0.03307071296566482}
+(buy(brand name(Steady))) --> (buy(brand name(Plato))), {C=0.3441295546558705, S=0.03307071296566482}
+(buy(brand name(Carrington))) --> (buy(brand name(Steady))), {C=0.2730682670667667, S=0.035405116233829394}
+(buy(brand name(Steady))) --> (buy(brand name(Carrington))), {C=0.3684210526315789, S=0.035405116233829394}
+(buy(brand name(Sunset))) --> (buy(brand name(Steady))), {C=0.2755524861878453, S=0.038809454333236064}
+(buy(brand name(Steady))) --> (buy(brand name(Sunset))), {C=0.4038461538461538, S=0.038809454333236064}
+(buy(brand name(Hermanos))) --> (buy(brand name(Steady))), {C=0.2567927543953117, S=0.04688259896897189}
+(buy(brand name(Steady))) --> (buy(brand name(Hermanos))), {C=0.48785425101214575, S=0.04688259896897189}
+(buy(brand name(Fort West))) --> (buy(brand name(Steady))), {C=0.2605210420841683, S=0.03793405310767435}
+(buy(brand name(Steady))) --> (buy(brand name(Fort West))), {C=0.39473684210526316, S=0.03793405310767435}
+(buy(brand name(CDR))) --> (buy(brand name(Steady))), {C=0.2599830076465591, S=0.029763641669098336}
+(buy(brand name(Steady))) --> (buy(brand name(CDR))), {C=0.3097165991902834, S=0.029763641669098336}
+(buy(brand name(Tell Tale))) --> (buy(brand name(Red Wing))), {C=0.3695150115473442, S=0.062250753817722014}
+(buy(brand name(Red Wing))) --> (buy(brand name(Tell Tale))), {C=0.45746962115797, S=0.062250753817722014}
+(buy(brand name(Fast))) --> (buy(brand name(Red Wing))), {C=0.37243207422133867, S=0.05466394319618714}
+(buy(brand name(Red Wing))) --> (buy(brand name(Fast))), {C=0.40171551107934245, S=0.05466394319618714}
+(buy(brand name(Landslide))) --> (buy(brand name(Red Wing))), {C=0.36904761904761907, S=0.04522906332068865}
+(buy(brand name(Red Wing))) --> (buy(brand name(Landslide))), {C=0.3323802716225876, S=0.04522906332068865}
+(buy(brand name(Bravo))) --> (buy(brand name(Red Wing))), {C=0.37906504065040647, S=0.03628051745939111}
+(buy(brand name(Red Wing))) --> (buy(brand name(Bravo))), {C=0.2666190135811294, S=0.03628051745939111}
+(buy(brand name(Gorilla))) --> (buy(brand name(Red Wing))), {C=0.3887005649717515, S=0.03345978017702558}
+(buy(brand name(Red Wing))) --> (buy(brand name(Gorilla))), {C=0.2458899213724089, S=0.03345978017702558}
+(buy(brand name(Imagine))) --> (buy(brand name(Red Wing))), {C=0.3951219512195122, S=0.047271666180332655}
+(buy(brand name(Red Wing))) --> (buy(brand name(Imagine))), {C=0.3473909935668335, S=0.047271666180332655}
+(buy(brand name(Consolidated))) --> (buy(brand name(Red Wing))), {C=0.3877805486284289, S=0.03024997568329929}
+(buy(brand name(Red Wing))) --> (buy(brand name(Consolidated))), {C=0.22230164403145106, S=0.03024997568329929}
+(buy(brand name(Cormorant))) --> (buy(brand name(Red Wing))), {C=0.37596302003081666, S=0.04746619978601303}
+(buy(brand name(Red Wing))) --> (buy(brand name(Cormorant))), {C=0.34882058613295214, S=0.04746619978601303}
+(buy(brand name(Ebony))) --> (buy(brand name(Red Wing))), {C=0.36995249406175773, S=0.06059721816943877}
+(buy(brand name(Red Wing))) --> (buy(brand name(Ebony))), {C=0.44531808434596143, S=0.06059721816943877}
+(buy(brand name(Nationeel))) --> (buy(brand name(Red Wing))), {C=0.36660143509458576, S=0.05466394319618714}
+(buy(brand name(Red Wing))) --> (buy(brand name(Nationeel))), {C=0.40171551107934245, S=0.05466394319618714}
+(buy(brand name(BBB Best))) --> (buy(brand name(Red Wing))), {C=0.3586206896551724, S=0.04552086372920922}
+(buy(brand name(Red Wing))) --> (buy(brand name(BBB Best))), {C=0.3345246604717656, S=0.04552086372920922}
+(buy(brand name(Just Right))) --> (buy(brand name(Red Wing))), {C=0.3517823639774859, S=0.03647505106507149}
+(buy(brand name(Red Wing))) --> (buy(brand name(Just Right))), {C=0.26804860614724807, S=0.03647505106507149}
+(buy(brand name(Even Better))) --> (buy(brand name(Red Wing))), {C=0.3744813278008298, S=0.03511331582530882}
+(buy(brand name(Red Wing))) --> (buy(brand name(Even Better))), {C=0.2580414581844174, S=0.03511331582530882}
+(buy(brand name(PigTail))) --> (buy(brand name(Red Wing))), {C=0.37753510140405616, S=0.04707713257465227}
+(buy(brand name(Red Wing))) --> (buy(brand name(PigTail))), {C=0.3459614010007148, S=0.04707713257465227}
+(buy(brand name(Bird Call))) --> (buy(brand name(Red Wing))), {C=0.38156359393232203, S=0.03180624452874234}
+(buy(brand name(Red Wing))) --> (buy(brand name(Bird Call))), {C=0.2337383845604003, S=0.03180624452874234}
+(buy(brand name(High Quality))) --> (buy(brand name(Red Wing))), {C=0.39187116564417174, S=0.04970333625133742}
+(buy(brand name(Red Wing))) --> (buy(brand name(High Quality))), {C=0.3652609006433167, S=0.04970333625133742}
+(buy(brand name(Tri-State))) --> (buy(brand name(Red Wing))), {C=0.35615615615615615, S=0.05767921408423305}
+(buy(brand name(Red Wing))) --> (buy(brand name(Tri-State))), {C=0.4238741958541816, S=0.05767921408423305}
+(buy(brand name(Horatio))) --> (buy(brand name(Red Wing))), {C=0.39096126255380204, S=0.0530104075479039}
+(buy(brand name(Red Wing))) --> (buy(brand name(Horatio))), {C=0.38956397426733386, S=0.0530104075479039}
+(buy(brand name(Plato))) --> (buy(brand name(Red Wing))), {C=0.36149471974004876, S=0.04328372726388484}
+(buy(brand name(Red Wing))) --> (buy(brand name(Plato))), {C=0.31808434596140106, S=0.04328372726388484}
+(buy(brand name(Pleasant))) --> (buy(brand name(Red Wing))), {C=0.39815762538382804, S=0.03783678630483416}
+(buy(brand name(Red Wing))) --> (buy(brand name(Pleasant))), {C=0.27805575411007866, S=0.03783678630483416}
+(buy(brand name(Booker))) --> (buy(brand name(Red Wing))), {C=0.3917410714285715, S=0.03414064779690692}
+(buy(brand name(Red Wing))) --> (buy(brand name(Booker))), {C=0.2508934953538242, S=0.03414064779690692}
+(buy(brand name(Carrington))) --> (buy(brand name(Red Wing))), {C=0.3675918979744936, S=0.04766073339169342}
+(buy(brand name(Red Wing))) --> (buy(brand name(Carrington))), {C=0.3502501786990708, S=0.04766073339169342}
+(buy(brand name(Hilltop))) --> (buy(brand name(Red Wing))), {C=0.3951965065502184, S=0.035210582628149016}
+(buy(brand name(Red Wing))) --> (buy(brand name(Hilltop))), {C=0.2587562544674768, S=0.035210582628149016}
+(buy(brand name(Sunset))) --> (buy(brand name(Red Wing))), {C=0.39571823204419887, S=0.05573387802742924}
+(buy(brand name(Red Wing))) --> (buy(brand name(Sunset))), {C=0.40957827019299503, S=0.05573387802742924}
+(buy(brand name(Hermanos))) --> (buy(brand name(Red Wing))), {C=0.3649440596696857, S=0.06662775994553059}
+(buy(brand name(Red Wing))) --> (buy(brand name(Hermanos))), {C=0.48963545389563984, S=0.06662775994553059}
+(buy(brand name(Fort West))) --> (buy(brand name(Red Wing))), {C=0.3593854375417501, S=0.05232953992802256}
+(buy(brand name(Red Wing))) --> (buy(brand name(Fort West))), {C=0.38456040028591854, S=0.05232953992802256}
+(buy(brand name(CDR))) --> (buy(brand name(Red Wing))), {C=0.39677145284621923, S=0.045423596926369034}
+(buy(brand name(Red Wing))) --> (buy(brand name(CDR))), {C=0.3338098641887063, S=0.045423596926369034}
+(buy(brand name(Fast))) --> (buy(brand name(Tell Tale))), {C=0.44333996023856864, S=0.06507149110008754}
+(buy(brand name(Tell Tale))) --> (buy(brand name(Fast))), {C=0.3862586605080832, S=0.06507149110008754}
+(buy(brand name(Landslide))) --> (buy(brand name(Tell Tale))), {C=0.4468253968253968, S=0.05476120999902733}
+(buy(brand name(Tell Tale))) --> (buy(brand name(Landslide))), {C=0.32505773672055427, S=0.05476120999902733}
+(buy(brand name(Bravo))) --> (buy(brand name(Tell Tale))), {C=0.44004065040650403, S=0.042116525629802545}
+(buy(brand name(Tell Tale))) --> (buy(brand name(Bravo))), {C=0.25, S=0.042116525629802545}
+(buy(brand name(Gorilla))) --> (buy(brand name(Tell Tale))), {C=0.46101694915254243, S=0.039684855558797784}
+(buy(brand name(Tell Tale))) --> (buy(brand name(Gorilla))), {C=0.2355658198614319, S=0.039684855558797784}
+(buy(brand name(Imagine))) --> (buy(brand name(Tell Tale))), {C=0.46016260162601624, S=0.055053010407547905}
+(buy(brand name(Tell Tale))) --> (buy(brand name(Imagine))), {C=0.3267898383371825, S=0.055053010407547905}
+(buy(brand name(Consolidated))) --> (buy(brand name(Tell Tale))), {C=0.47256857855361595, S=0.03686411827643225}
+(buy(brand name(Tell Tale))) --> (buy(brand name(Consolidated))), {C=0.21882217090069286, S=0.03686411827643225}
+(buy(brand name(Cormorant))) --> (buy(brand name(Tell Tale))), {C=0.46841294298921415, S=0.05913821612683591}
+(buy(brand name(Tell Tale))) --> (buy(brand name(Cormorant))), {C=0.35103926096997695, S=0.05913821612683591}
+(buy(brand name(Ebony))) --> (buy(brand name(Tell Tale))), {C=0.45486935866983375, S=0.07450637097558603}
+(buy(brand name(Tell Tale))) --> (buy(brand name(Ebony))), {C=0.4422632794457275, S=0.07450637097558603}
+(buy(brand name(Nationeel))) --> (buy(brand name(Tell Tale))), {C=0.446836268754077, S=0.06662775994553059}
+(buy(brand name(Tell Tale))) --> (buy(brand name(Nationeel))), {C=0.3954965357967668, S=0.06662775994553059}
+(buy(brand name(BBB Best))) --> (buy(brand name(Tell Tale))), {C=0.45134099616858236, S=0.05729014687287229}
+(buy(brand name(Tell Tale))) --> (buy(brand name(BBB Best))), {C=0.34006928406466513, S=0.05729014687287229}
+(buy(brand name(Just Right))) --> (buy(brand name(Tell Tale))), {C=0.45778611632270166, S=0.04746619978601303}
+(buy(brand name(Tell Tale))) --> (buy(brand name(Just Right))), {C=0.2817551963048499, S=0.04746619978601303}
+(buy(brand name(Even Better))) --> (buy(brand name(Tell Tale))), {C=0.46058091286307046, S=0.04318646046104464}
+(buy(brand name(Tell Tale))) --> (buy(brand name(Even Better))), {C=0.25635103926096997, S=0.04318646046104464}
+(buy(brand name(American))) --> (buy(brand name(Tell Tale))), {C=0.4590643274853801, S=0.03054177609181986}
+(buy(brand name(Tell Tale))) --> (buy(brand name(American))), {C=0.1812933025404157, S=0.03054177609181986}
+(buy(brand name(PigTail))) --> (buy(brand name(Tell Tale))), {C=0.44617784711388453, S=0.055636611224589044}
+(buy(brand name(Tell Tale))) --> (buy(brand name(PigTail))), {C=0.3302540415704388, S=0.055636611224589044}
+(buy(brand name(Bird Call))) --> (buy(brand name(Tell Tale))), {C=0.4457409568261377, S=0.03715591868495283}
+(buy(brand name(Tell Tale))) --> (buy(brand name(Bird Call))), {C=0.22055427251732104, S=0.03715591868495283}
+(buy(brand name(High Quality))) --> (buy(brand name(Tell Tale))), {C=0.4447852760736196, S=0.056414745647310575}
+(buy(brand name(Tell Tale))) --> (buy(brand name(High Quality))), {C=0.33487297921478065, S=0.056414745647310575}
+(buy(brand name(Tri-State))) --> (buy(brand name(Tell Tale))), {C=0.4540540540540541, S=0.07353370294718413}
+(buy(brand name(Tell Tale))) --> (buy(brand name(Tri-State))), {C=0.4364896073903003, S=0.07353370294718413}
+(buy(brand name(Horatio))) --> (buy(brand name(Tell Tale))), {C=0.4540889526542325, S=0.06156988619784068}
+(buy(brand name(Tell Tale))) --> (buy(brand name(Horatio))), {C=0.36547344110854507, S=0.06156988619784068}
+(buy(brand name(Plato))) --> (buy(brand name(Tell Tale))), {C=0.4476035743298131, S=0.053594008364945045}
+(buy(brand name(Tell Tale))) --> (buy(brand name(Plato))), {C=0.3181293302540416, S=0.053594008364945045}
+(buy(brand name(Pleasant))) --> (buy(brand name(Tell Tale))), {C=0.46673490276356194, S=0.044353662095126936}
+(buy(brand name(Tell Tale))) --> (buy(brand name(Pleasant))), {C=0.26327944572748274, S=0.044353662095126936}
+(buy(brand name(Booker))) --> (buy(brand name(Tell Tale))), {C=0.48772321428571436, S=0.042505592841163314}
+(buy(brand name(Tell Tale))) --> (buy(brand name(Booker))), {C=0.2523094688221709, S=0.042505592841163314}
+(buy(brand name(Lake))) --> (buy(brand name(Tell Tale))), {C=0.4892307692307692, S=0.030930843303180626}
+(buy(brand name(Tell Tale))) --> (buy(brand name(Lake))), {C=0.18360277136258663, S=0.030930843303180626}
+(buy(brand name(Carrington))) --> (buy(brand name(Tell Tale))), {C=0.4538634658664666, S=0.05884641571831534}
+(buy(brand name(Tell Tale))) --> (buy(brand name(Carrington))), {C=0.3493071593533487, S=0.05884641571831534}
+(buy(brand name(Hilltop))) --> (buy(brand name(Tell Tale))), {C=0.46397379912663755, S=0.04133839120708102}
+(buy(brand name(Tell Tale))) --> (buy(brand name(Hilltop))), {C=0.2453810623556582, S=0.04133839120708102}
+(buy(brand name(Sunset))) --> (buy(brand name(Tell Tale))), {C=0.4385359116022099, S=0.061764419803521056}
+(buy(brand name(Tell Tale))) --> (buy(brand name(Sunset))), {C=0.3666281755196305, S=0.061764419803521056}
+(buy(brand name(Hermanos))) --> (buy(brand name(Tell Tale))), {C=0.4310069259456579, S=0.07868884349771423}
+(buy(brand name(Tell Tale))) --> (buy(brand name(Hermanos))), {C=0.46709006928406466, S=0.07868884349771423}
+(buy(brand name(Fort West))) --> (buy(brand name(Tell Tale))), {C=0.45156980627922505, S=0.06575235871996887}
+(buy(brand name(Tell Tale))) --> (buy(brand name(Fort West))), {C=0.3903002309468822, S=0.06575235871996887}
+(buy(brand name(CDR))) --> (buy(brand name(Tell Tale))), {C=0.4545454545454546, S=0.052037739519501996}
+(buy(brand name(Tell Tale))) --> (buy(brand name(CDR))), {C=0.308891454965358, S=0.052037739519501996}
+(buy(brand name(Landslide))) --> (buy(brand name(Fast))), {C=0.41825396825396827, S=0.05125960509678047}
+(buy(brand name(Fast))) --> (buy(brand name(Landslide))), {C=0.3492379058979457, S=0.05125960509678047}
+(buy(brand name(Bravo))) --> (buy(brand name(Fast))), {C=0.38211382113821135, S=0.03657231786791168}
+(buy(brand name(Fast))) --> (buy(brand name(Bravo))), {C=0.24917163684559313, S=0.03657231786791168}
+(buy(brand name(Gorilla))) --> (buy(brand name(Fast))), {C=0.4124293785310735, S=0.03550238303666958}
+(buy(brand name(Fast))) --> (buy(brand name(Gorilla))), {C=0.24188204108681247, S=0.03550238303666958}
+(buy(brand name(Imagine))) --> (buy(brand name(Fast))), {C=0.3739837398373984, S=0.0447427293064877}
+(buy(brand name(Fast))) --> (buy(brand name(Imagine))), {C=0.3048376408217363, S=0.0447427293064877}
+(buy(brand name(Consolidated))) --> (buy(brand name(Fast))), {C=0.38403990024937656, S=0.029958175274778717}
+(buy(brand name(Fast))) --> (buy(brand name(Consolidated))), {C=0.20410868124585818, S=0.029958175274778717}
+(buy(brand name(Cormorant))) --> (buy(brand name(Fast))), {C=0.38751926040061635, S=0.04892520182861589}
+(buy(brand name(Fast))) --> (buy(brand name(Cormorant))), {C=0.33333333333333337, S=0.04892520182861589}
+(buy(brand name(Ebony))) --> (buy(brand name(Fast))), {C=0.37945368171021376, S=0.06215348701488182}
+(buy(brand name(Fast))) --> (buy(brand name(Ebony))), {C=0.4234592445328032, S=0.06215348701488182}
+(buy(brand name(Nationeel))) --> (buy(brand name(Fast))), {C=0.39008480104370513, S=0.058165548098434}
+(buy(brand name(Fast))) --> (buy(brand name(Nationeel))), {C=0.39628893306825713, S=0.058165548098434}
+(buy(brand name(BBB Best))) --> (buy(brand name(Fast))), {C=0.378544061302682, S=0.04804980060305418}
+(buy(brand name(Fast))) --> (buy(brand name(BBB Best))), {C=0.3273691186216037, S=0.04804980060305418}
+(buy(brand name(Just Right))) --> (buy(brand name(Fast))), {C=0.3930581613508443, S=0.04075479039003988}
+(buy(brand name(Fast))) --> (buy(brand name(Just Right))), {C=0.27766732935719024, S=0.04075479039003988}
+(buy(brand name(Even Better))) --> (buy(brand name(Fast))), {C=0.4118257261410788, S=0.038614920727555686}
+(buy(brand name(Fast))) --> (buy(brand name(Even Better))), {C=0.2630881378396289, S=0.038614920727555686}
+(buy(brand name(PigTail))) --> (buy(brand name(Fast))), {C=0.40171606864274567, S=0.05009240346269818}
+(buy(brand name(Fast))) --> (buy(brand name(PigTail))), {C=0.3412856196156395, S=0.05009240346269818}
+(buy(brand name(Bird Call))) --> (buy(brand name(Fast))), {C=0.4072345390898483, S=0.033946114191226534}
+(buy(brand name(Fast))) --> (buy(brand name(Bird Call))), {C=0.23127899271040425, S=0.033946114191226534}
+(buy(brand name(High Quality))) --> (buy(brand name(Fast))), {C=0.40874233128834353, S=0.05184320591382161}
+(buy(brand name(Fast))) --> (buy(brand name(High Quality))), {C=0.35321404903909875, S=0.05184320591382161}
+(buy(brand name(Tri-State))) --> (buy(brand name(Fast))), {C=0.40420420420420416, S=0.0654605583114483}
+(buy(brand name(Fast))) --> (buy(brand name(Tri-State))), {C=0.4459907223326707, S=0.0654605583114483}
+(buy(brand name(Horatio))) --> (buy(brand name(Fast))), {C=0.40530846484935446, S=0.054955743604707716}
+(buy(brand name(Fast))) --> (buy(brand name(Horatio))), {C=0.37442014579191524, S=0.054955743604707716}
+(buy(brand name(Plato))) --> (buy(brand name(Fast))), {C=0.4110479285134037, S=0.049217002237136466}
+(buy(brand name(Fast))) --> (buy(brand name(Plato))), {C=0.3353214049039099, S=0.049217002237136466}
+(buy(brand name(Pleasant))) --> (buy(brand name(Fast))), {C=0.43705220061412486, S=0.041532924812761406}
+(buy(brand name(Fast))) --> (buy(brand name(Pleasant))), {C=0.2829688535453943, S=0.041532924812761406}
+(buy(brand name(Booker))) --> (buy(brand name(Fast))), {C=0.3995535714285714, S=0.03482151541678825}
+(buy(brand name(Fast))) --> (buy(brand name(Booker))), {C=0.23724320742213387, S=0.03482151541678825}
+(buy(brand name(Carrington))) --> (buy(brand name(Fast))), {C=0.4276069017254313, S=0.05544207761890867}
+(buy(brand name(Fast))) --> (buy(brand name(Carrington))), {C=0.3777335984095428, S=0.05544207761890867}
+(buy(brand name(Hilltop))) --> (buy(brand name(Fast))), {C=0.4181222707423581, S=0.037253185487793015}
+(buy(brand name(Fast))) --> (buy(brand name(Hilltop))), {C=0.2538104705102717, S=0.037253185487793015}
+(buy(brand name(Sunset))) --> (buy(brand name(Fast))), {C=0.3895027624309392, S=0.05485847680186752}
+(buy(brand name(Fast))) --> (buy(brand name(Sunset))), {C=0.37375745526838966, S=0.05485847680186752}
+(buy(brand name(Hermanos))) --> (buy(brand name(Fast))), {C=0.3686734150239744, S=0.06730862756541192}
+(buy(brand name(Fast))) --> (buy(brand name(Hermanos))), {C=0.4585818422796554, S=0.06730862756541192}
+(buy(brand name(Fort West))) --> (buy(brand name(Fast))), {C=0.39679358717434865, S=0.05777648088707324}
+(buy(brand name(Fast))) --> (buy(brand name(Fort West))), {C=0.3936381709741551, S=0.05777648088707324}
+(buy(brand name(CDR))) --> (buy(brand name(Fast))), {C=0.3984706881903144, S=0.04561813053204941}
+(buy(brand name(Fast))) --> (buy(brand name(CDR))), {C=0.3108018555334659, S=0.04561813053204941}
+(buy(brand name(Bravo))) --> (buy(brand name(Landslide))), {C=0.3607723577235773, S=0.03452971500826768}
+(buy(brand name(Landslide))) --> (buy(brand name(Bravo))), {C=0.28174603174603174, S=0.03452971500826768}
+(buy(brand name(Imagine))) --> (buy(brand name(Landslide))), {C=0.34390243902439027, S=0.041143857601400644}
+(buy(brand name(Landslide))) --> (buy(brand name(Imagine))), {C=0.33571428571428574, S=0.041143857601400644}
+(buy(brand name(Cormorant))) --> (buy(brand name(Landslide))), {C=0.35130970724191063, S=0.044353662095126936}
+(buy(brand name(Landslide))) --> (buy(brand name(Cormorant))), {C=0.36190476190476195, S=0.044353662095126936}
+(buy(brand name(Ebony))) --> (buy(brand name(Landslide))), {C=0.32422802850356297, S=0.053107674350744094}
+(buy(brand name(Landslide))) --> (buy(brand name(Ebony))), {C=0.43333333333333335, S=0.053107674350744094}
+(buy(brand name(Nationeel))) --> (buy(brand name(Landslide))), {C=0.3072407045009785, S=0.045812664137729796}
+(buy(brand name(Landslide))) --> (buy(brand name(Nationeel))), {C=0.3738095238095238, S=0.045812664137729796}
+(buy(brand name(BBB Best))) --> (buy(brand name(Landslide))), {C=0.3264367816091954, S=0.04143565800992122}
+(buy(brand name(Landslide))) --> (buy(brand name(BBB Best))), {C=0.3380952380952381, S=0.04143565800992122}
+(buy(brand name(Just Right))) --> (buy(brand name(Landslide))), {C=0.33583489681050654, S=0.03482151541678825}
+(buy(brand name(Landslide))) --> (buy(brand name(Just Right))), {C=0.2841269841269841, S=0.03482151541678825}
+(buy(brand name(Even Better))) --> (buy(brand name(Landslide))), {C=0.35165975103734437, S=0.032973446162824625}
+(buy(brand name(Landslide))) --> (buy(brand name(Even Better))), {C=0.26904761904761904, S=0.032973446162824625}
+(buy(brand name(PigTail))) --> (buy(brand name(Landslide))), {C=0.3541341653666147, S=0.04415912848944655}
+(buy(brand name(Landslide))) --> (buy(brand name(PigTail))), {C=0.3603174603174603, S=0.04415912848944655}
+(buy(brand name(Bird Call))) --> (buy(brand name(Landslide))), {C=0.36639439906651106, S=0.03054177609181986}
+(buy(brand name(Landslide))) --> (buy(brand name(Bird Call))), {C=0.24920634920634918, S=0.03054177609181986}
+(buy(brand name(High Quality))) --> (buy(brand name(Landslide))), {C=0.33358895705521474, S=0.04231105923548293}
+(buy(brand name(Landslide))) --> (buy(brand name(High Quality))), {C=0.34523809523809523, S=0.04231105923548293}
+(buy(brand name(Tri-State))) --> (buy(brand name(Landslide))), {C=0.3405405405405405, S=0.05515027721038809}
+(buy(brand name(Landslide))) --> (buy(brand name(Tri-State))), {C=0.45, S=0.05515027721038809}
+(buy(brand name(Horatio))) --> (buy(brand name(Landslide))), {C=0.3400286944045911, S=0.04610446454625036}
+(buy(brand name(Landslide))) --> (buy(brand name(Horatio))), {C=0.3761904761904762, S=0.04610446454625036}
+(buy(brand name(Plato))) --> (buy(brand name(Landslide))), {C=0.346872461413485, S=0.041532924812761406}
+(buy(brand name(Landslide))) --> (buy(brand name(Plato))), {C=0.3388888888888889, S=0.041532924812761406}
+(buy(brand name(Pleasant))) --> (buy(brand name(Landslide))), {C=0.3572159672466735, S=0.033946114191226534}
+(buy(brand name(Landslide))) --> (buy(brand name(Pleasant))), {C=0.276984126984127, S=0.033946114191226534}
+(buy(brand name(Booker))) --> (buy(brand name(Landslide))), {C=0.36718750000000006, S=0.032000778134422724}
+(buy(brand name(Landslide))) --> (buy(brand name(Booker))), {C=0.2611111111111111, S=0.032000778134422724}
+(buy(brand name(Carrington))) --> (buy(brand name(Landslide))), {C=0.3390847711927982, S=0.043964594883766174}
+(buy(brand name(Landslide))) --> (buy(brand name(Carrington))), {C=0.35873015873015873, S=0.043964594883766174}
+(buy(brand name(Hilltop))) --> (buy(brand name(Landslide))), {C=0.3548034934497817, S=0.03161171092306196}
+(buy(brand name(Landslide))) --> (buy(brand name(Hilltop))), {C=0.25793650793650796, S=0.03161171092306196}
+(buy(brand name(Sunset))) --> (buy(brand name(Landslide))), {C=0.3342541436464088, S=0.04707713257465227}
+(buy(brand name(Landslide))) --> (buy(brand name(Sunset))), {C=0.38412698412698415, S=0.04707713257465227}
+(buy(brand name(Hermanos))) --> (buy(brand name(Landslide))), {C=0.32338838572189665, S=0.05904094932399572}
+(buy(brand name(Landslide))) --> (buy(brand name(Hermanos))), {C=0.48174603174603176, S=0.05904094932399572}
+(buy(brand name(Fort West))) --> (buy(brand name(Landslide))), {C=0.33132932531730125, S=0.04824433420873456}
+(buy(brand name(Landslide))) --> (buy(brand name(Fort West))), {C=0.39365079365079364, S=0.04824433420873456}
+(buy(brand name(CDR))) --> (buy(brand name(Landslide))), {C=0.35089209855564996, S=0.040171189572998735}
+(buy(brand name(Landslide))) --> (buy(brand name(CDR))), {C=0.3277777777777778, S=0.040171189572998735}
+(buy(brand name(Imagine))) --> (buy(brand name(Bravo))), {C=0.25691056910569104, S=0.03073630969750024}
+(buy(brand name(Bravo))) --> (buy(brand name(Imagine))), {C=0.3211382113821138, S=0.03073630969750024}
+(buy(brand name(Cormorant))) --> (buy(brand name(Bravo))), {C=0.2681047765793529, S=0.033848847388386345}
+(buy(brand name(Bravo))) --> (buy(brand name(Cormorant))), {C=0.3536585365853659, S=0.033848847388386345}
+(buy(brand name(Ebony))) --> (buy(brand name(Bravo))), {C=0.2517814726840855, S=0.04124112440424083}
+(buy(brand name(Bravo))) --> (buy(brand name(Ebony))), {C=0.43089430894308944, S=0.04124112440424083}
+(buy(brand name(Nationeel))) --> (buy(brand name(Bravo))), {C=0.2648401826484018, S=0.0394903219531174}
+(buy(brand name(Bravo))) --> (buy(brand name(Nationeel))), {C=0.41260162601626016, S=0.0394903219531174}
+(buy(brand name(BBB Best))) --> (buy(brand name(Bravo))), {C=0.26053639846743293, S=0.03307071296566482}
+(buy(brand name(Bravo))) --> (buy(brand name(BBB Best))), {C=0.3455284552845529, S=0.03307071296566482}
+(buy(brand name(PigTail))) --> (buy(brand name(Bravo))), {C=0.2675507020280811, S=0.03336251337418539}
+(buy(brand name(Bravo))) --> (buy(brand name(PigTail))), {C=0.3485772357723577, S=0.03336251337418539}
+(buy(brand name(High Quality))) --> (buy(brand name(Bravo))), {C=0.23006134969325154, S=0.029180040852057193}
+(buy(brand name(Bravo))) --> (buy(brand name(High Quality))), {C=0.3048780487804878, S=0.029180040852057193}
+(buy(brand name(Tri-State))) --> (buy(brand name(Bravo))), {C=0.27567567567567564, S=0.0446454625036475}
+(buy(brand name(Bravo))) --> (buy(brand name(Tri-State))), {C=0.4664634146341463, S=0.0446454625036475}
+(buy(brand name(Horatio))) --> (buy(brand name(Bravo))), {C=0.2890961262553802, S=0.039198521544596826}
+(buy(brand name(Bravo))) --> (buy(brand name(Horatio))), {C=0.4095528455284553, S=0.039198521544596826}
+(buy(brand name(Plato))) --> (buy(brand name(Bravo))), {C=0.2713241267262388, S=0.032487112148623674}
+(buy(brand name(Bravo))) --> (buy(brand name(Plato))), {C=0.3394308943089431, S=0.032487112148623674}
+(buy(brand name(Carrington))) --> (buy(brand name(Bravo))), {C=0.2753188297074268, S=0.03569691664234997}
+(buy(brand name(Bravo))) --> (buy(brand name(Carrington))), {C=0.37296747967479676, S=0.03569691664234997}
+(buy(brand name(Sunset))) --> (buy(brand name(Bravo))), {C=0.2700276243093922, S=0.03803131991051454}
+(buy(brand name(Bravo))) --> (buy(brand name(Sunset))), {C=0.39735772357723576, S=0.03803131991051454}
+(buy(brand name(Hermanos))) --> (buy(brand name(Bravo))), {C=0.2551944592434736, S=0.04659079856045132}
+(buy(brand name(Bravo))) --> (buy(brand name(Hermanos))), {C=0.4867886178861789, S=0.04659079856045132}
+(buy(brand name(Fort West))) --> (buy(brand name(Bravo))), {C=0.261189044756179, S=0.03803131991051454}
+(buy(brand name(Bravo))) --> (buy(brand name(Fort West))), {C=0.39735772357723576, S=0.03803131991051454}
+(buy(brand name(Imagine))) --> (buy(brand name(Gorilla))), {C=0.24715447154471545, S=0.029569108063417955}
+(buy(brand name(Gorilla))) --> (buy(brand name(Imagine))), {C=0.3435028248587571, S=0.029569108063417955}
+(buy(brand name(Cormorant))) --> (buy(brand name(Gorilla))), {C=0.25346687211093993, S=0.032000778134422724}
+(buy(brand name(Gorilla))) --> (buy(brand name(Cormorant))), {C=0.3717514124293786, S=0.032000778134422724}
+(buy(brand name(Ebony))) --> (buy(brand name(Gorilla))), {C=0.24109263657957244, S=0.0394903219531174}
+(buy(brand name(Gorilla))) --> (buy(brand name(Ebony))), {C=0.45875706214689266, S=0.0394903219531174}
+(buy(brand name(Nationeel))) --> (buy(brand name(Gorilla))), {C=0.2315720808871494, S=0.03452971500826768}
+(buy(brand name(Gorilla))) --> (buy(brand name(Nationeel))), {C=0.40112994350282494, S=0.03452971500826768}
+(buy(brand name(BBB Best))) --> (buy(brand name(Gorilla))), {C=0.25134099616858235, S=0.03190351133158253}
+(buy(brand name(Gorilla))) --> (buy(brand name(BBB Best))), {C=0.3706214689265537, S=0.03190351133158253}
+(buy(brand name(PigTail))) --> (buy(brand name(Gorilla))), {C=0.2542901716068643, S=0.03170897772590215}
+(buy(brand name(Gorilla))) --> (buy(brand name(PigTail))), {C=0.368361581920904, S=0.03170897772590215}
+(buy(brand name(High Quality))) --> (buy(brand name(Gorilla))), {C=0.24003067484662577, S=0.03044450928897967}
+(buy(brand name(Gorilla))) --> (buy(brand name(High Quality))), {C=0.35367231638418084, S=0.03044450928897967}
+(buy(brand name(Tri-State))) --> (buy(brand name(Gorilla))), {C=0.22882882882882882, S=0.03705865188211264}
+(buy(brand name(Gorilla))) --> (buy(brand name(Tri-State))), {C=0.4305084745762712, S=0.03705865188211264}
+(buy(brand name(Horatio))) --> (buy(brand name(Gorilla))), {C=0.2539454806312769, S=0.034432448205427485}
+(buy(brand name(Gorilla))) --> (buy(brand name(Horatio))), {C=0.4, S=0.034432448205427485}
+(buy(brand name(Plato))) --> (buy(brand name(Gorilla))), {C=0.25507717303005684, S=0.03054177609181986}
+(buy(brand name(Gorilla))) --> (buy(brand name(Plato))), {C=0.35480225988700564, S=0.03054177609181986}
+(buy(brand name(Carrington))) --> (buy(brand name(Gorilla))), {C=0.24606151537884466, S=0.03190351133158253}
+(buy(brand name(Gorilla))) --> (buy(brand name(Carrington))), {C=0.3706214689265537, S=0.03190351133158253}
+(buy(brand name(Sunset))) --> (buy(brand name(Gorilla))), {C=0.23964088397790057, S=0.033751580585546156}
+(buy(brand name(Gorilla))) --> (buy(brand name(Sunset))), {C=0.39209039548022606, S=0.033751580585546156}
+(buy(brand name(Hermanos))) --> (buy(brand name(Gorilla))), {C=0.22908897176345233, S=0.04182472522128198}
+(buy(brand name(Gorilla))) --> (buy(brand name(Hermanos))), {C=0.48587570621468934, S=0.04182472522128198}
+(buy(brand name(Fort West))) --> (buy(brand name(Gorilla))), {C=0.24716098864395458, S=0.03598871705087054}
+(buy(brand name(Gorilla))) --> (buy(brand name(Fort West))), {C=0.4180790960451978, S=0.03598871705087054}
+(buy(brand name(Ebony))) --> (buy(brand name(Cutting Edge))), {C=0.18824228028503565, S=0.030833576500340434}
+(buy(brand name(Cutting Edge))) --> (buy(brand name(Ebony))), {C=0.4891975308641976, S=0.030833576500340434}
+(buy(brand name(Tri-State))) --> (buy(brand name(Cutting Edge))), {C=0.18138138138138138, S=0.029374574457737574}
+(buy(brand name(Cutting Edge))) --> (buy(brand name(Tri-State))), {C=0.4660493827160494, S=0.029374574457737574}
+(buy(brand name(Hermanos))) --> (buy(brand name(Cutting Edge))), {C=0.17101758124667021, S=0.031222643711701196}
+(buy(brand name(Cutting Edge))) --> (buy(brand name(Hermanos))), {C=0.4953703703703704, S=0.031222643711701196}
+(buy(brand name(Consolidated))) --> (buy(brand name(Imagine))), {C=0.3802992518703242, S=0.029666374866258147}
+(buy(brand name(Imagine))) --> (buy(brand name(Consolidated))), {C=0.24796747967479676, S=0.029666374866258147}
+(buy(brand name(Cormorant))) --> (buy(brand name(Imagine))), {C=0.33821263482280434, S=0.04270012644684369}
+(buy(brand name(Imagine))) --> (buy(brand name(Cormorant))), {C=0.3569105691056911, S=0.04270012644684369}
+(buy(brand name(Ebony))) --> (buy(brand name(Imagine))), {C=0.33016627078384797, S=0.054080342379145996}
+(buy(brand name(Imagine))) --> (buy(brand name(Ebony))), {C=0.45203252032520325, S=0.054080342379145996}
+(buy(brand name(Nationeel))) --> (buy(brand name(Imagine))), {C=0.3170254403131116, S=0.047271666180332655}
+(buy(brand name(Imagine))) --> (buy(brand name(Nationeel))), {C=0.3951219512195122, S=0.047271666180332655}
+(buy(brand name(BBB Best))) --> (buy(brand name(Imagine))), {C=0.33180076628352484, S=0.042116525629802545}
+(buy(brand name(Imagine))) --> (buy(brand name(BBB Best))), {C=0.3520325203252032, S=0.042116525629802545}
+(buy(brand name(Just Right))) --> (buy(brand name(Imagine))), {C=0.3452157598499062, S=0.035794183445190156}
+(buy(brand name(Imagine))) --> (buy(brand name(Just Right))), {C=0.2991869918699187, S=0.035794183445190156}
+(buy(brand name(Even Better))) --> (buy(brand name(Imagine))), {C=0.3288381742738589, S=0.030833576500340434}
+(buy(brand name(Imagine))) --> (buy(brand name(Even Better))), {C=0.2577235772357724, S=0.030833576500340434}
+(buy(brand name(PigTail))) --> (buy(brand name(Imagine))), {C=0.33541341653666146, S=0.04182472522128198}
+(buy(brand name(Imagine))) --> (buy(brand name(PigTail))), {C=0.34959349593495936, S=0.04182472522128198}
+(buy(brand name(High Quality))) --> (buy(brand name(Imagine))), {C=0.33819018404907975, S=0.042894660052524076}
+(buy(brand name(Imagine))) --> (buy(brand name(High Quality))), {C=0.3585365853658537, S=0.042894660052524076}
+(buy(brand name(Tri-State))) --> (buy(brand name(Imagine))), {C=0.32072072072072066, S=0.0519404727166618}
+(buy(brand name(Imagine))) --> (buy(brand name(Tri-State))), {C=0.43414634146341463, S=0.0519404727166618}
+(buy(brand name(Horatio))) --> (buy(brand name(Imagine))), {C=0.3428981348637016, S=0.046493531757611124}
+(buy(brand name(Imagine))) --> (buy(brand name(Horatio))), {C=0.3886178861788618, S=0.046493531757611124}
+(buy(brand name(Plato))) --> (buy(brand name(Imagine))), {C=0.32168968318440294, S=0.0385176539247155}
+(buy(brand name(Imagine))) --> (buy(brand name(Plato))), {C=0.32195121951219513, S=0.0385176539247155}
+(buy(brand name(Pleasant))) --> (buy(brand name(Imagine))), {C=0.353121801432958, S=0.03355704697986577}
+(buy(brand name(Imagine))) --> (buy(brand name(Pleasant))), {C=0.2804878048780488, S=0.03355704697986577}
+(buy(brand name(Booker))) --> (buy(brand name(Imagine))), {C=0.3504464285714286, S=0.03054177609181986}
+(buy(brand name(Imagine))) --> (buy(brand name(Booker))), {C=0.2552845528455284, S=0.03054177609181986}
+(buy(brand name(Carrington))) --> (buy(brand name(Imagine))), {C=0.3390847711927982, S=0.043964594883766174}
+(buy(brand name(Imagine))) --> (buy(brand name(Carrington))), {C=0.367479674796748, S=0.043964594883766174}
+(buy(brand name(Hilltop))) --> (buy(brand name(Imagine))), {C=0.3395196506550218, S=0.03024997568329929}
+(buy(brand name(Imagine))) --> (buy(brand name(Hilltop))), {C=0.2528455284552846, S=0.03024997568329929}
+(buy(brand name(Sunset))) --> (buy(brand name(Imagine))), {C=0.33977900552486184, S=0.047855266997373795}
+(buy(brand name(Imagine))) --> (buy(brand name(Sunset))), {C=0.39999999999999997, S=0.047855266997373795}
+(buy(brand name(Hermanos))) --> (buy(brand name(Imagine))), {C=0.3239211507725093, S=0.05913821612683591}
+(buy(brand name(Imagine))) --> (buy(brand name(Hermanos))), {C=0.4943089430894309, S=0.05913821612683591}
+(buy(brand name(Fort West))) --> (buy(brand name(Imagine))), {C=0.3306613226452906, S=0.04814706740589437}
+(buy(brand name(Imagine))) --> (buy(brand name(Fort West))), {C=0.4024390243902439, S=0.04814706740589437}
+(buy(brand name(CDR))) --> (buy(brand name(Imagine))), {C=0.3576890399320306, S=0.04094932399572026}
+(buy(brand name(Imagine))) --> (buy(brand name(CDR))), {C=0.34227642276422765, S=0.04094932399572026}
+(buy(brand name(Ebony))) --> (buy(brand name(Consolidated))), {C=0.22446555819477437, S=0.036766851473592065}
+(buy(brand name(Consolidated))) --> (buy(brand name(Ebony))), {C=0.4713216957605985, S=0.036766851473592065}
+(buy(brand name(Nationeel))) --> (buy(brand name(Consolidated))), {C=0.21787345075016307, S=0.032487112148623674}
+(buy(brand name(Consolidated))) --> (buy(brand name(Nationeel))), {C=0.4164588528678304, S=0.032487112148623674}
+(buy(brand name(BBB Best))) --> (buy(brand name(Consolidated))), {C=0.22988505747126436, S=0.029180040852057193}
+(buy(brand name(Consolidated))) --> (buy(brand name(BBB Best))), {C=0.3740648379052369, S=0.029180040852057193}
+(buy(brand name(Tri-State))) --> (buy(brand name(Consolidated))), {C=0.218018018018018, S=0.035307849430989205}
+(buy(brand name(Consolidated))) --> (buy(brand name(Tri-State))), {C=0.45261845386533667, S=0.035307849430989205}
+(buy(brand name(Horatio))) --> (buy(brand name(Consolidated))), {C=0.22740315638450503, S=0.030833576500340434}
+(buy(brand name(Consolidated))) --> (buy(brand name(Horatio))), {C=0.39526184538653364, S=0.030833576500340434}
+(buy(brand name(Carrington))) --> (buy(brand name(Consolidated))), {C=0.237059264816204, S=0.03073630969750024}
+(buy(brand name(Consolidated))) --> (buy(brand name(Carrington))), {C=0.3940149625935162, S=0.03073630969750024}
+(buy(brand name(Sunset))) --> (buy(brand name(Consolidated))), {C=0.2223756906077348, S=0.03131991051454139}
+(buy(brand name(Consolidated))) --> (buy(brand name(Sunset))), {C=0.401496259351621, S=0.03131991051454139}
+(buy(brand name(Hermanos))) --> (buy(brand name(Consolidated))), {C=0.21204049014384654, S=0.038712187530395875}
+(buy(brand name(Consolidated))) --> (buy(brand name(Hermanos))), {C=0.4962593516209476, S=0.038712187530395875}
+(buy(brand name(Fort West))) --> (buy(brand name(Consolidated))), {C=0.23046092184368736, S=0.03355704697986577}
+(buy(brand name(Consolidated))) --> (buy(brand name(Fort West))), {C=0.43017456359102246, S=0.03355704697986577}
+(buy(brand name(Ebony))) --> (buy(brand name(Cormorant))), {C=0.334916864608076, S=0.05485847680186752}
+(buy(brand name(Cormorant))) --> (buy(brand name(Ebony))), {C=0.43451463790446837, S=0.05485847680186752}
+(buy(brand name(Nationeel))) --> (buy(brand name(Cormorant))), {C=0.32550554468362686, S=0.04853613461725513}
+(buy(brand name(Cormorant))) --> (buy(brand name(Nationeel))), {C=0.3844375963020031, S=0.04853613461725513}
+(buy(brand name(BBB Best))) --> (buy(brand name(Cormorant))), {C=0.35555555555555557, S=0.04513179651784846}
+(buy(brand name(Cormorant))) --> (buy(brand name(BBB Best))), {C=0.35747303543913717, S=0.04513179651784846}
+(buy(brand name(Just Right))) --> (buy(brand name(Cormorant))), {C=0.3433395872420263, S=0.03559964983950978}
+(buy(brand name(Cormorant))) --> (buy(brand name(Just Right))), {C=0.2819722650231125, S=0.03559964983950978}
+(buy(brand name(Even Better))) --> (buy(brand name(Cormorant))), {C=0.3692946058091286, S=0.03462698181110787}
+(buy(brand name(Cormorant))) --> (buy(brand name(Even Better))), {C=0.27426810477657937, S=0.03462698181110787}
+(buy(brand name(PigTail))) --> (buy(brand name(Cormorant))), {C=0.35725429017160687, S=0.044548195700807314}
+(buy(brand name(Cormorant))) --> (buy(brand name(PigTail))), {C=0.35285053929121724, S=0.044548195700807314}
+(buy(brand name(Bird Call))) --> (buy(brand name(Cormorant))), {C=0.352392065344224, S=0.029374574457737574}
+(buy(brand name(Cormorant))) --> (buy(brand name(Bird Call))), {C=0.23266563944530047, S=0.029374574457737574}
+(buy(brand name(High Quality))) --> (buy(brand name(Cormorant))), {C=0.3397239263803681, S=0.043089193658204454}
+(buy(brand name(Cormorant))) --> (buy(brand name(High Quality))), {C=0.34129429892141755, S=0.043089193658204454}
+(buy(brand name(Tri-State))) --> (buy(brand name(Cormorant))), {C=0.3447447447447447, S=0.05583114483026943}
+(buy(brand name(Cormorant))) --> (buy(brand name(Tri-State))), {C=0.4422187981510015, S=0.05583114483026943}
+(buy(brand name(Horatio))) --> (buy(brand name(Cormorant))), {C=0.34791965566714494, S=0.04717439937749246}
+(buy(brand name(Cormorant))) --> (buy(brand name(Horatio))), {C=0.37365177195685667, S=0.04717439937749246}
+(buy(brand name(Plato))) --> (buy(brand name(Cormorant))), {C=0.3517465475223395, S=0.042116525629802545}
+(buy(brand name(Cormorant))) --> (buy(brand name(Plato))), {C=0.3335901386748844, S=0.042116525629802545}
+(buy(brand name(Pleasant))) --> (buy(brand name(Cormorant))), {C=0.36745138178096215, S=0.03491878221962844}
+(buy(brand name(Cormorant))) --> (buy(brand name(Pleasant))), {C=0.2765793528505393, S=0.03491878221962844}
+(buy(brand name(Booker))) --> (buy(brand name(Cormorant))), {C=0.35602678571428575, S=0.031028110106020815}
+(buy(brand name(Cormorant))) --> (buy(brand name(Booker))), {C=0.2457627118644068, S=0.031028110106020815}
+(buy(brand name(Carrington))) --> (buy(brand name(Cormorant))), {C=0.36459114778694673, S=0.047271666180332655}
+(buy(brand name(Cormorant))) --> (buy(brand name(Carrington))), {C=0.37442218798151006, S=0.047271666180332655}
+(buy(brand name(Hilltop))) --> (buy(brand name(Cormorant))), {C=0.37882096069869, S=0.033751580585546156}
+(buy(brand name(Cormorant))) --> (buy(brand name(Hilltop))), {C=0.26733436055469956, S=0.033751580585546156}
+(buy(brand name(Sunset))) --> (buy(brand name(Cormorant))), {C=0.3598066298342541, S=0.050676004279739326}
+(buy(brand name(Cormorant))) --> (buy(brand name(Sunset))), {C=0.401386748844376, S=0.050676004279739326}
+(buy(brand name(Hermanos))) --> (buy(brand name(Cormorant))), {C=0.33137986148108683, S=0.06049995136659858}
+(buy(brand name(Cormorant))) --> (buy(brand name(Hermanos))), {C=0.47919876733436056, S=0.06049995136659858}
+(buy(brand name(Fort West))) --> (buy(brand name(Cormorant))), {C=0.34802939211756845, S=0.050676004279739326}
+(buy(brand name(Cormorant))) --> (buy(brand name(Fort West))), {C=0.401386748844376, S=0.050676004279739326}
+(buy(brand name(CDR))) --> (buy(brand name(Cormorant))), {C=0.34749362786745963, S=0.03978212236163797}
+(buy(brand name(Cormorant))) --> (buy(brand name(CDR))), {C=0.3151001540832049, S=0.03978212236163797}
+(buy(brand name(Nationeel))) --> (buy(brand name(Ebony))), {C=0.4116112198303979, S=0.061375352592160294}
+(buy(brand name(Ebony))) --> (buy(brand name(Nationeel))), {C=0.3747030878859858, S=0.061375352592160294}
+(buy(brand name(BBB Best))) --> (buy(brand name(Ebony))), {C=0.4544061302681992, S=0.05767921408423305}
+(buy(brand name(Ebony))) --> (buy(brand name(BBB Best))), {C=0.3521377672209026, S=0.05767921408423305}
+(buy(brand name(Just Right))) --> (buy(brand name(Ebony))), {C=0.4709193245778612, S=0.048827935025775704}
+(buy(brand name(Ebony))) --> (buy(brand name(Just Right))), {C=0.2980997624703088, S=0.048827935025775704}
+(buy(brand name(Even Better))) --> (buy(brand name(Ebony))), {C=0.429460580912863, S=0.040268456375838924}
+(buy(brand name(Ebony))) --> (buy(brand name(Even Better))), {C=0.24584323040380046, S=0.040268456375838924}
+(buy(brand name(American))) --> (buy(brand name(Ebony))), {C=0.46637426900584794, S=0.031028110106020815}
+(buy(brand name(Ebony))) --> (buy(brand name(American))), {C=0.18942992874109263, S=0.031028110106020815}
+(buy(brand name(PigTail))) --> (buy(brand name(Ebony))), {C=0.44617784711388453, S=0.055636611224589044}
+(buy(brand name(Ebony))) --> (buy(brand name(PigTail))), {C=0.339667458432304, S=0.055636611224589044}
+(buy(brand name(Bird Call))) --> (buy(brand name(Ebony))), {C=0.4364060676779463, S=0.0363777842622313}
+(buy(brand name(Ebony))) --> (buy(brand name(Bird Call))), {C=0.22209026128266035, S=0.0363777842622313}
+(buy(brand name(High Quality))) --> (buy(brand name(Ebony))), {C=0.45475460122699385, S=0.05767921408423305}
+(buy(brand name(Ebony))) --> (buy(brand name(High Quality))), {C=0.3521377672209026, S=0.05767921408423305}
+(buy(brand name(Tri-State))) --> (buy(brand name(Ebony))), {C=0.41861861861861854, S=0.06779496157961287}
+(buy(brand name(Ebony))) --> (buy(brand name(Tri-State))), {C=0.413895486935867, S=0.06779496157961287}
+(buy(brand name(Horatio))) --> (buy(brand name(Ebony))), {C=0.44117647058823534, S=0.059819083746717246}
+(buy(brand name(Ebony))) --> (buy(brand name(Horatio))), {C=0.3652019002375297, S=0.059819083746717246}
+(buy(brand name(Plato))) --> (buy(brand name(Ebony))), {C=0.4565393988627132, S=0.05466394319618714}
+(buy(brand name(Ebony))) --> (buy(brand name(Plato))), {C=0.333729216152019, S=0.05466394319618714}
+(buy(brand name(Pleasant))) --> (buy(brand name(Ebony))), {C=0.4534288638689867, S=0.043089193658204454}
+(buy(brand name(Ebony))) --> (buy(brand name(Pleasant))), {C=0.26306413301662707, S=0.043089193658204454}
+(buy(brand name(Booker))) --> (buy(brand name(Ebony))), {C=0.4587053571428572, S=0.03997665596731836}
+(buy(brand name(Ebony))) --> (buy(brand name(Booker))), {C=0.244061757719715, S=0.03997665596731836}
+(buy(brand name(Lake))) --> (buy(brand name(Ebony))), {C=0.4938461538461538, S=0.031222643711701196}
+(buy(brand name(Ebony))) --> (buy(brand name(Lake))), {C=0.19061757719714964, S=0.031222643711701196}
+(buy(brand name(Carrington))) --> (buy(brand name(Ebony))), {C=0.4456114028507126, S=0.05777648088707324}
+(buy(brand name(Ebony))) --> (buy(brand name(Carrington))), {C=0.3527315914489311, S=0.05777648088707324}
+(buy(brand name(Hilltop))) --> (buy(brand name(Ebony))), {C=0.48799126637554585, S=0.043478260869565216}
+(buy(brand name(Ebony))) --> (buy(brand name(Hilltop))), {C=0.2654394299287411, S=0.043478260869565216}
+(buy(brand name(Sunset))) --> (buy(brand name(Ebony))), {C=0.43024861878453036, S=0.06059721816943877}
+(buy(brand name(Ebony))) --> (buy(brand name(Sunset))), {C=0.36995249406175773, S=0.06059721816943877}
+(buy(brand name(Hermanos))) --> (buy(brand name(Ebony))), {C=0.4187533297815663, S=0.07645170703238985}
+(buy(brand name(Ebony))) --> (buy(brand name(Hermanos))), {C=0.46674584323040386, S=0.07645170703238985}
+(buy(brand name(Fort West))) --> (buy(brand name(Ebony))), {C=0.4529058116232464, S=0.06594689232564925}
+(buy(brand name(Ebony))) --> (buy(brand name(Fort West))), {C=0.4026128266033254, S=0.06594689232564925}
+(buy(brand name(CDR))) --> (buy(brand name(Ebony))), {C=0.43585386576040785, S=0.0498978698570178}
+(buy(brand name(Ebony))) --> (buy(brand name(CDR))), {C=0.30463182897862234, S=0.0498978698570178}
+(buy(brand name(BBB Best))) --> (buy(brand name(Nationeel))), {C=0.389272030651341, S=0.049411535842816844}
+(buy(brand name(Nationeel))) --> (buy(brand name(BBB Best))), {C=0.3313763861709067, S=0.049411535842816844}
+(buy(brand name(Just Right))) --> (buy(brand name(Nationeel))), {C=0.40431519699812385, S=0.04192199202412217}
+(buy(brand name(Nationeel))) --> (buy(brand name(Just Right))), {C=0.2811480756686236, S=0.04192199202412217}
+(buy(brand name(Even Better))) --> (buy(brand name(Nationeel))), {C=0.421161825726141, S=0.0394903219531174}
+(buy(brand name(Nationeel))) --> (buy(brand name(Even Better))), {C=0.2648401826484018, S=0.0394903219531174}
+(buy(brand name(PigTail))) --> (buy(brand name(Nationeel))), {C=0.3861154446177847, S=0.04814706740589437}
+(buy(brand name(Nationeel))) --> (buy(brand name(PigTail))), {C=0.32289628180039137, S=0.04814706740589437}
+(buy(brand name(Bird Call))) --> (buy(brand name(Nationeel))), {C=0.43173862310385064, S=0.03598871705087054}
+(buy(brand name(Nationeel))) --> (buy(brand name(Bird Call))), {C=0.24135681669928247, S=0.03598871705087054}
+(buy(brand name(High Quality))) --> (buy(brand name(Nationeel))), {C=0.40720858895705525, S=0.051648672308141234}
+(buy(brand name(Nationeel))) --> (buy(brand name(High Quality))), {C=0.3463796477495108, S=0.051648672308141234}
+(buy(brand name(Tri-State))) --> (buy(brand name(Nationeel))), {C=0.38918918918918916, S=0.06302888824044353}
+(buy(brand name(Nationeel))) --> (buy(brand name(Tri-State))), {C=0.4227005870841487, S=0.06302888824044353}
+(buy(brand name(Horatio))) --> (buy(brand name(Nationeel))), {C=0.4017216642754663, S=0.05446940959050676}
+(buy(brand name(Nationeel))) --> (buy(brand name(Horatio))), {C=0.365296803652968, S=0.05446940959050676}
+(buy(brand name(Plato))) --> (buy(brand name(Nationeel))), {C=0.4118602761982128, S=0.049314269039976655}
+(buy(brand name(Nationeel))) --> (buy(brand name(Plato))), {C=0.33072407045009783, S=0.049314269039976655}
+(buy(brand name(Pleasant))) --> (buy(brand name(Nationeel))), {C=0.443193449334698, S=0.042116525629802545}
+(buy(brand name(Nationeel))) --> (buy(brand name(Pleasant))), {C=0.28245270711024134, S=0.042116525629802545}
+(buy(brand name(Booker))) --> (buy(brand name(Nationeel))), {C=0.42075892857142866, S=0.036669584670751876}
+(buy(brand name(Nationeel))) --> (buy(brand name(Booker))), {C=0.24592302674494457, S=0.036669584670751876}
+(buy(brand name(Carrington))) --> (buy(brand name(Nationeel))), {C=0.4216054013503376, S=0.05466394319618714}
+(buy(brand name(Nationeel))) --> (buy(brand name(Carrington))), {C=0.36660143509458576, S=0.05466394319618714}
+(buy(brand name(Hilltop))) --> (buy(brand name(Nationeel))), {C=0.4203056768558952, S=0.0374477190934734}
+(buy(brand name(Nationeel))) --> (buy(brand name(Hilltop))), {C=0.2511415525114155, S=0.0374477190934734}
+(buy(brand name(Sunset))) --> (buy(brand name(Nationeel))), {C=0.40953038674033143, S=0.05767921408423305}
+(buy(brand name(Nationeel))) --> (buy(brand name(Sunset))), {C=0.3868232224396608, S=0.05767921408423305}
+(buy(brand name(Hermanos))) --> (buy(brand name(Nationeel))), {C=0.3841236014917422, S=0.07012936484777746}
+(buy(brand name(Nationeel))) --> (buy(brand name(Hermanos))), {C=0.4703196347031964, S=0.07012936484777746}
+(buy(brand name(Fort West))) --> (buy(brand name(Nationeel))), {C=0.3901135604542418, S=0.05680381285867134}
+(buy(brand name(Nationeel))) --> (buy(brand name(Fort West))), {C=0.380952380952381, S=0.05680381285867134}
+(buy(brand name(CDR))) --> (buy(brand name(Nationeel))), {C=0.39167374681393374, S=0.04483999610932789}
+(buy(brand name(Nationeel))) --> (buy(brand name(CDR))), {C=0.30071754729288974, S=0.04483999610932789}
+(buy(brand name(Just Right))) --> (buy(brand name(BBB Best))), {C=0.3592870544090056, S=0.037253185487793015}
+(buy(brand name(BBB Best))) --> (buy(brand name(Just Right))), {C=0.2934865900383142, S=0.037253185487793015}
+(buy(brand name(Even Better))) --> (buy(brand name(BBB Best))), {C=0.33195020746887965, S=0.031125376908861007}
+(buy(brand name(BBB Best))) --> (buy(brand name(Even Better))), {C=0.24521072796934865, S=0.031125376908861007}
+(buy(brand name(PigTail))) --> (buy(brand name(BBB Best))), {C=0.3705148205928237, S=0.04620173134909056}
+(buy(brand name(BBB Best))) --> (buy(brand name(PigTail))), {C=0.36398467432950193, S=0.04620173134909056}
+(buy(brand name(Bird Call))) --> (buy(brand name(BBB Best))), {C=0.3652275379229872, S=0.03044450928897967}
+(buy(brand name(BBB Best))) --> (buy(brand name(Bird Call))), {C=0.23984674329501915, S=0.03044450928897967}
+(buy(brand name(High Quality))) --> (buy(brand name(BBB Best))), {C=0.3535276073619632, S=0.04483999610932789}
+(buy(brand name(BBB Best))) --> (buy(brand name(High Quality))), {C=0.3532567049808429, S=0.04483999610932789}
+(buy(brand name(Tri-State))) --> (buy(brand name(BBB Best))), {C=0.3411411411411411, S=0.05524754401322828}
+(buy(brand name(BBB Best))) --> (buy(brand name(Tri-State))), {C=0.43524904214559385, S=0.05524754401322828}
+(buy(brand name(Horatio))) --> (buy(brand name(BBB Best))), {C=0.35581061692969873, S=0.04824433420873456}
+(buy(brand name(BBB Best))) --> (buy(brand name(Horatio))), {C=0.3800766283524904, S=0.04824433420873456}
+(buy(brand name(Plato))) --> (buy(brand name(BBB Best))), {C=0.347684809098294, S=0.041630191615601594}
+(buy(brand name(BBB Best))) --> (buy(brand name(Plato))), {C=0.3279693486590038, S=0.041630191615601594}
+(buy(brand name(Pleasant))) --> (buy(brand name(BBB Best))), {C=0.3776867963152507, S=0.035891450248030345}
+(buy(brand name(BBB Best))) --> (buy(brand name(Pleasant))), {C=0.2827586206896551, S=0.035891450248030345}
+(buy(brand name(Booker))) --> (buy(brand name(BBB Best))), {C=0.3537946428571429, S=0.030833576500340434}
+(buy(brand name(BBB Best))) --> (buy(brand name(Booker))), {C=0.242911877394636, S=0.030833576500340434}
+(buy(brand name(Carrington))) --> (buy(brand name(BBB Best))), {C=0.36384096024005996, S=0.04717439937749246}
+(buy(brand name(BBB Best))) --> (buy(brand name(Carrington))), {C=0.37164750957854403, S=0.04717439937749246}
+(buy(brand name(Hilltop))) --> (buy(brand name(BBB Best))), {C=0.36026200873362446, S=0.03209804493726291}
+(buy(brand name(BBB Best))) --> (buy(brand name(Hilltop))), {C=0.2528735632183908, S=0.03209804493726291}
+(buy(brand name(Sunset))) --> (buy(brand name(BBB Best))), {C=0.3542817679558011, S=0.0498978698570178}
+(buy(brand name(BBB Best))) --> (buy(brand name(Sunset))), {C=0.3931034482758621, S=0.0498978698570178}
+(buy(brand name(Hermanos))) --> (buy(brand name(BBB Best))), {C=0.3383058071390517, S=0.061764419803521056}
+(buy(brand name(BBB Best))) --> (buy(brand name(Hermanos))), {C=0.4865900383141762, S=0.061764419803521056}
+(buy(brand name(Fort West))) --> (buy(brand name(BBB Best))), {C=0.3593854375417501, S=0.05232953992802256}
+(buy(brand name(BBB Best))) --> (buy(brand name(Fort West))), {C=0.4122605363984674, S=0.05232953992802256}
+(buy(brand name(CDR))) --> (buy(brand name(BBB Best))), {C=0.3449447748513169, S=0.0394903219531174}
+(buy(brand name(BBB Best))) --> (buy(brand name(CDR))), {C=0.31111111111111106, S=0.0394903219531174}
+(buy(brand name(PigTail))) --> (buy(brand name(Just Right))), {C=0.27691107644305774, S=0.03452971500826768}
+(buy(brand name(Just Right))) --> (buy(brand name(PigTail))), {C=0.3330206378986867, S=0.03452971500826768}
+(buy(brand name(High Quality))) --> (buy(brand name(Just Right))), {C=0.28911042944785276, S=0.036669584670751876}
+(buy(brand name(Just Right))) --> (buy(brand name(High Quality))), {C=0.3536585365853659, S=0.036669584670751876}
+(buy(brand name(Tri-State))) --> (buy(brand name(Just Right))), {C=0.27567567567567564, S=0.0446454625036475}
+(buy(brand name(Just Right))) --> (buy(brand name(Tri-State))), {C=0.43058161350844276, S=0.0446454625036475}
+(buy(brand name(Horatio))) --> (buy(brand name(Just Right))), {C=0.2855093256814921, S=0.038712187530395875}
+(buy(brand name(Just Right))) --> (buy(brand name(Horatio))), {C=0.37335834896810505, S=0.038712187530395875}
+(buy(brand name(Plato))) --> (buy(brand name(Just Right))), {C=0.2883834281072299, S=0.03452971500826768}
+(buy(brand name(Just Right))) --> (buy(brand name(Plato))), {C=0.3330206378986867, S=0.03452971500826768}
+(buy(brand name(Pleasant))) --> (buy(brand name(Just Right))), {C=0.3111566018423746, S=0.029569108063417955}
+(buy(brand name(Just Right))) --> (buy(brand name(Pleasant))), {C=0.2851782363977486, S=0.029569108063417955}
+(buy(brand name(Carrington))) --> (buy(brand name(Just Right))), {C=0.2850712678169542, S=0.03696138507927244}
+(buy(brand name(Just Right))) --> (buy(brand name(Carrington))), {C=0.35647279549718575, S=0.03696138507927244}
+(buy(brand name(Sunset))) --> (buy(brand name(Just Right))), {C=0.30041436464088395, S=0.04231105923548293}
+(buy(brand name(Just Right))) --> (buy(brand name(Sunset))), {C=0.4080675422138837, S=0.04231105923548293}
+(buy(brand name(Hermanos))) --> (buy(brand name(Just Right))), {C=0.2669152903569526, S=0.048730668222935515}
+(buy(brand name(Just Right))) --> (buy(brand name(Hermanos))), {C=0.46998123827392124, S=0.048730668222935515}
+(buy(brand name(Fort West))) --> (buy(brand name(Just Right))), {C=0.29191716766867065, S=0.042505592841163314}
+(buy(brand name(Just Right))) --> (buy(brand name(Fort West))), {C=0.4099437148217636, S=0.042505592841163314}
+(buy(brand name(CDR))) --> (buy(brand name(Just Right))), {C=0.2990654205607477, S=0.03423791459974711}
+(buy(brand name(Just Right))) --> (buy(brand name(CDR))), {C=0.33020637898686683, S=0.03423791459974711}
+(buy(brand name(PigTail))) --> (buy(brand name(Even Better))), {C=0.25273010920436817, S=0.031514444120221766}
+(buy(brand name(Even Better))) --> (buy(brand name(PigTail))), {C=0.33609958506224064, S=0.031514444120221766}
+(buy(brand name(High Quality))) --> (buy(brand name(Even Better))), {C=0.27453987730061347, S=0.03482151541678825}
+(buy(brand name(Even Better))) --> (buy(brand name(High Quality))), {C=0.3713692946058091, S=0.03482151541678825}
+(buy(brand name(Tri-State))) --> (buy(brand name(Even Better))), {C=0.25465465465465464, S=0.04124112440424083}
+(buy(brand name(Even Better))) --> (buy(brand name(Tri-State))), {C=0.43983402489626555, S=0.04124112440424083}
+(buy(brand name(Horatio))) --> (buy(brand name(Even Better))), {C=0.24820659971305598, S=0.03365431378270596}
+(buy(brand name(Even Better))) --> (buy(brand name(Horatio))), {C=0.3589211618257261, S=0.03365431378270596}
+(buy(brand name(Carrington))) --> (buy(brand name(Even Better))), {C=0.2573143285821455, S=0.03336251337418539}
+(buy(brand name(Even Better))) --> (buy(brand name(Carrington))), {C=0.35580912863070535, S=0.03336251337418539}
+(buy(brand name(Sunset))) --> (buy(brand name(Even Better))), {C=0.25138121546961323, S=0.035405116233829394}
+(buy(brand name(Even Better))) --> (buy(brand name(Sunset))), {C=0.3775933609958506, S=0.035405116233829394}
+(buy(brand name(Hermanos))) --> (buy(brand name(Even Better))), {C=0.25146510388918486, S=0.045909930940569985}
+(buy(brand name(Even Better))) --> (buy(brand name(Hermanos))), {C=0.4896265560165975, S=0.045909930940569985}
+(buy(brand name(Fort West))) --> (buy(brand name(Even Better))), {C=0.25116900467601866, S=0.03657231786791168}
+(buy(brand name(Even Better))) --> (buy(brand name(Fort West))), {C=0.39004149377593356, S=0.03657231786791168}
+(buy(brand name(CDR))) --> (buy(brand name(Even Better))), {C=0.2795242141036534, S=0.032000778134422724}
+(buy(brand name(Even Better))) --> (buy(brand name(CDR))), {C=0.3412863070539419, S=0.032000778134422724}
+(buy(brand name(Hermanos))) --> (buy(brand name(American))), {C=0.1816728822589238, S=0.03316797976850501}
+(buy(brand name(American))) --> (buy(brand name(Hermanos))), {C=0.49853801169590645, S=0.03316797976850501}
+(buy(brand name(Bird Call))) --> (buy(brand name(PigTail))), {C=0.3698949824970828, S=0.030833576500340434}
+(buy(brand name(PigTail))) --> (buy(brand name(Bird Call))), {C=0.24726989079563183, S=0.030833576500340434}
+(buy(brand name(High Quality))) --> (buy(brand name(PigTail))), {C=0.3535276073619632, S=0.04483999610932789}
+(buy(brand name(PigTail))) --> (buy(brand name(High Quality))), {C=0.359594383775351, S=0.04483999610932789}
+(buy(brand name(Tri-State))) --> (buy(brand name(PigTail))), {C=0.3333333333333333, S=0.05398307557630581}
+(buy(brand name(PigTail))) --> (buy(brand name(Tri-State))), {C=0.4329173166926677, S=0.05398307557630581}
+(buy(brand name(Horatio))) --> (buy(brand name(PigTail))), {C=0.3615494978479197, S=0.04902246863145608}
+(buy(brand name(PigTail))) --> (buy(brand name(Horatio))), {C=0.39313572542901715, S=0.04902246863145608}
+(buy(brand name(Plato))) --> (buy(brand name(PigTail))), {C=0.35580828594638503, S=0.0426028596440035}
+(buy(brand name(PigTail))) --> (buy(brand name(Plato))), {C=0.3416536661466459, S=0.0426028596440035}
+(buy(brand name(Pleasant))) --> (buy(brand name(PigTail))), {C=0.36233367451381776, S=0.034432448205427485}
+(buy(brand name(PigTail))) --> (buy(brand name(Pleasant))), {C=0.27613104524180965, S=0.034432448205427485}
+(buy(brand name(Booker))) --> (buy(brand name(PigTail))), {C=0.35602678571428575, S=0.031028110106020815}
+(buy(brand name(PigTail))) --> (buy(brand name(Booker))), {C=0.24882995319812792, S=0.031028110106020815}
+(buy(brand name(Carrington))) --> (buy(brand name(PigTail))), {C=0.35558889722430603, S=0.04610446454625036}
+(buy(brand name(PigTail))) --> (buy(brand name(Carrington))), {C=0.3697347893915756, S=0.04610446454625036}
+(buy(brand name(Hilltop))) --> (buy(brand name(PigTail))), {C=0.3635371179039302, S=0.032389845345783486}
+(buy(brand name(PigTail))) --> (buy(brand name(Hilltop))), {C=0.25975039001560063, S=0.032389845345783486}
+(buy(brand name(Sunset))) --> (buy(brand name(PigTail))), {C=0.34875690607734805, S=0.04911973543429628}
+(buy(brand name(PigTail))) --> (buy(brand name(Sunset))), {C=0.39391575663026523, S=0.04911973543429628}
+(buy(brand name(Hermanos))) --> (buy(brand name(PigTail))), {C=0.3335109216835376, S=0.06088901857795934}
+(buy(brand name(PigTail))) --> (buy(brand name(Hermanos))), {C=0.48829953198127923, S=0.06088901857795934}
+(buy(brand name(Fort West))) --> (buy(brand name(PigTail))), {C=0.3627254509018036, S=0.05281587394222352}
+(buy(brand name(PigTail))) --> (buy(brand name(Fort West))), {C=0.42355694227769114, S=0.05281587394222352}
+(buy(brand name(CDR))) --> (buy(brand name(PigTail))), {C=0.34834324553950724, S=0.03987938916447816}
+(buy(brand name(PigTail))) --> (buy(brand name(CDR))), {C=0.31981279251170047, S=0.03987938916447816}
+(buy(brand name(High Quality))) --> (buy(brand name(Bird Call))), {C=0.23849693251533743, S=0.03024997568329929}
+(buy(brand name(Bird Call))) --> (buy(brand name(High Quality))), {C=0.3628938156359393, S=0.03024997568329929}
+(buy(brand name(Tri-State))) --> (buy(brand name(Bird Call))), {C=0.22462462462462462, S=0.0363777842622313}
+(buy(brand name(Bird Call))) --> (buy(brand name(Tri-State))), {C=0.4364060676779463, S=0.0363777842622313}
+(buy(brand name(Horatio))) --> (buy(brand name(Bird Call))), {C=0.2439024390243903, S=0.03307071296566482}
+(buy(brand name(Bird Call))) --> (buy(brand name(Horatio))), {C=0.396732788798133, S=0.03307071296566482}
+(buy(brand name(Carrington))) --> (buy(brand name(Bird Call))), {C=0.25881470367591897, S=0.03355704697986577}
+(buy(brand name(Bird Call))) --> (buy(brand name(Carrington))), {C=0.4025670945157526, S=0.03355704697986577}
+(buy(brand name(Sunset))) --> (buy(brand name(Bird Call))), {C=0.23411602209944748, S=0.032973446162824625}
+(buy(brand name(Bird Call))) --> (buy(brand name(Sunset))), {C=0.3955659276546091, S=0.032973446162824625}
+(buy(brand name(Hermanos))) --> (buy(brand name(Bird Call))), {C=0.21417155034629728, S=0.03910125474175664}
+(buy(brand name(Bird Call))) --> (buy(brand name(Hermanos))), {C=0.4690781796966161, S=0.03910125474175664}
+(buy(brand name(Fort West))) --> (buy(brand name(Bird Call))), {C=0.22712090848363392, S=0.03307071296566482}
+(buy(brand name(Bird Call))) --> (buy(brand name(Fort West))), {C=0.396732788798133, S=0.03307071296566482}
+(buy(brand name(Tri-State))) --> (buy(brand name(High Quality))), {C=0.35195195195195195, S=0.056998346464351715}
+(buy(brand name(High Quality))) --> (buy(brand name(Tri-State))), {C=0.4493865030674846, S=0.056998346464351715}
+(buy(brand name(Horatio))) --> (buy(brand name(High Quality))), {C=0.3637015781922525, S=0.049314269039976655}
+(buy(brand name(High Quality))) --> (buy(brand name(Horatio))), {C=0.38880368098159507, S=0.049314269039976655}
+(buy(brand name(Plato))) --> (buy(brand name(High Quality))), {C=0.35012185215272135, S=0.04192199202412217}
+(buy(brand name(High Quality))) --> (buy(brand name(Plato))), {C=0.330521472392638, S=0.04192199202412217}
+(buy(brand name(Pleasant))) --> (buy(brand name(High Quality))), {C=0.3602865916069601, S=0.03423791459974711}
+(buy(brand name(High Quality))) --> (buy(brand name(Pleasant))), {C=0.26993865030674846, S=0.03423791459974711}
+(buy(brand name(Booker))) --> (buy(brand name(High Quality))), {C=0.36607142857142855, S=0.03190351133158253}
+(buy(brand name(High Quality))) --> (buy(brand name(Booker))), {C=0.25153374233128833, S=0.03190351133158253}
+(buy(brand name(Carrington))) --> (buy(brand name(High Quality))), {C=0.36984246061515375, S=0.047952533800213984}
+(buy(brand name(High Quality))) --> (buy(brand name(Carrington))), {C=0.37806748466257667, S=0.047952533800213984}
+(buy(brand name(Hilltop))) --> (buy(brand name(High Quality))), {C=0.398471615720524, S=0.03550238303666958}
+(buy(brand name(High Quality))) --> (buy(brand name(Hilltop))), {C=0.2799079754601227, S=0.03550238303666958}
+(buy(brand name(Sunset))) --> (buy(brand name(High Quality))), {C=0.3529005524861878, S=0.04970333625133742}
+(buy(brand name(High Quality))) --> (buy(brand name(Sunset))), {C=0.39187116564417174, S=0.04970333625133742}
+(buy(brand name(Hermanos))) --> (buy(brand name(High Quality))), {C=0.3276505061267981, S=0.059819083746717246}
+(buy(brand name(High Quality))) --> (buy(brand name(Hermanos))), {C=0.47162576687116564, S=0.059819083746717246}
+(buy(brand name(Fort West))) --> (buy(brand name(High Quality))), {C=0.3346693386773547, S=0.048730668222935515}
+(buy(brand name(High Quality))) --> (buy(brand name(Fort West))), {C=0.38420245398773006, S=0.048730668222935515}
+(buy(brand name(CDR))) --> (buy(brand name(High Quality))), {C=0.3814783347493628, S=0.0436727944752456}
+(buy(brand name(High Quality))) --> (buy(brand name(CDR))), {C=0.34432515337423314, S=0.0436727944752456}
+(buy(brand name(Horatio))) --> (buy(brand name(Tri-State))), {C=0.45480631276901007, S=0.06166715300068087}
+(buy(brand name(Tri-State))) --> (buy(brand name(Horatio))), {C=0.38078078078078076, S=0.06166715300068087}
+(buy(brand name(Plato))) --> (buy(brand name(Tri-State))), {C=0.43379366368805844, S=0.0519404727166618}
+(buy(brand name(Tri-State))) --> (buy(brand name(Plato))), {C=0.32072072072072066, S=0.0519404727166618}
+(buy(brand name(Pleasant))) --> (buy(brand name(Tri-State))), {C=0.47697031729785055, S=0.04532633012352884}
+(buy(brand name(Tri-State))) --> (buy(brand name(Pleasant))), {C=0.27987987987987983, S=0.04532633012352884}
+(buy(brand name(Booker))) --> (buy(brand name(Tri-State))), {C=0.4631696428571429, S=0.04036572317867912}
+(buy(brand name(Tri-State))) --> (buy(brand name(Booker))), {C=0.24924924924924927, S=0.04036572317867912}
+(buy(brand name(Lake))) --> (buy(brand name(Tri-State))), {C=0.46923076923076923, S=0.029666374866258147}
+(buy(brand name(Tri-State))) --> (buy(brand name(Lake))), {C=0.1831831831831832, S=0.029666374866258147}
+(buy(brand name(Carrington))) --> (buy(brand name(Tri-State))), {C=0.43885971492873216, S=0.056901079661511526}
+(buy(brand name(Tri-State))) --> (buy(brand name(Carrington))), {C=0.3513513513513513, S=0.056901079661511526}
+(buy(brand name(Hilltop))) --> (buy(brand name(Tri-State))), {C=0.45414847161572053, S=0.04046298998151931}
+(buy(brand name(Tri-State))) --> (buy(brand name(Hilltop))), {C=0.24984984984984984, S=0.04046298998151931}
+(buy(brand name(Sunset))) --> (buy(brand name(Tri-State))), {C=0.41505524861878446, S=0.058457348506954575}
+(buy(brand name(Tri-State))) --> (buy(brand name(Sunset))), {C=0.3609609609609609, S=0.058457348506954575}
+(buy(brand name(Hermanos))) --> (buy(brand name(Tri-State))), {C=0.44112946190729885, S=0.08053691275167785}
+(buy(brand name(Tri-State))) --> (buy(brand name(Hermanos))), {C=0.49729729729729727, S=0.08053691275167785}
+(buy(brand name(Fort West))) --> (buy(brand name(Tri-State))), {C=0.43019372077488305, S=0.06263982102908278}
+(buy(brand name(Tri-State))) --> (buy(brand name(Fort West))), {C=0.3867867867867868, S=0.06263982102908278}
+(buy(brand name(CDR))) --> (buy(brand name(Tri-State))), {C=0.4460492778249788, S=0.05106507149110009}
+(buy(brand name(Tri-State))) --> (buy(brand name(CDR))), {C=0.3153153153153153, S=0.05106507149110009}
+(buy(brand name(Plato))) --> (buy(brand name(Horatio))), {C=0.3850528025995126, S=0.04610446454625036}
+(buy(brand name(Horatio))) --> (buy(brand name(Plato))), {C=0.3400286944045911, S=0.04610446454625036}
+(buy(brand name(Pleasant))) --> (buy(brand name(Horatio))), {C=0.39508700102354144, S=0.03754498589631359}
+(buy(brand name(Horatio))) --> (buy(brand name(Pleasant))), {C=0.2769010043041607, S=0.03754498589631359}
+(buy(brand name(Booker))) --> (buy(brand name(Horatio))), {C=0.38727678571428575, S=0.033751580585546156}
+(buy(brand name(Horatio))) --> (buy(brand name(Booker))), {C=0.2489239598278336, S=0.033751580585546156}
+(buy(brand name(Carrington))) --> (buy(brand name(Horatio))), {C=0.3878469617404351, S=0.050286937068378564}
+(buy(brand name(Horatio))) --> (buy(brand name(Carrington))), {C=0.3708751793400287, S=0.050286937068378564}
+(buy(brand name(Hilltop))) --> (buy(brand name(Horatio))), {C=0.40393013100436687, S=0.03598871705087054}
+(buy(brand name(Horatio))) --> (buy(brand name(Hilltop))), {C=0.2654232424677188, S=0.03598871705087054}
+(buy(brand name(Sunset))) --> (buy(brand name(Horatio))), {C=0.36809392265193364, S=0.05184320591382161}
+(buy(brand name(Horatio))) --> (buy(brand name(Sunset))), {C=0.3823529411764706, S=0.05184320591382161}
+(buy(brand name(Hermanos))) --> (buy(brand name(Horatio))), {C=0.36441129461907296, S=0.0665304931426904}
+(buy(brand name(Horatio))) --> (buy(brand name(Hermanos))), {C=0.490674318507891, S=0.0665304931426904}
+(buy(brand name(Fort West))) --> (buy(brand name(Horatio))), {C=0.3774215096860387, S=0.054955743604707716}
+(buy(brand name(Horatio))) --> (buy(brand name(Fort West))), {C=0.40530846484935446, S=0.054955743604707716}
+(buy(brand name(CDR))) --> (buy(brand name(Horatio))), {C=0.3661852166525064, S=0.04192199202412217}
+(buy(brand name(Horatio))) --> (buy(brand name(CDR))), {C=0.30918220946915353, S=0.04192199202412217}
+(buy(brand name(Pleasant))) --> (buy(brand name(Plato))), {C=0.34288638689866935, S=0.03258437895146386}
+(buy(brand name(Plato))) --> (buy(brand name(Pleasant))), {C=0.2721364744110479, S=0.03258437895146386}
+(buy(brand name(Booker))) --> (buy(brand name(Plato))), {C=0.3515625, S=0.030639042894660053}
+(buy(brand name(Plato))) --> (buy(brand name(Booker))), {C=0.2558895207148659, S=0.030639042894660053}
+(buy(brand name(Carrington))) --> (buy(brand name(Plato))), {C=0.31957989497374345, S=0.04143565800992122}
+(buy(brand name(Plato))) --> (buy(brand name(Carrington))), {C=0.3460601137286759, S=0.04143565800992122}
+(buy(brand name(Hilltop))) --> (buy(brand name(Plato))), {C=0.34170305676855894, S=0.03044450928897967}
+(buy(brand name(Plato))) --> (buy(brand name(Hilltop))), {C=0.25426482534524775, S=0.03044450928897967}
+(buy(brand name(Sunset))) --> (buy(brand name(Plato))), {C=0.3411602209944751, S=0.04804980060305418}
+(buy(brand name(Plato))) --> (buy(brand name(Sunset))), {C=0.40129975629569453, S=0.04804980060305418}
+(buy(brand name(Hermanos))) --> (buy(brand name(Plato))), {C=0.3169952051145445, S=0.057873747689913435}
+(buy(brand name(Plato))) --> (buy(brand name(Hermanos))), {C=0.4833468724614135, S=0.057873747689913435}
+(buy(brand name(Fort West))) --> (buy(brand name(Plato))), {C=0.3293253173012691, S=0.047952533800213984}
+(buy(brand name(Plato))) --> (buy(brand name(Fort West))), {C=0.40048740861088544, S=0.047952533800213984}
+(buy(brand name(CDR))) --> (buy(brand name(Plato))), {C=0.32540356839422263, S=0.037253185487793015}
+(buy(brand name(Plato))) --> (buy(brand name(CDR))), {C=0.3111291632818846, S=0.037253185487793015}
+(buy(brand name(Carrington))) --> (buy(brand name(Pleasant))), {C=0.26481620405101275, S=0.034335181402587296}
+(buy(brand name(Pleasant))) --> (buy(brand name(Carrington))), {C=0.36131013306038895, S=0.034335181402587296}
+(buy(brand name(Sunset))) --> (buy(brand name(Pleasant))), {C=0.2776243093922652, S=0.03910125474175664}
+(buy(brand name(Pleasant))) --> (buy(brand name(Sunset))), {C=0.41146366427840325, S=0.03910125474175664}
+(buy(brand name(Hermanos))) --> (buy(brand name(Pleasant))), {C=0.24507192328183272, S=0.0447427293064877}
+(buy(brand name(Pleasant))) --> (buy(brand name(Hermanos))), {C=0.4708290685772774, S=0.0447427293064877}
+(buy(brand name(Fort West))) --> (buy(brand name(Pleasant))), {C=0.26452905811623245, S=0.0385176539247155}
+(buy(brand name(Pleasant))) --> (buy(brand name(Fort West))), {C=0.4053224155578301, S=0.0385176539247155}
+(buy(brand name(CDR))) --> (buy(brand name(Pleasant))), {C=0.2625318606627018, S=0.03005544207761891}
+(buy(brand name(Pleasant))) --> (buy(brand name(CDR))), {C=0.3162743091095189, S=0.03005544207761891}
+(buy(brand name(Carrington))) --> (buy(brand name(Booker))), {C=0.2610652663165791, S=0.033848847388386345}
+(buy(brand name(Booker))) --> (buy(brand name(Carrington))), {C=0.3883928571428572, S=0.033848847388386345}
+(buy(brand name(Sunset))) --> (buy(brand name(Booker))), {C=0.2527624309392265, S=0.03559964983950978}
+(buy(brand name(Booker))) --> (buy(brand name(Sunset))), {C=0.4084821428571429, S=0.03559964983950978}
+(buy(brand name(Hermanos))) --> (buy(brand name(Booker))), {C=0.23068726691529035, S=0.042116525629802545}
+(buy(brand name(Booker))) --> (buy(brand name(Hermanos))), {C=0.48325892857142855, S=0.042116525629802545}
+(buy(brand name(Fort West))) --> (buy(brand name(Booker))), {C=0.2177688710754843, S=0.03170897772590215}
+(buy(brand name(Booker))) --> (buy(brand name(Fort West))), {C=0.36383928571428575, S=0.03170897772590215}
+(buy(brand name(CDR))) --> (buy(brand name(Booker))), {C=0.2625318606627018, S=0.03005544207761891}
+(buy(brand name(Booker))) --> (buy(brand name(CDR))), {C=0.34486607142857145, S=0.03005544207761891}
+(buy(brand name(Hermanos))) --> (buy(brand name(Lake))), {C=0.1683537559936068, S=0.03073630969750024}
+(buy(brand name(Lake))) --> (buy(brand name(Hermanos))), {C=0.4861538461538461, S=0.03073630969750024}
+(buy(brand name(Hilltop))) --> (buy(brand name(Carrington))), {C=0.3711790393013101, S=0.03307071296566482}
+(buy(brand name(Carrington))) --> (buy(brand name(Hilltop))), {C=0.2550637659414854, S=0.03307071296566482}
+(buy(brand name(Sunset))) --> (buy(brand name(Carrington))), {C=0.37914364640883974, S=0.05339947475926466}
+(buy(brand name(Carrington))) --> (buy(brand name(Sunset))), {C=0.41185296324081017, S=0.05339947475926466}
+(buy(brand name(Hermanos))) --> (buy(brand name(Carrington))), {C=0.3462972828982419, S=0.06322342184612392}
+(buy(brand name(Carrington))) --> (buy(brand name(Hermanos))), {C=0.4876219054763691, S=0.06322342184612392}
+(buy(brand name(Fort West))) --> (buy(brand name(Carrington))), {C=0.3700734802939212, S=0.05388580877346562}
+(buy(brand name(Carrington))) --> (buy(brand name(Fort West))), {C=0.4156039009752438, S=0.05388580877346562}
+(buy(brand name(CDR))) --> (buy(brand name(Carrington))), {C=0.3695836873406967, S=0.04231105923548293}
+(buy(brand name(Carrington))) --> (buy(brand name(CDR))), {C=0.3263315828957239, S=0.04231105923548293}
+(buy(brand name(Sunset))) --> (buy(brand name(Hilltop))), {C=0.26035911602209943, S=0.036669584670751876}
+(buy(brand name(Hilltop))) --> (buy(brand name(Sunset))), {C=0.41157205240174677, S=0.036669584670751876}
+(buy(brand name(Hermanos))) --> (buy(brand name(Hilltop))), {C=0.23601491742141714, S=0.043089193658204454}
+(buy(brand name(Hilltop))) --> (buy(brand name(Hermanos))), {C=0.4836244541484716, S=0.043089193658204454}
+(buy(brand name(Fort West))) --> (buy(brand name(Hilltop))), {C=0.24448897795591182, S=0.03559964983950978}
+(buy(brand name(Hilltop))) --> (buy(brand name(Fort West))), {C=0.3995633187772926, S=0.03559964983950978}
+(buy(brand name(CDR))) --> (buy(brand name(Hilltop))), {C=0.2599830076465591, S=0.029763641669098336}
+(buy(brand name(Hilltop))) --> (buy(brand name(CDR))), {C=0.33406113537117904, S=0.029763641669098336}
+(buy(brand name(Hermanos))) --> (buy(brand name(Sunset))), {C=0.38359083644112946, S=0.07003209804493726}
+(buy(brand name(Sunset))) --> (buy(brand name(Hermanos))), {C=0.49723756906077343, S=0.07003209804493726}
+(buy(brand name(Fort West))) --> (buy(brand name(Sunset))), {C=0.38142952571810285, S=0.055539344421748855}
+(buy(brand name(Sunset))) --> (buy(brand name(Fort West))), {C=0.3943370165745856, S=0.055539344421748855}
+(buy(brand name(CDR))) --> (buy(brand name(Sunset))), {C=0.4180118946474087, S=0.047855266997373795}
+(buy(brand name(Sunset))) --> (buy(brand name(CDR))), {C=0.33977900552486184, S=0.047855266997373795}
+(buy(brand name(Fort West))) --> (buy(brand name(Hermanos))), {C=0.47227788911155644, S=0.06876762960801479}
+(buy(brand name(Hermanos))) --> (buy(brand name(Fort West))), {C=0.3766648907831646, S=0.06876762960801479}
+(buy(brand name(CDR))) --> (buy(brand name(Hermanos))), {C=0.4851316907391674, S=0.055539344421748855}
+(buy(brand name(Hermanos))) --> (buy(brand name(CDR))), {C=0.30420884389984015, S=0.055539344421748855}
+(buy(brand name(CDR))) --> (buy(brand name(Fort West))), {C=0.41291418861512325, S=0.047271666180332655}
+(buy(brand name(Fort West))) --> (buy(brand name(CDR))), {C=0.3246492985971944, S=0.047271666180332655}
+(buy(brand name(High Top)))(buy(brand name(Tell Tale))) --> (buy(brand name(Hermanos))), {C=0.15112295393985534, S=0.038614920727555686}
+(buy(brand name(High Top)))(buy(brand name(Imagine))) --> (buy(brand name(Hermanos))), {C=0.15343680709534366, S=0.03365431378270596}
+(buy(brand name(High Top)))(buy(brand name(Hermanos))) --> (buy(brand name(Ebony))), {C=0.1516164994425864, S=0.039684855558797784}
+(buy(brand name(High Top)))(buy(brand name(Ebony))) --> (buy(brand name(Hermanos))), {C=0.15943728018757328, S=0.039684855558797784}
+(buy(brand name(High Top)))(buy(brand name(Nationeel))) --> (buy(brand name(Hermanos))), {C=0.15633859862292426, S=0.03754498589631359}
+(buy(brand name(High Top)))(buy(brand name(Tri-State))) --> (buy(brand name(Hermanos))), {C=0.15057915057915056, S=0.03793405310767435}
+(buy(brand name(High Top)))(buy(brand name(Horatio))) --> (buy(brand name(Hermanos))), {C=0.15443037974683546, S=0.03559964983950978}
+(buy(brand name(High Top)))(buy(brand name(Fort West))) --> (buy(brand name(Hermanos))), {C=0.1555645816409423, S=0.037253185487793015}
+(buy(brand name(Best Choice)))(buy(brand name(Tri-State))) --> (buy(brand name(Tell Tale))), {C=0.15249266862170088, S=0.035405116233829394}
+(buy(brand name(Best Choice)))(buy(brand name(Hermanos))) --> (buy(brand name(Tell Tale))), {C=0.1524294670846395, S=0.03783678630483416}
+(buy(brand name(Best Choice)))(buy(brand name(Tell Tale))) --> (buy(brand name(Hermanos))), {C=0.15995065789473686, S=0.03783678630483416}
+(buy(brand name(Best Choice)))(buy(brand name(Ebony))) --> (buy(brand name(Hermanos))), {C=0.15282392026578073, S=0.035794183445190156}
+(buy(brand name(Best Choice)))(buy(brand name(Hermanos))) --> (buy(brand name(Tri-State))), {C=0.15086206896551727, S=0.0374477190934734}
+(buy(brand name(Best Choice)))(buy(brand name(Tri-State))) --> (buy(brand name(Hermanos))), {C=0.16129032258064518, S=0.0374477190934734}
+(buy(brand name(Big Time)))(buy(brand name(Nationeel))) --> (buy(brand name(Hermanos))), {C=0.15163066497246927, S=0.03482151541678825}
+(buy(brand name(Big Time)))(buy(brand name(Hermanos))) --> (buy(brand name(Tri-State))), {C=0.15105162523900573, S=0.0384203871218753}
+(buy(brand name(Big Time)))(buy(brand name(Tri-State))) --> (buy(brand name(Hermanos))), {C=0.161620294599018, S=0.0384203871218753}
+(buy(brand name(Red Wing)))(buy(brand name(Ebony))) --> (buy(brand name(Hermanos))), {C=0.1524390243902439, S=0.03647505106507149}
+(buy(brand name(Red Wing)))(buy(brand name(Tri-State))) --> (buy(brand name(Hermanos))), {C=0.1517604208822339, S=0.03647505106507149}
+(buy(brand name(Red Wing)))(buy(brand name(Horatio))) --> (buy(brand name(Hermanos))), {C=0.15080071174377221, S=0.032973446162824625}
+(buy(brand name(Red Wing)))(buy(brand name(Sunset))) --> (buy(brand name(Hermanos))), {C=0.1613896218117854, S=0.03569691664234997}
+(buy(brand name(Fast)))(buy(brand name(Tri-State))) --> (buy(brand name(Tell Tale))), {C=0.16273490603758498, S=0.039587588755957595}
+(buy(brand name(Tell Tale)))(buy(brand name(Tri-State))) --> (buy(brand name(Fast))), {C=0.15410829231351764, S=0.039587588755957595}
+(buy(brand name(Tell Tale)))(buy(brand name(Fast))) --> (buy(brand name(Tri-State))), {C=0.15824261275272164, S=0.039587588755957595}
+(buy(brand name(Tell Tale)))(buy(brand name(Fast))) --> (buy(brand name(Hermanos))), {C=0.1500777604976672, S=0.03754498589631359}
+(buy(brand name(Ebony)))(buy(brand name(Tri-State))) --> (buy(brand name(Tell Tale))), {C=0.15497737556561086, S=0.03997665596731836}
+(buy(brand name(Tell Tale)))(buy(brand name(Tri-State))) --> (buy(brand name(Ebony))), {C=0.15562287012495268, S=0.03997665596731836}
+(buy(brand name(Tell Tale)))(buy(brand name(Ebony))) --> (buy(brand name(Tri-State))), {C=0.15509433962264152, S=0.03997665596731836}
+(buy(brand name(Ebony)))(buy(brand name(Hermanos))) --> (buy(brand name(Tell Tale))), {C=0.16036036036036036, S=0.04328372726388484}
+(buy(brand name(Tell Tale)))(buy(brand name(Hermanos))) --> (buy(brand name(Ebony))), {C=0.15892857142857145, S=0.04328372726388484}
+(buy(brand name(Tell Tale)))(buy(brand name(Ebony))) --> (buy(brand name(Hermanos))), {C=0.1679245283018868, S=0.04328372726388484}
+(buy(brand name(Ebony)))(buy(brand name(Fort West))) --> (buy(brand name(Tell Tale))), {C=0.15661206552137436, S=0.038128586713354735}
+(buy(brand name(Tell Tale)))(buy(brand name(Fort West))) --> (buy(brand name(Ebony))), {C=0.15354484919702313, S=0.038128586713354735}
+(buy(brand name(Nationeel)))(buy(brand name(Tri-State))) --> (buy(brand name(Tell Tale))), {C=0.15215686274509804, S=0.037739519501993966}
+(buy(brand name(Tell Tale)))(buy(brand name(Nationeel))) --> (buy(brand name(Tri-State))), {C=0.15038759689922482, S=0.037739519501993966}
+(buy(brand name(Tell Tale)))(buy(brand name(Nationeel))) --> (buy(brand name(Hermanos))), {C=0.1550387596899225, S=0.03890672113607626}
+(buy(brand name(Tri-State)))(buy(brand name(Horatio))) --> (buy(brand name(Tell Tale))), {C=0.15793814432989692, S=0.037253185487793015}
+(buy(brand name(Tell Tale)))(buy(brand name(Horatio))) --> (buy(brand name(Tri-State))), {C=0.15363016446048935, S=0.037253185487793015}
+(buy(brand name(Tri-State)))(buy(brand name(Hermanos))) --> (buy(brand name(Tell Tale))), {C=0.16838614591009582, S=0.044450928897967125}
+(buy(brand name(Tell Tale)))(buy(brand name(Hermanos))) --> (buy(brand name(Tri-State))), {C=0.16321428571428573, S=0.044450928897967125}
+(buy(brand name(Tell Tale)))(buy(brand name(Tri-State))) --> (buy(brand name(Hermanos))), {C=0.1730405149564559, S=0.044450928897967125}
+(buy(brand name(Tri-State)))(buy(brand name(Fort West))) --> (buy(brand name(Tell Tale))), {C=0.153296266878475, S=0.03754498589631359}
+(buy(brand name(Tell Tale)))(buy(brand name(Fort West))) --> (buy(brand name(Tri-State))), {C=0.15119467293380337, S=0.03754498589631359}
+(buy(brand name(Tell Tale)))(buy(brand name(Horatio))) --> (buy(brand name(Hermanos))), {C=0.15042117930204574, S=0.03647505106507149}
+(buy(brand name(Tell Tale)))(buy(brand name(Sunset))) --> (buy(brand name(Hermanos))), {C=0.1524557956777996, S=0.037739519501993966}
+(buy(brand name(Hermanos)))(buy(brand name(Fort West))) --> (buy(brand name(Tell Tale))), {C=0.15560554930633672, S=0.04036572317867912}
+(buy(brand name(Tell Tale)))(buy(brand name(Fort West))) --> (buy(brand name(Hermanos))), {C=0.16255385820603213, S=0.04036572317867912}
+(buy(brand name(Fast)))(buy(brand name(Tri-State))) --> (buy(brand name(Ebony))), {C=0.15033986405437824, S=0.03657231786791168}
+(buy(brand name(Fast)))(buy(brand name(Tri-State))) --> (buy(brand name(Hermanos))), {C=0.1599360255897641, S=0.03890672113607626}
+(buy(brand name(Landslide)))(buy(brand name(Tri-State))) --> (buy(brand name(Hermanos))), {C=0.1505513146734521, S=0.03452971500826768}
+(buy(brand name(Cormorant)))(buy(brand name(Tri-State))) --> (buy(brand name(Hermanos))), {C=0.15445793218920048, S=0.035891450248030345}
+(buy(brand name(Ebony)))(buy(brand name(High Quality))) --> (buy(brand name(Hermanos))), {C=0.15073068893528183, S=0.03511331582530882}
+(buy(brand name(Tri-State)))(buy(brand name(Hermanos))) --> (buy(brand name(Ebony))), {C=0.16285924834193075, S=0.042991926855364265}
+(buy(brand name(Ebony)))(buy(brand name(Hermanos))) --> (buy(brand name(Tri-State))), {C=0.1592792792792793, S=0.042991926855364265}
+(buy(brand name(Ebony)))(buy(brand name(Tri-State))) --> (buy(brand name(Hermanos))), {C=0.16666666666666666, S=0.042991926855364265}
+(buy(brand name(Ebony)))(buy(brand name(Carrington))) --> (buy(brand name(Hermanos))), {C=0.15187783739166322, S=0.035794183445190156}
+(buy(brand name(Sunset)))(buy(brand name(Hermanos))) --> (buy(brand name(Ebony))), {C=0.15047984644913628, S=0.038128586713354735}
+(buy(brand name(Ebony)))(buy(brand name(Sunset))) --> (buy(brand name(Hermanos))), {C=0.15623754483858113, S=0.038128586713354735}
+(buy(brand name(Hermanos)))(buy(brand name(Fort West))) --> (buy(brand name(Ebony))), {C=0.15110611173603297, S=0.039198521544596826}
+(buy(brand name(Ebony)))(buy(brand name(Fort West))) --> (buy(brand name(Hermanos))), {C=0.16100679184978026, S=0.039198521544596826}
+(buy(brand name(Nationeel)))(buy(brand name(Hermanos))) --> (buy(brand name(Tri-State))), {C=0.1506136110078096, S=0.03939305515027721}
+(buy(brand name(Nationeel)))(buy(brand name(Tri-State))) --> (buy(brand name(Hermanos))), {C=0.15882352941176472, S=0.03939305515027721}
+(buy(brand name(Nationeel)))(buy(brand name(Sunset))) --> (buy(brand name(Hermanos))), {C=0.152428810720268, S=0.035405116233829394}
+(buy(brand name(BBB Best)))(buy(brand name(Tri-State))) --> (buy(brand name(Hermanos))), {C=0.15611990008326393, S=0.03647505106507149}
+(buy(brand name(BBB Best)))(buy(brand name(Fort West))) --> (buy(brand name(Hermanos))), {C=0.15106007067137808, S=0.0332652465713452}
+(buy(brand name(High Quality)))(buy(brand name(Tri-State))) --> (buy(brand name(Hermanos))), {C=0.1535879143936215, S=0.03559964983950978}
+(buy(brand name(Horatio)))(buy(brand name(Hermanos))) --> (buy(brand name(Tri-State))), {C=0.15539234634712024, S=0.03910125474175664}
+(buy(brand name(Tri-State)))(buy(brand name(Horatio))) --> (buy(brand name(Hermanos))), {C=0.16577319587628866, S=0.03910125474175664}
+(buy(brand name(Tri-State)))(buy(brand name(Carrington))) --> (buy(brand name(Hermanos))), {C=0.15499378367177788, S=0.0363777842622313}
+(buy(brand name(Sunset)))(buy(brand name(Hermanos))) --> (buy(brand name(Tri-State))), {C=0.1523992322456814, S=0.038614920727555686}
+(buy(brand name(Tri-State)))(buy(brand name(Sunset))) --> (buy(brand name(Hermanos))), {C=0.15804140127388536, S=0.038614920727555686}
+(buy(brand name(Hermanos)))(buy(brand name(Fort West))) --> (buy(brand name(Tri-State))), {C=0.15073115860517436, S=0.03910125474175664}
+(buy(brand name(Tri-State)))(buy(brand name(Fort West))) --> (buy(brand name(Hermanos))), {C=0.1596505162827641, S=0.03910125474175664}
+(buy(brand name(Carrington)))(buy(brand name(Sunset))) --> (buy(brand name(Hermanos))), {C=0.15591397849462366, S=0.033848847388386345}
+(buy(brand name(Carrington)))(buy(brand name(Fort West))) --> (buy(brand name(Hermanos))), {C=0.15070298769771526, S=0.03336251337418539}

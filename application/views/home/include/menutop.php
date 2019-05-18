@@ -11,14 +11,13 @@
             <div class="nav-outer">
               <ul class="nav navbar-nav">
                 <li class="active"> <a href="<?php echo base_url() ?>">Home</a> </li>
-                <li class="yamm mega-menu"> <a href="<?php echo base_url() ?>gioi-thieu.html">Giới thiệu</a>
-                </li>
+                <!-- <li class="yamm mega-menu"> <a href="<?php echo base_url() ?>gioi-thieu.html">Giới thiệu</a></li> -->
                 <li class="dropdown mega-menu"> 
                   <a>Sản phẩm <span class="menu-label hot-menu hidden-xs">hot</span> </a>  
                 </li>
                 <li class="dropdown hidden-sm"> <a href="<?php echo base_url() ?>for-you.html">For you<span class="menu-label new-menu hidden-xs">new</span> </a> </li>
                 <!-- <li class="dropdown hidden-sm"> <a href="category.html">Tin tức</a> </li> -->
-                <li class="dropdown"> <a href="<?php echo base_url(); ?>ban-do.html">Bản đồ</a> </li>
+                <!-- <li class="dropdown"> <a href="<?php echo base_url(); ?>ban-do.html">Bản đồ</a> </li> -->
                 <li class="dropdown"> <a href="<?php echo base_url(); ?>huong-dan-mua-hang.html">Hướng dẫn mua hàng</a> </li>
                
                 

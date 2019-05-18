@@ -62,6 +62,9 @@ $route['huong-dan-mua-hang.html'] = 'home/huongdanmuahang';
 /*Danh mục*/
 $route['(:any)-(:num).html'] = 'home/danhmuc/$2';
 
+/*Brand*/
+$route['brand-(:any)'] = 'home/brand/$2';
+
 /*Sản phẩm*/
 $route['(:any)-(:num).chn'] = 'home/sanpham/$2';
 

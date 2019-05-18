@@ -1,5 +1,5 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
-
+include("Function.php");
 class Api extends CI_Controller {
 
 	public function __construct()
@@ -41,7 +41,7 @@ class Api extends CI_Controller {
 	{
 		$this->db->select('*');
 		if (isset($_GET['offset'])){
-			$this->db->limit(3, $_GET['offset']);
+			$this->db->limit(6, $_GET['offset']);
 		} else {
 			$this->db->limit(6);
 		}
@@ -75,6 +75,18 @@ class Api extends CI_Controller {
 		echo json_encode($data, JSON_UNESCAPED_UNICODE);
 	}
 
+	public function getSliceProductByBrandName()
+	{
+		$brand_name = $_GET['brand_name'];
+		$this->db->select('*');
+		$this->db->where('brand_name', $brand_name);
+		$this->db->limit(20);
+		$data = $this->db->get('amazon_product');
+		$data = $data->result_array();
+		echo json_encode($data, JSON_UNESCAPED_UNICODE);
+	}
+	
+
 	public function getCustomerById()
 	{
 		$customer_id = $_GET['customer_id'];
@@ -85,8 +97,44 @@ class Api extends CI_Controller {
 		echo json_encode($data[0], JSON_UNESCAPED_UNICODE);
 	}
 
-	public function personalRecommend() {
-		
+	public function getProductByRule() {
+		$listPath = json_decode($_POST['listPath']);
+		$recommendProduct = array();
+		foreach ($listPath as $path) {
+			if(file_exists($path)) {
+				$listp = readFileAndHandleForYou($path);
+				foreach ($listp as $p) {
+					if(!empty($p['productid']))
+					array_push($recommendProduct, $p);
+				}
+			}
+		}
+		usort($recommendProduct,"cmpCof");
+		$listProductId = array();
+		foreach ($recommendProduct as $rcmd) {
+			array_push($listProductId, $rcmd['productid']);
+		}
+		$listProductId = array_unique($listProductId);
+		$listProductId = array_slice($listProductId, 0, 100, true);
+
+		$this->db->select('*');
+		$this->db->where_in('id', $listProductId);
+		$this->db->limit(20);
+		$order = sprintf('FIELD(id, %s)', implode(', ', $listProductId));
+		$this->db->order_by($order); 
+
+		$data = $this->db->get('amazon_product');
+		$data = $data->result_array();
+		echo json_encode($data, JSON_UNESCAPED_UNICODE);
+	}
+
+	public function getSliceBrand() {
+		$this->db->distinct();
+		$this->db->select('brand_name');
+		$this->db->limit(30);
+		$data = $this->db->get('amazon_product');
+		$data = $data->result_array();
+		echo json_encode($data, JSON_UNESCAPED_UNICODE);
 	}
 
 }

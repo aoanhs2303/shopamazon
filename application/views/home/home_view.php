@@ -24,64 +24,12 @@
         <!-- ========================================= SECTION – HERO : END ========================================= --> 
         
         <!-- ============================================== INFO BOXES ============================================== -->
-        <div class="info-boxes wow fadeInUp">
-          <div class="info-boxes-inner">
-            <div class="row">
-              <div class="col-md-6 col-sm-4 col-lg-4">
-                <div class="info-box">
-                  <div class="row">
-                    <div class="col-xs-12">
-                      <h4 class="info-box-heading green">MONEY BACK</h4>
-                    </div>
-                  </div>
-                  <h6 class="text"><?php echo $address[0]['value'] ?></h6>
-                </div>
-              </div>
-              <!-- .col -->
-              
-              <div class="hidden-md col-sm-4 col-lg-4">
-                <div class="info-box">
-                  <div class="row">
-                    <div class="col-xs-12">
-                      <h4 class="info-box-heading green">FREE SHIPPING  </h4>
-                    </div>
-                  </div>
-                  <h6 class="text">
-                  <?php foreach ($sdt as $key => $sdt_item) { 
-                    if($key == 0) {
-                      echo $sdt_item['value'];
-                    } else {
-                      echo $sdt_item['value'];
-                    }      
-                  } ?>
-                  </h6>
-                </div>
-              </div>
-              <!-- .col -->
-              
-              <div class="col-md-6 col-sm-4 col-lg-4">
-                <div class="info-box">
-                  <div class="row">
-                    <div class="col-xs-12">
-                      <h4 class="info-box-heading green">SPECIAL SALE</h4>
-                    </div>
-                  </div>
-                  <h6 class="text"><a style="color: rgba(255,255,255,0.8);">Extra $5 off on all items</a></h6>
-                </div>
-              </div>
-              <!-- .col --> 
-            </div>
-            <!-- /.row --> 
-          </div>
-          <!-- /.info-boxes-inner --> 
-          
-        </div>
-        <!-- /.info-boxes --> 
+        
         <!-- ============================================== INFO BOXES : END ============================================== --> 
         <!-- ============================================== SCROLL TABS ============================================== -->
         <div id="product-tabs-slider" class="scroll-tabs outer-top-vs wow fadeInUp">
           <div class="more-info-tab clearfix ">
-            <h3 class="new-product-title pull-left">Dink</h3>
+            <h3 class="new-product-title pull-left">ĐỒ UỐNG</h3>
             <ul class="nav nav-tabs nav-tab-line pull-right" id="new-products-1">
               <li ng-repeat="(depName, dep_value) in drinkFamily">
                 <a ng-click="getDepartmentProduct('Drink',depName)">{{depName}}</a>
@@ -98,7 +46,7 @@
                     <div class="products">
                       <div class="product">
                         <div class="product-image">
-                          <div class="image"> <a href="<?php echo base_url() ?>{{to_slug(product.name)}}-{{product.id}}.chn"><img src="https://via.placeholder.com/500" alt="{{product.name}}"></a> </div>
+                          <div class="image" style="height: 180px"> <a href="<?php echo base_url() ?>{{to_slug(product.name)}}-{{product.id}}.chn"><img style="height: 100%;" src="{{imageDomain + product.image}}" alt="{{product.name}}"></a> </div>
                           <div class="tag sale"><span>Hot</span></div>
                         </div>
                         <div class="product-info text-left" style="height: 70px">
@@ -131,7 +79,7 @@
 
         <div id="product-tabs-slider" class="scroll-tabs outer-top-vs wow fadeInUp">
           <div class="more-info-tab clearfix ">
-            <h3 class="new-product-title pull-left">Food</h3>
+            <h3 class="new-product-title pull-left">THỨC ĂN</h3>
             <ul class="nav nav-tabs nav-tab-line pull-right" id="new-products-1">
               <li ng-repeat="(depName, dep_value) in foodFamily" ng-if ="$index < 7">
                 <a ng-click="getDepartmentProduct('Food',depName)">{{depName}}</a>
@@ -148,7 +96,7 @@
                     <div class="products">
                       <div class="product">
                         <div class="product-image">
-                          <div class="image"> <a href="<?php echo base_url() ?>{{to_slug(product.name)}}-{{product.id}}.chn"><img src="https://via.placeholder.com/500" alt="{{product.name}}"></a> </div>
+                          <div class="image" style="height: 180px"> <a href="<?php echo base_url() ?>{{to_slug(product.name)}}-{{product.id}}.chn"><img style="height: 100%;" src="{{imageDomain + product.image}}" alt="{{product.name}}"></a> </div>
                           <div class="tag sale"><span>Hot</span></div>
                         </div>
                         <div class="product-info text-left" style="height: 70px">
@@ -182,7 +130,7 @@
 
         <div id="product-tabs-slider" class="scroll-tabs outer-top-vs wow fadeInUp">
           <div class="more-info-tab clearfix ">
-            <h3 class="new-product-title pull-left">Non-Consumable</h3>
+            <h3 class="new-product-title pull-left">ĐỒ GIA DỤNG</h3>
             <ul class="nav nav-tabs nav-tab-line pull-right" id="new-products-1">
               <li ng-repeat="(depName, dep_value) in nonFamily" ng-if ="$index < 7">
                 <a ng-click="getDepartmentProduct('Non-Consumable',depName)">{{depName}}</a>
@@ -199,7 +147,7 @@
                     <div class="products">
                       <div class="product">
                         <div class="product-image">
-                          <div class="image"> <a href="<?php echo base_url() ?>{{to_slug(product.name)}}-{{product.id}}.chn"><img src="https://via.placeholder.com/500" alt="{{product.name}}"></a> </div>
+                        <div class="image" style="height: 180px"> <a href="<?php echo base_url() ?>{{to_slug(product.name)}}-{{product.id}}.chn"><img style="height: 100%;" src="{{imageDomain + product.image}}" alt="{{product.name}}"></a> </div>
                           <div class="tag sale"><span>Hot</span></div>
                         </div>
                         <div class="product-info text-left" style="height: 70px">
@@ -235,109 +183,89 @@
         <!-- ============================================== WIDE PRODUCTS ============================================== -->
         <div class="wide-banners wow fadeInUp outer-bottom-xs">
           <div class="row">
-            <?php foreach ($banner as $value) { ?>
-              <div class="col-md-6 col-sm-6">
-                <div class="wide-banner cnt-strip">
-                  <a href="<?php echo $value['link'] ?>"><div class="image"> <img class="img-responsive" src="<?php echo $value['image'] ?>" alt=""> </div></a>
+          <div class="info-boxes wow fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
+          <div class="info-boxes-inner">
+            <div class="row">
+              <div class="col-md-6 col-sm-4 col-lg-4">
+                <div class="info-box">
+                  <div class="row">
+                    <div class="col-xs-12">
+                      <h4 class="info-box-heading green">MONEY BACK</h4>
+                    </div>
+                  </div>
+                  <h6 class="text">30 Days Money Back Guarantee</h6>
                 </div>
-                <!-- /.wide-banner --> 
               </div>
-            <?php } ?>
-            <!-- /.col --> 
+              <!-- .col -->
+              
+              <div class="hidden-md col-sm-4 col-lg-4">
+                <div class="info-box">
+                  <div class="row">
+                    <div class="col-xs-12">
+                      <h4 class="info-box-heading green">FREE SHIPPING  </h4>
+                    </div>
+                  </div>
+                  <h6 class="text">
+                  Shipping on orders over $99                  </h6>
+                </div>
+              </div>
+              <!-- .col -->
+              
+              <div class="col-md-6 col-sm-4 col-lg-4">
+                <div class="info-box">
+                  <div class="row">
+                    <div class="col-xs-12">
+                      <h4 class="info-box-heading green">SPECIAL SALE</h4>
+                    </div>
+                  </div>
+                  <h6 class="text"><a style="color: rgba(255,255,255,0.8);">Extra $5 off on all items</a></h6>
+                </div>
+              </div>
+              <!-- .col --> 
+            </div>
+            <!-- /.row --> 
+          </div>
+          <!-- /.info-boxes-inner --> 
+          
+        </div>
           </div>
           <!-- /.row --> 
         </div>
-        <!-- /.wide-banners -->
-        
-        <!-- ============================================== WIDE PRODUCTS : END ============================================== --> 
-        <!-- ============================================== FEATURED PRODUCTS ============================================== -->
-
-        <!-- ============================================== BEST SELLER ============================================== -->
-        
-        <div class="best-deal wow fadeInUp outer-bottom-xs">
-          <h3 class="section-title">Sản phẩm bán chạy</h3>
-          <div class="sidebar-widget-body outer-top-xs">
-            <div class="owl-carousel best-seller custom-carousel owl-theme outer-top-xs">
-              <div class="item" ng-repeat="product in bestSellerProduct">
-                <div class="products best-product">
-            
-                  <div class="product">
-                    <div class="product-micro">
-                      <div class="row product-micro-row">
-                        <div class="col col-xs-5">
-                          <div class="product-image">
-                            <div class="image"> <a href="<?php echo base_url() ?>{{to_slug(product.name)}}-{{product.id}}.chn"> <img src="https://via.placeholder.com/500" alt="{{product.name}}"> </a> </div>  
-                          </div>
-                        </div>
-                        <!-- /.col -->
-                        <div class="col2 col-xs-7">
-                          <div class="product-info">
-                            <h3 class="name"><a href="<?php echo base_url() ?>{{to_slug(product.name)}}-{{product.id}}.chn">{{product.name}}</a></h3>
-                            <div class="rating rateit-small"></div>
-                            <div class="product-price"> <span class="price"> ${{product.price}}  </span> </div>
-                            <div>Sold: {{product.sold}}</div>
-                          </div>
-                        </div>
-                        <!-- /.col --> 
-                      </div>
-                      <!-- /.product-micro-row --> 
-                    </div>
-                    <!-- /.product-micro --> 
-                  </div>
-
-                </div>
-              </div>
-            </div>
-          </div>
-          <!-- /.sidebar-widget-body --> 
-        </div>
-        <!-- /.sidebar-widget --> 
-
-        <!-- ============================================== BEST SELLER : END ============================================== --> 
-        
-        <!-- ============================================== BLOG SLIDER ============================================== -->
-        <section class="section latest-blog outer-bottom-vs wow fadeInUp">
-          <h3 class="section-title">Tin tức - Dịch vụ - Khuyến mãi</h3>
-          <div class="blog-slider-container outer-top-xs">
-            <div class="owl-carousel blog-slider custom-carousel">
-              <?php foreach ($dichvu as $value) { ?>
-                <div class="item">
-                  <div class="blog-post">
-                    <div class="blog-post-image">
-                      <div class="image"> <a href="<?php echo base_url() ?>dichvu/<?php echo vn_to_str($value['name']) . '-' . $value['id'] ?>.html">
-                        <img style="height: 200px;" src="<?php echo $value['image'] ?>" alt=""></a> </div>
-                    </div>
-                    <!-- /.blog-post-image -->
-                    
-                    <div class="blog-post-info text-left">
-                      <h3 class="name"><a href="<?php echo base_url() ?>dichvu/<?php echo vn_to_str($value['name']) . '-' . $value['id'] ?>.html"><?php echo $value['name'] ?></a></h3>
-                      <span class="info">Thành Công &nbsp;|&nbsp; <?php echo date('d/m/Y',$value['datetime']) ?> </span>
-                      <p class="text"><?php echo $value['summary'] ?></p>
-                      <a href="<?php echo base_url() ?>dichvu/<?php echo vn_to_str($value['name']) . '-' . $value['id'] ?>.html" class="lnk btn btn-primary">Chi tiết</a> </div>
-                    <!-- /.blog-post-info --> 
-                    
-                  </div>
-                  <!-- /.blog-post --> 
-                </div>
-                <!-- /.item -->
-              <?php } ?> 
-            </div>
-            <!-- /.owl-carousel --> 
-          </div>
-          <!-- /.blog-slider-container --> 
-        </section>
-        <!-- /.section --> 
-        <!-- ============================================== BLOG SLIDER : END ============================================== --> 
-        
-        
+        <!-- /.wide-banners -->        
       </div>
       <!-- /.homebanner-holder --> 
       <!-- ============================================== CONTENT : END ============================================== --> 
     </div>
     <!-- /.row --> 
-    <div id="test_c">
+    
 
+    <div id="brands-carousel" class="logo-slider">
+      <div class="logo-slider-inner">
+        <div id="brand-slider" class="owl-carousel brand-slider custom-carousel owl-theme">
+        
+          <div class="item" ng-repeat="brand in listBrand" style="width: 190px; display: inline-block"> 
+            <a href="<?php echo base_url() ?>brand-{{to_slug(brand.brand_name)}}" class="image"> 
+              <img src="https://via.placeholder.com/180x100?text={{brand.brand_name}}" alt=""> 
+              <h3 class="section-title" style="text-align: center; padding-top: 5px">{{brand.brand_name}}</h2>
+            </a> 
+          </div>
+          <!-- <div class="item"> 
+            <a href="#" class="image"> 
+              <img src="https://via.placeholder.com/180x100" alt=""> 
+              <h3 class="section-title" style="text-align: center; padding-top: 5px">Another Brand</h2>
+            </a> 
+          </div> -->
+        </div>
+        <!-- /.owl-carousel #logo-slider --> 
+      </div>
+      <!-- /.logo-slider-inner --> 
+      
     </div>
+    <!-- /.logo-slider --> 
+    <!-- ============================================== BRANDS CAROUSEL : END ============================================== --> 
+  </div>
+
+
   </div>
   <!-- /.container --> 
 </div>
@@ -364,7 +292,8 @@
 
   app.controller('HomeCtrl',  function($scope, $http, $rootScope){
     $scope.appDomain = "http://localhost/luanvan/";
-    
+    $scope.imageDomain = "http://localhost/luanvan/files/product_image/";
+
     $http.get($scope.appDomain + 'api/getCategory')
     .then(function(res){
       // product_department
@@ -404,9 +333,15 @@
       method: "GET"
     }).then(function(res){
       $scope.bestSellerProduct = res.data
-      console.log($scope.bestSellerProduct)
     }, function(res){});
 
+    $http({
+      url: $scope.appDomain + 'api/getSliceBrand', 
+      method: "GET"
+    }).then(function(res){
+      $scope.listBrand = res.data
+      console.log($scope.listBrand)
+    }, function(res){});
 
     $scope.addToCart = function(product) {
       var data = $.param({
@@ -443,10 +378,6 @@
         str = str.replace(/-+$/g, '');
         return str;
     }
-
-
-    
-    console.log($scope.departmentProduct)
 
   })
 </script>

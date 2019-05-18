@@ -1,7 +1,7 @@
 
 <!-- ============================================== HEADER : END ============================================== -->
 
-<div class="body-content outer-top-xs">
+<div class="body-content outer-top-xs"  ng-controller="CartCtrl">
 	<div class="container">
 		<div class="row ">
 			<div class="shopping-cart">
@@ -133,4 +133,6 @@
       });
     });
   });
+	var app = angular.module('myApp', [])
+	app.controller('CartCtrl',  function($scope, $http, $rootScope){})
 </script>

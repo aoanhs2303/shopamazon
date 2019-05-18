@@ -59,7 +59,7 @@ class Login extends CI_Controller {
 
 	public function logoutUser()
 	{
-		if(isset($_SESSION['Username'])) {
+		if(isset($_SESSION['Username']) || isset($_SESSION['Customer_name'])) {
 	        session_destroy(); 
 	    }
 	    redirect(base_url().'home');

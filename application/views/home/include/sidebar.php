@@ -59,12 +59,12 @@
       <div class="owl-carousel sidebar-carousel special-offer custom-carousel owl-theme outer-top-xs">
         <div class="item">
           <div class="products special-product">
-            <div class="product" ng-repeat="product in bestSellerProduct">
+            <div class="product" ng-repeat="product in bestSellerProduct" style="margin-bottom: 20px;">
               <div class="product-micro">
                 <div class="row product-micro-row">
                   <div class="col col-xs-5">
                     <div class="product-image">
-                      <div class="image"> <a href="<?php echo base_url() ?>{{to_slug(product.name)}}-{{product.id}}.chn"> <img src="https://via.placeholder.com/500" alt="{{product.name}}"> </a> </div>
+                      <div class="image"> <a href="<?php echo base_url() ?>{{to_slug(product.name)}}-{{product.id}}.chn"> <img src="{{imageDomain + product.image}}" alt="{{product.name}}"> </a> </div>
                     </div>
                     <!-- /.product-image --> 
                   </div>
@@ -74,6 +74,7 @@
                       <h3 class="name"><a href="<?php echo base_url() ?>{{to_slug(product.name)}}-{{product.id}}.chn">{{product.name}}</a></h3>
                       <div class="rating rateit-small"></div>
                       <div class="product-price"> <span class="price"> ${{product.price}}  </span> </div>
+                      Sold: {{product.sold}}
                     </div>
                   </div>
                   <!-- /.col --> 
@@ -142,6 +143,8 @@ function groupBy(OurArray, property) {
 var app = angular.module('myApp', [])
 app.controller('SidebarCtrl',  function($scope, $http, $rootScope){
   $scope.appDomain = "http://localhost/luanvan/";
+  $scope.imageDomain = "http://localhost/luanvan/files/product_image/";
+  
   $http.get($scope.appDomain + 'api/getCategory')
 	.then(function(res){
     var department = groupBy(res.data, "product_department");

@@ -16,7 +16,7 @@
 					</div>
 					
 					<?php 
-					if (isset($_SESSION['Username']) ){  ?> 
+					if (isset($_SESSION['Customer_name']) ){  ?> 
 					<input type="hidden" id="customerId" value=<?php echo $_SESSION['UserId'] ?>>
 					<div class="clearfix filters-container m-t-10">
           <div class="row">
@@ -156,10 +156,8 @@
 				params: {customer_id: $('#customerId').val()}
 			}).then(function(res){
 				$scope.customer = res.data
-				// console.log(res.data.product_rcm);
 				rcm = res.data.product_rcm.replace(/,$/, '')
 				listProductId = rcm.split(',');
-				// console.log(listProductId);
 				$scope.getListProduct(listProductId);
 			}, function(res){});
 		} else {
